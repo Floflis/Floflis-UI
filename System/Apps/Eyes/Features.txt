@@ -1,0 +1,5 @@
+Ver símbolos de placas. Ex: (T) = Alimento Transgênico
+Fazer leitura de códigos QR/Barras
+Ler textos em japonês/árabe e exibir tradução
+Mostrar o Peeper das pessoas
+Mostrar página no Peeper de determinado produto

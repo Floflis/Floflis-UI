@@ -1,0 +1,5 @@
+Painél de Controle Avançado e Simples
+lvl da Máquina e lvl do Usuário
+
+Screens: Programa que trás informações completas referêntes aos hardwares do computador.
+Ex: Leitor de Mídia e sua velocidade de gravação

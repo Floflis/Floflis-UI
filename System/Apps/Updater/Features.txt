@@ -1,0 +1,6 @@
+Atualiza Aplicativos e Recursos silenciosamente e periodicamente
+Os arquivos são baixados instantaneamente, e caso a net caia, os arquivos baixados permanecerão, e novos arquivos serão retomados
+O Sistema Screens criará um arquivo de log, constando todas as atualizações que já foram realizadas
+Poder instalar atualizações no Screens do computador para o celular, e vice-versa
+Avisar quando um aplicativo receber atualizações significativas (ex: Mudar de nome, ícone, etc.)
+Atualizar o computador sem precisar desligar

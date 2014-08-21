@@ -1,0 +1,16 @@
+Exibir quando um programa é de Código Fechado ou de Código Aberto. Mesmos recursos do GitHub. Trabalho presencial.
+Exibir nota nos aplicativos. Da equipe do Screens e dos usuários.
+Opção de downloads simultâneos.
+Mostrar infraçoes de apps na app shop, ex: infraçao de design: notifications icon is not in flat ui.
+Lista de apps do desenvolvedor bem organizada e personalizada por ele.
+Proibido na app shop: vender um client ou qualquer outro aplicativo que nao lhe pertença.
+Ao testar um jogo ou qualquer aplicativo pago, todos os dados permanecerao esperando voce comprar oficialmente o produto.
+Selos do app, exemplo: App integrado ao Peeper.
+Pessoas poderao montar coleçoes de apps e distribuir, ex: Forum Chaves e o Chaves Game Pack.
+O app somente é submetido após a aprovação da Plasmmer.
+
+Music Guess
+City Bloxx
+Snake Chenzia
+Dice
+Haxball

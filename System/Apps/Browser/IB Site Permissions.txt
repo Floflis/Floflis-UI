@@ -1,0 +1,13 @@
+Esse site requer permissões que necessitam de sua atenção:
+
+Mídia:
+Utilizar seu Microfone
+Utilizar sua Webcam
+
+Computador:
+Ver sua Área de Trabalho
+Ver os arquivos da seguinte pasta:
+Ver todos os arquivos do seu computador
+Gerenciar os arquivos da seguinte pasta:
+Gerenciar os arquivos da seguinte unidade: (Esta unidade é o HD, ou seja, todos seus arquivos! Cuidado!)
+Gerenciar todos os arquivos do seu computador

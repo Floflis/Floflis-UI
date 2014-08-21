@@ -1,0 +1,27 @@
+Inspiration Apps: Google Chrome, Internet Explorer, Mozilla Firefox, Opera, Safari, Netscape, Rockmelt
+PDF Reader (Adobe Reader, Foxit PDF Reader, Soda PDF Reader, Windows Reader, http://ubuntued.info/liferea-um-leitor-de-feeds-rss-leve-pratico-e-rapido funçao marca pagina)
+Ex: Temas, Rede, Conteúdo da web, etc.
+Modo Anônimo do Ocean: Mostrar sites fechados recentemente
+Aplicar uma açao em cadeia para todas as abas, por exemplo: Recarregar todas as abas, Adicionar todas as abas aos favorites
+Opção salvar abas fechadas na aba anônima do Ocean
+http://ubuntued.info/melhore-a-integracao-do-firefox-no-unity
+maneira divertida de ao vivo carregar paginas
+romanização dos numeros escritos no teclado
+Textos sem serrilhamento, exibiçao igual ao do powerpoint
+Poder arrastar um elemento no inspecionador de elementos
+Colorpicker
+Ao colar um codigo completo dentro do outro completo, utilizar somente o css adentro, jamais descartar o codigo
+uma pagina para todos os paises, traduçao automatica, postagens individuais direcionadas para um certo pais
+ocean for animations: no menu de contexto, poder pausar, retroceder, etc.
+IB: ao apontar o mouse num link encurtado, ele o desvendara abaixo
+Internet Boat já virá com jquery | Peeper vai anunciar que nao funciona direito, e que precisa que baixe o IB
+Peeper Alerts caso esteja rodando num nao-Screens
+Desprotetor de URLs: https://chrome.google.com/webstore/detail/unprotector/cnkmgcjifpogjhnodgbnodiigmiojkpg/details?hl=pt-BR | https://chrome.google.com/webstore/detail/retrolink/fialekndleeclflilkpdcgdbboiibdab?hl=pt-BR# | https://chrome.google.com/webstore/detail/lessclick/jkipghaaphmljpffghjnnjomimbbioil?hl=pt-BR#
+Regra obvia e inovadora de privacidade: ao exibir um alerta, jamais ir para aquela aba. apenas indicar
+<meta name="rating" content="shock">
+na aba, menu de contexto, poder copiar endereço do link da aba
+na aba, mostrar o progresso do carregamento
+HTML5 Powered feature on IB
+IB procurar suas extençoes by permissoes
+
+Quer navegar no Facebook, Instagram e Whatsapp de graca ate o final de Outubro? Basta usar Internet Boat no seu TIM. Faca o download em http://m.internetboat.com e aproveite!

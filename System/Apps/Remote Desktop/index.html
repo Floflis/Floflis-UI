@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Remote Desktop</title>
+    <!--Stylesheet that styles the charms bar and the startbutton -->
+    <link rel="stylesheet" href="css/charms.css"/>
+
+    <!--Script that powers the charms bar-->
+    <script>
+function charms(){
+	document.getElementById('charmsbar').style.display='block';
+	document.getElementById('datetime').style.display='block';
+	document.getElementById('time').style.display='block';
+}
+function destroycharms() {
+	document.getElementById('charmsbar').style.display='none';
+	document.getElementById('datetime').style.display='none';
+	document.getElementById('time').style.display='none';
+}
+function start(){
+	document.getElementById('startbutton').style.display='block';
+}
+function destroystart() {
+	document.getElementById('startbutton').style.display='none';
+}
+    </script>
+<style>
+body {
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #515151;
+	font-family: Segoe UI Light, Segoe UI, Open Sans, Microsoft Jheng Hei;
+}
+#connect {
+	padding:10px;
+	height: 40px;
+	color: white;
+	font-weight:normal;
+	background:#212121;
+	border:2px solid white;
+	margin-left:10px;
+	font-family:Segoe UI Semibold;
+}
+
+#connect:hover {
+	background:#3e3e3e;
+	cursor:pointer;
+}
+#connect:active {
+	background: white;
+	color: black;
+	cursor:pointer;
+}
+#text {
+	font-family:Segoe UI;
+	padding: 10px; 
+	width: 1000px; 
+	max-height: 50px; 
+	background-color: #d3d3d3; 
+	border: 0px; 
+	margin-left: 100px; 
+	margin-top: 15px; 
+	margin-bottom: 15px; 
+	color: #555555;
+}
+#text:focus {
+	background: white;
+	color: black;
+	cursor:pointer;
+}
+</style>
+</head>
+<body>
+<div id="splashscreen"></div>
+<div style="margin-left: 100px; margin-top: 40px;">
+<span style="color:white; font-size:72px;">Remote Desktop</span>
+</div>
+<div style="margin-left: 100px; margin-top: 50px;">
+<span style="color:white;">To connect to a PC enter the PC name below.</span>
+</div>
+<div style="margin-left: 100px; margin-top: 10px;">
+<span style="color:white;">With Remote Desktop, you can do more than connect to other PCs.</span>
+<ul>
+<span style="color:white;">
+<li>Work with apps and desktops that the administrator has set up for you.</li>
+</span>
+<span style="color:#2e93c3">
+Access RemoteApp and Desktop Connections
+</span>
+<span style="color:white;">
+<li>Connect to PCs on your corporate network without setting up a VPN.</li>
+</span>
+<span style="color:#2e93c3">
+Use a Remote Desktop Gateway server
+</span>
+</ul>
+</div>
+<div style="height: 70px; width: 100%; background-color: #212121; position:absolute; left: 0; bottom:0;">
+<input id="text" value="PC name" onFocus="this.value=''">
+<input type="button" id="connect" value="Connect">
+<!-- CHARMS BAR CODE -->
+    <div id="hoverarea" onmouseover="charms()" class="hotcorner">
+    </div>
+    <div id="charmsbar" onmouseover="charms()" onmouseout="destroycharms()">
+    <img src="img/charmsbar/search.png" onmouseover="this.src='img/charmsbar/search-hover.png'" onmouseout="this.src='img/charmsbar/search.png'"/><br/>
+    <img src="img/charmsbar/share.png" onmouseover="this.src='img/charmsbar/share-hover.png'" onmouseout="this.src='img/charmsbar/share.png'"/><br/>
+    <a href="../../start/index.html"><img src="img/charmsbar/start.png" onmouseover="this.src='img/charmsbar/start-hover.png'" onmouseout="this.src='img/charmsbar/start.png'"/></a><br/>
+    <img src="img/charmsbar/devices.png" onmouseover="this.src='img/charmsbar/devices-hover.png'" onmouseout="this.src='img/charmsbar/devices.png'"/><br/>
+    <img src="img/charmsbar/settings.png" onmouseover="this.src='img/charmsbar/settings-hover.png'" onmouseout="this.src='img/charmsbar/settings.png'" onclick="settingsc()"/><br/>
+    </div>
+    <div id="datetime">
+    <img src="img/charmsbar/network.png" id="iconnetwork" height="24px" width="24px"/>
+    <img src="img/charmsbar/battery.png" id="iconbattery"/>
+    <span id="time"></span>
+    <script>
+<!-- Begin
+function clock() {
+var digital = new Date();
+var hours = digital.getHours();
+var minutes = digital.getMinutes();
+var seconds = digital.getSeconds();
+var amOrPm = "AM";
+if (hours > 11) amOrPm = "PM";
+if (hours > 12) hours = hours - 12;
+if (hours == 0) hours = 12;
+if (minutes <= 9) minutes = "0" + minutes;
+if (seconds <= 9) seconds = "0" + seconds;
+dispTime = hours + ":" + minutes ;
+document.getElementById('time').innerHTML = dispTime;
+setTimeout("clock()", 1000);
+}
+window.onload=clock;
+//  End -->
+    </script>
+    <div id="date">
+      <script>
+
+ var dayName = new Array ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
+
+ var monName = new Array ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
+
+ var now = new Date
+
+ document.write("" + dayName[now.getDay()] + "<br/>" +"<span id=month>" + monName[now.getMonth()] + " "+now.getDate() +"")
+      </script>
+    </div>
+    </div>
+    <div id="bottomhoverarea" onmouseover="charms()" class="hotcorner">
+    </div>
+    <div id="starthoverarea" onmouseover="start()" class="hotcorner">
+    </div>
+    <div id="startbutton" onmouseout="destroystart()">
+    <a href="../../start/index.html"><img src="img/charmsbar/startbutton.png"/></a>
+    </div>
+</div>

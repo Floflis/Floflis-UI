@@ -1,0 +1,8 @@
+Windows Explorer, Pandora Recovery, WinRar, 7-Zip 9.21, Team Viewer, VirtualBox, http://www.baixaki.com.br/linux/download/pac-manager.htm
+ao digitar a letra de um arquivo no explorer, surgir uma caixinha para ajudar na pesquisa
+Pode mover um arquivo para a barra de endereços do Explorer
+Salvar Arrastado
+Poder colorir e marcar pastas http://ubuntued.info/como-personalizar-um-fundo-de-uma-pasta-no-ubuntu
+screens salvar direto numa pasta interna dakela pasta
+Poder dar CHMOD em uma pasta
+Preservar a data em que o arquivo foi criado.
