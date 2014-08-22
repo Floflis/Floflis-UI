@@ -53,11 +53,29 @@ header {
 launcher {
 	width: 100%;
 	height: 100%;
-	padding: 50px;
 	overflow: auto;
 	position: fixed;
 	top: 60px;
 }
+
+icon {
+	width: 78px;
+	height: 93px;
+	padding: 5px 0 0 15px;
+	background: black;
+	display: inline-block;
+}
+
+icon span {
+	color: #fff;
+	font-size: 12px;
+	font-family: Arial;
+	margin-top: 8px;
+	display: block;
+}
+
+launcher.tiles{padding:50px}
+
 tile.medium {
 	width: 140px;
 	height: 140px;
@@ -339,6 +357,7 @@ ul.tabs li.current a{
 @media (max-width: 480px) {
 	.bootball{width:200px;height:200px;background-size:181px;background-position:0px;border:10px solid #fff;left:-35px;bottom:-55px;}
 	header{height:30px}
+	launcher{top:30px}
 	#wallpaper{left:-270px}
 	.minipic{width:30px;height:29px}
 	.alertsbtn{width:30px;height:29px}
