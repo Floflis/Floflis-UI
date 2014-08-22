@@ -5,6 +5,42 @@ body {
 	-webkit-user-select: none;
 	cursor: url(../img/cursor.png),auto;
 }
+#bootscreen {
+	height: 100%;
+	background: #FFD700;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	position: fixed;
+	z-index: 10000;
+}
+.bootball {
+	background: url(../img/icon.svg);
+	width: 550px;
+	height: 550px;
+	background-size: 495px;
+	background-position: -1px;
+	border: 30px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	left: -100px;
+	bottom: -150px;
+}
+.boot-text {
+	font-family: Chiller;
+	font-size: 150pt;
+	font-weight: bold;
+	color: #333;
+	display: block;
+}
+.boot-status {
+	font-family: Berlin Sans FB Demi;
+	font-size: 50pt;
+	font-weight: bold;
+	color: #708fc5;
+	display: block;
+}
 header {
 	position: fixed;
 	width: 100% !important;
