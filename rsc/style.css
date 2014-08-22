@@ -289,12 +289,12 @@ ul.tabs{
 	font-size:0;
 }
 
-	ul.tabs.left{text-align:left;}
-	ul.tabs.center{text-align:center;}
-	ul.tabs.right{text-align:right;}
-	ul.tabs.right li{margin:0 0 0 -2px;}
+ul.tabs.left{text-align:left;}
+ul.tabs.center{text-align:center;}
+ul.tabs.right{text-align:right;}
+ul.tabs.right li{margin:0 0 0 -2px;}
 
-	ul.tabs li{
+ul.tabs li{
 	font-size:14px;
 	list-style-type:none;
 	margin:0 -2px 0 0;
@@ -306,9 +306,9 @@ ul.tabs{
 	left:0;
 	*top:1px;/*IE 7 ONLY*/
 	zoom:1;
-	}
+}
 
-	ul.tabs li a{
+ul.tabs li a{
 	text-decoration:none;
 	color: rgba(255, 255, 255, 0.5);	display:inline-block;
 	padding:9px 15px;
@@ -320,17 +320,32 @@ ul.tabs{
 	border-bottom:0;
 	font-size:0.9em;
 	zoom:1;
-	}
+}
 
 
 
-	ul.tabs li.current a{
+ul.tabs li.current a{
 	position:relative;	left:0;
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
 	box-shadow: none;
 	color:#fff; border-bottom: 3px solid #fff;
-	}
+}
 
 .tab-content{
-clear:both}
+	clear:both
+}
+/* Responsiveness on mobile */
+@media (max-width: 480px) {
+	.bootball{width:200px;height:200px;background-size:181px;background-position:0px;border:10px solid #fff;left:-35px;bottom:-55px;}
+	header{height:30px}
+	#wallpaper{left:-270px}
+	.minipic{width:30px;height:29px}
+	.alertsbtn{width:30px;height:29px}
+	.navlocal{top:5px;margin-left:35px;font-size:8pt}
+	.togglenav{background-size:20px;width:20px;height:20px;top:5px;left:10px}
+	#navmenu{top:30px}
+	.alertstray{margin-top:50px}
+	.screensicon:hover{box-shadow:none}
+	.screensicon:active{background-size:45px;width:45px;height:45px}
+}
