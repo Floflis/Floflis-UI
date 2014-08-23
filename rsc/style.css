@@ -51,27 +51,31 @@ header {
 	z-index:9000
 }
 launcher {
+	position: fixed;
+	top: 60px;
 	width: 100%;
 	height: 100%;
 	overflow: auto;
-	position: fixed;
-	top: 60px;
 }
 
 icon {
+	display: inline-block;
 	width: 78px;
 	height: 93px;
-	padding: 5px 0 0 15px;
-	background: black;
-	display: inline-block;
+	padding-top: 5px;
+	-webkit-user-drag: element;
 }
 
+icon img{margin-left:15px;-webkit-user-drag:none}
+
 icon span {
-	color: #fff;
-	font-size: 12px;
-	font-family: Arial;
 	margin-top: 8px;
 	display: block;
+	text-align: center;
+	font-family: Arial;
+	font-size: 12px;
+	text-shadow: #000 0 3px 2px;
+	color: #fff;
 }
 
 launcher.tiles{padding:50px}
@@ -83,6 +87,7 @@ tile.medium {
 	margin-right: 5px;
 	display: inline-block;
 	border-radius: 10px;
+	-webkit-user-drag: element;
 }
 #wallpaper {
 	top: 0;
@@ -132,21 +137,7 @@ tile.medium {
 	height: 40px;
 }
 
-@-webkit-keyframes slideIn {
-  0% {
-    opacity: 0;
-    left: 200%; 
-  }
-
-  100% {
-    left: 0;
-    opacity: 1;
-  }
-}
-
 #navmenu {
-	-webkit-animation: slideIn;
-	-webkit-animation-timing-function: ease;
 	width: 200px;
 	height: 100%;
 	background: #454545;
