@@ -64,6 +64,7 @@ icon {
 	height: 93px;
 	padding-top: 5px;
 	-webkit-user-drag: element;
+	float: left;
 }
 
 icon img{margin-left:15px;-webkit-user-drag:none}
@@ -363,7 +364,7 @@ ul.tabs li.current a{
 }
 /* Responsiveness on mobile */
 @media (max-width: 480px) {
-	.bootball{width:200px;height:200px;background-size:181px;background-position:0px;border:10px solid #fff;left:-35px;bottom:-55px;}
+	.bootball{width:200px;height:200px;background-size:201px;background-position:0px;border:10px solid #fff;left:-40px;bottom:-55px}
 	header{height:30px}
 	launcher{top:30px}
 	#wallpaper{left:-270px}
