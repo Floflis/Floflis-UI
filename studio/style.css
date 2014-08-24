@@ -1,0 +1,6 @@
+﻿body{background:#5890FF}
+ul.tabs li.current a{color:#5890FF;border-bottom:3px solid #5890FF}
+ul.tabs li a{color:rgba(88, 144, 255, 0.5)}
+ul.tabs{border-bottom:1px solid #5890FF}
+#navmenu > tab > ul > a > li:hover{background:rgba(88, 144, 255, 0.5)}
+#navmenu > tab > ul > a > li > p{color:#5890FF}

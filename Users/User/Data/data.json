@@ -1,5 +1,10 @@
 ﻿{
+   "flipswitchs": {
+      "test": "on",
+      "test2": "off",
+      "test3": "on"
+   },
       "language": "pt_BR",
-      "tiles_order": "array with order of icons",
+      "tiles_order": "array with order of icons. this file will have by default a position of icons.",
       "dashboard_system": "icons"
 }

@@ -9,19 +9,6 @@ Te amo Deus, te amo Mãe, te amo Pai, te amo Paula, te amo Anne. 30/04/14 -->
 	<link href="../rsc/style.css" rel="stylesheet" type="text/css"></link>
 	<script type="text/javascript" src="../rsc/jquery.min.js"></script>
 	<script src="../rsc/script.js"/></script>
-	<script>
-	function start(){
-		document.getElementById('desktopbutton').style.display='block';
-	}
-	function destroystart() {
-		document.getElementById('desktopbutton').style.display='none';
-	}
-	function systemover(){
-		document.getElementById('header').style.border='none';
-		document.getElementById('systemoverview').style.display='block';
-	}
-	</script>
-	
 	<script src="../rsc/kickstart.js"></script> <!-- KICKSTART -->
 </head>
 <body>
@@ -60,8 +47,9 @@ Te amo Deus, te amo Mãe, te amo Pai, te amo Paula, te amo Anne. 30/04/14 -->
 		</nav>
 		<div style="font-size:52px;text-align:center;border-bottom:1px solid"><span>Em andamento...</span></div>
 		<div style="font-size:52px;text-align:center;border-bottom:1px solid black;background:#708fc5;color:#fff"><span>Gerenciador de Tarefas</span></div>
+<div id="power-handle" onmouseclick="whiteline()" onmouseup="destroywhite()"><div id="handle-line"></div></div>
 	</div>
-	<nav id="navmenu" style="display: block;">
+	<nav id="navmenu">
 <ul class="tabs center">
 	<li class="first current"><a href="#tabc1">Add</a></li>
 	<li class=""><a href="#tabc2">Customize</a></li>
@@ -98,7 +86,7 @@ Te amo Deus, te amo Mãe, te amo Pai, te amo Paula, te amo Anne. 30/04/14 -->
 		<div class="alertbubble daniellebubble" title="Danielle Mesquita"><span>2</span></div>
 		<div class="alertbubble buzzbubble" title="Eduardo Correia"><span>4</span></div>
 	</div>
-	<div id="desktophovercorner" onmouseover="start()"></div>
-	<div id="desktopbutton" onmouseout="destroystart()" title="Go to Desktop"><img src="../img/desktop.png"/></div>
+	<div id="dashboardhovercorner" onmouseover="godash()"></div>
+	<div id="dashboardbutton" onmouseout="destroygodash()" title="Go to Dashboard"><img src="../img/dashboard.png"/></div>
 </body>
 </html>
