@@ -217,18 +217,18 @@ tile.medium {
 #systemoverview>nav>div>span{color:#333;font-size:28px}
 
 #power-handle {
-width: 100%;
-height: 30px;
-padding: 30px 10px 0 10px;
-background: #333;
-display: inline-block;
-position: absolute;
-bottom: 0;
+	width: 100%;
+	height: 30px;
+	padding: 30px 10px 0 10px;
+	background: #333;
+	display: inline-block;
+	position: absolute;
+	bottom: 0;
 }
 #handle-line {
-width: 100%;
-height: 5px;
-background: rgba(255, 255, 255, 0.5);
+	width: 100%;
+	height: 5px;
+	background: rgba(255, 255, 255, 0.5);
 }
 
 .alertstray{position:fixed;margin-top:80px;right:-10px}
@@ -358,7 +358,8 @@ ul.tabs li.current a{
 }
 
 .tab-content{
-	clear:both
+	clear: both;
+	display: block;
 }
 /* Responsiveness on mobile */
 @media (max-width: 480px) {
