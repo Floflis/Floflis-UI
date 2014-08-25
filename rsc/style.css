@@ -45,10 +45,44 @@ header {
 	position: fixed;
 	width: 100% !important;
 	height: 60px;
-	background: #FFD700;
 	border-bottom: 1px solid #454545;
 	box-shadow: 0px 0px 15px 1px black;
 	z-index: 9001
+}
+.navlocal {
+	position: absolute;
+	top: 16px;
+	margin-left: 65px;
+	background: none;
+	border: none;
+	padding: 0;
+	font-family: segoe ui;
+	font-weight:bold;
+	font-size: 18px;
+}
+.navlocal:focus {
+	outline: none;
+	border: none;
+}
+.togglenav {
+	width: 45px;
+	height: 45px;
+	cursor: pointer;
+	position: absolute;
+	top: 7px;
+	left: 10px;
+}
+.screensicon {
+	transition: all 0.3s ease;
+	border-radius: 50%;
+}
+.screensicon:hover {
+	box-shadow: 0px 0px 0px 5px white;
+}
+.screensicon:active {
+	background-size: 40px;
+	width: 40px;
+	height: 40px;
 }
 launcher {
 	position: fixed;
@@ -99,47 +133,9 @@ tile.medium {
 	position: fixed;
 	z-index: -1;
 }
-.navlocal {
-	position: absolute;
-	top: 16px;
-	margin-left: 65px;
-	background: none;
-	border: none;
-	padding: 0;
-	font-family: segoe ui;
-	font-weight:bold;
-	font-size: 18px;
-	color: #333;
-}
-.navlocal:focus {
-	outline: none;
-	border: none;
-}
-.togglenav {
-	width: 45px;
-	height: 45px;
-	cursor: pointer;
-	position: absolute;
-	top: 7px;
-	left: 10px;
-}
-.screensicon {
-	transition: all 0.3s ease;
-	border-radius: 50%;
-}
-.screensicon:hover {
-	box-shadow: 0px 0px 0px 5px white;
-}
-.screensicon:active {
-	background-size: 40px;
-	width: 40px;
-	height: 40px;
-}
-
 #navmenu {
 	width: 200px;
 	height: 100%;
-	background: #454545;
 	border-right: 1px solid black;
 	box-shadow: 0px 10px 15px 5px black;
 	padding: 10px 0 0 0;
