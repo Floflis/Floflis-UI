@@ -48,7 +48,7 @@ header {
 	background: #FFD700;
 	border-bottom: 1px solid #454545;
 	box-shadow: 0px 0px 15px 1px black;
-	z-index:9000
+	z-index: 9001
 }
 launcher {
 	position: fixed;
@@ -67,7 +67,7 @@ icon {
 	float: left;
 }
 
-icon img{margin-left:15px;-webkit-user-drag:none}
+icon img{margin-left:15px;width:48px;height:48px;-webkit-user-drag:none}
 
 icon span {
 	margin-top: 8px;
@@ -116,7 +116,6 @@ tile.medium {
 	border: none;
 }
 .togglenav {
-	background-size: 45px;
 	width: 45px;
 	height: 45px;
 	cursor: pointer;
@@ -125,7 +124,6 @@ tile.medium {
 	left: 10px;
 }
 .screensicon {
-	background-image: url(../img/icon.svg);
 	transition: all 0.3s ease;
 	border-radius: 50%;
 }

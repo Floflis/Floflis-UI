@@ -1,0 +1,2488 @@
+{
+  "1006787209796778126": {
+    "message": "Min stasjon"
+  },
+  "1017907757187630742": {
+    "message": "Mine skrifttyper"
+  },
+  "1029072043275376320": {
+    "message": "Fant ingen kalendere."
+  },
+  "1030781695901615026": {
+    "message": "Nederst"
+  },
+  "103870949919613488": {
+    "message": "Notatet er arkivert"
+  },
+  "1039394921418415681": {
+    "message": "Logg på"
+  },
+  "1083918249169198626": {
+    "message": "Hurtigtaster er deaktivert."
+  },
+  "1090919586152138659": {
+    "message": "Bildedatabase"
+  },
+  "1101371910696766077": {
+    "message": "Lag en kopi"
+  },
+  "1107413433574576014": {
+    "message": "Tittelen er for stor. Uthevet tekst blir ikke lagret."
+  },
+  "1127320433256851404": {
+    "message": "Videospiller"
+  },
+  "1162642135048988280": {
+    "message": "Endre navn på dokumentet"
+  },
+  "1166244120191806795": {
+    "message": "Gi tilbakemelding"
+  },
+  "1179891706526242218": {
+    "message": "Neste"
+  },
+  "1185164838496022543": {
+    "message": "Klikk her for å laste inn siden på nytt."
+  },
+  "1185644932132585290": {
+    "message": "$1​ tegn igjen"
+  },
+  "1213005208968286932": {
+    "message": "Merket som løst"
+  },
+  "1263557413037343589": {
+    "message": "Organiser bilder"
+  },
+  "1263685395252160366": {
+    "message": "LaTeX"
+  },
+  "1311350045083871503": {
+    "message": "Avbryt"
+  },
+  "1311729747516144362": {
+    "message": "Rød"
+  },
+  "1315844696796851207": {
+    "message": "Uten seriffer"
+  },
+  "1319037146426591038": {
+    "message": "eller"
+  },
+  "132822872080714863": {
+    "message": "OK"
+  },
+  "133192954417440569": {
+    "message": "Fant ingen resultater."
+  },
+  "1349697396109290623": {
+    "message": "Viser høyere oppløsning av $1​"
+  },
+  "1376126796144976437": {
+    "message": "Alle skrifttyper"
+  },
+  "139942704574044780": {
+    "message": "Godta"
+  },
+  "141491180325662484": {
+    "message": "På Google Disk kan du oppbevare alle filene dine, slik at du kan åpne dem uansett hvor du er – på alle enheter. Når du har bilder på Google Disk, kan du umiddelbart dele dem med kretsene dine her."
+  },
+  "1418114637490664392": {
+    "message": "LIFE-bildearkiv"
+  },
+  "1419896259743862406": {
+    "message": "Åpne med"
+  },
+  "1440171352837969028": {
+    "message": "Video/lyd"
+  },
+  "1441487391064925653": {
+    "message": "Se alle hurtigtastene i brukerstøtten"
+  },
+  "1446829548948002072": {
+    "message": "komma"
+  },
+  "1454684154234137497": {
+    "message": "pause"
+  },
+  "1459765068821943106": {
+    "message": "{VIEWER_GENDER,select, female{Lim inn YouTube-nettadressen her:}male{Lim inn YouTube-nettadressen her:}other{Lim inn YouTube-nettadressen her:}}"
+  },
+  "1463079206290378085": {
+    "message": "Orkut-bilder"
+  },
+  "1463389029497634261": {
+    "message": "Reduser volumet"
+  },
+  "1475179211173444554": {
+    "message": "Alle med linken på domenet"
+  },
+  "1492360016907725281": {
+    "message": "{VIEWER_GENDER,select, female{Lim inn nettadressen til en video her:}male{Lim inn nettadressen til en video her:}other{Lim inn nettadressen til en video her:}}"
+  },
+  "1493251742569121894": {
+    "message": "Notatet er for stort. Uthevet tekst blir ikke lagret."
+  },
+  "1493384967280942491": {
+    "message": "Rosa"
+  },
+  "1499433769420882987": {
+    "message": "Viser $1​"
+  },
+  "1505876360160857231": {
+    "message": "$1​ TB"
+  },
+  "1521707405717823409": {
+    "message": "Fiolett"
+  },
+  "153439508598626384": {
+    "message": "Bildene dine"
+  },
+  "1536051766421561160": {
+    "message": "er lik"
+  },
+  "156992719062713230": {
+    "message": "Grå"
+  },
+  "1586968957182554447": {
+    "message": "Deaktiver"
+  },
+  "1588268697057804046": {
+    "message": "for $1​ timer siden"
+  },
+  "1603139897109307706": {
+    "message": "Feil – prøv på nytt"
+  },
+  "1604359562654146902": {
+    "message": "Bilde"
+  },
+  "1633370388224271051": {
+    "message": "Fant ingen folk."
+  },
+  "1633798963327779260": {
+    "message": "I morgen"
+  },
+  "1654222450095043962": {
+    "message": "Lyd"
+  },
+  "1656911987308166143": {
+    "message": "Slett"
+  },
+  "1665821947855814052": {
+    "message": "Størrelse"
+  },
+  "1692901784886701962": {
+    "message": "Notatet er for stort."
+  },
+  "1697160643589236962": {
+    "message": "$1​ PB"
+  },
+  "1700522311470719738": {
+    "message": "Legg til påminnelse"
+  },
+  "1701312243672511585": {
+    "message": "Flytt teksten til et nytt notat \u0026raquo;"
+  },
+  "1709410429018687341": {
+    "message": "Morgen ($1​)"
+  },
+  "1715552550526864429": {
+    "message": "Søk i blogger"
+  },
+  "171683163267149669": {
+    "message": "$1​ GB"
+  },
+  "1739900012825270238": {
+    "message": "Gå til forrige element"
+  },
+  "1756171223417807431": {
+    "message": "Kontroller at bildet er offentlig. Hvis bildet er passordbeskyttet eller ligger på et internt nettverk, kan vi ikke lese det."
+  },
+  "1759957963056319953": {
+    "message": "Gå tilbake fra $1​"
+  },
+  "1783719421893050637": {
+    "message": "Mål"
+  },
+  "178927681797742562": {
+    "message": "Logg på"
+  },
+  "1791115075948268631": {
+    "message": "Åpne hurtigtasthjelp"
+  },
+  "1808245543551507519": {
+    "message": "Lyd"
+  },
+  "1816851800848432562": {
+    "message": "Fjern"
+  },
+  "1818306025747564729": {
+    "message": "Gå til linken"
+  },
+  "1823222042913714987": {
+    "message": "Angi passord"
+  },
+  "1823854753950594157": {
+    "message": "Behold på gjeldende plassering"
+  },
+  "1830157062072535681": {
+    "message": "Viser $1​"
+  },
+  "185012928288875755": {
+    "message": "Ingen elementer samsvarer med kriteriene dine."
+  },
+  "1856444915090632305": {
+    "message": "Dokumentet er kryptert. Skriv inn et passord."
+  },
+  "1866863108233180413": {
+    "message": "Mapper"
+  },
+  "187077078156858455": {
+    "message": "Lydnotat"
+  },
+  "189303170370862360": {
+    "message": "$1​ av $2​ elementer"
+  },
+  "1900571668686750716": {
+    "message": "vCard"
+  },
+  "1901351411358749070": {
+    "message": "Delt med meg"
+  },
+  "1913425963149828429": {
+    "message": "Pakk ut dette arkivet i Disk."
+  },
+  "1918176455405610789": {
+    "message": "Fullført"
+  },
+  "1920189655549476211": {
+    "message": "ukjent lengde"
+  },
+  "1929603188252533075": {
+    "message": "Videoen din kunne ikke slettes. Prøv på nytt."
+  },
+  "1951810091681076784": {
+    "message": "{COUNT_1,plural, =1{1 treff i notater}other{{COUNT_2} treff i notater}}"
+  },
+  "1956794332842050061": {
+    "message": "Neste side"
+  },
+  "1965626377712226216": {
+    "message": "Keynote"
+  },
+  "1968405748623909021": {
+    "message": "Prøv en av appene nedenfor for å åpne eller redigere dette elementet"
+  },
+  "1974063091619095703": {
+    "message": "Folk"
+  },
+  "1988244842147989817": {
+    "message": "Notater i papirkurven slettes etter sju dager."
+  },
+  "1993674829873313178": {
+    "message": "Har du problemer med opplasting? Vi holder på med vedlikehold, men snart skal alt være tilbake til det normale."
+  },
+  "2003845117979929469": {
+    "message": "Detaljer"
+  },
+  "2048322072989992494": {
+    "message": "Ingen har delt noen filer med deg ennå."
+  },
+  "2055836117545582610": {
+    "message": "Listeinnstillinger"
+  },
+  "2059084517358086391": {
+    "message": "Lukk søkeraden"
+  },
+  "2061440050632248160": {
+    "message": "Arkivér"
+  },
+  "2068023589621557589": {
+    "message": "TrueType-skrift"
+  },
+  "2073035325657060696": {
+    "message": "Ingen forhåndsvisning er tilgjengelig."
+  },
+  "2073322475696388995": {
+    "message": "Hopp fremover"
+  },
+  "207810168108507460": {
+    "message": "for $1​ time siden"
+  },
+  "2109272338124379867": {
+    "message": "Sist endret"
+  },
+  "2116013171202209313": {
+    "message": "Velg"
+  },
+  "2122256657192674586": {
+    "message": "Søk etter videoer"
+  },
+  "2125135092719715773": {
+    "message": "Last opp"
+  },
+  "212796670323571824": {
+    "message": "OK"
+  },
+  "213665695896111861": {
+    "message": "Notater"
+  },
+  "2138593281154109183": {
+    "message": "Arkivér"
+  },
+  "2147952938331523160": {
+    "message": "Endre navn"
+  },
+  "2154372123324862271": {
+    "message": "skråstrek"
+  },
+  "2154940358270068005": {
+    "message": "Behold slettede notater litt lengre"
+  },
+  "2184278444368405837": {
+    "message": "$1​ elementer"
+  },
+  "2187239650627580457": {
+    "message": "Send inn"
+  },
+  "2198096971937872560": {
+    "message": "Påminnelse:"
+  },
+  "220168959069469607": {
+    "message": "Flere handlinger"
+  },
+  "221715292685577880": {
+    "message": "Ja"
+  },
+  "2220005860896049129": {
+    "message": "Beklager, det tok for lang tid å finne dokumentet i den opprinnelige kilden."
+  },
+  "2228413078211839077": {
+    "message": "Beklager, men vi har et midlertidig problem med å generere en visning av dokumentet."
+  },
+  "2235097878790803849": {
+    "message": "Farvel til vedlegg. Hei, Google Disk."
+  },
+  "2257303402199718039": {
+    "message": "Beklager, vi kunne ikke finne dokumentet i den opprinnelige kilden. Kontrollér at dokumentet fortsatt finnes."
+  },
+  "2274436793504233543": {
+    "message": "Avbryt"
+  },
+  "2278224983638451454": {
+    "message": "Skaff deg den nå"
+  },
+  "2280650195464600721": {
+    "message": "Navigering"
+  },
+  "2285069188138705005": {
+    "message": "Tilkoblede apper"
+  },
+  "2289534534793293486": {
+    "message": "Ta ut fra arkivet"
+  },
+  "2289812403593835836": {
+    "message": "Pages"
+  },
+  "229177484946387188": {
+    "message": "Google Earth"
+  },
+  "2292696732672795285": {
+    "message": "Øk volumet"
+  },
+  "230180475614658119": {
+    "message": "Ferdig"
+  },
+  "2304293593067358316": {
+    "message": "Utklipp"
+  },
+  "2310145944356900158": {
+    "message": "Avmerkede"
+  },
+  "2311880726221661199": {
+    "message": "Laster inn høyere oppløsninger …"
+  },
+  "2329167963662998826": {
+    "message": "Google Keep ønsker å bruke posisjonen din til å forbedre forslag til steder for stedspåminnelser."
+  },
+  "234046557601727809": {
+    "message": "Du har ingen bilder eller videoer."
+  },
+  "2349912757088764940": {
+    "message": "Synlig for:"
+  },
+  "2359614137862708172": {
+    "message": "Shift"
+  },
+  "2370463380397641604": {
+    "message": "Populære hurtigtaster"
+  },
+  "2370656573843123707": {
+    "message": "høyre hakeparentes"
+  },
+  "2393487423640708285": {
+    "message": "Nettadressen er ikke gyldig. Sørg for at den starter med http:// eller https://."
+  },
+  "2405795704816921421": {
+    "message": "$1​-filen"
+  },
+  "2412314804333167252": {
+    "message": "Dette regnearket er for stort. Klikk for å $3​laste ned$1​ eller $4​redigere i Google Regneark$1​."
+  },
+  "2418104318933043113": {
+    "message": "Google Bildesøk"
+  },
+  "2433429041384246549": {
+    "message": "Demp lyden"
+  },
+  "2449254824382583885": {
+    "message": "Eget vindu"
+  },
+  "2452522051596946166": {
+    "message": "Beklager. Det oppsto et problem med forhåndsvisningen av $1​. Prøver på nytt …"
+  },
+  "2454642351139428112": {
+    "message": "Angre"
+  },
+  "2466251465475184755": {
+    "message": "Vil du tømme papirkurven? Alle notatene i papirkurven slettes permanent."
+  },
+  "2475181823688399272": {
+    "message": "Neste"
+  },
+  "2484568559152875936": {
+    "message": "Du har ingen fotoalbum."
+  },
+  "2504232652631703202": {
+    "message": "Tilkoblet"
+  },
+  "251025074207413762": {
+    "message": "Legg til en beskrivelse"
+  },
+  "2510929871271209216": {
+    "message": "Dette regnearket er for stort. Klikk $2​her$1​ for å laste ned."
+  },
+  "2513437337377210144": {
+    "message": "end"
+  },
+  "2524021436052870191": {
+    "message": "Denne filen kan ikke lastes opp. Du kan bare laste opp $1​-filer som er mindre enn $2​ MB."
+  },
+  "2532280782491328445": {
+    "message": "Finn forrige"
+  },
+  "2538080331309772448": {
+    "message": "Sortér: $1​"
+  },
+  "2538462904124380434": {
+    "message": "Lagt i papirkurven"
+  },
+  "2546225293834487484": {
+    "message": "Notat"
+  },
+  "2555961950726197809": {
+    "message": "Visningsprogrammet vises."
+  },
+  "2558480112329900136": {
+    "message": "Grå"
+  },
+  "257317112834806705": {
+    "message": "Veksle mellom liste- og rutenettvisning"
+  },
+  "2579679351920691492": {
+    "message": "Hopp bakover"
+  },
+  "2587566920590457715": {
+    "message": "Maps Engine Lite"
+  },
+  "2609409316752026806": {
+    "message": "PDF"
+  },
+  "2609750184896485102": {
+    "message": "Videoer fra telefon"
+  },
+  "2615188670181508661": {
+    "message": "Du har ikke valgt noe i det siste."
+  },
+  "2623861453769098676": {
+    "message": "Det oppsto et problem med forhåndsvisningen av dette dokumentet."
+  },
+  "2628268670001557269": {
+    "message": "Kvote"
+  },
+  "2643241712502664984": {
+    "message": "YouTube-videoene dine"
+  },
+  "2661850177130037208": {
+    "message": "Åpne elementet"
+  },
+  "2681830832355823748": {
+    "message": "Søk blant alle hurtigtastene"
+  },
+  "2687303256387847763": {
+    "message": "Popularitet"
+  },
+  "2702485557996900362": {
+    "message": "Fiks motstridende redigeringer"
+  },
+  "2705842902318123127": {
+    "message": "Naviger til neste/forrige notat eller liste"
+  },
+  "272948685355798518": {
+    "message": "Ugyldig filtype er valgt."
+  },
+  "2731144323070245943": {
+    "message": "Listeinnstillinger"
+  },
+  "2742719907061406418": {
+    "message": "XML"
+  },
+  "2750830436677712001": {
+    "message": "{VIEWER_GENDER,select, female{Opprettingen av {FOLDER_NAME} mislyktes.}male{Opprettingen av {FOLDER_NAME} mislyktes.}other{Opprettingen av {FOLDER_NAME} mislyktes.}}"
+  },
+  "2752123004911547510": {
+    "message": "Trender"
+  },
+  "2758125083752925237": {
+    "message": "(Eier)"
+  },
+  "277430914014962533": {
+    "message": "Beklager. Det oppsto et problem med forhåndsvisningen av $1​."
+  },
+  "2774713922589657910": {
+    "message": "Alle på domenet"
+  },
+  "2786560864906393383": {
+    "message": "Bilder fra telefonen"
+  },
+  "2789687492331041935": {
+    "message": "Velg et klokkeslett"
+  },
+  "2790446494460492805": {
+    "message": "Utpakkingsjobben pågår. E-postene fra arkivet vises i e-postkontoen din under etiketten «Importering $1​»."
+  },
+  "2793841261389879255": {
+    "message": "Forrige side"
+  },
+  "2801153442808430222": {
+    "message": "Min disk"
+  },
+  "2817277146396981386": {
+    "message": "om ettermiddagen"
+  },
+  "2818020101821669029": {
+    "message": "Opprettet"
+  },
+  "2818135503416309545": {
+    "message": "Ta opp en video"
+  },
+  "2827039933590757722": {
+    "message": "Windows-snarvei"
+  },
+  "2829226075651806940": {
+    "message": "Zoom inn"
+  },
+  "2860188519781080944": {
+    "message": "Oransje"
+  },
+  "2861568351294148466": {
+    "message": "Skript"
+  },
+  "2864281852037732729": {
+    "message": "Mindre"
+  },
+  "2873089307546162154": {
+    "message": "OK"
+  },
+  "2877285560485318801": {
+    "message": "Sett på pause"
+  },
+  "2878874627361086801": {
+    "message": "forhåndsvisning"
+  },
+  "2879276552944958066": {
+    "message": "Gå tilbake til $1​-mappen."
+  },
+  "289798573180023043": {
+    "message": "OK"
+  },
+  "2902747751281161248": {
+    "message": "Bruk i nye lister"
+  },
+  "2905147317995482841": {
+    "message": "Vi oppdatert utseendet i brukergrensesnittet for alle filene i Google Disk. Nå ser ting bedre ut, og er enklere å bruke. Vi håper du liker det!"
+  },
+  "2917498437550635075": {
+    "message": "Ikon"
+  },
+  "2964778642459027786": {
+    "message": "Det er ingen notater i papirkurven"
+  },
+  "2974598228601710262": {
+    "message": "Legg til"
+  },
+  "2979466412944870220": {
+    "message": "Laster inn forhåndsvisning …"
+  },
+  "2982511431742033448": {
+    "message": "Du har ingen presentasjoner."
+  },
+  "298817883481775869": {
+    "message": "Laster inn …"
+  },
+  "3000689173481666334": {
+    "message": "Rediger kretsen din"
+  },
+  "3029395493413607486": {
+    "message": "Kunne ikke laste inn videospilleren. Prøv å laste inn siden på nytt. $1​Hvis problemet vedvarer, kan du $3​se i brukerstøtten$2​."
+  },
+  "3043961722025425136": {
+    "message": "Beskrivelse"
+  },
+  "306516303501625305": {
+    "message": "Godkjenning mislyktes."
+  },
+  "3073005748126521632": {
+    "message": "Ga påminnelse ved $1​"
+  },
+  "3074184819310272351": {
+    "message": "Opplastede bilder"
+  },
+  "3084372889071691504": {
+    "message": "{VIEWER_GENDER,select, female{Lim inn en nettadresse her:}male{Lim inn en nettadresse her:}other{Lim inn en nettadresse her:}}"
+  },
+  "3095645856215493958": {
+    "message": "Finn trykt tekst i bilder"
+  },
+  "31018542656161389": {
+    "message": "Zoom for å tilpasse"
+  },
+  "3109321241584918345": {
+    "message": "Koble til flere apper"
+  },
+  "3121560585545725724": {
+    "message": "$1​ $2​"
+  },
+  "3140236589681731084": {
+    "message": "om $1​ timer"
+  },
+  "3189854932778515441": {
+    "message": "Notatet er arkivert"
+  },
+  "3207670492626476064": {
+    "message": "Tabeller"
+  },
+  "3211163842850942567": {
+    "message": "Zoom inn"
+  },
+  "3222929029344613957": {
+    "message": "Beklager, men det oppsto en feil da denne filen skulle åpnes. Prøv på nytt."
+  },
+  "3233388241926683100": {
+    "message": "Søk i notatene"
+  },
+  "3243829462528324248": {
+    "message": "Brun"
+  },
+  "3250489229749307913": {
+    "message": "Elektronisk publikasjon"
+  },
+  "3256928852560591255": {
+    "message": "Notatet kan ikke redigeres i papirkurven"
+  },
+  "3261131345401321392": {
+    "message": "Kan kommentere"
+  },
+  "3265524298292280681": {
+    "message": "esc"
+  },
+  "3267563602179728277": {
+    "message": "delete"
+  },
+  "3272496516667407797": {
+    "message": "Det oppsto et problem under innlastingen av detaljene."
+  },
+  "3275029321588462173": {
+    "message": "Ingen"
+  },
+  "3278237562147211998": {
+    "message": "Kommersielle bilder"
+  },
+  "330603631583186798": {
+    "message": "Word"
+  },
+  "3306487262690341751": {
+    "message": "Dato og klokkeslett"
+  },
+  "3312545971976531405": {
+    "message": "Melding"
+  },
+  "3319087486907616296": {
+    "message": "Cast dette elementet"
+  },
+  "3328129883064940351": {
+    "message": "Skrifttyper"
+  },
+  "3335409796971631780": {
+    "message": "Pakker ut til Disk."
+  },
+  "3343451103608774400": {
+    "message": "Dette er den nye utgaven av $3​Mine kart.$2​$1​Et bedre kartverktøy."
+  },
+  "3354260708176476985": {
+    "message": "Laster inn ..."
+  },
+  "3357778055650785985": {
+    "message": "Elementet er for stort. Uthevet tekst blir ikke lagret."
+  },
+  "3364679383274077479": {
+    "message": "Appoppdatering er tilgjengelig"
+  },
+  "3368639944474272225": {
+    "message": "Beklager, vi kan ikke hente dokumentet for visning, eller du har ikke tillatelse til å se dokumentet."
+  },
+  "3381619429606029445": {
+    "message": "Visio"
+  },
+  "3382236845597426718": {
+    "message": "Åpne"
+  },
+  "3408219901032480508": {
+    "message": "$2​, $1​"
+  },
+  "3409257542937182842": {
+    "message": "Prøver på nytt ..."
+  },
+  "3409483962000136213": {
+    "message": "Spill av / pause"
+  },
+  "3418767079436101103": {
+    "message": "Det oppsto et problem under innlastingen av denne siden."
+  },
+  "3421685394169412932": {
+    "message": "Alle endringer du gjør, lagres automatisk"
+  },
+  "3422389100099960864": {
+    "message": "Du har ingen bilder."
+  },
+  "3428726060007577698": {
+    "message": "Listen er for lang."
+  },
+  "3430885603500576146": {
+    "message": "Bare velg bilder du har bekreftet at du har lisens til å bruke."
+  },
+  "3440534675925634227": {
+    "message": "I et Chrome-nettleservindu, går du til chrome ://settings, og sørger for at du er logget på. Klikk deretter på Logg på."
+  },
+  "3446158485617778228": {
+    "message": "Angre"
+  },
+  "3448234415275521882": {
+    "message": "Generell informasjon"
+  },
+  "3448684788258660606": {
+    "message": "Bildene dine"
+  },
+  "3450585781337676327": {
+    "message": "Laster inn …"
+  },
+  "3457279184692206825": {
+    "message": "Bildene er synlige for alle (offentlig på nettet)."
+  },
+  "3468441711253011521": {
+    "message": "Google Regneark"
+  },
+  "3473620774713000513": {
+    "message": "Løst"
+  },
+  "3483438888494819423": {
+    "message": "Nytt i Google Keep"
+  },
+  "3511274344439521198": {
+    "message": "Handlinger"
+  },
+  "3518073392823563581": {
+    "message": "Hurtigtaster"
+  },
+  "3531603810713611778": {
+    "message": "Maksstørrelsen for filer er overskredet. Velg bort ett eller flere elementer."
+  },
+  "3543475399174940144": {
+    "message": "+ $1​"
+  },
+  "3547194749488601916": {
+    "message": "Oppdaterer ..."
+  },
+  "354828103903104581": {
+    "message": "Merkede elementer"
+  },
+  "3561658662634401836": {
+    "message": "Tittel"
+  },
+  "357172711168973843": {
+    "message": "Eventuelle nylig tillagte notater eller endringer ble ikke lagret. Lag din egen kopi av innholdet, og last inn på nytt."
+  },
+  "3586705906700410505": {
+    "message": "Strektegning"
+  },
+  "3587798318180902863": {
+    "message": "{NUM_SELECTED,plural, =1{ valgt \u003e}other{ valgte \u003e}}"
+  },
+  "3595000514985906359": {
+    "message": "Excel"
+  },
+  "3602920441714068008": {
+    "message": "Ga påminnelse den $1​ kl. $2​"
+  },
+  "3608606849109645545": {
+    "message": "Skriv inn et nytt dokumentnavn:"
+  },
+  "361202495024972887": {
+    "message": "Last opp videoer"
+  },
+  "361630518611593946": {
+    "message": "Skjul avmerkingsboksene"
+  },
+  "3625886392901506764": {
+    "message": "eller"
+  },
+  "3643146117250542609": {
+    "message": "Du har ingen PDF-filer."
+  },
+  "3645728163953189422": {
+    "message": "Beklager, vi kan ikke hente dokumentet for visning fordi det er for stort."
+  },
+  "3651893685901703652": {
+    "message": "…"
+  },
+  "3657386785336906042": {
+    "message": "omvendt skråstrek"
+  },
+  "3659554681396757189": {
+    "message": "Åpnet av meg"
+  },
+  "3663571259791438207": {
+    "message": "Rapportér misbruk"
+  },
+  "3664842788764635265": {
+    "message": "Ingen"
+  },
+  "3666123569747918021": {
+    "message": "Dette dokumentet inneholder endringer som ikke er lagret. Vil du gå bort fra denne siden og forkaste endringene?"
+  },
+  "3673346558112798837": {
+    "message": "Ingen bakgrunn"
+  },
+  "3674811252904549204": {
+    "message": "Forsidebilder"
+  },
+  "3678477908297567934": {
+    "message": "understrek"
+  },
+  "3681747688524363195": {
+    "message": "Øverst"
+  },
+  "3690515530505404607": {
+    "message": "Det oppsto et problem under avspilling av denne videoen."
+  },
+  "369764661829607970": {
+    "message": "{NUM_ITEMS,plural, =0{Ingen elementer}=1{1 element}other{# elementer}}"
+  },
+  "3712215972250917265": {
+    "message": "Kommentarer"
+  },
+  "3717138719704492547": {
+    "message": "Se om det er skrivefeil i adressen."
+  },
+  "374088101949877889": {
+    "message": "Lukk"
+  },
+  "3745308627628779133": {
+    "message": "Ny mappe"
+  },
+  "3748461364828242354": {
+    "message": "Velg farge"
+  },
+  "3770795578481676514": {
+    "message": "Gul"
+  },
+  "3771958676925493302": {
+    "message": "Fjern filter: $1​"
+  },
+  "3779945546806941187": {
+    "message": "Ensfarget"
+  },
+  "3793086499925031123": {
+    "message": "Åpne søkefeltet / finn forrige"
+  },
+  "37992665410817181": {
+    "message": "Åpnet på nytt"
+  },
+  "3801617971018550169": {
+    "message": "I går"
+  },
+  "3808213429720572062": {
+    "message": "Gjenopprett"
+  },
+  "381100310424863459": {
+    "message": "Illustrator"
+  },
+  "3842411126100113634": {
+    "message": "pg-up"
+  },
+  "3844047145949375230": {
+    "message": "Dokumenter"
+  },
+  "3858324058837632381": {
+    "message": "Det oppsto et problem under avspilling av denne lydfilen."
+  },
+  "3864575916269080329": {
+    "message": "Søkbare bilder"
+  },
+  "3866373087987934712": {
+    "message": "Opplastingen mislyktes: $1​"
+  },
+  "3869166581651870488": {
+    "message": "Avslutt redigeringen"
+  },
+  "3873215756962047275": {
+    "message": "ARKIV"
+  },
+  "3873467440437675460": {
+    "message": "Beklager! Vi fant ikke skrifttypene du valgte tidligere."
+  },
+  "3897281533382850749": {
+    "message": "Slå på lyden"
+  },
+  "3936153839186254186": {
+    "message": "Vis: $1​"
+  },
+  "3955760658925284765": {
+    "message": "Prøv på nytt"
+  },
+  "3974064131130689245": {
+    "message": "Rutenettvisning"
+  },
+  "3977699855735576796": {
+    "message": "Det oppsto et problem med å laste inn flere sider."
+  },
+  "3988418762222300024": {
+    "message": "punktum"
+  },
+  "3989552504822984034": {
+    "message": "Google Tegninger"
+  },
+  "4005725939358875643": {
+    "message": "Handlingen er angret."
+  },
+  "4014287326684608407": {
+    "message": "Blågrønn"
+  },
+  "4048275292053012394": {
+    "message": "Kontakter"
+  },
+  "4059387791040010947": {
+    "message": "Meta"
+  },
+  "4067915791853673774": {
+    "message": "{VIEWER_GENDER,select, female{Lukk}male{Lukk}other{Lukk}}"
+  },
+  "4078179869358383373": {
+    "message": "Fant ingen resultater."
+  },
+  "4087667435414545203": {
+    "message": "Du er ikke logget på lenger. For å gjøre endringer må du laste inn på nytt."
+  },
+  "4093134637041332383": {
+    "message": "FINN UT MER"
+  },
+  "4097007735221462946": {
+    "message": "Tegninger"
+  },
+  "4097921967754832323": {
+    "message": "bindestrek"
+  },
+  "4100504115801514799": {
+    "message": "Notatet er gjenopprettet"
+  },
+  "4119294114251628099": {
+    "message": "Kan ikke hente bildenettadressen du oppga. Det kan være en privat nettadresse som tjenerne våre ikke har tilgang til. Prøv en annen nettadresse."
+  },
+  "4134385041569168669": {
+    "message": "Laster inn …"
+  },
+  "4148564423510181521": {
+    "message": "Slett søk"
+  },
+  "4152315289461886": {
+    "message": "Dokumentkontroller"
+  },
+  "4168280976997555951": {
+    "message": "Du har ingen dokumenter."
+  },
+  "4174786386751618325": {
+    "message": "Bildenotat"
+  },
+  "4182427157920112948": {
+    "message": "tilde"
+  },
+  "4200426647595470259": {
+    "message": "Begynn å spille av lydfilen"
+  },
+  "4200911267543705377": {
+    "message": "Skriv inn søket i feltet ovenfor for å finne resultater i blogger ved hjelp av Google Bloggsøk."
+  },
+  "4205329094859140439": {
+    "message": "om formiddagen"
+  },
+  "4211182812451835307": {
+    "message": "Kan redigere"
+  },
+  "4211806608204126222": {
+    "message": "$2​Vilkår for bruk$1​"
+  },
+  "4214190403999219403": {
+    "message": "Zoom"
+  },
+  "4230101516585408149": {
+    "message": "Sett sammen et nytt notat"
+  },
+  "4253741616909644861": {
+    "message": "Søkeord"
+  },
+  "4280747719095153198": {
+    "message": "Løst kommentar"
+  },
+  "4286663890332754386": {
+    "message": "Opplastingen mislyktes."
+  },
+  "4299690446455033653": {
+    "message": "Works"
+  },
+  "4314643310615423802": {
+    "message": "Du har blitt logget av."
+  },
+  "4318861667254318892": {
+    "message": "Google Video"
+  },
+  "4319229296464464147": {
+    "message": "Dato lagt til"
+  },
+  "4320831042030778": {
+    "message": "Avbryt"
+  },
+  "4332252081504252077": {
+    "message": "Oisann!"
+  },
+  "4338991104991831337": {
+    "message": "Bilder"
+  },
+  "4339705658383891586": {
+    "message": "Fullfarge"
+  },
+  "4343825450663233452": {
+    "message": "Kan se på"
+  },
+  "4343836986248234462": {
+    "message": "Listeelement"
+  },
+  "435214284915110062": {
+    "message": "Åpne søkefeltet"
+  },
+  "4372755508519489521": {
+    "message": "Rutenettvisning"
+  },
+  "4391715930031906467": {
+    "message": "Finn neste"
+  },
+  "4395845663892873002": {
+    "message": "home"
+  },
+  "4422985761498356257": {
+    "message": "Åpne med"
+  },
+  "4430062722430863019": {
+    "message": "Slette notatet permanent?"
+  },
+  "4439812492856303238": {
+    "message": "Beklager, men det oppsto en uventet feil under behandlingen av valget ditt. Prøv på nytt senere."
+  },
+  "4444571967705751871": {
+    "message": "Papirkurv"
+  },
+  "4466605492523079635": {
+    "message": "Lagre"
+  },
+  "4468872996560163913": {
+    "message": "Tøm papirkurven nå"
+  },
+  "4473912481270012588": {
+    "message": "Lagret til Disk – flytt til:"
+  },
+  "45228242181482134": {
+    "message": "Spill av"
+  },
+  "4536519876526589338": {
+    "message": "$1​ brukerbilde."
+  },
+  "4552045407215325033": {
+    "message": "Videonettadressen du skrev inn over, kan ikke lastes inn. Kontroller at den er riktig og fra et nettsted som støttes."
+  },
+  "4564682305303579317": {
+    "message": "Fortsett"
+  },
+  "456498742882714639": {
+    "message": "Flytt til:"
+  },
+  "4588500131398315347": {
+    "message": "Opprett en krets"
+  },
+  "4604402426271704651": {
+    "message": "Ikke noe bilde"
+  },
+  "4620034373159179678": {
+    "message": "Side $1​ av $2​"
+  },
+  "4630690108252818511": {
+    "message": "Fant ingen bilder"
+  },
+  "468283184702431827": {
+    "message": "Prosessen er i gang"
+  },
+  "4695897771458936174": {
+    "message": "Del bilder fra Google Disk på Google+"
+  },
+  "4740100782728373253": {
+    "message": "Lagre i Disk"
+  },
+  "4748046231232264180": {
+    "message": "Google Skjemaer"
+  },
+  "4767722428137216885": {
+    "message": "Avbryt"
+  },
+  "477328789314249432": {
+    "message": "Søk i notater"
+  },
+  "4775368111547931093": {
+    "message": "Ingen beskrivelse"
+  },
+  "4781742940361705258": {
+    "message": "Fjern"
+  },
+  "4783695823456312682": {
+    "message": "Flytt nederst på listen"
+  },
+  "47844150329705564": {
+    "message": "Søkeresultater for «$1​»"
+  },
+  "4798897505978458661": {
+    "message": "Fant ingen videoer."
+  },
+  "4805047680716507619": {
+    "message": " – Flytt til:"
+  },
+  "4806763987633034948": {
+    "message": "PKCS7-signatur"
+  },
+  "4833214200453019325": {
+    "message": "$1​ av $2​"
+  },
+  "4846720038197420778": {
+    "message": "Koble til flere apper"
+  },
+  "4853788427396558692": {
+    "message": "$1​ MB"
+  },
+  "4858389278403807208": {
+    "message": "Notatet er lagt i papirkurven"
+  },
+  "4888104357342241891": {
+    "message": "Påminnelser"
+  },
+  "4889853674709731963": {
+    "message": "Alle notater er lagret lokalt"
+  },
+  "4901386320110714275": {
+    "message": "Passordet er feil. Prøv på nytt."
+  },
+  "490372259452655427": {
+    "message": "Beklager, dokumentet er ikke tilgjengelig for visning ennå."
+  },
+  "4906669330059413958": {
+    "message": "Send inn passordet"
+  },
+  "4908614808966678155": {
+    "message": "Ingen søkeresultater for «$1​»"
+  },
+  "4926020998477695737": {
+    "message": "Bytt til $1​-mappen"
+  },
+  "4943176738805484221": {
+    "message": "rediger"
+  },
+  "4956678140555659175": {
+    "message": "tilbaketast"
+  },
+  "4957674814179289955": {
+    "message": "Naviger til neste/forrige listeelement"
+  },
+  "4963784280521435720": {
+    "message": "Lagrer …"
+  },
+  "4969219890884320840": {
+    "message": "Oppdater"
+  },
+  "4983125135476400111": {
+    "message": "Legg notatet eller listen i papirkurven"
+  },
+  "4988132901627446385": {
+    "message": "Detaljpanelet er utvidet."
+  },
+  "4998757387516632837": {
+    "message": "Resultatene som vises, er merket for gjenbruk med endringer."
+  },
+  "5006225450559627366": {
+    "message": "+ $1​ til"
+  },
+  "501475221876543407": {
+    "message": "Notatene du legger til, vises her"
+  },
+  "5023525794410110078": {
+    "message": "Legg til tekst for bildet"
+  },
+  "5026241297254150381": {
+    "message": "Legg til et notat"
+  },
+  "5046371569383796818": {
+    "message": "Behold"
+  },
+  "5055418092354683641": {
+    "message": "Serif"
+  },
+  "5095987896933771566": {
+    "message": "Skriv ut dokumentet"
+  },
+  "5096751700090310607": {
+    "message": "Ingen bilder."
+  },
+  "509815948423424872": {
+    "message": "Navigering"
+  },
+  "5099245668405591445": {
+    "message": "Søk"
+  },
+  "512429649443191386": {
+    "message": "$2​Hjelp$1​"
+  },
+  "5124522868502261563": {
+    "message": "Regneark"
+  },
+  "5130903421326358933": {
+    "message": "Det oppsto et problem med lagringen av vedlegget i Google Disk."
+  },
+  "5149937870346466591": {
+    "message": "Listevisning"
+  },
+  "5169187962228219813": {
+    "message": "Life-bilder"
+  },
+  "5180454621500142444": {
+    "message": "Gjenopprett"
+  },
+  "5180989337128758117": {
+    "message": "venstre hakeparentes"
+  },
+  "5184692850089055965": {
+    "message": "Ta bildeteksten"
+  },
+  "5197718200713913936": {
+    "message": "C++"
+  },
+  "5201670213497642487": {
+    "message": "Fanerad for detaljer. Trykk på venstre- og høyre-piltastene for å bytte mellom fanene."
+  },
+  "5204391636475413312": {
+    "message": "Lagre"
+  },
+  "5213411023807957844": {
+    "message": "Søk i Google Keep"
+  },
+  "5213974294317036409": {
+    "message": "{numPages,plural, =0{}=1{1 side}other{# sider}}"
+  },
+  "5226470917948786938": {
+    "message": "Alfabetisk"
+  },
+  "5238003680997310998": {
+    "message": "Mer"
+  },
+  "5238371081785912565": {
+    "message": "Åpne med $1​"
+  },
+  "5275493935807628890": {
+    "message": "Vi finner ikke bildet på den nettadressen."
+  },
+  "5281121179861637423": {
+    "message": "Du må skrive inn et passord for å få tilgang til $1​. Skriv inn passordet"
+  },
+  "5288037028604092288": {
+    "message": "XPS"
+  },
+  "5291153964865714504": {
+    "message": "Fant ingen samsvarende notater"
+  },
+  "5299648222246616124": {
+    "message": "gravistegn"
+  },
+  "5304869088141363028": {
+    "message": "Utvalgte bilder"
+  },
+  "5316658541831864803": {
+    "message": "Beklager, men visning av denne dokumenttypen støttes ikke."
+  },
+  "5319313176242717957": {
+    "message": "Behandler bildene …"
+  },
+  "5336801339221383042": {
+    "message": "Javascript"
+  },
+  "534228323125524312": {
+    "message": "Zoom ut"
+  },
+  "5353129315502554762": {
+    "message": "Style Sheet"
+  },
+  "5372143986724491245": {
+    "message": "for $1​ dag siden"
+  },
+  "5372160981898991853": {
+    "message": "Publisher"
+  },
+  "5399553230649155346": {
+    "message": "om $1​ time"
+  },
+  "5403830377590414208": {
+    "message": "Hvit"
+  },
+  "5408091115193390231": {
+    "message": "AutoCAD"
+  },
+  "5438481737351808090": {
+    "message": "Ettermiddag ($1​)"
+  },
+  "544377415081282702": {
+    "message": "Vi beklager."
+  },
+  "5447119197363232006": {
+    "message": "Vis i Disk"
+  },
+  "5465323999933375616": {
+    "message": "Du har nådd båndbreddegrensen for å se eller laste ned filer som ikke er i Google-dokumentformat."
+  },
+  "5472312735475866917": {
+    "message": "Kommentar fra $1​."
+  },
+  "547865385964196102": {
+    "message": "for $1​ minutter siden"
+  },
+  "5482872484546230111": {
+    "message": "Søk etter bøker"
+  },
+  "5494181290179470995": {
+    "message": "Slett"
+  },
+  "5500117709595533163": {
+    "message": "Skriv inn søket ditt i feltet ovenfor for å finne e-bokresultater ved hjelp av Google Bøker."
+  },
+  "5514516347328112388": {
+    "message": "Du kan også prøve å laste ned originaldokumentet ved å klikke $2​her$1​."
+  },
+  "5529532831767466284": {
+    "message": "{VIEWER_GENDER,select, female{{DEGREES}° {MINUTES}' {SECONDS}\"}male{{DEGREES}° {MINUTES}' {SECONDS}\"}other{{DEGREES}° {MINUTES}' {SECONDS}\"}}"
+  },
+  "5555182241047709329": {
+    "message": "Velg et sted"
+  },
+  "5555599189512365009": {
+    "message": "SKJØNNER"
+  },
+  "5571842632470308750": {
+    "message": "Alle typer"
+  },
+  "5588597116382648727": {
+    "message": "Starter utpakkingen."
+  },
+  "5598649706113950710": {
+    "message": "Redigeringsprogram"
+  },
+  "5609727719971819773": {
+    "message": "{VIEWER_GENDER,select, female{Tilbake}male{Tilbake}other{Tilbake}}"
+  },
+  "5627470193961862490": {
+    "message": "Notater med kommende påminnelser, vises her"
+  },
+  "5631086126416409232": {
+    "message": "Blå"
+  },
+  "564165666160590723": {
+    "message": "Windows Media Player"
+  },
+  "5660422479531064559": {
+    "message": "Du har ingen skjemaer."
+  },
+  "5675154446465700699": {
+    "message": "PDF-filer"
+  },
+  "568072913338360182": {
+    "message": "HTML"
+  },
+  "5707549724380589079": {
+    "message": "Vil du slette de avmerkede elementene?"
+  },
+  "5714240424645614611": {
+    "message": "Android-pakke"
+  },
+  "5728640851616538925": {
+    "message": "Grønn"
+  },
+  "5744491383087191878": {
+    "message": "Bildenettadressen du skrev inn ovenfor, er feil eller kan ikke lastes inn."
+  },
+  "5747728324987383020": {
+    "message": "Ansikt"
+  },
+  "5783875011049188612": {
+    "message": "Teksten fra bildet er tatt"
+  },
+  "5785010887521443923": {
+    "message": "Fjern"
+  },
+  "5834678297024555032": {
+    "message": "Tillat"
+  },
+  "5840330517914556080": {
+    "message": "Zoom ut"
+  },
+  "5842536098490298653": {
+    "message": "Fant ingen skrifttyper."
+  },
+  "5865680764501413616": {
+    "message": "Gjenkjenner ikke teksten."
+  },
+  "5871966496153339793": {
+    "message": "Viser miniatyrbilde av videoen $1​"
+  },
+  "5875004331736681428": {
+    "message": "Pakker ut til e-postkontoen din."
+  },
+  "587666071025645113": {
+    "message": "Søk"
+  },
+  "5877526626743756786": {
+    "message": "Tilbakemelding"
+  },
+  "5889725440363483648": {
+    "message": "Alle i gruppen"
+  },
+  "5911012384539794869": {
+    "message": "Utpakkingen kunne ikke startes."
+  },
+  "5916010927050975496": {
+    "message": "$1​ kB"
+  },
+  "5949528478488617689": {
+    "message": "Nedlastingstillatelse"
+  },
+  "5950887255133612666": {
+    "message": "Har ikke startet."
+  },
+  "5969696744752069015": {
+    "message": "Forhåndsvisning er ikke tilgjengelig."
+  },
+  "5971400924847413790": {
+    "message": "Eller du kan se på det i $2​ren HTML$1​ (automatisk viderekobling)."
+  },
+  "5972111804366033138": {
+    "message": "Last ned"
+  },
+  "5975031149676029214": {
+    "message": "Alle"
+  },
+  "5976369213680241300": {
+    "message": "Søk etter bilder"
+  },
+  "5980081664136280513": {
+    "message": "Grønn"
+  },
+  "5984398071085567332": {
+    "message": "Google Samkjørte tabeller"
+  },
+  "6009962986062136164": {
+    "message": "Laster inn $1​ …"
+  },
+  "60305871484579258": {
+    "message": "Alt"
+  },
+  "6043068172993241858": {
+    "message": "Det er ingen i denne kretsen"
+  },
+  "604883455412617728": {
+    "message": "Ingen kontakter samsvarte med søket ditt."
+  },
+  "6051386830221821025": {
+    "message": "Logger på …"
+  },
+  "6064654062949366878": {
+    "message": "Play"
+  },
+  "6070475007374165567": {
+    "message": "Lagrer …"
+  },
+  "6083586461434260179": {
+    "message": "Nytt brukergrensesnitt"
+  },
+  "6087078248621415351": {
+    "message": "Endret $1​"
+  },
+  "6091926883608250483": {
+    "message": "Mer"
+  },
+  "6105571474005679446": {
+    "message": "Det oppsto et problem med forhåndsvisningen."
+  },
+  "6113237889871930608": {
+    "message": "Tomt notat"
+  },
+  "6118623991445349480": {
+    "message": "Side $1​"
+  },
+  "6122643025527543706": {
+    "message": "Ctrl"
+  },
+  "6131822680770571276": {
+    "message": "PowerPoint"
+  },
+  "6140634664402328750": {
+    "message": "Appliste"
+  },
+  "6149175749937815029": {
+    "message": "Se alle elementene"
+  },
+  "6160805346274626656": {
+    "message": "Slett for alltid"
+  },
+  "616807262818311711": {
+    "message": "Type"
+  },
+  "6175043905327075444": {
+    "message": "Tidligere valgt"
+  },
+  "6177107655089301674": {
+    "message": "Last ned Google Keep-appen for Android"
+  },
+  "6185886893933834031": {
+    "message": "Behold det valgte notatet"
+  },
+  "6186290899408627510": {
+    "message": "enter"
+  },
+  "6189891414154673003": {
+    "message": "Mine kart"
+  },
+  "6203260615455347677": {
+    "message": "Tall"
+  },
+  "6223207695466118454": {
+    "message": "YouTube"
+  },
+  "6224687211096863620": {
+    "message": "Alle"
+  },
+  "623118860067088424": {
+    "message": "Videoer"
+  },
+  "6231401379881217113": {
+    "message": "insert"
+  },
+  "6252259197986158120": {
+    "message": "I går"
+  },
+  "6253076263700695984": {
+    "message": "Godkjenningsfeil. Last inn på nytt."
+  },
+  "6255475144867830247": {
+    "message": "Velg blant andre navigasjonsfaner."
+  },
+  "6267063643272327592": {
+    "message": "Prøv på nytt senere."
+  },
+  "6290270819062517523": {
+    "message": "Du har valgt for mange elementer. Velg bort ett eller flere."
+  },
+  "6305748545202493254": {
+    "message": "Vis/skjul detaljvinduet"
+  },
+  "6324768448533022780": {
+    "message": "$1​ $2​"
+  },
+  "6331677437567501421": {
+    "message": "Det oppsto et problem under oppdateringen av nedlastingstillatelsen."
+  },
+  "6333496730738019575": {
+    "message": "Laster inn …"
+  },
+  "634900089121611600": {
+    "message": "Du har ingen videoer."
+  },
+  "6362170008350775214": {
+    "message": "Påminnelse ved $1​"
+  },
+  "6375395544374251820": {
+    "message": "Det oppsto et problem med å laste inn flere sider. Prøver igjen …"
+  },
+  "6376739025584042564": {
+    "message": "Bildebeskjæring"
+  },
+  "6386587519843563719": {
+    "message": "Binærfil"
+  },
+  "6416495701611778255": {
+    "message": "Foreslåtte tredjepartsapper"
+  },
+  "6419411265907669340": {
+    "message": "I dag"
+  },
+  "6436479735235889890": {
+    "message": "Påminnelse $2​, $1​"
+  },
+  "6450508807204492448": {
+    "message": "$1​-ikonet"
+  },
+  "6457802200418354862": {
+    "message": "Folk med lesetilgang kan laste ned"
+  },
+  "6459405233858728718": {
+    "message": "Google Presentasjoner"
+  },
+  "6464761738227651511": {
+    "message": "for $1​ minutt siden"
+  },
+  "6466736813846482957": {
+    "message": "Forrige"
+  },
+  "6479216014938929613": {
+    "message": "Natt ($1​)"
+  },
+  "6482358947077977110": {
+    "message": "Google Søk-bilder"
+  },
+  "6487403767449360463": {
+    "message": "Vil du laste in Keep på nytt?"
+  },
+  "6488225756782357866": {
+    "message": "Bildet du merket, ble funnet av Google Bildesøk på denne siden:"
+  },
+  "6510131849363684615": {
+    "message": "I morgen"
+  },
+  "6516256764288947999": {
+    "message": "Merk folk"
+  },
+  "6522917155620379865": {
+    "message": "Last ned"
+  },
+  "6524849072392100692": {
+    "message": "Google Disk-mappe"
+  },
+  "6551588617715293696": {
+    "message": "Sorteringsalternativer"
+  },
+  "6570921376519753466": {
+    "message": "Tittelskrifttyper"
+  },
+  "6571686604846453345": {
+    "message": "Det oppsto et problem med å legge til dette elementet i Disk."
+  },
+  "6582286158693833652": {
+    "message": "Finn ut mer"
+  },
+  "6588176324871799870": {
+    "message": "Google Apps-skript"
+  },
+  "6602430002978098812": {
+    "message": "Håndskrift"
+  },
+  "6614046405230762587": {
+    "message": "Fant ingen kontakter."
+  },
+  "6622304228074863427": {
+    "message": "App"
+  },
+  "6624754161346656119": {
+    "message": "$1​ brukerbilde."
+  },
+  "6644861766016503644": {
+    "message": "Krever passord"
+  },
+  "6650600936729710500": {
+    "message": "Svar."
+  },
+  "666311703374681171": {
+    "message": "Bilder og videoer"
+  },
+  "6666820082708870349": {
+    "message": "Fjern"
+  },
+  "6707173584987026005": {
+    "message": "I dag"
+  },
+  "6709984792949009238": {
+    "message": "Sist åpnet av meg"
+  },
+  "6726462693927865256": {
+    "message": "Detaljer"
+  },
+  "6726879257388338969": {
+    "message": "Skriv ut"
+  },
+  "6726925393892510846": {
+    "message": "Det oppsto en feil. Prøv på nytt."
+  },
+  "6741759391888465238": {
+    "message": "Lagrer til Disk – flytt til:"
+  },
+  "6744457949320515234": {
+    "message": "Tomt notat forkastet"
+  },
+  "6757218172402086688": {
+    "message": "Søk i notater"
+  },
+  "6780628488957834429": {
+    "message": "Oransje"
+  },
+  "6784073265197389491": {
+    "message": "Finn ut mer"
+  },
+  "681598652078493281": {
+    "message": "Finn ut mer"
+  },
+  "6818286476757207074": {
+    "message": "Bare velg bilder du har bekreftet at du har lisens til å bruke."
+  },
+  "682070933835616121": {
+    "message": "Du har ingen tabeller."
+  },
+  "6822338149422461362": {
+    "message": "Google Disk"
+  },
+  "6827821461670731013": {
+    "message": "Vis avmerkingsboksene"
+  },
+  "6828581947433060251": {
+    "message": "Det oppsto et problem med å gi elementet nytt navn."
+  },
+  "6833760103261954639": {
+    "message": "Det oppsto et problem under innlastingen av denne siden. Prøver på nytt …"
+  },
+  "6841020391100928352": {
+    "message": "Maksstørrelsen for filer er overskredet."
+  },
+  "6851307437837490686": {
+    "message": "Ikke la folk med lesetilgang laste ned"
+  },
+  "6856672816797218730": {
+    "message": "Legg ved"
+  },
+  "6891563484025164308": {
+    "message": "Forrige"
+  },
+  "6893687445500687349": {
+    "message": "Nettsteder"
+  },
+  "6898823203505321799": {
+    "message": "Detaljer"
+  },
+  "6904351530369058983": {
+    "message": "Eier"
+  },
+  "6905021988981026920": {
+    "message": "Videosøk"
+  },
+  "6922953828399110511": {
+    "message": "Lukk visningen"
+  },
+  "6929958461954697067": {
+    "message": "Bilder av deg"
+  },
+  "6939782595426687411": {
+    "message": "Legger til …"
+  },
+  "6940998537415516791": {
+    "message": "kl."
+  },
+  "695253297035211081": {
+    "message": "Tøm papirkurven"
+  },
+  "6967244066810487978": {
+    "message": "PAPIRKURV"
+  },
+  "6970167488058122005": {
+    "message": "ukjent forfatter"
+  },
+  "6976414863987386971": {
+    "message": "Skjemaer"
+  },
+  "7001938470263404128": {
+    "message": "Last opp"
+  },
+  "7002768663714031226": {
+    "message": "Oppdater"
+  },
+  "7004919150329996187": {
+    "message": "Fant ingen folk som samsvarer med kriteriene i denne kretsen."
+  },
+  "7054631817922169541": {
+    "message": "Google Keep har ulagrede endringer. Vil du avslutte siden og forkaste endringene dine?"
+  },
+  "7059437903473652416": {
+    "message": "Spill av YouTube-videoen $1​"
+  },
+  "7080196430479494775": {
+    "message": "Prøv på nytt"
+  },
+  "7084324152376766809": {
+    "message": "for $1​ dager siden"
+  },
+  "7084991134824194740": {
+    "message": "Minn meg på dette"
+  },
+  "7092062731478679314": {
+    "message": "Fant ingen kretser."
+  },
+  "7117183622067702162": {
+    "message": "Med Google Disk trenger du aldri å sende et eneste e-postvedlegg igjen. Bare del en link til en fil du har lagret på Google Disk, så har alle til enhver tid automatisk tilgang til samme versjon av den samme filen."
+  },
+  "713754035716193665": {
+    "message": "Ny liste"
+  },
+  "7146242673022399081": {
+    "message": "Tekst"
+  },
+  "7148992630785407972": {
+    "message": "Denne filen er passordbeskyttet og kan ikke forhåndsvises."
+  },
+  "7151987668860086450": {
+    "message": "Nettsøk"
+  },
+  "7153847618034547771": {
+    "message": "Aktiver"
+  },
+  "7161134329606048317": {
+    "message": "Lukk"
+  },
+  "7164532930742017984": {
+    "message": "Alle som har linken"
+  },
+  "7174189954350964804": {
+    "message": "Prøv på nytt"
+  },
+  "7177591028189992523": {
+    "message": "Flytt"
+  },
+  "7188754206068648188": {
+    "message": "Kommadelte data"
+  },
+  "7225837680381806920": {
+    "message": "Kveld ($1​)"
+  },
+  "722702934847795304": {
+    "message": "Project"
+  },
+  "7236199858216720905": {
+    "message": "Kart"
+  },
+  "7247530225058410142": {
+    "message": "$2​ $1​"
+  },
+  "7259352906118493156": {
+    "message": "Du har ingen nettsteder."
+  },
+  "7282548567245878869": {
+    "message": "Oppføringen er slettet"
+  },
+  "7295712436136900176": {
+    "message": "Last inn på nytt"
+  },
+  "7310311230493556740": {
+    "message": "Nettadresse"
+  },
+  "7339696241980105410": {
+    "message": "Videoen du valgte, finnes ikke lenger. Eieren kan ha fjernet den."
+  },
+  "7342923890755029722": {
+    "message": "Lukk"
+  },
+  "734478884582426793": {
+    "message": "Komprimert arkiv"
+  },
+  "7357017164339332230": {
+    "message": "Disse bildene er også tilgjengelige for visning og deling i $2​Picasa Nettalbum$1​, Googles gratistjeneste for bildedeling."
+  },
+  "736105042796745909": {
+    "message": "{VIEWER_GENDER,select, female{Opprett mappe}male{Opprett mappe}other{Opprett mappe}}"
+  },
+  "7362061801920948830": {
+    "message": "Last opp flere"
+  },
+  "7364571366369083618": {
+    "message": "Video"
+  },
+  "7377239345926788722": {
+    "message": "Handlinger"
+  },
+  "7380785991026002613": {
+    "message": "Resultatene som vises, er merket for gjenbruk."
+  },
+  "7382688299146249119": {
+    "message": "Last ned elementet"
+  },
+  "7383706174467122149": {
+    "message": "Notatet er slettet"
+  },
+  "7388342865555961406": {
+    "message": "om $1​ dag"
+  },
+  "7393771571081973549": {
+    "message": "C"
+  },
+  "740507516967994591": {
+    "message": "Åpne"
+  },
+  "7422452809590461532": {
+    "message": "Rød"
+  },
+  "7426603384368095928": {
+    "message": "Oppdater siden for å logge på igjen og fortsette arbeidet."
+  },
+  "7429084719905985261": {
+    "message": "Objective C"
+  },
+  "7432956605646331928": {
+    "message": "SQL"
+  },
+  "7440735091552109962": {
+    "message": "$2​ (redigert $1​)"
+  },
+  "7441891675459021164": {
+    "message": "Lagrer i Disk …"
+  },
+  "7451573821837395189": {
+    "message": "Elementet ble lagt til i $2​Disk$1​."
+  },
+  "7468322419516352788": {
+    "message": "Det oppsto et problem under oppdateringen av beskrivelsen."
+  },
+  "7488945223835574498": {
+    "message": "Postscript"
+  },
+  "7492710087472140422": {
+    "message": "Finn ut mer"
+  },
+  "7493919863870655172": {
+    "message": "Nettkamera"
+  },
+  "7500786109708143683": {
+    "message": "Lydopptaket er slettet"
+  },
+  "7501027876827009022": {
+    "message": "Resultatene som vises, er merket for kommersiell gjenbruk."
+  },
+  "7521272923988336579": {
+    "message": "Hold deg oppdatert ved å laste inn Keep på nytt."
+  },
+  "7532552995569296274": {
+    "message": "Tøm søket"
+  },
+  "7546994163355383999": {
+    "message": "Alle notater er lagret"
+  },
+  "7559208209275370228": {
+    "message": "Sist redigert av meg"
+  },
+  "7565383798249439151": {
+    "message": "om $1​ dager"
+  },
+  "7565870443143407759": {
+    "message": "Finn i dokumentet"
+  },
+  "7586291841734385643": {
+    "message": "Ny fane"
+  },
+  "7598582624136632660": {
+    "message": "Åpne søkefeltet / finn neste"
+  },
+  "7602870977118971161": {
+    "message": "Last inn på nytt"
+  },
+  "7610654194202731772": {
+    "message": "Slett"
+  },
+  "761925792744044896": {
+    "message": "Bruk som profilbilde"
+  },
+  "7630723924002267143": {
+    "message": "Hurtigtaster er aktivert."
+  },
+  "7640546114686970497": {
+    "message": "Kan ikke legge til flere elementer"
+  },
+  "7669846901402551021": {
+    "message": "I dag"
+  },
+  "7691521283331762131": {
+    "message": "Du kan se de arkiverte notatene dine her"
+  },
+  "772000107335590599": {
+    "message": "om $1​ minutter"
+  },
+  "7734578122414851725": {
+    "message": "PHP"
+  },
+  "7745005220197261896": {
+    "message": "Boksøk"
+  },
+  "7759846028901235026": {
+    "message": "Notatet er tatt ut fra arkivet"
+  },
+  "776065748745885880": {
+    "message": "mellomrom"
+  },
+  "7770982082843341533": {
+    "message": "Det er ingen elementer i denne mappen."
+  },
+  "779472474101127362": {
+    "message": "Ta et øyeblikksbilde"
+  },
+  "7800318069267901681": {
+    "message": "Endret"
+  },
+  "7805487598105530487": {
+    "message": "linjebundet"
+  },
+  "7814778057875152792": {
+    "message": "Det oppsto et problem med flyttingen av vedlegget til den valgte Google Disk-mappen."
+  },
+  "7820417126206702946": {
+    "message": "Resultatene som vises, er tilgjengelige for personlig eller kommersiell bruk bare på Google Disk, og kan ikke videreformidles eller selges på uavhengig basis."
+  },
+  "7822364282298323175": {
+    "message": "Listen er slettet"
+  },
+  "7830513726270865588": {
+    "message": "Kalender"
+  },
+  "7845751753397906805": {
+    "message": "Motstridende endringer er oppdaget"
+  },
+  "7852396628465259068": {
+    "message": "Profilbilde"
+  },
+  "7859526172011446452": {
+    "message": "Stopp castingen"
+  },
+  "78870906674150830": {
+    "message": "$3​$1​$2​"
+  },
+  "7895643887742936844": {
+    "message": "semikolon"
+  },
+  "7899833760457194273": {
+    "message": "Bildesøk"
+  },
+  "7899913952063063825": {
+    "message": "Bildet er slettet"
+  },
+  "7906726367011430855": {
+    "message": "Koble til"
+  },
+  "7910518224461588465": {
+    "message": "Gul"
+  },
+  "7953603850004320936": {
+    "message": "Forhåndsvisning er utilgjengelig."
+  },
+  "7957306528733096600": {
+    "message": "Prosessen er fullført"
+  },
+  "7960528690514646841": {
+    "message": "{moreCount,plural, =0{ubrukt flertallsform}=1{+ 1 annen}other{+ {moreCount} andre}}"
+  },
+  "7973635145070803181": {
+    "message": "Last opp bilder"
+  },
+  "7987180255015869513": {
+    "message": "Eller lim inn en nettadresse her:"
+  },
+  "8011497727123874703": {
+    "message": "Mappeknapp for $1​"
+  },
+  "8016231262233952856": {
+    "message": "Blågrønn"
+  },
+  "8019402848412685977": {
+    "message": "«$2​» endret navn til «$1​»."
+  },
+  "8023466614826324314": {
+    "message": "Bilder deles med et stort publikum."
+  },
+  "8043514121228710092": {
+    "message": "Legg til bilde"
+  },
+  "8044700199531805239": {
+    "message": "$3​$1​$2​ er tilkoblet."
+  },
+  "8069384932934428393": {
+    "message": "om $1​ minutt"
+  },
+  "8081927474846706026": {
+    "message": "Du har ingen tegninger."
+  },
+  "8090743714060857028": {
+    "message": "Folk med lesetilgang kan ikke laste ned"
+  },
+  "8095838445486198080": {
+    "message": "{FILE_SIZE,plural, =0{0 byte}=1{1 byte}other{# byte}}"
+  },
+  "8099047958506869131": {
+    "message": "{VIEWER_GENDER,select, female{Ny mappe}male{Ny mappe}other{Ny mappe}}"
+  },
+  "8100558294600077150": {
+    "message": "Bloggsøk"
+  },
+  "8105635255693472607": {
+    "message": "Legg til nye listeelementer"
+  },
+  "8106780183458743723": {
+    "message": "Fotoalbumer"
+  },
+  "8112699352770418817": {
+    "message": "Fant ingen bøker."
+  },
+  "8132410616064087953": {
+    "message": "Videoen er for lang (maksimal varighet er $1​ sekunder)."
+  },
+  "8135145577663029437": {
+    "message": "Behold begge"
+  },
+  "8146560259680897627": {
+    "message": "Avbryt"
+  },
+  "8158191101452862916": {
+    "message": "Sett inn bilder"
+  },
+  "8159493406018222636": {
+    "message": "Send tilbakemelding"
+  },
+  "8172945196588870035": {
+    "message": "Aktiviteter"
+  },
+  "8174654098152723289": {
+    "message": "Rediger beskrivelsen"
+  },
+  "8178754379486173416": {
+    "message": "{VIEWER_GENDER,select, female{Du har valgt svært få elementer. Velg noen elementer til.}male{Du har valgt svært få elementer. Velg noen elementer til.}other{Du har valgt svært få elementer. Velg noen elementer til.}}"
+  },
+  "8192378456655629049": {
+    "message": "Behandler videoen …"
+  },
+  "8193991135666622583": {
+    "message": "keep"
+  },
+  "821942580510564685": {
+    "message": "Skriv inn passordet for dette dokumentet for å se det"
+  },
+  "8239237134193392595": {
+    "message": "Varsler for posisjonspåminnelser vises bare på mobile enheter."
+  },
+  "8267458240960831780": {
+    "message": "Autentiserer ..."
+  },
+  "8281141013543828574": {
+    "message": "Raw-bilde"
+  },
+  "8281678863271800533": {
+    "message": "Bildefilter"
+  },
+  "8283103456188558313": {
+    "message": "Presentasjoner"
+  },
+  "8290434443655418968": {
+    "message": "{filesCount,plural, =0{unused plural form}=1{Opplasting av den valgte filen [{file}] støttes ikke.}other{Opplasting av de valgte filene [{files}] støttes ikke.}}"
+  },
+  "8304474373444239435": {
+    "message": "Svar fra $1​."
+  },
+  "8322416564157128458": {
+    "message": "Deling"
+  },
+  "8324195080917648153": {
+    "message": "Videoen får ikke plass her. Du må gjøre nettleservinduet ditt litt større."
+  },
+  "8337582740675387693": {
+    "message": "Java"
+  },
+  "8342684858400436871": {
+    "message": "tab"
+  },
+  "8379952094517631162": {
+    "message": "Nei"
+  },
+  "8409393124758970712": {
+    "message": "$2​ x $1​"
+  },
+  "8412684147928483084": {
+    "message": "Svart"
+  },
+  "8435544675017330861": {
+    "message": "Ingen elementer samsvarer med søket ditt."
+  },
+  "8436817383042650304": {
+    "message": "caps-lock"
+  },
+  "8451184312655705174": {
+    "message": "Hvis nettadressen er riktig, ser du en forhåndsvisning her. Hvis bildet er stort, kan det ta noen minutter før det vises."
+  },
+  "8467894483369467251": {
+    "message": "Flash"
+  },
+  "8506198918368329269": {
+    "message": "Resultatene som vises, er merket for kommersiell gjenbruk med endringer."
+  },
+  "8571315158566081191": {
+    "message": "Du har ingen regneark."
+  },
+  "8580600056399054303": {
+    "message": "Angi hvor nye eller markerte elementer skal plasseres"
+  },
+  "8595175575778060149": {
+    "message": "Mer"
+  },
+  "8596257056433048992": {
+    "message": "Velkommen til"
+  },
+  "8616342546716995946": {
+    "message": "Greit"
+  },
+  "8621067185485606452": {
+    "message": "ECMAScript"
+  },
+  "8638281560898810401": {
+    "message": "{MINUTES,plural, =0{null minutter }=1{ett minutt }other{# minutter }}{SECONDS,plural, =0{0 sekunder.}=1{1 sekund.}other{# sekunder.}}"
+  },
+  "863955692838281739": {
+    "message": "Lukk"
+  },
+  "8643398764569428530": {
+    "message": "Vil du tillate at Google Keep viser varsler?"
+  },
+  "8652566647088230560": {
+    "message": "Intern testing – konfidensielt"
+  },
+  "8660016472468563221": {
+    "message": "kolon"
+  },
+  "8663507590720636709": {
+    "message": "$1​ +$2​ andre"
+  },
+  "8666643061920113075": {
+    "message": "{VIEWER_GENDER,select, female{Lim inn nettadressen til et bilde her:}male{Lim inn nettadressen til et bilde her:}other{Lim inn nettadressen til et bilde her:}}"
+  },
+  "8674222789100049233": {
+    "message": "Lukk"
+  },
+  "86815590954366945": {
+    "message": "Arkivert innholdsliste"
+  },
+  "8709611758728645225": {
+    "message": "pg-down"
+  },
+  "8711002053494037632": {
+    "message": "Avmerkingen er fjernet for alle elementene"
+  },
+  "8748281640412284111": {
+    "message": "Bilder fra en bildedatabase"
+  },
+  "8759520888087120926": {
+    "message": "Du har ingen skript."
+  },
+  "8775097441636640256": {
+    "message": "$2​ – $1​"
+  },
+  "8780212274435014958": {
+    "message": "Kretser"
+  },
+  "8781837301864053001": {
+    "message": "Rik tekst"
+  },
+  "8792038552136453044": {
+    "message": "Beklager, noe gikk galt."
+  },
+  "8793166064242077041": {
+    "message": "Det oppsto et problem med å vise dette bildet."
+  },
+  "8813101408630252335": {
+    "message": "$1​ sek"
+  },
+  "8820281478062782578": {
+    "message": "Søk"
+  },
+  "8822326207328431952": {
+    "message": "Bildeopplastinger er ikke tilgjengelige"
+  },
+  "8840223453482998505": {
+    "message": "Valgt mappe $1​"
+  },
+  "8845176264121061589": {
+    "message": "Fjern avmerkingen for alle elementene"
+  },
+  "8850238112725591771": {
+    "message": "snarvei $1​"
+  },
+  "8852550049823214385": {
+    "message": "deretter"
+  },
+  "8883744193208363722": {
+    "message": "En appoppdatering er tilgjengelig."
+  },
+  "8884900765322249670": {
+    "message": "Listevisning"
+  },
+  "8889019648958415451": {
+    "message": "Ukjent fil"
+  },
+  "8911996820409711834": {
+    "message": "Flytt teksten til et nytt listeelement \u0026raquo;"
+  },
+  "8916237870980173557": {
+    "message": "Kobler til ..."
+  },
+  "8917554093651202032": {
+    "message": "Spill av $1​"
+  },
+  "8919660666733306860": {
+    "message": "Bilde"
+  },
+  "8930959387403789939": {
+    "message": "Påminnelse"
+  },
+  "8943760679396635042": {
+    "message": "Viser $1​."
+  },
+  "8953555255469284376": {
+    "message": "Slipp bilder her"
+  },
+  "8979615310931291676": {
+    "message": "Redigert $1​"
+  },
+  "8986044948621891903": {
+    "message": "Skriv inn søkeordene i feltet ovenfor for å finne resultater på nettet ved hjelp av Google Nettsøk."
+  },
+  "901615442107785480": {
+    "message": "Arkivnotat/liste"
+  },
+  "9024023699330078373": {
+    "message": "Hvis du åpner dette elementet, blir det lagt til på Disk-området ditt"
+  },
+  "9028041601596584772": {
+    "message": "Posisjon"
+  },
+  "9058308423774656474": {
+    "message": "Hangul Word Processor"
+  },
+  "9083935734710258396": {
+    "message": "Ikke godta"
+  },
+  "9094248058931620597": {
+    "message": "Detaljpanelet er skjult."
+  },
+  "9114674068220302553": {
+    "message": "som vedlegg"
+  },
+  "911586799466052745": {
+    "message": "OpenOffice Draw"
+  },
+  "9130962320402467249": {
+    "message": "Kommersielle bilder"
+  },
+  "9146716987301178362": {
+    "message": "Det oppsto en feil. Last inn siden på nytt."
+  },
+  "9165877886714239857": {
+    "message": "Kan ikke ta bildeteksten. Prøv på nytt senere."
+  },
+  "916773043895242978": {
+    "message": "Bildenettadressen du har oppgitt ovenfor, er feil eller kan ikke lastes inn. Oppgi riktig nettadresse for bildet."
+  },
+  "9173629944963872598": {
+    "message": "Fant ingen aktiviteter."
+  },
+  "9182500445937900938": {
+    "message": "Lukk"
+  },
+  "9195941533351099011": {
+    "message": "Laster opp $1​ av $2​"
+  },
+  "9197837492705576727": {
+    "message": "Gå til neste element"
+  },
+  "919969969251998566": {
+    "message": "Pakk ut dette arkivet til e-postkontoen din."
+  },
+  "9203542510134660095": {
+    "message": "Utpakking startet. Innholdet i arkivet vises i Disk i mappen «$1​»."
+  },
+  "940276535015195877": {
+    "message": "Du har ingen mapper."
+  },
+  "943493480163896757": {
+    "message": "{resultCount,plural, =1{# treff i notater}other{# treff i notater}}"
+  },
+  "951963820437151566": {
+    "message": "Google Nettsteder"
+  },
+  "95809842507987016": {
+    "message": "Slett"
+  },
+  "963611681085757795": {
+    "message": "Beklager, vi kan ikke generere visning av dokumentet nå."
+  },
+  "96556988207614774": {
+    "message": "Kalendere"
+  },
+  "974042541427403929": {
+    "message": "Blå"
+  },
+  "980395722421409371": {
+    "message": "Fant ingen kart."
+  },
+  "982187142411651629": {
+    "message": "Lukk"
+  },
+  "985197728509875956": {
+    "message": "Kjemisk modell"
+  },
+  "996381410993745580": {
+    "message": "Photoshop"
+  },
+  "998727788921602971": {
+    "message": "Videoer"
+  },
+  "appDesc": {
+    "description": "App description",
+    "message": "Skriv kjapt ned det du tenker på, og få påminnelser til rett tid og på rett sted."
+  },
+  "appName": {
+    "description": "App name.",
+    "message": "Google Keep – notater og lister"
+  }
+}
