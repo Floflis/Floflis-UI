@@ -113,6 +113,12 @@ icon span {
 	color: #fff;
 }
 
+icon > div > img {
+width: 25px;
+height: 25px;
+position: absolute;
+}
+
 launcher.tiles{padding:50px}
 
 tile.medium {
