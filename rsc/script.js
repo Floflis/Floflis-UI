@@ -18,8 +18,7 @@ function destroywhite() {
 	document.getElementById('handle-line').style.background='rgba(255, 255, 255, 0.5)';
 }
 
-jQuery(document).ready(function($){
-
+$(document).ready(function(){
 	/*---------------------------------
 		Tabs system from 99Lime.com HTML KickStart by Joshua Gatcke
 	-----------------------------------*/
@@ -47,19 +46,20 @@ jQuery(document).ready(function($){
 	});
 
  	// tab hashtag identification and auto-focus
-    	var wantedTag = window.location.hash;
-    	if (wantedTag != "")
-    	{
-			// This code can and does fail, hard, killing the entire app.
-			// Esp. when used with the jQuery.Address project.
-			try {
-				var allTabs = $("ul.tabs a[href^=" + wantedTag + "]").parents('ul.tabs').find('li');
-				var defaultTab = allTabs.filter('.current').find('a').attr('href');
-				$(defaultTab).hide();
-				allTabs.removeClass('current');
-				$("ul.tabs a[href^=" + wantedTag + "]").parent().addClass('current');
-				$("#" + wantedTag.replace('#','')).show();
-			} catch(e) {
-				// I have no idea what to do here, so I'm leaving this for the maintainer.
-			}
-    	}
+  	var wantedTag = window.location.hash;
+	if (wantedTag != "") {
+	// This code can and does fail, hard, killing the entire app.
+	// Esp. when used with the jQuery.Address project.
+		try {
+			var allTabs = $("ul.tabs a[href^=" + wantedTag + "]").parents('ul.tabs').find('li');
+			var defaultTab = allTabs.filter('.current').find('a').attr('href');
+			$(defaultTab).hide();
+			allTabs.removeClass('current');
+			$("ul.tabs a[href^=" + wantedTag + "]").parent().addClass('current');
+			$("#" + wantedTag.replace('#','')).show();
+		}
+		catch(e) {
+			// I have no idea what to do here, so I'm leaving this for the maintainer.
+		}
+	}
+});
