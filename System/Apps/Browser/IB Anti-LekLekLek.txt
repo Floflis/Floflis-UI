@@ -1,3 +1,0 @@
-Bloquear iframes que contenham .blogspot.com
-Bloquear redirects em blogspot.com
-Bloquear swfs que abrem varias abas ao mesmo tempo
