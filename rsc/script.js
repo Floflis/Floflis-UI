@@ -1,7 +1,3 @@
-window.onload = function() {
-	document.getElementById("bootscreen").style.display = "none"
-}
-
 function godash() {
 	document.getElementById('dashboardbutton').style.display='block';
 }
