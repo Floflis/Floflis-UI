@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <!-- Domingo, ‎23‎ de ‎março‎ de ‎2014. Dia em que comecei à programar o principal aplicativo do Screens, o Desktop.app. O app responsável por manipular todas as telas. Hoje, quarta-feira, dia 30 de abril de 2014, dia em que retornei com toda a sede na progamação da desktop. Para mim, é um prazer programar (sei que o "programar" está incorreto, mas mim dexa u.u), e é um prazer saber do prazer que as pessoas terão ao utilizar isso, principalmente a Paula e a Anne, amores de minha vida. Está muito gostoso fazer isso, e quero agradecer à pessoa que estiver lendo isso pelo entusiasmo de fuçar o código do Screens, e espero que possa contribuir com minha amada criaturinha :3
 À uns anos atrás, tive a ideia de um sistema operacional poderoso, (foderoso HUEHUEBR), leve, amigável, semântico, seguro, incrível. Um sistema em que todos podem usar ou editar com facilidade, graças à utilização do HTML5, CSS e Javascript (e uma grande pitada da API do Screens). Um sistema com uma comunidade aberta e pronto para ouvir e aplicar sugestões, por mais loucas que fossem, dos usuários. Aliás, loucura é o meu ponto forte. Criar loucamente é minha maior paixão. Um ano depois, soube da existência do Tizen. Não dei muita bola. Mas no ano seguinte, li mais sobre ele. Descobri que ele seria em HTML5, também. Fiquei arrasado. Mesmo assim, decidi continuar com minha bola. Estou escrevendo isso agora num momento crítico, sou pobre e não sei se um dia o Screens dará certo, com uma concorrência tão Esmagadora e um mundo onde... todos querem ter o seu próprio. Um mundo onde usuários querem ser Pod. Enfim, vejam um print do que estou fazendo agora:
 http://prntscr.com/3f14kf
@@ -13,8 +13,10 @@ Te amo Deus, te amo Mãe, te amo Pai, te amo Paula, te amo Anne. 30/04/14 -->
 </head>
 <body>
 	<header id="header" style="background: #FFD700">
-		<img src="img/icon.svg" class="togglenav screensicon" onclick="$('#navmenu').toggle(); return false;">
-		<input type="text" value="Dashboard" size="10" class="navlocal" style="color: #333">
+	<div class="togglemenu" onclick="$('#navmenu').toggle(); return false;">
+		  	<img src="img/icon.svg" class="icon">
+		  	<span class="navlocal" style="color: #333">Dashboard</span>
+	  	</div>
 		<div class="alertsbtn" title="Notifications" onclick="$('#alerts-div').toggle(); return false;">
 		  	<span class="abtndata">03/08/2014</span>
 		  	<span class="abtnhour">16:01</span>
@@ -38,7 +40,11 @@ Te amo Deus, te amo Mãe, te amo Pai, te amo Paula, te amo Anne. 30/04/14 -->
 		<icon><img src="studio/icon.svg"><span>Eyes</span></icon>
 		<icon><img src="studio/icon.svg"><span>Health</span></icon>
 		<icon><img src="studio/icon.svg"><span>Remote Control</span></icon>
-<icon><div><img src="System/Apps/Writer/icon.svg" style="width:30px;height:30px;top:15px"><img src="System/Apps/Slides/icon.svg"><img src="System/Apps/Tables/icon.svg"></div><span>Group Exam...</span></icon>
+		<icon><img src="System/Apps/Communicator/icon.svg"><span>Communicator</span></icon>
+		<icon><img src="studio/icon.svg"><span>Notes</span></icon>
+		<icon><img src="studio/icon.svg"><span>Tumblr</span></icon>
+		<icon><img src="studio/icon.svg"><span>Eu sei</span></icon>
+		<icon><img src="studio/icon.svg"><span>Explorer</span></icon>
 	</launcher>
 	<div id="systemoverview">
 		<nav>
