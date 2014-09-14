@@ -1,12 +1,3 @@
-function godash() {
-	document.getElementById('dashboardbutton').style.display='block';
-}
-function destroygodash() {
-	document.getElementById('dashboardbutton').style.display='none';
-}
-function destroygodash() {
-	document.getElementById('dashboardbutton').style.display='none';
-}
 function whiteline() {
 	document.getElementById('handle-line').style.background='#fff';
 }
