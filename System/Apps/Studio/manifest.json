@@ -1,4 +1,13 @@
 {
+   "name": "__MSG_appName__",
+   "description": "__MSG_appDesc__",
+   "version": "1.0.0",
+   "developer": {
+    "name": "Plasmmer",
+    "url": "http://www.plasmmer.com/apps"
+  },
+   "appshop_id": "anynumber",
+   "manifest_version": 1,
    "app": {
       "background": {
          "scripts": [ "nobgfunctionyet.js" ]
@@ -7,7 +16,6 @@
    "icons": {
       "launcher": "icon.svg",
       "navbar": "icon.svg"
-      "navbar_mini": "icon.svg"
    },
    "tiles": {
       "small": "icon_128.png",
@@ -45,12 +53,6 @@
          "Link": [ "linkicon.svg", "internal_file_clicker" ]
       }
    },
-   "manifest_version": 1,
-   "name": "__MSG_appName__",
-   "description": "__MSG_appDesc__",
-   "appshop_id": "anynumber",
-   "default_language": "en",
-   "version": "1.0.0",
    "oauth2": {
       "client_id": "192748556389-u13aelnnjsmn5df1voa2d3oimlbd8led.apps.googleusercontent.com",
       "scopes": [ "https://www.googleapis.com/auth/memento", "https://www.googleapis.com/auth/client_channel" ]
