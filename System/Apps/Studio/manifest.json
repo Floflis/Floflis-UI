@@ -8,6 +8,7 @@
   },
    "appshop_id": "anynumber",
    "manifest_version": 1,
+   "default_language": "en",
    "app": {
       "background": {
          "scripts": [ "nobgfunctionyet.js" ]
