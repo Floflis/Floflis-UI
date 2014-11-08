@@ -1,0 +1,21 @@
+launcher icon {
+width: 106px !important;
+height: 106px !important;
+background: purple;
+margin: 10px 10px 0 0 !important;
+text-align: center !important;
+}
+
+launcher icon img {
+width: 50px !important;
+height: 50px !important;
+-webkit-filter: drop-shadow(12px 12px 25px rgba(0,0,0,0.5));
+}
+
+icon span {
+display: block;
+font-family: Arial;
+font-size: 12px;
+text-shadow: #000 0 3px 2px;
+color: #fff;
+}
