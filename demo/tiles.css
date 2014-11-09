@@ -1,13 +1,5 @@
 .tiled{background:black}
-
-launcher.tiled icon {
-width: 106px;
-height: 106px;
-background: purple;
-margin: 10px 10px 0 0;
-padding: 0;
-}
-
+launcher.tiled icon{width:106px;height:106px;background:purple;margin:10px 10px 0 0;padding:0}
 launcher.tiled icon:hover{box-shadow:inset 0 0 5px 5px rgb(76, 0, 76)}
 launcher.tiled icon:active{box-shadow:inset 0 0 5px 10px rgb(76, 0, 76)}
 
@@ -16,5 +8,4 @@ width: 50px;
 height: 50px;
 -webkit-filter: drop-shadow(12px 12px 25px rgba(0,0,0,0.5));
 }
-
 launcher.tiled icon span{text-shadow:none}
