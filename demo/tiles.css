@@ -6,6 +6,6 @@ launcher.tiled icon:active{box-shadow:inset 0 0 5px 10px rgb(76, 0, 76)}
 launcher.tiled icon img {
 width: 50px;
 height: 50px;
--webkit-filter: drop-shadow(12px 12px 25px rgba(0,0,0,0.5));
+-webkit-filter: none;
 }
 launcher.tiled icon span{text-shadow:none}
