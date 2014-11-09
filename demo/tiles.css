@@ -1,25 +1,20 @@
-.tiled {
-background: black;
-}
+.tiled{background:black}
 
-launcher icon {
-width: 106px !important;
-height: 106px !important;
+launcher.tiled icon {
+width: 106px;
+height: 106px;
 background: purple;
-margin: 10px 10px 0 0 !important;
-text-align: center !important;
+margin: 10px 10px 0 0;
+padding: 0;
 }
 
-launcher icon img {
-width: 50px !important;
-height: 50px !important;
+launcher.tiled icon:hover{box-shadow:inset 0 0 5px 5px rgb(76, 0, 76)}
+launcher.tiled icon:active{box-shadow:inset 0 0 5px 10px rgb(76, 0, 76)}
+
+launcher.tiled icon img {
+width: 50px;
+height: 50px;
 -webkit-filter: drop-shadow(12px 12px 25px rgba(0,0,0,0.5));
 }
 
-icon span {
-display: block;
-font-family: Arial;
-font-size: 12px;
-text-shadow: #000 0 3px 2px;
-color: #fff;
-}
+launcher.tiled icon span{text-shadow:none}
