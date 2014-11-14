@@ -1,2 +1,7 @@
 body{zoom:2}
 launcher.tiled icon span{font-size:18px}
+
+.togglemenu{width:calc(100% + -171px)}
+.alertsbtn{width:110px}
+.abtnhour{font-size:24px}
+.abtndata{font-size:18px}
