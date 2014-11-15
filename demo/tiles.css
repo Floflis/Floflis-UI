@@ -10,7 +10,3 @@ height: 50px;
 -webkit-filter: none;
 }
 launcher.tiled icon span{text-shadow:none}
-
-launcher.tiled icon.imaged:hover{box-shadow:inset 0 0 5px 5px rgb(0, 0, 0)}
-launcher.tiled icon.imaged:active{box-shadow:inset 0 0 5px 10px rgb(0, 0, 0)}
-launcher.tiled icon.imaged span{text-shadow:#000 0 3px 2px}
