@@ -1,0 +1,1 @@
+Gerenciador de Tarefas do Browser, imbutido. Do explorer tambem. Apps serao integrados com o gerenciador mais legal do mundo ;)

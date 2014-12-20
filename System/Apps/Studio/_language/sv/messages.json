@@ -1,0 +1,2488 @@
+{
+   "1006787209796778126": {
+      "message": "Min enhet"
+   },
+   "1017907757187630742": {
+      "message": "Mina teckensnitt"
+   },
+   "1029072043275376320": {
+      "message": "Inga kalendrar hittades."
+   },
+   "1030781695901615026": {
+      "message": "Nederst"
+   },
+   "103870949919613488": {
+      "message": "Anteckningen har arkiverats"
+   },
+   "1039394921418415681": {
+      "message": "Logga in"
+   },
+   "1083918249169198626": {
+      "message": "Kortkommandon inaktiverade."
+   },
+   "1090919586152138659": {
+      "message": "Bildbyrå"
+   },
+   "1101371910696766077": {
+      "message": "Gör en kopia"
+   },
+   "1107413433574576014": {
+      "message": "Rubriken är för lång. Markerad text sparas inte."
+   },
+   "1127320433256851404": {
+      "message": "Videospelare"
+   },
+   "1162642135048988280": {
+      "message": "Byt namn på dokument"
+   },
+   "1166244120191806795": {
+      "message": "Skicka feedback"
+   },
+   "1179891706526242218": {
+      "message": "Nästa"
+   },
+   "1185164838496022543": {
+      "message": "Klicka här om du vill läsa in sidan igen."
+   },
+   "1185644932132585290": {
+      "message": "$1​ tecken kvar"
+   },
+   "1213005208968286932": {
+      "message": "Markera som löst"
+   },
+   "1263557413037343589": {
+      "message": "Ordna foton"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1311350045083871503": {
+      "message": "Avbryt"
+   },
+   "1311729747516144362": {
+      "message": "Röda"
+   },
+   "1315844696796851207": {
+      "message": "Sans Serif"
+   },
+   "1319037146426591038": {
+      "message": "eller"
+   },
+   "132822872080714863": {
+      "message": "OK"
+   },
+   "133192954417440569": {
+      "message": "Inga resultat hittades."
+   },
+   "1349697396109290623": {
+      "message": "Visar högre upplösning av $1​"
+   },
+   "1376126796144976437": {
+      "message": "Alla teckensnitt"
+   },
+   "139942704574044780": {
+      "message": "Godkänn"
+   },
+   "141491180325662484": {
+      "message": "Med Google Drive går det att spara alla filer på en plats och få åtkomst till dem var du än befinner dig och från alla enheter. När du har foton på Google Drive går det att dela dem direkt med dina cirklar här."
+   },
+   "1418114637490664392": {
+      "message": "LIFE-fotoarkiv"
+   },
+   "1419896259743862406": {
+      "message": "Öppna med"
+   },
+   "1440171352837969028": {
+      "message": "Video/ljud"
+   },
+   "1441487391064925653": {
+      "message": "Visa alla genvägar i Hjälpcenter"
+   },
+   "1446829548948002072": {
+      "message": "komma"
+   },
+   "1454684154234137497": {
+      "message": "pause"
+   },
+   "1459765068821943106": {
+      "message": "{VIEWER_GENDER,select, female{Klistra in YouTube-webbadressen här:}male{Klistra in YouTube-webbadressen här:}other{Klistra in YouTube-webbadressen här:}}"
+   },
+   "1463079206290378085": {
+      "message": "Foton i Orkut"
+   },
+   "1463389029497634261": {
+      "message": "Sänk volymen"
+   },
+   "1475179211173444554": {
+      "message": "Alla med länken på domänen"
+   },
+   "1492360016907725281": {
+      "message": "{VIEWER_GENDER,select, female{Klistra in en videowebbadress här:}male{Klistra in en videowebbadress här:}other{Klistra in en videowebbadress här:}}"
+   },
+   "1493251742569121894": {
+      "message": "Anteckningen är för lång. Markerad text sparas inte."
+   },
+   "1493384967280942491": {
+      "message": "Rosa"
+   },
+   "1499433769420882987": {
+      "message": "Visar $1​"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1521707405717823409": {
+      "message": "Lila"
+   },
+   "153439508598626384": {
+      "message": "Dina foton"
+   },
+   "1536051766421561160": {
+      "message": "likhetstecken"
+   },
+   "156992719062713230": {
+      "message": "Grå"
+   },
+   "1586968957182554447": {
+      "message": "Inaktivera"
+   },
+   "1588268697057804046": {
+      "message": "för $1​ timmar sedan"
+   },
+   "1603139897109307706": {
+      "message": "Fel, försök igen"
+   },
+   "1604359562654146902": {
+      "message": "Foton"
+   },
+   "1633370388224271051": {
+      "message": "Inga personer hittades."
+   },
+   "1633798963327779260": {
+      "message": "I morgon"
+   },
+   "1654222450095043962": {
+      "message": "Ljud"
+   },
+   "1656911987308166143": {
+      "message": "Ta bort"
+   },
+   "1665821947855814052": {
+      "message": "Storlek"
+   },
+   "1692901784886701962": {
+      "message": "Anteckningen är för stor."
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700522311470719738": {
+      "message": "Påminn mig"
+   },
+   "1701312243672511585": {
+      "message": "Flytta text till en ny anteckning &raquo;"
+   },
+   "1709410429018687341": {
+      "message": "Morgon ($1​)"
+   },
+   "1715552550526864429": {
+      "message": "Sök efter bloggar"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1739900012825270238": {
+      "message": "Fortsätt till föregående objekt"
+   },
+   "1756171223417807431": {
+      "message": "Se till att bilden är offentlig. Om bilden skyddas av ett lösenord eller finns i ett internt nätverk går den inte att läsa."
+   },
+   "1759957963056319953": {
+      "message": "Återvänd från $1​"
+   },
+   "1783719421893050637": {
+      "message": "Mått"
+   },
+   "178927681797742562": {
+      "message": "Logga in"
+   },
+   "1791115075948268631": {
+      "message": "Öppna hjälp till kortkommandon"
+   },
+   "1808245543551507519": {
+      "message": "Ljud"
+   },
+   "1816851800848432562": {
+      "message": "Ta bort"
+   },
+   "1818306025747564729": {
+      "message": "Öppna länken"
+   },
+   "1823222042913714987": {
+      "message": "Skicka lösenord"
+   },
+   "1823854753950594157": {
+      "message": "Kvar på samma plats"
+   },
+   "1830157062072535681": {
+      "message": "Visar $1​"
+   },
+   "185012928288875755": {
+      "message": "Det finns inga objekt som matchar kriterierna."
+   },
+   "1856444915090632305": {
+      "message": "Dokumentet är krypterat. Ange ett lösenord."
+   },
+   "1866863108233180413": {
+      "message": "Mappar"
+   },
+   "187077078156858455": {
+      "message": "Ljudanteckning"
+   },
+   "189303170370862360": {
+      "message": "$1​ av $2​ objekt"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901351411358749070": {
+      "message": "Delade med mig"
+   },
+   "1913425963149828429": {
+      "message": "Extrahera arkivet till Drive."
+   },
+   "1918176455405610789": {
+      "message": "Klart"
+   },
+   "1920189655549476211": {
+      "message": "okänd längd"
+   },
+   "1929603188252533075": {
+      "message": "Det gick inte att ta bort videoklippet. Försök igen."
+   },
+   "1951810091681076784": {
+      "message": "{COUNT_1,plural, =1{en matchande anteckning}other{{COUNT_2} matchande anteckningar}}"
+   },
+   "1956794332842050061": {
+      "message": "Nästa sida"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1968405748623909021": {
+      "message": "Testa någon av apparna nedan om du vill öppna eller redigera det här objektet"
+   },
+   "1974063091619095703": {
+      "message": "Personer"
+   },
+   "1988244842147989817": {
+      "message": "Anteckningar som har flyttats till papperskorgen raderas efter sju dagar."
+   },
+   "1993674829873313178": {
+      "message": "Har du problem med överföringen? Underhåll pågår, men snart är allt som vanligt igen."
+   },
+   "2003845117979929469": {
+      "message": "Detaljer"
+   },
+   "2048322072989992494": {
+      "message": "Ingen har ännu delat filer med dig!"
+   },
+   "2055836117545582610": {
+      "message": "Listinställningar"
+   },
+   "2059084517358086391": {
+      "message": "Stäng sökfältet"
+   },
+   "2061440050632248160": {
+      "message": "Arkivera"
+   },
+   "2068023589621557589": {
+      "message": "TrueType-teckensnitt"
+   },
+   "2073035325657060696": {
+      "message": "Det finns ingen förhandsgranskning."
+   },
+   "2073322475696388995": {
+      "message": "Hoppa framåt"
+   },
+   "207810168108507460": {
+      "message": "för $1​ timme sedan"
+   },
+   "2109272338124379867": {
+      "message": "Senast ändrat"
+   },
+   "2116013171202209313": {
+      "message": "Välj"
+   },
+   "2122256657192674586": {
+      "message": "Sök efter videor"
+   },
+   "2125135092719715773": {
+      "message": "Överför"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "213665695896111861": {
+      "message": "Anteckningar"
+   },
+   "2138593281154109183": {
+      "message": "Arkiv"
+   },
+   "2147952938331523160": {
+      "message": "Byt namn ..."
+   },
+   "2154372123324862271": {
+      "message": "snedstreck"
+   },
+   "2154940358270068005": {
+      "message": "Behåll borttagna anteckningar en stund till"
+   },
+   "2184278444368405837": {
+      "message": "$1​ poster"
+   },
+   "2187239650627580457": {
+      "message": "Skicka"
+   },
+   "2198096971937872560": {
+      "message": "Påminnelse:"
+   },
+   "220168959069469607": {
+      "message": "Fler åtgärder"
+   },
+   "221715292685577880": {
+      "message": "Ja"
+   },
+   "2220005860896049129": {
+      "message": "Det tog för lång tid att hitta dokumentet på den ursprungliga platsen."
+   },
+   "2228413078211839077": {
+      "message": "Ett tillfälligt problem med att förhandsvisa dokumentet har uppstått."
+   },
+   "2235097878790803849": {
+      "message": "Hej då bilagor. Hej, Google Drive."
+   },
+   "2257303402199718039": {
+      "message": "Det gick inte att hitta dokumentet på den ursprungliga platsen. Kontrollera att dokumentet fortfarande finns."
+   },
+   "2274436793504233543": {
+      "message": "Avbryt"
+   },
+   "2278224983638451454": {
+      "message": "Skaffa den nu"
+   },
+   "2280650195464600721": {
+      "message": "Navigering"
+   },
+   "2285069188138705005": {
+      "message": "Anslutna appar"
+   },
+   "2289534534793293486": {
+      "message": "Ångra arkivering"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Höj volymen"
+   },
+   "230180475614658119": {
+      "message": "Klart"
+   },
+   "2304293593067358316": {
+      "message": "Clip art"
+   },
+   "2310145944356900158": {
+      "message": "Markerade"
+   },
+   "2311880726221661199": {
+      "message": "Läser in högre upplösningar"
+   },
+   "2329167963662998826": {
+      "message": "Google Keep vill använda din plats för att förbättra förslag på platser för platsbaserade påminnelser."
+   },
+   "234046557601727809": {
+      "message": "Det finns inga bilder eller videor."
+   },
+   "2349912757088764940": {
+      "message": "Visas för:"
+   },
+   "2359614137862708172": {
+      "message": "Skift"
+   },
+   "2370463380397641604": {
+      "message": "Populära kortkommandon"
+   },
+   "2370656573843123707": {
+      "message": "höger hakparentes"
+   },
+   "2393487423640708285": {
+      "message": "Webbadressen är inte giltig. Kontrollera att den börjar med http:// eller https://."
+   },
+   "2405795704816921421": {
+      "message": "Filen $1​"
+   },
+   "2412314804333167252": {
+      "message": "Det här kalkylarket är för stort. Klicka för att $3​hämta$1​ eller $4​redigera i Google Kalkylark$1​."
+   },
+   "2418104318933043113": {
+      "message": "Google Bilder"
+   },
+   "2433429041384246549": {
+      "message": "Ljud av"
+   },
+   "2449254824382583885": {
+      "message": "Nytt fönster"
+   },
+   "2452522051596946166": {
+      "message": "Hoppsan! Det gick inte att förhandsgranska $1​. Försöker igen."
+   },
+   "2454642351139428112": {
+      "message": "Ångra"
+   },
+   "2466251465475184755": {
+      "message": "Vill du tömma papperskorgen? Alla anteckningar i papperskorgen tas bort permanent."
+   },
+   "2475181823688399272": {
+      "message": "Nästa"
+   },
+   "2484568559152875936": {
+      "message": "Det finns inga fotoalbum."
+   },
+   "2504232652631703202": {
+      "message": "Ansluten"
+   },
+   "251025074207413762": {
+      "message": "Lägg till en beskrivning"
+   },
+   "2510929871271209216": {
+      "message": "Det här kalkylarket är för stort. Klicka $2​här$1​ för att hämta det."
+   },
+   "2513437337377210144": {
+      "message": "end"
+   },
+   "2524021436052870191": {
+      "message": "Det går inte att överföra filen. Det finns endast stöd för $1​-filer som är mindre än $2​ MB."
+   },
+   "2532280782491328445": {
+      "message": "Sök föregående"
+   },
+   "2538080331309772448": {
+      "message": "Sortera: $1​"
+   },
+   "2538462904124380434": {
+      "message": "Anteckningen har flyttats till papperskorgen"
+   },
+   "2546225293834487484": {
+      "message": "Anteckning"
+   },
+   "2555961950726197809": {
+      "message": "Öppnar visningsprogrammet."
+   },
+   "2558480112329900136": {
+      "message": "Gråa"
+   },
+   "257317112834806705": {
+      "message": "Växla mellan lista och rutnätsvy"
+   },
+   "2579679351920691492": {
+      "message": "Hoppa bakåt"
+   },
+   "2587566920590457715": {
+      "message": "Maps Engine Lite"
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609750184896485102": {
+      "message": "Videoklipp från mobilen"
+   },
+   "2615188670181508661": {
+      "message": "Du har inte markerat något!"
+   },
+   "2623861453769098676": {
+      "message": "Det gick inte att förhandsgranska dokumentet."
+   },
+   "2628268670001557269": {
+      "message": "Kvot"
+   },
+   "2643241712502664984": {
+      "message": "Dina YouTube-videoklipp"
+   },
+   "2661850177130037208": {
+      "message": "Öppna objekt"
+   },
+   "2681830832355823748": {
+      "message": "Sök efter alla genvägar"
+   },
+   "2687303256387847763": {
+      "message": "Popularitet"
+   },
+   "2702485557996900362": {
+      "message": "Korrigera redigeringar som står i konflikt med varandra"
+   },
+   "2705842902318123127": {
+      "message": "Navigera till nästa/föregående anteckning/lista"
+   },
+   "272948685355798518": {
+      "message": "En ogiltig filtyp har valts."
+   },
+   "2731144323070245943": {
+      "message": "Listinställningar"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2750830436677712001": {
+      "message": "{VIEWER_GENDER,select, female{Det gick inte att skapa {FOLDER_NAME}.}male{Det gick inte att skapa {FOLDER_NAME}.}other{Det gick inte att skapa {FOLDER_NAME}.}}"
+   },
+   "2752123004911547510": {
+      "message": "Trender"
+   },
+   "2758125083752925237": {
+      "message": "(Ägare)"
+   },
+   "277430914014962533": {
+      "message": "Hoppsan! Det gick inte att förhandsgranska $1​."
+   },
+   "2774713922589657910": {
+      "message": "Alla på domänen"
+   },
+   "2786560864906393383": {
+      "message": "Foton från telefon"
+   },
+   "2789687492331041935": {
+      "message": "Välj en tid"
+   },
+   "2790446494460492805": {
+      "message": "Extraheringen har påbörjats. Arkiverade meddelanden visas i e-postkontot under etiketten Import: $1​."
+   },
+   "2793841261389879255": {
+      "message": "Föregående sida"
+   },
+   "2801153442808430222": {
+      "message": "Min enhet"
+   },
+   "2817277146396981386": {
+      "message": "em"
+   },
+   "2818020101821669029": {
+      "message": "Skapades"
+   },
+   "2818135503416309545": {
+      "message": "Spela in en video"
+   },
+   "2827039933590757722": {
+      "message": "Windows-genväg"
+   },
+   "2829226075651806940": {
+      "message": "Zooma in"
+   },
+   "2860188519781080944": {
+      "message": "Orange"
+   },
+   "2861568351294148466": {
+      "message": "Skript"
+   },
+   "2864281852037732729": {
+      "message": "Färre"
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Pausa"
+   },
+   "2878874627361086801": {
+      "message": "förhandsgranskning"
+   },
+   "2879276552944958066": {
+      "message": "Gå tillbaka till mappen $1​."
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2902747751281161248": {
+      "message": "Tillämpa på nya listor"
+   },
+   "2905147317995482841": {
+      "message": "Visningen av alla filer i Google Drive har uppdaterats och är nu snyggare och enklare att använda. Vi hoppas att du gillar det nya utseendet!"
+   },
+   "2917498437550635075": {
+      "message": "Ikon"
+   },
+   "2964778642459027786": {
+      "message": "Det finns inga anteckningar i papperskorgen"
+   },
+   "2974598228601710262": {
+      "message": "Lägg till"
+   },
+   "2979466412944870220": {
+      "message": "Läser in förhandsgranskning ..."
+   },
+   "2982511431742033448": {
+      "message": "Det finns inga presentationer."
+   },
+   "298817883481775869": {
+      "message": "Läser in …"
+   },
+   "3000689173481666334": {
+      "message": "Redigera cirkeln"
+   },
+   "3029395493413607486": {
+      "message": "Det gick inte att läsa in videospelaren. Testa med att läsa in sidan på nytt.$1​Besök $3​hjälpcentret$2​ om problemet kvarstår."
+   },
+   "3043961722025425136": {
+      "message": "Beskrivning"
+   },
+   "306516303501625305": {
+      "message": "Autentisering misslyckades."
+   },
+   "3073005748126521632": {
+      "message": "Påmind vid $1​"
+   },
+   "3074184819310272351": {
+      "message": "Överförda foton"
+   },
+   "3084372889071691504": {
+      "message": "{VIEWER_GENDER,select, female{Klistra in en webbadress här:}male{Klistra in en webbadress här:}other{Klistra in en webbadress här:}}"
+   },
+   "3095645856215493958": {
+      "message": "Hitta tryckt text i foton"
+   },
+   "31018542656161389": {
+      "message": "Zooma till anpassad storlek"
+   },
+   "3109321241584918345": {
+      "message": "Anslut fler appar …"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "om $1​ timmar"
+   },
+   "3189854932778515441": {
+      "message": "Anteckningen är i arkivet"
+   },
+   "3207670492626476064": {
+      "message": "Tabeller"
+   },
+   "3211163842850942567": {
+      "message": "Zooma in"
+   },
+   "3222929029344613957": {
+      "message": "Det gick inte att öppna filen. Försök igen."
+   },
+   "3233388241926683100": {
+      "message": "Sök i anteckningarna"
+   },
+   "3243829462528324248": {
+      "message": "Bruna"
+   },
+   "3250489229749307913": {
+      "message": "Elektronisk publikation"
+   },
+   "3256928852560591255": {
+      "message": "Det går inte att redigera anteckningar som ligger i papperskorgen"
+   },
+   "3261131345401321392": {
+      "message": "Får kommentera"
+   },
+   "3265524298292280681": {
+      "message": "esc"
+   },
+   "3267563602179728277": {
+      "message": "delete"
+   },
+   "3272496516667407797": {
+      "message": "Det gick inte att läsa in informationen."
+   },
+   "3275029321588462173": {
+      "message": "Ingen"
+   },
+   "3278237562147211998": {
+      "message": "Bildbyråbilder"
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3306487262690341751": {
+      "message": "Datum och tid"
+   },
+   "3312545971976531405": {
+      "message": "Meddelande"
+   },
+   "3319087486907616296": {
+      "message": "Casta det här objektet"
+   },
+   "3328129883064940351": {
+      "message": "Teckensnitt"
+   },
+   "3335409796971631780": {
+      "message": "Extraherar till Drive."
+   },
+   "3343451103608774400": {
+      "message": "Nu lanserar vi den $3​nya funktionen Mina kartor.$2​$1​Bättre kartverktyg."
+   },
+   "3354260708176476985": {
+      "message": "Läser in &hellip;"
+   },
+   "3357778055650785985": {
+      "message": "Posten är för lång. Markerad text sparas inte."
+   },
+   "3364679383274077479": {
+      "message": "Uppdatering tillgänglig för appen"
+   },
+   "3368639944474272225": {
+      "message": "Det går inte att hämta dokumentet och visa det, eller också saknar du behörighet att visa dokumentet."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Öppna"
+   },
+   "3408219901032480508": {
+      "message": "$2​; $1​"
+   },
+   "3409257542937182842": {
+      "message": "Försöker igen ..."
+   },
+   "3409483962000136213": {
+      "message": "Spela upp/pausa"
+   },
+   "3418767079436101103": {
+      "message": "Det gick inte att läsa in den här sidan."
+   },
+   "3421685394169412932": {
+      "message": "Alla ändringar sparas automatiskt."
+   },
+   "3422389100099960864": {
+      "message": "Det finns inga bilder."
+   },
+   "3428726060007577698": {
+      "message": "Listan är för stor."
+   },
+   "3430885603500576146": {
+      "message": "Välj endast bilder som du har bekräftat att du har licens att använda."
+   },
+   "3440534675925634227": {
+      "message": "Öppna chrome://settings i Chrome-webbläsare och kontrollera att du är inloggad. Klicka sedan på Logga in igen."
+   },
+   "3446158485617778228": {
+      "message": "Ångra"
+   },
+   "3448234415275521882": {
+      "message": "Allmän info"
+   },
+   "3448684788258660606": {
+      "message": "Dina foton"
+   },
+   "3450585781337676327": {
+      "message": "Läser in ..."
+   },
+   "3457279184692206825": {
+      "message": "Foton visas för alla (offentliga på webben)."
+   },
+   "3468441711253011521": {
+      "message": "Google Kalkylark"
+   },
+   "3473620774713000513": {
+      "message": "Löst"
+   },
+   "3483438888494819423": {
+      "message": "Nyheter i Google Keep"
+   },
+   "3511274344439521198": {
+      "message": "Åtgärder"
+   },
+   "3518073392823563581": {
+      "message": "Kortkommandon"
+   },
+   "3531603810713611778": {
+      "message": "Den maximala filstorleken har överskridits. Ta bort en eller flera filer."
+   },
+   "3543475399174940144": {
+      "message": "+$1​"
+   },
+   "3547194749488601916": {
+      "message": "Uppdaterar ..."
+   },
+   "354828103903104581": {
+      "message": "Markerade poster"
+   },
+   "3561658662634401836": {
+      "message": "Rubrik"
+   },
+   "357172711168973843": {
+      "message": "Nya anteckningar och nyligen gjorda ändringar har inte sparats. Gör en egen kopia av innehållet och läs sedan in sidan igen."
+   },
+   "3586705906700410505": {
+      "message": "Linjeteckning"
+   },
+   "3587798318180902863": {
+      "message": "{NUM_SELECTED,plural, =1{ valt »}other{ valda »}}"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3602920441714068008": {
+      "message": "Påmind den $1​ kl. $2​"
+   },
+   "3608606849109645545": {
+      "message": "Ange ett nytt dokumentnamn:"
+   },
+   "361202495024972887": {
+      "message": "Överför videoklipp"
+   },
+   "361630518611593946": {
+      "message": "Dölj kryssrutor"
+   },
+   "3625886392901506764": {
+      "message": "eller"
+   },
+   "3643146117250542609": {
+      "message": "Det finns inga PDF-filer."
+   },
+   "3645728163953189422": {
+      "message": "Det går inte att hämta dokumentet och visa det eftersom det är för stort."
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "omvänt snedstreck"
+   },
+   "3659554681396757189": {
+      "message": "Öppnades senast av mig"
+   },
+   "3663571259791438207": {
+      "message": "Anmäl otillåten användning"
+   },
+   "3664842788764635265": {
+      "message": "Ingen"
+   },
+   "3666123569747918021": {
+      "message": "Det finns ändringar som inte sparats i det här dokumentet. Vill du lämna sidan och ignorera ändringarna?"
+   },
+   "3673346558112798837": {
+      "message": "Ingen bakgrund"
+   },
+   "3674811252904549204": {
+      "message": "Bakgrundsfoton"
+   },
+   "3678477908297567934": {
+      "message": "understreck"
+   },
+   "3681747688524363195": {
+      "message": "Överst"
+   },
+   "3690515530505404607": {
+      "message": "Det gick inte att spela det här videoklippet."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Inga objekt}=1{1 objekt}other{# objekt}}"
+   },
+   "3712215972250917265": {
+      "message": "Kommentarer"
+   },
+   "3717138719704492547": {
+      "message": "Kontrollera att det inte finns stavfel i adressen."
+   },
+   "374088101949877889": {
+      "message": "Stäng"
+   },
+   "3745308627628779133": {
+      "message": "Ny mapp"
+   },
+   "3748461364828242354": {
+      "message": "Välj färg"
+   },
+   "3770795578481676514": {
+      "message": "Gul"
+   },
+   "3771958676925493302": {
+      "message": "Ta bort filter: $1​"
+   },
+   "3779945546806941187": {
+      "message": "Monokroma"
+   },
+   "3793086499925031123": {
+      "message": "Öppna sökfältet/sök föregående"
+   },
+   "37992665410817181": {
+      "message": "Öppnad på nytt"
+   },
+   "3801617971018550169": {
+      "message": "I går"
+   },
+   "3808213429720572062": {
+      "message": "Återställ"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3842411126100113634": {
+      "message": "pg-up"
+   },
+   "3844047145949375230": {
+      "message": "Dokument"
+   },
+   "3858324058837632381": {
+      "message": "Det gick inte att spela den här ljudfilen."
+   },
+   "3864575916269080329": {
+      "message": "Sökbara bilder"
+   },
+   "3866373087987934712": {
+      "message": "Överföringen misslyckades: $1​"
+   },
+   "3869166581651870488": {
+      "message": "Avsluta redigering"
+   },
+   "3873215756962047275": {
+      "message": "ARKIV"
+   },
+   "3873467440437675460": {
+      "message": "Det gick inte att hitta tidigare valda teckensnitt."
+   },
+   "3897281533382850749": {
+      "message": "Ljud på"
+   },
+   "3936153839186254186": {
+      "message": "Visa: $1​"
+   },
+   "3955760658925284765": {
+      "message": "Försök igen"
+   },
+   "3974064131130689245": {
+      "message": "Rutnätsvy"
+   },
+   "3977699855735576796": {
+      "message": "Det gick inte att läsa in fler sidor."
+   },
+   "3988418762222300024": {
+      "message": "punkt"
+   },
+   "3989552504822984034": {
+      "message": "Google Teckningar"
+   },
+   "4005725939358875643": {
+      "message": "Åtgärden har ångrats."
+   },
+   "4014287326684608407": {
+      "message": "Blågrön"
+   },
+   "4048275292053012394": {
+      "message": "Kontakter"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4067915791853673774": {
+      "message": "{VIEWER_GENDER,select, female{Stäng}male{Stäng}other{Stäng}}"
+   },
+   "4078179869358383373": {
+      "message": "Inga resultat hittades."
+   },
+   "4087667435414545203": {
+      "message": "Inte längre inloggad. Läs in sidan på nytt om du vill göra ändringar."
+   },
+   "4093134637041332383": {
+      "message": "LÄS MER"
+   },
+   "4097007735221462946": {
+      "message": "Teckningar"
+   },
+   "4097921967754832323": {
+      "message": "bindestreck"
+   },
+   "4100504115801514799": {
+      "message": "Anteckningen har återställts"
+   },
+   "4119294114251628099": {
+      "message": "Det gick inte att hämta webbadressen för bilden som du angav. Det kan röra sig om en privat webbadress som våra servrar inte kommer åt. Försök med en annan webbadress."
+   },
+   "4134385041569168669": {
+      "message": "Läser in …"
+   },
+   "4148564423510181521": {
+      "message": "Rensa sökning"
+   },
+   "4152315289461886": {
+      "message": "Dokumentkontroller"
+   },
+   "4168280976997555951": {
+      "message": "Det finns inga dokument."
+   },
+   "4174786386751618325": {
+      "message": "Fotoanteckning"
+   },
+   "4182427157920112948": {
+      "message": "tilde"
+   },
+   "4200426647595470259": {
+      "message": "Spela upp ljudfilen"
+   },
+   "4200911267543705377": {
+      "message": "Ange sökorden i rutan ovan när du vill leta efter bloggar med Google Bloggsök."
+   },
+   "4205329094859140439": {
+      "message": "fm"
+   },
+   "4211182812451835307": {
+      "message": "Får redigera"
+   },
+   "4211806608204126222": {
+      "message": "$2​Användarvillkor$1​"
+   },
+   "4214190403999219403": {
+      "message": "Zoom"
+   },
+   "4230101516585408149": {
+      "message": "Skriv en ny anteckning"
+   },
+   "4253741616909644861": {
+      "message": "Sökord"
+   },
+   "4280747719095153198": {
+      "message": "Löst kommentar"
+   },
+   "4286663890332754386": {
+      "message": "Överföringen misslyckades."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4314643310615423802": {
+      "message": "Du loggades ut."
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4319229296464464147": {
+      "message": "Tillagd den"
+   },
+   "4320831042030778": {
+      "message": "Avbryt"
+   },
+   "4332252081504252077": {
+      "message": "Hoppsan!"
+   },
+   "4338991104991831337": {
+      "message": "Bilder"
+   },
+   "4339705658383891586": {
+      "message": "Fullfärg"
+   },
+   "4343825450663233452": {
+      "message": "Får visa"
+   },
+   "4343836986248234462": {
+      "message": "Post i listan"
+   },
+   "435214284915110062": {
+      "message": "Öppna sökfältet"
+   },
+   "4372755508519489521": {
+      "message": "Rutnätsvy"
+   },
+   "4391715930031906467": {
+      "message": "Sök nästa"
+   },
+   "4395845663892873002": {
+      "message": "home"
+   },
+   "4422985761498356257": {
+      "message": "Öppna med"
+   },
+   "4430062722430863019": {
+      "message": "Vill du radera anteckningen permanent?"
+   },
+   "4439812492856303238": {
+      "message": "Ett oväntat fel inträffade när ditt val bearbetades. Försök igen senare."
+   },
+   "4444571967705751871": {
+      "message": "Papperskorgen"
+   },
+   "4466605492523079635": {
+      "message": "Spara"
+   },
+   "4468872996560163913": {
+      "message": "Töm Papperskorgen nu"
+   },
+   "4473912481270012588": {
+      "message": "Har sparats på Drive – flytta till:"
+   },
+   "45228242181482134": {
+      "message": "Spela upp"
+   },
+   "4536519876526589338": {
+      "message": "Avatar för $1​."
+   },
+   "4552045407215325033": {
+      "message": "Videowebbadressen som du angav ovan är felaktig eller går inte att läsa in. Kontrollera att den stämmer och att den kommer från en webbplats som stöds."
+   },
+   "4564682305303579317": {
+      "message": "Fortsätt"
+   },
+   "456498742882714639": {
+      "message": "Flytta till:"
+   },
+   "4588500131398315347": {
+      "message": "Skapa en cirkel"
+   },
+   "4604402426271704651": {
+      "message": "Inget foto"
+   },
+   "4620034373159179678": {
+      "message": "Sida $1​ av $2​"
+   },
+   "4630690108252818511": {
+      "message": "Inga bilder hittades."
+   },
+   "468283184702431827": {
+      "message": "Förlopp startat"
+   },
+   "4695897771458936174": {
+      "message": "Dela foton från Google Drive på Google+"
+   },
+   "4740100782728373253": {
+      "message": "Spara på Drive"
+   },
+   "4748046231232264180": {
+      "message": "Google Formulär"
+   },
+   "4767722428137216885": {
+      "message": "Avbryt"
+   },
+   "477328789314249432": {
+      "message": "Sök i anteckningar"
+   },
+   "4775368111547931093": {
+      "message": "Ingen beskrivning"
+   },
+   "4781742940361705258": {
+      "message": "Stäng"
+   },
+   "4783695823456312682": {
+      "message": "Flytta längst ned"
+   },
+   "47844150329705564": {
+      "message": "Sökresultat för $1​"
+   },
+   "4798897505978458661": {
+      "message": "Inga videor hittades."
+   },
+   "4805047680716507619": {
+      "message": " – Flytta till:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7 Signature"
+   },
+   "4833214200453019325": {
+      "message": "$1​ av $2​"
+   },
+   "4846720038197420778": {
+      "message": "Anslut fler appar"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Anteckningen är i papperskorgen"
+   },
+   "4888104357342241891": {
+      "message": "Påminnelser"
+   },
+   "4889853674709731963": {
+      "message": "Alla anteckningar sparade offline"
+   },
+   "4901386320110714275": {
+      "message": "Lösenordet är fel. Försök igen."
+   },
+   "490372259452655427": {
+      "message": "Det går inte att visa det här dokumentet ännu."
+   },
+   "4906669330059413958": {
+      "message": "Skicka lösenord"
+   },
+   "4908614808966678155": {
+      "message": "Inga sökresultat för $1​"
+   },
+   "4926020998477695737": {
+      "message": "Byt till mappen $1​"
+   },
+   "4943176738805484221": {
+      "message": "redigera"
+   },
+   "4956678140555659175": {
+      "message": "backsteg"
+   },
+   "4957674814179289955": {
+      "message": "Navigera till nästa/föregående listobjekt"
+   },
+   "4963784280521435720": {
+      "message": "Sparar ..."
+   },
+   "4969219890884320840": {
+      "message": "Uppdatera"
+   },
+   "4983125135476400111": {
+      "message": "Flytta anteckningen/listan till papperskorgen"
+   },
+   "4988132901627446385": {
+      "message": "Informationspanelen har expanderats."
+   },
+   "4998757387516632837": {
+      "message": "Visade resultat är märkta för återanvändning med modifiering."
+   },
+   "5006225450559627366": {
+      "message": "+$1​ till"
+   },
+   "501475221876543407": {
+      "message": "Anteckningar som du lägger till visas här"
+   },
+   "5023525794410110078": {
+      "message": "Lägg till text i foto"
+   },
+   "5026241297254150381": {
+      "message": "Ny anteckning"
+   },
+   "5046371569383796818": {
+      "message": "Behåll"
+   },
+   "5055418092354683641": {
+      "message": "Serif"
+   },
+   "5095987896933771566": {
+      "message": "Skriv ut dokumentet"
+   },
+   "5096751700090310607": {
+      "message": "Det finns inga foton."
+   },
+   "509815948423424872": {
+      "message": "Navigering"
+   },
+   "5099245668405591445": {
+      "message": "Sök"
+   },
+   "512429649443191386": {
+      "message": "$2​Hjälp$1​"
+   },
+   "5124522868502261563": {
+      "message": "Kalkylark"
+   },
+   "5130903421326358933": {
+      "message": "Det gick inte att spara den bifogade filen i Google Drive."
+   },
+   "5149937870346466591": {
+      "message": "Listvy"
+   },
+   "5169187962228219813": {
+      "message": "Verkliga bilder"
+   },
+   "5180454621500142444": {
+      "message": "Återställ"
+   },
+   "5180989337128758117": {
+      "message": "vänster hakparentes"
+   },
+   "5184692850089055965": {
+      "message": "Hämta text ur bild"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Flikfältet Information. Byt flik genom att trycka på vänster och höger piltangent."
+   },
+   "5204391636475413312": {
+      "message": "Spara"
+   },
+   "5213411023807957844": {
+      "message": "Sök i Google Keep"
+   },
+   "5213974294317036409": {
+      "message": "{numPages,plural, =0{}=1{en sida}other{# sidor}}"
+   },
+   "5226470917948786938": {
+      "message": "Alfabetisk"
+   },
+   "5238003680997310998": {
+      "message": "Fler"
+   },
+   "5238371081785912565": {
+      "message": "Öppna med $1​"
+   },
+   "5275493935807628890": {
+      "message": "Det går inte att hitta bilden på den här webbadressen."
+   },
+   "5281121179861637423": {
+      "message": "Ett lösenord krävs för att öppna $1​. Ange lösenordet"
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5291153964865714504": {
+      "message": "Det finns inga matchande anteckningar"
+   },
+   "5299648222246616124": {
+      "message": "grav accent"
+   },
+   "5304869088141363028": {
+      "message": "Foton som visas"
+   },
+   "5316658541831864803": {
+      "message": "Det går inte att visa den här dokumenttypen."
+   },
+   "5319313176242717957": {
+      "message": "Bilderna bearbetas …"
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "534228323125524312": {
+      "message": "Zooma ut"
+   },
+   "5353129315502554762": {
+      "message": "CSS"
+   },
+   "5372143986724491245": {
+      "message": "för $1​ dag sedan"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5399553230649155346": {
+      "message": "om $1​ timme"
+   },
+   "5403830377590414208": {
+      "message": "Vita"
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5438481737351808090": {
+      "message": "Eftermiddag ($1​)"
+   },
+   "544377415081282702": {
+      "message": "Beklagar."
+   },
+   "5447119197363232006": {
+      "message": "Visa på Drive"
+   },
+   "5465323999933375616": {
+      "message": "Du har nått bandbreddsgränsen för visning eller hämtning av filer som inte har Google Dokument-format."
+   },
+   "5472312735475866917": {
+      "message": "Kommentar från $1​."
+   },
+   "547865385964196102": {
+      "message": "för $1​ minuter sedan"
+   },
+   "5482872484546230111": {
+      "message": "Sök efter böcker"
+   },
+   "5494181290179470995": {
+      "message": "Ta bort"
+   },
+   "5500117709595533163": {
+      "message": "Ange sökorden i rutan ovan när du vill leta efter e-böcker med Google Böcker."
+   },
+   "5514516347328112388": {
+      "message": "Du kan också försöka hämta originaldokumentet genom att klicka $2​här$1​."
+   },
+   "5529532831767466284": {
+      "message": "{VIEWER_GENDER,select, female{{DEGREES}° {MINUTES}' {SECONDS}\"}male{{DEGREES}° {MINUTES}' {SECONDS}\"}other{{DEGREES}° {MINUTES}' {SECONDS}\"}}"
+   },
+   "5555182241047709329": {
+      "message": "Välj en plats"
+   },
+   "5555599189512365009": {
+      "message": "JAG FATTAR"
+   },
+   "5571842632470308750": {
+      "message": "Alla typer"
+   },
+   "5588597116382648727": {
+      "message": "Påbörjar extraheringen."
+   },
+   "5598649706113950710": {
+      "message": "Redigerare"
+   },
+   "5609727719971819773": {
+      "message": "{VIEWER_GENDER,select, female{Tillbaka}male{Tillbaka}other{Tillbaka}}"
+   },
+   "5627470193961862490": {
+      "message": "Anteckningar med påminnelser visas här"
+   },
+   "5631086126416409232": {
+      "message": "Blå"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5660422479531064559": {
+      "message": "Det finns inga formulär."
+   },
+   "5675154446465700699": {
+      "message": "PDF-filer"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Vill du ta bort markerade poster?"
+   },
+   "5714240424645614611": {
+      "message": "Android-paket"
+   },
+   "5728640851616538925": {
+      "message": "Grön"
+   },
+   "5744491383087191878": {
+      "message": "Bildwebbadressen som du angav ovan är inkorrekt eller går inte att läsa in."
+   },
+   "5747728324987383020": {
+      "message": "Ansikten"
+   },
+   "5783875011049188612": {
+      "message": "Text hämtad ur bild"
+   },
+   "5785010887521443923": {
+      "message": "Ta bort"
+   },
+   "5834678297024555032": {
+      "message": "Tillåt"
+   },
+   "5840330517914556080": {
+      "message": "Zooma ut"
+   },
+   "5842536098490298653": {
+      "message": "Inga teckensnitt hittades."
+   },
+   "5865680764501413616": {
+      "message": "Ingen text identifierades."
+   },
+   "5871966496153339793": {
+      "message": "Visar miniatyrbild av videoklippet $1​"
+   },
+   "5875004331736681428": {
+      "message": "Extrahera till ditt e-postkonto."
+   },
+   "587666071025645113": {
+      "message": "Sök"
+   },
+   "5877526626743756786": {
+      "message": "Feedback"
+   },
+   "5889725440363483648": {
+      "message": "Alla i gruppen"
+   },
+   "5911012384539794869": {
+      "message": "Det gick inte att påbörja extraheringen."
+   },
+   "5916010927050975496": {
+      "message": "$1​ kB"
+   },
+   "5949528478488617689": {
+      "message": "Hämta behörighet"
+   },
+   "5950887255133612666": {
+      "message": "Har inte startats."
+   },
+   "5969696744752069015": {
+      "message": "Förhandsgranskning är inte tillgänglig."
+   },
+   "5971400924847413790": {
+      "message": "Du kan även visa $2​vanlig HTML$1​ (automatisk omdirigering)."
+   },
+   "5972111804366033138": {
+      "message": "Hämta"
+   },
+   "5975031149676029214": {
+      "message": "Ingen åldersgräns"
+   },
+   "5976369213680241300": {
+      "message": "Sök efter bilder"
+   },
+   "5980081664136280513": {
+      "message": "Gröna"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusionstabeller"
+   },
+   "6009962986062136164": {
+      "message": "Läser in $1​."
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6043068172993241858": {
+      "message": "Det finns ingen i denna cirkel."
+   },
+   "604883455412617728": {
+      "message": "Inga kontakter matchade din sökning."
+   },
+   "6051386830221821025": {
+      "message": "Loggar in ..."
+   },
+   "6064654062949366878": {
+      "message": "Spela upp"
+   },
+   "6070475007374165567": {
+      "message": "Sparar ..."
+   },
+   "6083586461434260179": {
+      "message": "Ny visningsupplevelse"
+   },
+   "6087078248621415351": {
+      "message": "Ändrades $1​"
+   },
+   "6091926883608250483": {
+      "message": "Mer"
+   },
+   "6105571474005679446": {
+      "message": "Det gick inte att förhandsgranska."
+   },
+   "6113237889871930608": {
+      "message": "Tom anteckning"
+   },
+   "6118623991445349480": {
+      "message": "Sidan $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Applista"
+   },
+   "6149175749937815029": {
+      "message": "Visa alla objekt"
+   },
+   "6160805346274626656": {
+      "message": "Ta bort permanent"
+   },
+   "616807262818311711": {
+      "message": "Typ"
+   },
+   "6175043905327075444": {
+      "message": "Tidigare valda"
+   },
+   "6177107655089301674": {
+      "message": "Hämta appen Google Keep för Android"
+   },
+   "6185886893933834031": {
+      "message": "Behåll markerade"
+   },
+   "6186290899408627510": {
+      "message": "retur"
+   },
+   "6189891414154673003": {
+      "message": "Mina kartor"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Alla"
+   },
+   "623118860067088424": {
+      "message": "Videoklipp"
+   },
+   "6231401379881217113": {
+      "message": "insert"
+   },
+   "6252259197986158120": {
+      "message": "I går"
+   },
+   "6253076263700695984": {
+      "message": "Autentiseringsfel. Läs in igen."
+   },
+   "6255475144867830247": {
+      "message": "Välj från andra navigeringsflikar."
+   },
+   "6267063643272327592": {
+      "message": "Försök igen senare."
+   },
+   "6290270819062517523": {
+      "message": "För många objekt har valts. Avmarkera ett eller flera."
+   },
+   "6305748545202493254": {
+      "message": "Visa/dölj informationspanelen"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6331677437567501421": {
+      "message": "Det gick inte att uppdatera hämtningsbehörigheten."
+   },
+   "6333496730738019575": {
+      "message": "Läser in …"
+   },
+   "634900089121611600": {
+      "message": "Det finns inga videor."
+   },
+   "6362170008350775214": {
+      "message": "Påminnelse vid $1​"
+   },
+   "6375395544374251820": {
+      "message": "Det gick inte att läsa in fler sidor. Försöker igen ..."
+   },
+   "6376739025584042564": {
+      "message": "Beskär foto"
+   },
+   "6386587519843563719": {
+      "message": "Binärfil"
+   },
+   "6416495701611778255": {
+      "message": "Föreslagna appar från tredje part"
+   },
+   "6419411265907669340": {
+      "message": "I dag"
+   },
+   "6436479735235889890": {
+      "message": "Påminnelse den $1​ kl. $2​"
+   },
+   "6450508807204492448": {
+      "message": "Ikon för $1​"
+   },
+   "6457802200418354862": {
+      "message": "Personer som visar filen får hämta den"
+   },
+   "6459405233858728718": {
+      "message": "Google Presentationer"
+   },
+   "6464761738227651511": {
+      "message": "för $1​ minut sedan"
+   },
+   "6466736813846482957": {
+      "message": "Föregående"
+   },
+   "6479216014938929613": {
+      "message": "Natt ($1​)"
+   },
+   "6482358947077977110": {
+      "message": "Bilder i Google Sök"
+   },
+   "6487403767449360463": {
+      "message": "Vill du läsa in Keep igen?"
+   },
+   "6488225756782357866": {
+      "message": "Bilden som du markerade hittades av Google bildsökning på den här sidan:"
+   },
+   "6510131849363684615": {
+      "message": "I morgon"
+   },
+   "6516256764288947999": {
+      "message": "Tagga personer"
+   },
+   "6522917155620379865": {
+      "message": "Hämta"
+   },
+   "6524849072392100692": {
+      "message": "Google Drive-mapp"
+   },
+   "6551588617715293696": {
+      "message": "Sorteringsalternativ"
+   },
+   "6570921376519753466": {
+      "message": "Skärm"
+   },
+   "6571686604846453345": {
+      "message": "Det gick inte att lägga till objektet i Drive."
+   },
+   "6582286158693833652": {
+      "message": "Läs mer"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6602430002978098812": {
+      "message": "Handskrift"
+   },
+   "6614046405230762587": {
+      "message": "Inga kontakter hittades."
+   },
+   "6622304228074863427": {
+      "message": "App"
+   },
+   "6624754161346656119": {
+      "message": "Avatar för $1​."
+   },
+   "6644861766016503644": {
+      "message": "Lösenord krävs"
+   },
+   "6650600936729710500": {
+      "message": "Svar."
+   },
+   "666311703374681171": {
+      "message": "Bilder och videor"
+   },
+   "6666820082708870349": {
+      "message": "Ta bort"
+   },
+   "6707173584987026005": {
+      "message": "I dag"
+   },
+   "6709984792949009238": {
+      "message": "Senast öppnat av mig"
+   },
+   "6726462693927865256": {
+      "message": "Detaljer"
+   },
+   "6726879257388338969": {
+      "message": "Skriv ut"
+   },
+   "6726925393892510846": {
+      "message": "Det uppstod ett fel. Försök igen."
+   },
+   "6741759391888465238": {
+      "message": "Sparar på Drive – flytta till:"
+   },
+   "6744457949320515234": {
+      "message": "Den tomma anteckningen slängs"
+   },
+   "6757218172402086688": {
+      "message": "Sök i anteckningar …"
+   },
+   "6780628488957834429": {
+      "message": "Orange"
+   },
+   "6784073265197389491": {
+      "message": "Läs mer"
+   },
+   "681598652078493281": {
+      "message": "Läs mer"
+   },
+   "6818286476757207074": {
+      "message": "Välj endast bilder som du har bekräftat att du har licens att använda."
+   },
+   "682070933835616121": {
+      "message": "Det finns inga tabeller."
+   },
+   "6822338149422461362": {
+      "message": "Google Drive"
+   },
+   "6827821461670731013": {
+      "message": "Visa kryssrutor"
+   },
+   "6828581947433060251": {
+      "message": "Det gick inte att byta namn på objektet."
+   },
+   "6833760103261954639": {
+      "message": "Det gick inte att läsa in den här sidan. Försöker igen ..."
+   },
+   "6841020391100928352": {
+      "message": "Den maximala filstorleken har överskridits."
+   },
+   "6851307437837490686": {
+      "message": "Hindra personer som visar filen att hämta den"
+   },
+   "6856672816797218730": {
+      "message": "Bifoga"
+   },
+   "6891563484025164308": {
+      "message": "Föregående"
+   },
+   "6893687445500687349": {
+      "message": "Webbplatser"
+   },
+   "6898823203505321799": {
+      "message": "Detaljer"
+   },
+   "6904351530369058983": {
+      "message": "Ägare"
+   },
+   "6905021988981026920": {
+      "message": "Videosökning"
+   },
+   "6922953828399110511": {
+      "message": "Stäng visningsprogrammet"
+   },
+   "6929958461954697067": {
+      "message": "Foton på dig"
+   },
+   "6939782595426687411": {
+      "message": "Lägger till ..."
+   },
+   "6940998537415516791": {
+      "message": "kl."
+   },
+   "695253297035211081": {
+      "message": "Töm papperskorgen"
+   },
+   "6967244066810487978": {
+      "message": "FLYTTADE TILL PAPPERSKORGEN"
+   },
+   "6970167488058122005": {
+      "message": "okänd skribent"
+   },
+   "6976414863987386971": {
+      "message": "Formulär"
+   },
+   "7001938470263404128": {
+      "message": "Överför"
+   },
+   "7002768663714031226": {
+      "message": "Uppdatera"
+   },
+   "7004919150329996187": {
+      "message": "Inga matchande personer hittades i den här cirkeln."
+   },
+   "7054631817922169541": {
+      "message": "Google Keep har ändringar som inte är sparade. Vill du lämna sidan utan att spara ändringarna?"
+   },
+   "7059437903473652416": {
+      "message": "Spela upp YouTube-videoklippet $1​"
+   },
+   "7080196430479494775": {
+      "message": "Försök igen"
+   },
+   "7084324152376766809": {
+      "message": "för $1​ dagar sedan"
+   },
+   "7084991134824194740": {
+      "message": "Påminn mig"
+   },
+   "7092062731478679314": {
+      "message": "Inga cirklar hittades."
+   },
+   "7117183622067702162": {
+      "message": "Med Google Drive behöver du aldrig mer skicka e-postbilagor. Dela bara en länk till en fil du sparat på Google Drive. Då får alla åtkomst till samma version av samma fil - automatiskt."
+   },
+   "713754035716193665": {
+      "message": "Ny lista"
+   },
+   "7146242673022399081": {
+      "message": "Text"
+   },
+   "7148992630785407972": {
+      "message": "Den här filen är lösenordsskyddad och kan inte förhandsgranskas."
+   },
+   "7151987668860086450": {
+      "message": "Webbsökning"
+   },
+   "7153847618034547771": {
+      "message": "Aktivera"
+   },
+   "7161134329606048317": {
+      "message": "Stäng"
+   },
+   "7164532930742017984": {
+      "message": "Alla med länken"
+   },
+   "7174189954350964804": {
+      "message": "Försök igen"
+   },
+   "7177591028189992523": {
+      "message": "Flytta"
+   },
+   "7188754206068648188": {
+      "message": "Kommaavgränsade värden"
+   },
+   "7225837680381806920": {
+      "message": "Kväll ($1​)"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7236199858216720905": {
+      "message": "Maps"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7259352906118493156": {
+      "message": "Det finns inga webbplatser."
+   },
+   "7282548567245878869": {
+      "message": "Posten har tagits bort från listan"
+   },
+   "7295712436136900176": {
+      "message": "Läs in igen"
+   },
+   "7310311230493556740": {
+      "message": "Webbadresser"
+   },
+   "7339696241980105410": {
+      "message": "Videon du valde finns inte längre. Ägaren kan ha tagit bort den."
+   },
+   "7342923890755029722": {
+      "message": "Stäng"
+   },
+   "734478884582426793": {
+      "message": "Komprimerat arkiv"
+   },
+   "7357017164339332230": {
+      "message": "De här bilderna kan även visas och delas i $2​Picasa webbalbum$1​, Googles kostnadsfria fotovärdtjänst."
+   },
+   "736105042796745909": {
+      "message": "{VIEWER_GENDER,select, female{Skapa mapp}male{Skapa mapp}other{Skapa mapp}}"
+   },
+   "7362061801920948830": {
+      "message": "Överför fler"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7377239345926788722": {
+      "message": "Åtgärder"
+   },
+   "7380785991026002613": {
+      "message": "Visade resultat är märkta för återanvändning."
+   },
+   "7382688299146249119": {
+      "message": "Hämta objekt"
+   },
+   "7383706174467122149": {
+      "message": "Anteckningen har tagits bort"
+   },
+   "7388342865555961406": {
+      "message": "om $1​ dag"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "740507516967994591": {
+      "message": "Öppna"
+   },
+   "7422452809590461532": {
+      "message": "Röd"
+   },
+   "7426603384368095928": {
+      "message": "Läs in sidan på nytt om du vill logga in igen och fortsätta arbeta."
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (redigerades $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Sparar på Drive"
+   },
+   "7451573821837395189": {
+      "message": "Ett objekt har lagts till på $2​Google Drive$1​."
+   },
+   "7468322419516352788": {
+      "message": "Det gick inte att uppdatera beskrivningen."
+   },
+   "7488945223835574498": {
+      "message": "Postscript"
+   },
+   "7492710087472140422": {
+      "message": "Läs mer"
+   },
+   "7493919863870655172": {
+      "message": "Webbkamera"
+   },
+   "7500786109708143683": {
+      "message": "Ljud har tagits bort"
+   },
+   "7501027876827009022": {
+      "message": "Visade resultat är märkta som kommersiella för återanvändning."
+   },
+   "7521272923988336579": {
+      "message": "Håll dig uppdaterad genom att läsa in Keep igen nu."
+   },
+   "7532552995569296274": {
+      "message": "Rensa sökning"
+   },
+   "7546994163355383999": {
+      "message": "Alla anteckningar sparade"
+   },
+   "7559208209275370228": {
+      "message": "Senast ändrat av mig"
+   },
+   "7565383798249439151": {
+      "message": "om $1​ dagar"
+   },
+   "7565870443143407759": {
+      "message": "Sök i dokument"
+   },
+   "7586291841734385643": {
+      "message": "Ny flik"
+   },
+   "7598582624136632660": {
+      "message": "Öppna sökfältet/sök nästa"
+   },
+   "7602870977118971161": {
+      "message": "Läs in igen"
+   },
+   "7610654194202731772": {
+      "message": "Ta bort"
+   },
+   "761925792744044896": {
+      "message": "Ange som profilfoto"
+   },
+   "7630723924002267143": {
+      "message": "Kortkommandon aktiverade."
+   },
+   "7640546114686970497": {
+      "message": "Det går inte att lägga till fler objekt"
+   },
+   "7669846901402551021": {
+      "message": "I dag"
+   },
+   "7691521283331762131": {
+      "message": "Dina arkiverade anteckningar visas här"
+   },
+   "772000107335590599": {
+      "message": "om $1​ minuter"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7745005220197261896": {
+      "message": "Boksökning"
+   },
+   "7759846028901235026": {
+      "message": "Ångrar arkivering av anteckning"
+   },
+   "776065748745885880": {
+      "message": "blanksteg"
+   },
+   "7770982082843341533": {
+      "message": "Det finns inga objekt i den här mappen."
+   },
+   "779472474101127362": {
+      "message": "Ta en ögonblicksbild"
+   },
+   "7800318069267901681": {
+      "message": "Ändrades senast"
+   },
+   "7805487598105530487": {
+      "message": "Infogad"
+   },
+   "7814778057875152792": {
+      "message": "Det gick inte att flytta den bifogade filen till den markerade mappen i Google Drive."
+   },
+   "7820417126206702946": {
+      "message": "Visade resultat är tillgängliga för personlig eller kommersiell användning i Google Drive och får inte återdistribueras eller säljas självständigt."
+   },
+   "7822364282298323175": {
+      "message": "Listan har tagits bort"
+   },
+   "7830513726270865588": {
+      "message": "Kalender"
+   },
+   "7845751753397906805": {
+      "message": "Ändringar som står i konflikt med varandra hittades"
+   },
+   "7852396628465259068": {
+      "message": "Profilfoto"
+   },
+   "7859526172011446452": {
+      "message": "Sluta casta"
+   },
+   "78870906674150830": {
+      "message": "$3​$1​$2​"
+   },
+   "7895643887742936844": {
+      "message": "semikolon"
+   },
+   "7899833760457194273": {
+      "message": "Bildsökning"
+   },
+   "7899913952063063825": {
+      "message": "En bild har tagits bort"
+   },
+   "7906726367011430855": {
+      "message": "Anslut"
+   },
+   "7910518224461588465": {
+      "message": "Gula"
+   },
+   "7953603850004320936": {
+      "message": "Förhandsgranskning är inte tillgänglig."
+   },
+   "7957306528733096600": {
+      "message": "Förlopp avslutat"
+   },
+   "7960528690514646841": {
+      "message": "{moreCount,plural, =0{unused plural form}=1{+ en till}other{+ {moreCount} till}}"
+   },
+   "7973635145070803181": {
+      "message": "Överför foton"
+   },
+   "7987180255015869513": {
+      "message": "Eller klistra in en webbadress här:"
+   },
+   "8011497727123874703": {
+      "message": "Knapp för mappen $1​"
+   },
+   "8016231262233952856": {
+      "message": "Blågröna"
+   },
+   "8019402848412685977": {
+      "message": "Namnet $2​ har ändrats till $1​."
+   },
+   "8023466614826324314": {
+      "message": "Foton delas med en bred publik."
+   },
+   "8043514121228710092": {
+      "message": "Lägg till bild"
+   },
+   "8044700199531805239": {
+      "message": "$3​$1​$2​ har anslutits."
+   },
+   "8069384932934428393": {
+      "message": "om $1​ minut"
+   },
+   "8081927474846706026": {
+      "message": "Inga teckningar."
+   },
+   "8090743714060857028": {
+      "message": "Personer som visar filen får inte hämta den"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 byte}=1{1 byte}other{# byte}}"
+   },
+   "8099047958506869131": {
+      "message": "{VIEWER_GENDER,select, female{Ny mapp}male{Ny mapp}other{Ny mapp}}"
+   },
+   "8100558294600077150": {
+      "message": "Bloggsökning"
+   },
+   "8105635255693472607": {
+      "message": "Lägg till nya listposter"
+   },
+   "8106780183458743723": {
+      "message": "Fotoalbum"
+   },
+   "8112699352770418817": {
+      "message": "Inga böcker hittades."
+   },
+   "8132410616064087953": {
+      "message": "Videon är för lång (maximal längd är $1​ sekunder)."
+   },
+   "8135145577663029437": {
+      "message": "Behåll båda"
+   },
+   "8146560259680897627": {
+      "message": "Avbryt"
+   },
+   "8158191101452862916": {
+      "message": "Infoga bilder"
+   },
+   "8159493406018222636": {
+      "message": "Skicka feedback"
+   },
+   "8172945196588870035": {
+      "message": "Event"
+   },
+   "8174654098152723289": {
+      "message": "Redigera beskrivning"
+   },
+   "8178754379486173416": {
+      "message": "{VIEWER_GENDER,select, female{För få objekt har valts. Välj fler.}male{För få objekt har valts. Välj fler.}other{För få objekt har valts. Välj fler.}}"
+   },
+   "8192378456655629049": {
+      "message": "Bearbetar videoklipp ..."
+   },
+   "8193991135666622583": {
+      "message": "keep"
+   },
+   "821942580510564685": {
+      "message": "Innan du kan öppna dokumentet måste du ange lösenordet för det"
+   },
+   "8239237134193392595": {
+      "message": "Platsbaserade påminnelser visas endast på mobila enheter."
+   },
+   "8267458240960831780": {
+      "message": "Autentiserar …"
+   },
+   "8281141013543828574": {
+      "message": "RAW-bild"
+   },
+   "8281678863271800533": {
+      "message": "Bildfilter"
+   },
+   "8283103456188558313": {
+      "message": "Presentationer"
+   },
+   "8290434443655418968": {
+      "message": "{filesCount,plural, =0{unused plural form}=1{Överföring av markerad fil [{file}] stöds inte.}other{Överföring av de markerade filerna [{files}] stöds inte.}}"
+   },
+   "8304474373444239435": {
+      "message": "Svar från $1​."
+   },
+   "8322416564157128458": {
+      "message": "Delning"
+   },
+   "8324195080917648153": {
+      "message": "Videon får inte plats här. Gör webbläsarfönstret lite större."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342684858400436871": {
+      "message": "tabb"
+   },
+   "8379952094517631162": {
+      "message": "Nej"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412684147928483084": {
+      "message": "Svarta"
+   },
+   "8435544675017330861": {
+      "message": "Det finns inga objekt som matchar din sökning."
+   },
+   "8436817383042650304": {
+      "message": "caps-lock"
+   },
+   "8451184312655705174": {
+      "message": "Om din webbadress är korrekt visas en förhandsgranskning här. Det kan ta några minuter att visa stora bilder."
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8506198918368329269": {
+      "message": "Visade resultat är märkta för kommersiell återanvändning med modifiering."
+   },
+   "8571315158566081191": {
+      "message": "Det finns inga kalkylark."
+   },
+   "8580600056399054303": {
+      "message": "Ange var nya eller avmarkerade objekt placeras"
+   },
+   "8595175575778060149": {
+      "message": "Fler"
+   },
+   "8596257056433048992": {
+      "message": "Välkommen till"
+   },
+   "8616342546716995946": {
+      "message": "OK"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8638281560898810401": {
+      "message": "{MINUTES,plural, =0{0 minuter }=1{1 minut }other{# minuter }}{SECONDS,plural, =0{0 sekunder.}=1{1 sekund.}other{# sekunder.}}"
+   },
+   "863955692838281739": {
+      "message": "Stäng"
+   },
+   "8643398764569428530": {
+      "message": "Tillåter du att meddelanden från Google Keep visas?"
+   },
+   "8652566647088230560": {
+      "message": "Testversion – konfidentiell"
+   },
+   "8660016472468563221": {
+      "message": "kolon"
+   },
+   "8663507590720636709": {
+      "message": "$1​ och $2​ till"
+   },
+   "8666643061920113075": {
+      "message": "{VIEWER_GENDER,select, female{Klistra in en bildwebbadress här:}male{Klistra in en bildwebbadress här:}other{Klistra in en bildwebbadress här:}}"
+   },
+   "8674222789100049233": {
+      "message": "Stäng"
+   },
+   "86815590954366945": {
+      "message": "Arkivinnehållslistan"
+   },
+   "8709611758728645225": {
+      "message": "pg-down"
+   },
+   "8711002053494037632": {
+      "message": "Alla objekt har avmarkerats"
+   },
+   "8748281640412284111": {
+      "message": "Bildbyråfoton"
+   },
+   "8759520888087120926": {
+      "message": "Det finns inga skript."
+   },
+   "8775097441636640256": {
+      "message": "$2​ – $1​"
+   },
+   "8780212274435014958": {
+      "message": "Cirklar"
+   },
+   "8781837301864053001": {
+      "message": "Rich Text"
+   },
+   "8792038552136453044": {
+      "message": "Hoppsan, ett fel inträffade"
+   },
+   "8793166064242077041": {
+      "message": "Det gick inte att visa den här bilden."
+   },
+   "8813101408630252335": {
+      "message": "$1​ s"
+   },
+   "8820281478062782578": {
+      "message": "Sök"
+   },
+   "8822326207328431952": {
+      "message": "Bildöverföring är inte tillgänglig"
+   },
+   "8840223453482998505": {
+      "message": "Vald mapp $1​"
+   },
+   "8845176264121061589": {
+      "message": "Avmarkera alla objekt"
+   },
+   "8850238112725591771": {
+      "message": "kortkommandot $1​"
+   },
+   "8852550049823214385": {
+      "message": "sedan"
+   },
+   "8883744193208363722": {
+      "message": "En uppdatering är tillgänglig för appen."
+   },
+   "8884900765322249670": {
+      "message": "Listvy"
+   },
+   "8889019648958415451": {
+      "message": "Okänd fil"
+   },
+   "8911996820409711834": {
+      "message": "Flytta text till en ny post i listan &raquo;"
+   },
+   "8916237870980173557": {
+      "message": "Ansluter …"
+   },
+   "8917554093651202032": {
+      "message": "Spela upp $1​"
+   },
+   "8919660666733306860": {
+      "message": "Bild"
+   },
+   "8930959387403789939": {
+      "message": "Påminnelse"
+   },
+   "8943760679396635042": {
+      "message": "Visar $1​."
+   },
+   "8953555255469284376": {
+      "message": "Släpp bilder här"
+   },
+   "8979615310931291676": {
+      "message": "Redigerades $1​"
+   },
+   "8986044948621891903": {
+      "message": "Skriv in din sökfråga i rutan ovan för att hitta resultat på webben med Googles webbsökning."
+   },
+   "901615442107785480": {
+      "message": "Arkivera anteckning/lista"
+   },
+   "9024023699330078373": {
+      "message": "Om du öppnar det här objektet läggs det till på din Drive"
+   },
+   "9028041601596584772": {
+      "message": "Plats"
+   },
+   "9058308423774656474": {
+      "message": "Hangul Word Processor"
+   },
+   "9083935734710258396": {
+      "message": "Neka"
+   },
+   "9094248058931620597": {
+      "message": "Informationspanelen har minimerats."
+   },
+   "9114674068220302553": {
+      "message": "Som bilaga"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9130962320402467249": {
+      "message": "Bildbyråbilder"
+   },
+   "9146716987301178362": {
+      "message": "Ett fel uppstod. Läs in igen."
+   },
+   "9165877886714239857": {
+      "message": "Det gick inte att hämta text ur bilden. Försök igen senare."
+   },
+   "916773043895242978": {
+      "message": "Den webbadress du har angett ovan för bilden är felaktig eller går inte att läsa in. Ange en korrekt webbadress till bilden."
+   },
+   "9173629944963872598": {
+      "message": "Inga event hittades."
+   },
+   "9182500445937900938": {
+      "message": "Stäng"
+   },
+   "9195941533351099011": {
+      "message": "Överför $1​ av $2​"
+   },
+   "9197837492705576727": {
+      "message": "Fortsätt till nästa objekt"
+   },
+   "919969969251998566": {
+      "message": "Extrahera arkivet till ditt e-postkonto."
+   },
+   "9203542510134660095": {
+      "message": "Extraheringen har påbörjats. Innehållet i arkivet visas i Drive under mappen $1​."
+   },
+   "940276535015195877": {
+      "message": "Det finns inga mappar."
+   },
+   "943493480163896757": {
+      "message": "{resultCount,plural, =1{# matchande anteckning}other{# matchande anteckningar}}"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "95809842507987016": {
+      "message": "Ta bort"
+   },
+   "963611681085757795": {
+      "message": "Det går inte att visa dokumentet för närvarande."
+   },
+   "96556988207614774": {
+      "message": "Kalendrar"
+   },
+   "974042541427403929": {
+      "message": "Blåa"
+   },
+   "980395722421409371": {
+      "message": "Inga kartor hittades."
+   },
+   "982187142411651629": {
+      "message": "Ta bort permanent"
+   },
+   "985197728509875956": {
+      "message": "Kemisk modell"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "998727788921602971": {
+      "message": "Videoklipp"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Anteckna snabbt det du tänker på just nu och få påminnelser vid rätt plats eller tidpunkt."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Google Keep – anteckningar och listor"
+   }
+}
