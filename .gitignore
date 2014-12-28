@@ -34,3 +34,8 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+System/date/assets/javascripts/jquery.desktop.js
+System/date/assets/javascripts/jquery.package.js
+System/date/assets/stylesheets/desktop.css
+System/date/index.html
