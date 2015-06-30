@@ -4,34 +4,26 @@ Aplicação da arquitetura de 128 bits:
 * Fast compressing files
 * Fast scanning viruses
 
-Resume after end battery (save system)
+-------------------------------------------------------------------------------------------------------------
 
-lock system and keep tasks working
+* Resume after end battery (save system);
+* Lock system and keep tasks working;
+* Schedule to defrag discs every week, on domingo, midnight;
+* Atualizar arquivos baixados do 4Shared e Dropbox;
+* Permitir qualquer caractere em pastas;
+* Unicode 7;
+* Can select the folder of fonts, and use subfolders as category;
 
-schedule to defrag discs every week, on domingo, midnight
+* Verificar quanto de bateria um dispositivo possui. Diminuir recursos conforme menor for, incluindo suporte para pilhas;
 
-atualizar arquivos baixados do 4Shared e Dropbox
+* Modo prompt de comando para diminuir bateria;
 
-permitir qualquer caractere em pastas e Unicode 7
+* Mostrar no gerenciador de tarefas, os programas, tarefas e serviçoes executados desde relogios à computadores;
 
-Can select the folder of fonts, and use subfolders as category
-
-Verificar quanto de bateria um dispositivo possui. Diminuir recursos conforme menor for, incluindo suporte para pilhas!
-
-Modo prompt de comando para diminuir bateria.
-
-Mostrar no gerenciador de tarefas, os programas, tarefas e serviçoes executados desde relogios à computadores.
-
-comments do peeper num arquivo (via peeper drive)
-
-poder duplicar e reposicionar janelas de um app
-
-send to > imgur
-
-pause internet
-
-OS shop: drivers de hardware e updates para eles
-
-API app status
-
-permissoes do app: se tornar padrao de tais extençoes
+* Comments do peeper num arquivo (via peeper drive);
+* Poder duplicar e reposicionar janelas de um app;
+* Send to > imgur;
+* Pause internet;
+* OS shop: drivers de hardware e updates para eles;
+* API app status;
+* Permissões do app: se tornar padrao de tais extençoes
