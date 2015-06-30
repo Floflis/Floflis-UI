@@ -1,0 +1,37 @@
+Aplicação da arquitetura de 128 bits:
+* Abrir serviços com criptografia com maior agilidade
+* Suporte à criptografia MD6
+* Fast compressing files
+* Fast scanning viruses
+
+Resume after end battery (save system)
+
+lock system and keep tasks working
+
+schedule to defrag discs every week, on domingo, midnight
+
+atualizar arquivos baixados do 4Shared e Dropbox
+
+permitir qualquer caractere em pastas e Unicode 7
+
+Can select the folder of fonts, and use subfolders as category
+
+Verificar quanto de bateria um dispositivo possui. Diminuir recursos conforme menor for, incluindo suporte para pilhas!
+
+Modo prompt de comando para diminuir bateria.
+
+Mostrar no gerenciador de tarefas, os programas, tarefas e serviçoes executados desde relogios à computadores.
+
+comments do peeper num arquivo (via peeper drive)
+
+poder duplicar e reposicionar janelas de um app
+
+send to > imgur
+
+pause internet
+
+OS shop: drivers de hardware e updates para eles
+
+API app status
+
+permissoes do app: se tornar padrao de tais extençoes
