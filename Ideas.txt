@@ -23,6 +23,9 @@ Aplicação da arquitetura de 128 bits:
 * Plasmmer Compressor: .ZIP, .CSS, .HTML, .JS, .SVG, .PDG, .PES, .PNG, .JPG, .GIF;
 * Modo prompt de comando para diminuir bateria;
 * Navegadores do Modern OS terão seu proprio motor renderizador, sem depender do OS;
+* Support for hybrid devices;
+* Partiçao secreta de recuperação;
+* Engines para video, musica, paginas web e outros documentos;
 
 * Verificar quanto de bateria um dispositivo possui. Diminuir recursos conforme menor for, incluindo suporte para pilhas;
 
