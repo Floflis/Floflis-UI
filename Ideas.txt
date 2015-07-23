@@ -1,9 +1,11 @@
 Desktop:
 
-* When doubleclick in icon/tile, set iframe URL to icon label, and open iframe;
-* Close button in topbar for close current openned app;
 * Secret tricks button in topbar;
 * Secret tricks functions: altern icon/tile style;
+* User menu;
+* Now menu;
+* When doubleclick in icon/tile, set iframe URL to icon label, and open iframe;
+* Close button in topbar for close current openned app;
 
 Phone:
 
