@@ -26,8 +26,7 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
-
+Icon
 # Thumbnails
 ._*
 
@@ -35,8 +34,4 @@ Icon
 .Spotlight-V100
 .Trashes
 
-System/date/assets/javascripts/jquery.desktop.js
-System/date/assets/javascripts/jquery.package.js
-System/date/assets/stylesheets/desktop.css
-System/date/index.html
 Ideas.txt
