@@ -1,32 +1,4 @@
-Aplicação da arquitetura de 128 bits:
-* Abrir serviços com criptografia com maior agilidade
-* Suporte à criptografia MD6
-* Fast compressing files
-* Fast scanning viruses
-
--------------------------------------------------------------------------------------------------------------
-
-* Resume after end battery (save system);
-* Lock system and keep tasks working;
-* Schedule to defrag discs every week, on domingo, midnight;
-* Atualizar arquivos baixados do 4Shared e Dropbox;
-* Permitir qualquer caractere em pastas;
-* Unicode 7;
-* Can select the folder of fonts, and use subfolders as category;
-* Comments do peeper num arquivo (via peeper drive);
-* Poder duplicar e reposicionar janelas de um app;
-* Send to > imgur;
-* Pause internet;
-* OS shop: drivers de hardware e updates para eles;
-* API app status;
-* Permissões do app: se tornar padrao de tais extençoes;
-* Plasmmer Compressor: .ZIP, .CSS, .HTML, .JS, .SVG, .PDG, .PES, .PNG, .JPG, .GIF;
-* Modo prompt de comando para diminuir bateria;
-* Navegadores do Modern OS terão seu proprio motor renderizador, sem depender do OS;
-* Support for hybrid devices;
-* Partiçao secreta de recuperação;
-* Engines para video, musica, paginas web e outros documentos;
-
-* Verificar quanto de bateria um dispositivo possui. Diminuir recursos conforme menor for, incluindo suporte para pilhas;
-
-* Mostrar no gerenciador de tarefas, os programas, tarefas e serviçoes executados desde relogios à computadores;
+* Login screen;
+* Background;
+* Lockscreen;
+* Bottombar;
