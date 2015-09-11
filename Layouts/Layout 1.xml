@@ -29,6 +29,28 @@
             <blend-mode>0</blend-mode>
             <effect-fallback>0</effect-fallback>
             <instances>
+                <instance type="background" uid="8">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>300.093017578</x>
+                        <y>188.564544678</y>
+                        <z>0</z>
+                        <width>599</width>
+                        <height>302</height>
+                        <depth>0</depth>
+                        <hotspotX>0.50036633</hotspotX>
+                        <hotspotY>0.500651896</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
                 <instance type="Bar" uid="0">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>

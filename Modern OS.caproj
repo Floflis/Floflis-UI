@@ -2,13 +2,13 @@
 <c2project>
     <name>Modern OS</name>
     <description></description>
-    <version>0.0.5.9</version>
+    <version>0.0.6.4</version>
     <author></author>
     <author-email></author-email>
     <author-website>http://</author-website>
     <app-id></app-id>
     <unique-id>2stv948kfbg67</unique-id>
-    <saved-with-version>20402</saved-with-version>
+    <saved-with-version>21300</saved-with-version>
     <used-plugins>
         <plugin author="Scirra" id="Browser" version="1">Browser</plugin>
         <plugin author="Yarfapet" id="Clock" version="1">Clock</plugin>
@@ -86,6 +86,14 @@
         </object-type>
         <object-type name="NWjs" sid="9724066909291549">
             <plugin id="NodeWebkit" />
+        </object-type>
+        <object-type name="background" sid="5562738113967346">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="5174830129545051" speed="5">
+                    <frame duration="1" hotspotX="0.500366" hotspotY="0.500652" original-source="C:\Users\Plasma\Desktop\background.png" />
+                </animation>
+            </animation-folder>
         </object-type>
     </object-folder>
     <families />
