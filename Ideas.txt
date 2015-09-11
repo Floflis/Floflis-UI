@@ -3,7 +3,7 @@ Universal:
 * Secret tricks button in topbar;
 * Secret tricks functions: altern icon/tile style, night set, TV mode, change background, about screens, change theme;
 * Can activate-deactivate drop-shadow in icons;
-* Can set type (Normal | Compact) of Dashboard button;
+* Can set type (Normal | Compact | Ball) of Dashboard button;
 * Can altern betwhen arrow/hand cursor;
 * Animation when have new alert: box-shadow: 5px 0px 24px 4px black;
 * When hover Dashboard button, show snapshot of Dashboard;
