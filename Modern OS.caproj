@@ -2,7 +2,7 @@
 <c2project>
     <name>Modern OS</name>
     <description></description>
-    <version>0.0.7.2</version>
+    <version>0.0.7.4</version>
     <author></author>
     <author-email></author-email>
     <author-website>http://</author-website>
@@ -98,10 +98,10 @@
     </object-folder>
     <families />
     <layout-folder>
-        <layout>Layout 1.xml</layout>
+        <layout>Launcher.xml</layout>
     </layout-folder>
     <event-folder>
-        <event-sheet>Event sheet 1.xml</event-sheet>
+        <event-sheet>Launcher sheet.xml</event-sheet>
     </event-folder>
     <global-instances>
         <global-instance type="Clock" uid="5" />

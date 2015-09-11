@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2layout>
-    <name>Layout 1</name>
+    <name>Launcher</name>
     <sid>4606457277148113</sid>
-    <event-sheet>Event sheet 1</event-sheet>
+    <event-sheet>Launcher sheet</event-sheet>
     <size>
         <width>600</width>
         <height>340</height>

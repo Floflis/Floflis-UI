@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2eventsheet>
     <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
-    <name>Event sheet 1</name>
+    <name>Launcher sheet</name>
     <events>
         <variable constant="0" name="Hour" sid="4310778545218172" static="0" type="text">12</variable>
         <variable constant="0" name="Minute" sid="5189241409609541" static="0" type="text">00</variable>
