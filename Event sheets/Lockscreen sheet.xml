@@ -2,5 +2,7 @@
 <c2eventsheet>
     <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
     <name>Lockscreen sheet</name>
-    <events />
+    <events>
+        <include>System sheet</include>
+    </events>
 </c2eventsheet>
