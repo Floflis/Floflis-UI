@@ -37,6 +37,10 @@
                 <action id="0" name="Set text" sid="4479179610264375" type="Hour">
                     <param id="0" name="Text">Hour &amp; &quot;:&quot; &amp; Minute &amp; &quot;:&quot; &amp; Seconds &amp; &quot; &quot; &amp; Meridian</param>
                 </action>
+                <action id="2" name="Set CSS style" sid="5773233247674059" type="Battery_Status">
+                    <param id="0" name="Property name">&quot;background-color&quot;</param>
+                    <param id="1" name="Value">&quot;green&quot;</param>
+                </action>
             </actions>
             <sub-events>
                 <event-block sid="220979576591828">

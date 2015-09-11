@@ -1,5 +1,4 @@
 * Login screen;
 * Login screen's background;
-* Lockscreen's background;
 * Lockscreen;
 * Bottombar;
