@@ -2,7 +2,7 @@
 <c2project>
     <name>Modern OS</name>
     <description></description>
-    <version>0.0.6.7</version>
+    <version>0.0.7.2</version>
     <author></author>
     <author-email></author-email>
     <author-website>http://</author-website>
@@ -34,7 +34,7 @@
         <prop name="Clear background">Yes</prop>
         <prop name="Downscaling">Medium quality</prop>
         <prop name="Enable WebGL">On</prop>
-        <prop name="Fullscreen in browser">Letterbox scale</prop>
+        <prop name="Fullscreen in browser">Scale inner</prop>
         <prop name="Fullscreen scaling">High quality</prop>
         <prop name="Loader style">Progress bar &amp; logo</prop>
         <prop name="Orientations">Landscape</prop>
