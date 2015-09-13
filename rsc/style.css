@@ -21,6 +21,7 @@ launcher.tiles{padding:50px}tile.medium{width:140px;height:140px;background:#393
 #power-handle{width:100%;height:30px;padding:30px 10px 0 10px;background:#333;display:inline-block;position:absolute;bottom:0}#handle-line{width:100%;height:5px;background:rgba(255,255,255,0.5)}
 
 .alertstray{position:fixed;margin-top:80px;right:-10px}.alertbubble{width:62px;height:62px;border:1px solid #333;border-radius:50%;margin-bottom:10px;background-size:contain;-webkit-user-drag:element}.alertbubble span{background:#da4a37;color:#fff;padding:0 5px 0 5px;border:1px solid #333;border-radius:50%}
+.screensbubble{background-image:url(../img/icon.svg)}.annebubble{background-image:url(../img/examples/alert1.jpg);background-size:88px;background-position:-11px}.luanbubble{background-image:url(../img/examples/alert5.jpg);background-size:88px;background-position:-11px}.ricardobubble{background-image:url(../img/examples/alert2.jpg)}.daniellebubble{background-image:url(../img/examples/alert3.jpg)}.buzzbubble{background-image:url(../img/examples/alert4.jpg);background-size:88px;background-position:-11px}
 
 .minipic{height:60px;display:inline-block;float:right}.minipic img{width:60px;height:60px;box-shadow:0px 0px 0 1px #333}.alertsbtn{width:60px;height:60px;background:#da4a37;display:inline-block;text-align:center;float:right}
 
