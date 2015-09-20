@@ -1,0 +1,2485 @@
+{
+   "1006787209796778126": {
+      "message": "Mijn schijf"
+   },
+   "1017907757187630742": {
+      "message": "Mijn lettertypen"
+   },
+   "1029072043275376320": {
+      "message": "Geen agenda's gevonden."
+   },
+   "1030781695901615026": {
+      "message": "Onder"
+   },
+   "103870949919613488": {
+      "message": "Notitie gearchiveerd"
+   },
+   "1039394921418415681": {
+      "message": "Inloggen"
+   },
+   "1083918249169198626": {
+      "message": "Sneltoetsen zijn uitgeschakeld."
+   },
+   "1090919586152138659": {
+      "message": "Stock"
+   },
+   "1101371910696766077": {
+      "message": "Een kopie maken"
+   },
+   "1107413433574576014": {
+      "message": "Titel te lang. Gemarkeerde tekst wordt niet opgeslagen."
+   },
+   "1127320433256851404": {
+      "message": "Videospeler"
+   },
+   "1162642135048988280": {
+      "message": "Documentnaam wijzigen"
+   },
+   "1166244120191806795": {
+      "message": "Feedback geven"
+   },
+   "1179891706526242218": {
+      "message": "Volgende"
+   },
+   "1185164838496022543": {
+      "message": "Klik hier om de pagina opnieuw te laden."
+   },
+   "1185644932132585290": {
+      "message": "$1​ tekens over"
+   },
+   "1213005208968286932": {
+      "message": "Gemarkeerd als opgelost"
+   },
+   "1263557413037343589": {
+      "message": "Foto's ordenen"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1311350045083871503": {
+      "message": "Annuleren"
+   },
+   "1311729747516144362": {
+      "message": "Rood"
+   },
+   "1315844696796851207": {
+      "message": "Sans Serif"
+   },
+   "1319037146426591038": {
+      "message": "of"
+   },
+   "132822872080714863": {
+      "message": "OK"
+   },
+   "133192954417440569": {
+      "message": "Geen resultaten gevonden."
+   },
+   "1349697396109290623": {
+      "message": "Hogere resolutie van $1​ wordt weergegeven"
+   },
+   "1376126796144976437": {
+      "message": "Alle lettertypen"
+   },
+   "139942704574044780": {
+      "message": "Accepteren"
+   },
+   "141491180325662484": {
+      "message": "Google Drive biedt één plek om al uw bestanden te bewaren, zodat u ze overal en op elk apparaat kunt openen. Zodra u foto's in Google Drive heeft, kunt u ze hier onmiddellijk met uw kringen delen."
+   },
+   "1418114637490664392": {
+      "message": "LIFE-fotoarchief"
+   },
+   "1419896259743862406": {
+      "message": "Openen met"
+   },
+   "1440171352837969028": {
+      "message": "Video/audio"
+   },
+   "1441487391064925653": {
+      "message": "Alle sneltoetsen weergeven in het Helpcentrum"
+   },
+   "1446829548948002072": {
+      "message": "komma"
+   },
+   "1454684154234137497": {
+      "message": "Pause"
+   },
+   "1459765068821943106": {
+      "message": "{VIEWER_GENDER,select, female{Plak hier een YouTube-URL:}male{Plak hier een YouTube-URL:}other{Plak hier een YouTube-URL:}}"
+   },
+   "1463079206290378085": {
+      "message": "Foto's van orkut"
+   },
+   "1463389029497634261": {
+      "message": "Volume verlagen"
+   },
+   "1475179211173444554": {
+      "message": "Iedereen met de link binnen het domein"
+   },
+   "1492360016907725281": {
+      "message": "{VIEWER_GENDER,select, female{Plak hier een video-URL:}male{Plak hier een video-URL:}other{Plak hier een video-URL:}}"
+   },
+   "1493251742569121894": {
+      "message": "Notitie te lang. Gemarkeerde tekst wordt niet opgeslagen."
+   },
+   "1493384967280942491": {
+      "message": "Roze"
+   },
+   "1499433769420882987": {
+      "message": "$1​ wordt weergegeven"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1521707405717823409": {
+      "message": "Paars"
+   },
+   "153439508598626384": {
+      "message": "Uw foto's"
+   },
+   "1536051766421561160": {
+      "message": "gelijkteken"
+   },
+   "156992719062713230": {
+      "message": "Grijs"
+   },
+   "1586968957182554447": {
+      "message": "Uitschakelen"
+   },
+   "1588268697057804046": {
+      "message": "$1​ uur geleden"
+   },
+   "1603139897109307706": {
+      "message": "Fout. Probeer het opnieuw."
+   },
+   "1604359562654146902": {
+      "message": "Foto"
+   },
+   "1633370388224271051": {
+      "message": "Geen mensen gevonden."
+   },
+   "1633798963327779260": {
+      "message": "Morgen"
+   },
+   "1654222450095043962": {
+      "message": "Audio"
+   },
+   "1656911987308166143": {
+      "message": "Verwijderen"
+   },
+   "1665821947855814052": {
+      "message": "Grootte"
+   },
+   "1692901784886701962": {
+      "message": "Notitie te groot."
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700522311470719738": {
+      "message": "Herinner mij hieraan"
+   },
+   "1701312243672511585": {
+      "message": "Tekst verplaatsen naar nieuwe notitie &raquo;"
+   },
+   "1709410429018687341": {
+      "message": "$1​"
+   },
+   "1715552550526864429": {
+      "message": "Blogs zoeken"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1739900012825270238": {
+      "message": "Naar het vorige item gaan"
+   },
+   "1756171223417807431": {
+      "message": "Controleer of de afbeelding openbaar is. Als uw afbeelding door een wachtwoord is beveiligd of op een intern netwerk staat, kunnen we deze niet lezen."
+   },
+   "1759957963056319953": {
+      "message": "Terug vanuit $1​"
+   },
+   "1783719421893050637": {
+      "message": "Afmetingen"
+   },
+   "178927681797742562": {
+      "message": "Inloggen"
+   },
+   "1791115075948268631": {
+      "message": "Help voor sneltoetsen openen"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1816851800848432562": {
+      "message": "Verwijderen"
+   },
+   "1818306025747564729": {
+      "message": "Ga naar link"
+   },
+   "1823222042913714987": {
+      "message": "Wachtwoord verzenden"
+   },
+   "1823854753950594157": {
+      "message": "Op dezelfde plaats laten staan"
+   },
+   "1830157062072535681": {
+      "message": "$1​ wordt weergegeven"
+   },
+   "185012928288875755": {
+      "message": "Er zijn geen items die aan uw criteria voldoen."
+   },
+   "1856444915090632305": {
+      "message": "Het document is gecodeerd. Voer een wachtwoord in."
+   },
+   "1866863108233180413": {
+      "message": "Mappen"
+   },
+   "187077078156858455": {
+      "message": "Audionotitie"
+   },
+   "189303170370862360": {
+      "message": "$1​ van $2​ items"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901351411358749070": {
+      "message": "Gedeeld met mij"
+   },
+   "1913425963149828429": {
+      "message": "Dit archief uitpakken in Drive."
+   },
+   "1918176455405610789": {
+      "message": "Gereed"
+   },
+   "1920189655549476211": {
+      "message": "onbekende lengte"
+   },
+   "1929603188252533075": {
+      "message": "Uw video is niet verwijderd. Probeer het opnieuw."
+   },
+   "1951810091681076784": {
+      "message": "{COUNT_1,plural, =1{1 overeenkomende notitie}other{{COUNT_2} overeenkomende notities}}"
+   },
+   "1956794332842050061": {
+      "message": "Volgende pagina"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1968405748623909021": {
+      "message": "Probeer een van de onderstaande apps om dit item te openen of te bewerken"
+   },
+   "1974063091619095703": {
+      "message": "Mensen"
+   },
+   "1988244842147989817": {
+      "message": "Notities in de prullenbak worden na zeven dagen verwijderd."
+   },
+   "1993674829873313178": {
+      "message": "Problemen bij het uploaden? We zijn bezig met onderhoud, maar alles is binnen afzienbare tijd weer normaal."
+   },
+   "2003845117979929469": {
+      "message": "Details"
+   },
+   "2048322072989992494": {
+      "message": "Er heeft nog niemand bestanden met u gedeeld."
+   },
+   "2055836117545582610": {
+      "message": "Lijstinstellingen"
+   },
+   "2059084517358086391": {
+      "message": "Zoekbalk sluiten"
+   },
+   "2061440050632248160": {
+      "message": "Archief"
+   },
+   "2068023589621557589": {
+      "message": "TrueType-lettertype"
+   },
+   "2073035325657060696": {
+      "message": "Geen voorbeeld beschikbaar."
+   },
+   "2073322475696388995": {
+      "message": "Vooruitspringen"
+   },
+   "207810168108507460": {
+      "message": "$1​ uur geleden"
+   },
+   "2109272338124379867": {
+      "message": "Laatst gewijzigd"
+   },
+   "2116013171202209313": {
+      "message": "Selecteren"
+   },
+   "2122256657192674586": {
+      "message": "Video's zoeken"
+   },
+   "2125135092719715773": {
+      "message": "Uploaden"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "213665695896111861": {
+      "message": "Notities"
+   },
+   "2138593281154109183": {
+      "message": "Archief"
+   },
+   "2147952938331523160": {
+      "message": "Naam wijzigen..."
+   },
+   "2154372123324862271": {
+      "message": "schuine streep"
+   },
+   "2154940358270068005": {
+      "message": "Verwijderde notities iets langer bewaren"
+   },
+   "2184278444368405837": {
+      "message": "$1​ items"
+   },
+   "2187239650627580457": {
+      "message": "Verzenden"
+   },
+   "2198096971937872560": {
+      "message": "Herinnering:"
+   },
+   "220168959069469607": {
+      "message": "Meer acties"
+   },
+   "221715292685577880": {
+      "message": "Ja"
+   },
+   "2220005860896049129": {
+      "message": "Het heeft te lang geduurd om het document te vinden in de oorspronkelijke bron."
+   },
+   "2228413078211839077": {
+      "message": "We ondervinden tijdelijk een probleem bij het genereren van een weergave van het document."
+   },
+   "2235097878790803849": {
+      "message": "Voortaan geen bijlagen meer, maar Google Drive."
+   },
+   "2257303402199718039": {
+      "message": "We kunnen het document niet vinden in de oorspronkelijke bron. Controleer of het document nog steeds bestaat."
+   },
+   "2274436793504233543": {
+      "message": "Annuleren"
+   },
+   "2278224983638451454": {
+      "message": "Nu downloaden"
+   },
+   "2280650195464600721": {
+      "message": "Navigatie"
+   },
+   "2285069188138705005": {
+      "message": "Gekoppelde apps"
+   },
+   "2289534534793293486": {
+      "message": "Terugzetten uit archief"
+   },
+   "2289812403593835836": {
+      "message": "Pagina's"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Volume verhogen"
+   },
+   "230180475614658119": {
+      "message": "Gereed"
+   },
+   "2304293593067358316": {
+      "message": "Clipart"
+   },
+   "2310145944356900158": {
+      "message": "Aangevinkt"
+   },
+   "2311880726221661199": {
+      "message": "Hogere resoluties laden"
+   },
+   "2329167963662998826": {
+      "message": "Google Keep wil uw locatie gebruiken om plaatssuggesties voor herinneringen op locatie te verbeteren."
+   },
+   "234046557601727809": {
+      "message": "Geen afbeeldingen of video's."
+   },
+   "2349912757088764940": {
+      "message": "Zichtbaar voor:"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2370463380397641604": {
+      "message": "Populaire sneltoetsen"
+   },
+   "2370656573843123707": {
+      "message": "vierkante haak rechts"
+   },
+   "2393487423640708285": {
+      "message": "De URL is niet geldig. Controleer of deze begint met http:// of https://."
+   },
+   "2405795704816921421": {
+      "message": "Bestand $1​"
+   },
+   "2412314804333167252": {
+      "message": "De spreadsheet is te groot. Klik om deze te $3​downloaden$1​ of te $4​bewerken in Google Spreadsheets$1​."
+   },
+   "2418104318933043113": {
+      "message": "Google Afbeeldingen"
+   },
+   "2433429041384246549": {
+      "message": "Geluid dempen"
+   },
+   "2449254824382583885": {
+      "message": "Groot weergeven"
+   },
+   "2452522051596946166": {
+      "message": "Oeps! Probleem bij het weergeven van een voorbeeld van $1​. Opnieuw proberen."
+   },
+   "2454642351139428112": {
+      "message": "Ongedaan maken"
+   },
+   "2466251465475184755": {
+      "message": "Prullenbak leegmaken? Alle notities in de prullenbak worden definitief verwijderd."
+   },
+   "2475181823688399272": {
+      "message": "Volgende"
+   },
+   "2484568559152875936": {
+      "message": "Geen fotoalbums."
+   },
+   "2504232652631703202": {
+      "message": "Gekoppeld"
+   },
+   "251025074207413762": {
+      "message": "Voeg een beschrijving toe"
+   },
+   "2510929871271209216": {
+      "message": "De spreadsheet is te groot. Klik $2​hier$1​ om deze te downloaden."
+   },
+   "2513437337377210144": {
+      "message": "End"
+   },
+   "2524021436052870191": {
+      "message": "Kan dit bestand niet uploaden. Alleen $1​-bestanden die kleiner zijn dan $2​ MB, kunnen worden geüpload."
+   },
+   "2532280782491328445": {
+      "message": "Vorige zoeken"
+   },
+   "2538080331309772448": {
+      "message": "Sorteren: $1​"
+   },
+   "2538462904124380434": {
+      "message": "Notitie verplaatst naar prullenbak"
+   },
+   "2546225293834487484": {
+      "message": "Notitie"
+   },
+   "2558480112329900136": {
+      "message": "Grijs"
+   },
+   "257317112834806705": {
+      "message": "Schakelen tussen lijst- en rasterweergave"
+   },
+   "2579679351920691492": {
+      "message": "Terugspringen"
+   },
+   "2587566920590457715": {
+      "message": "Maps Engine Lite"
+   },
+   "2609409316752026806": {
+      "message": "pdf"
+   },
+   "2609750184896485102": {
+      "message": "Video's van telefoon"
+   },
+   "2615188670181508661": {
+      "message": "U heeft de laatste tijd niets geselecteerd."
+   },
+   "2623861453769098676": {
+      "message": "Probleem bij het weergeven van een voorbeeld van dit document."
+   },
+   "2628268670001557269": {
+      "message": "Limiet"
+   },
+   "2643241712502664984": {
+      "message": "Uw YouTube-video's"
+   },
+   "2661850177130037208": {
+      "message": "Item openen"
+   },
+   "2681830832355823748": {
+      "message": "Zoeken in alle sneltoetsen"
+   },
+   "2687303256387847763": {
+      "message": "Populariteit"
+   },
+   "2702485557996900362": {
+      "message": "Conflicterende bewerkingen oplossen"
+   },
+   "2705842902318123127": {
+      "message": "Navigeren naar volgende/vorige notitie/lijst"
+   },
+   "272948685355798518": {
+      "message": "Ongeldig bestandstype geselecteerd."
+   },
+   "2731144323070245943": {
+      "message": "Lijstinstellingen"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2750830436677712001": {
+      "message": "{VIEWER_GENDER,select, female{Maken van {FOLDER_NAME} mislukt.}male{Maken van {FOLDER_NAME} mislukt.}other{Maken van {FOLDER_NAME} mislukt.}}"
+   },
+   "2752123004911547510": {
+      "message": "Trends"
+   },
+   "2758125083752925237": {
+      "message": "(Eigenaar)"
+   },
+   "277430914014962533": {
+      "message": "Oeps! Probleem bij het weergeven van een voorbeeld van $1​."
+   },
+   "2774713922589657910": {
+      "message": "Iedereen binnen het domein"
+   },
+   "2786560864906393383": {
+      "message": "Foto's van telefoon"
+   },
+   "2789687492331041935": {
+      "message": "Tijdstip kiezen"
+   },
+   "2790446494460492805": {
+      "message": "Uitpakken gestart. Gearchiveerde berichten worden weergegeven in uw e-mailaccount onder het label 'Import: $1​'."
+   },
+   "2793841261389879255": {
+      "message": "Vorige pagina"
+   },
+   "2801153442808430222": {
+      "message": "Mijn Drive"
+   },
+   "2817277146396981386": {
+      "message": "p.m."
+   },
+   "2818020101821669029": {
+      "message": "Gemaakt"
+   },
+   "2818135503416309545": {
+      "message": "Een video opnemen"
+   },
+   "2827039933590757722": {
+      "message": "Windows-snelkoppeling"
+   },
+   "2829226075651806940": {
+      "message": "Inzoomen"
+   },
+   "2860188519781080944": {
+      "message": "Oranje"
+   },
+   "2861568351294148466": {
+      "message": "Scripts"
+   },
+   "2864281852037732729": {
+      "message": "Minder"
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Onderbreken"
+   },
+   "2878874627361086801": {
+      "message": "voorbeeld"
+   },
+   "2879276552944958066": {
+      "message": "Terug naar de map $1​."
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2902747751281161248": {
+      "message": "Toepassen op nieuwe lijsten"
+   },
+   "2905147317995482841": {
+      "message": "De kijkervaring voor alle bestanden in Google Drive is nu nog mooier en overzichtelijker geworden. We hopen dat u deze nieuwe look mooi vindt."
+   },
+   "2917498437550635075": {
+      "message": "Pictogram"
+   },
+   "2964778642459027786": {
+      "message": "Geen notities in prullenbak"
+   },
+   "2974598228601710262": {
+      "message": "Toevoegen"
+   },
+   "2979466412944870220": {
+      "message": "Voorbeeld wordt geladen..."
+   },
+   "2982511431742033448": {
+      "message": "Geen presentaties."
+   },
+   "298817883481775869": {
+      "message": "Laden…"
+   },
+   "3000689173481666334": {
+      "message": "Uw kring bewerken"
+   },
+   "3029395493413607486": {
+      "message": "Het laden van de videospeler is mislukt. Probeer de pagina opnieuw te laden.$1​$3​Neem contact op met het Helpcentrum$2​ als het probleem zich blijft voordoen."
+   },
+   "3043961722025425136": {
+      "message": "Beschrijving"
+   },
+   "306516303501625305": {
+      "message": "Verificatie is mislukt."
+   },
+   "3073005748126521632": {
+      "message": "Herinnerd bij $1​"
+   },
+   "3074184819310272351": {
+      "message": "Geüploade foto's"
+   },
+   "3084372889071691504": {
+      "message": "{VIEWER_GENDER,select, female{Plak hier een URL:}male{Plak hier een URL:}other{Plak hier een URL:}}"
+   },
+   "3095645856215493958": {
+      "message": "Gedrukte tekst in foto's vinden"
+   },
+   "31018542656161389": {
+      "message": "Passend maken"
+   },
+   "3109321241584918345": {
+      "message": "Meer apps koppelen..."
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "over $1​ uur"
+   },
+   "3189854932778515441": {
+      "message": "Notitie in archief"
+   },
+   "3207670492626476064": {
+      "message": "Tabellen"
+   },
+   "3211163842850942567": {
+      "message": "Inzoomen"
+   },
+   "3222929029344613957": {
+      "message": "Er is een fout opgetreden bij het openen van dit bestand. Probeer het opnieuw."
+   },
+   "3233388241926683100": {
+      "message": "Zoeken in notities"
+   },
+   "3243829462528324248": {
+      "message": "Bruin"
+   },
+   "3250489229749307913": {
+      "message": "Elektronische publicatie"
+   },
+   "3256928852560591255": {
+      "message": "Kan niet bewerken in prullenbak"
+   },
+   "3261131345401321392": {
+      "message": "Mag opmerkingen plaatsen"
+   },
+   "3265524298292280681": {
+      "message": "Esc"
+   },
+   "3267563602179728277": {
+      "message": "Delete"
+   },
+   "3272496516667407797": {
+      "message": "Probleem bij het laden van de details."
+   },
+   "3275029321588462173": {
+      "message": "Geen"
+   },
+   "3278237562147211998": {
+      "message": "Stockfoto's"
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3306487262690341751": {
+      "message": "Datum en tijd"
+   },
+   "3312545971976531405": {
+      "message": "Bericht"
+   },
+   "3319087486907616296": {
+      "message": "Dit item casten"
+   },
+   "3328129883064940351": {
+      "message": "Lettertypen"
+   },
+   "3335409796971631780": {
+      "message": "Uitpakken in Drive."
+   },
+   "3343451103608774400": {
+      "message": "Maak kennis met de nieuwe versie van 'Mijn kaarten': $3​My Maps$2​.$1​Betere tools voor het maken van kaarten."
+   },
+   "3354260708176476985": {
+      "message": "Laden&hellip;"
+   },
+   "3357778055650785985": {
+      "message": "Item te groot. Gemarkeerde tekst wordt niet opgeslagen."
+   },
+   "3364679383274077479": {
+      "message": "App-update beschikbaar"
+   },
+   "3368639944474272225": {
+      "message": "We kunnen het document niet ophalen voor weergave of u heeft geen rechten om het document te bekijken."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Openen"
+   },
+   "3408219901032480508": {
+      "message": "$2​; $1​"
+   },
+   "3409257542937182842": {
+      "message": "Opnieuw proberen..."
+   },
+   "3409483962000136213": {
+      "message": "Afspelen/onderbreken"
+   },
+   "3418767079436101103": {
+      "message": "Probleem bij het laden van deze pagina."
+   },
+   "3421685394169412932": {
+      "message": "Elke wijziging die u aanbrengt wordt automatisch opgeslagen"
+   },
+   "3422389100099960864": {
+      "message": "Geen afbeeldingen."
+   },
+   "3428726060007577698": {
+      "message": "Lijst is te groot."
+   },
+   "3430885603500576146": {
+      "message": "Selecteer uitsluitend afbeeldingen waarvoor u heeft bevestigd dat u er een licentie voor heeft."
+   },
+   "3440534675925634227": {
+      "message": "Ga in een Chrome-browservenster naar chrome://settings en controleer of u bent ingelogd. Klik vervolgens opnieuw op 'Inloggen'."
+   },
+   "3446158485617778228": {
+      "message": "Ongedaan maken"
+   },
+   "3448234415275521882": {
+      "message": "Algemene informatie"
+   },
+   "3448684788258660606": {
+      "message": "Uw foto's"
+   },
+   "3450585781337676327": {
+      "message": "Laden..."
+   },
+   "3457279184692206825": {
+      "message": "Foto's zijn voor iedereen zichtbaar (openbaar op internet)."
+   },
+   "3468441711253011521": {
+      "message": "Google Spreadsheets"
+   },
+   "3473620774713000513": {
+      "message": "Opgelost"
+   },
+   "3483438888494819423": {
+      "message": "Nieuw in Google Keep"
+   },
+   "3511274344439521198": {
+      "message": "Acties"
+   },
+   "3518073392823563581": {
+      "message": "Sneltoetsen"
+   },
+   "3531603810713611778": {
+      "message": "Maximumbestandsgrootte overschreden. Maak de selectie van één of meer bestanden ongedaan."
+   },
+   "3543475399174940144": {
+      "message": "+$1​"
+   },
+   "3547194749488601916": {
+      "message": "Bijwerken..."
+   },
+   "354828103903104581": {
+      "message": "Aangevinkte items"
+   },
+   "3561658662634401836": {
+      "message": "Titel"
+   },
+   "357172711168973843": {
+      "message": "Eventuele recent toegevoegde notities of wijzigingen zijn niet opgeslagen. Maak zelf een kopie van de inhoud en laad de pagina opnieuw."
+   },
+   "3586705906700410505": {
+      "message": "Lijntekening"
+   },
+   "3587798318180902863": {
+      "message": "{NUM_SELECTED,plural, =1{ geselecteerd »}other{ geselecteerd »}}"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3602920441714068008": {
+      "message": "Herinnerd op $1​ om $2​"
+   },
+   "3608606849109645545": {
+      "message": "Geef een nieuwe documentnaam op:"
+   },
+   "361202495024972887": {
+      "message": "Video's uploaden"
+   },
+   "361630518611593946": {
+      "message": "Selectievakjes verbergen"
+   },
+   "3625886392901506764": {
+      "message": "of"
+   },
+   "3643146117250542609": {
+      "message": "Geen pdf's."
+   },
+   "3645728163953189422": {
+      "message": "We kunnen het document niet ophalen voor weergave omdat het te groot is."
+   },
+   "3651893685901703652": {
+      "message": "…"
+   },
+   "3657386785336906042": {
+      "message": "backslash"
+   },
+   "3659554681396757189": {
+      "message": "Geopend door mij"
+   },
+   "3663571259791438207": {
+      "message": "Misbruik melden"
+   },
+   "3664842788764635265": {
+      "message": "Geen"
+   },
+   "3666123569747918021": {
+      "message": "Dit document bevat wijzigingen die niet zijn opgeslagen. Wilt u de pagina verlaten en uw wijzigingen annuleren?"
+   },
+   "3673346558112798837": {
+      "message": "Geen achtergrond"
+   },
+   "3674811252904549204": {
+      "message": "Omslagfoto's"
+   },
+   "3678477908297567934": {
+      "message": "onderstrepingsteken"
+   },
+   "3681747688524363195": {
+      "message": "Boven"
+   },
+   "3690515530505404607": {
+      "message": "Probleem bij het afspelen van deze video."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Geen items}=1{1 item}other{# items}}"
+   },
+   "3712215972250917265": {
+      "message": "Opmerkingen"
+   },
+   "3717138719704492547": {
+      "message": "Controleer het adres op typfouten."
+   },
+   "374088101949877889": {
+      "message": "Sluiten"
+   },
+   "3745308627628779133": {
+      "message": "Nieuwe map"
+   },
+   "3748461364828242354": {
+      "message": "Kleur selecteren"
+   },
+   "3770795578481676514": {
+      "message": "Geel"
+   },
+   "3771958676925493302": {
+      "message": "Filter verwijderen: $1​"
+   },
+   "3779945546806941187": {
+      "message": "Monochroom"
+   },
+   "3793086499925031123": {
+      "message": "De zoekbalk openen/vorige zoeken"
+   },
+   "37992665410817181": {
+      "message": "Opnieuw geopend"
+   },
+   "3801617971018550169": {
+      "message": "Gisteren"
+   },
+   "3808213429720572062": {
+      "message": "Terugzetten"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3842411126100113634": {
+      "message": "Page Up"
+   },
+   "3844047145949375230": {
+      "message": "Documenten"
+   },
+   "3858324058837632381": {
+      "message": "Probleem bij het afspelen van dit audiobestand."
+   },
+   "3864575916269080329": {
+      "message": "Doorzoekbare afbeeldingen"
+   },
+   "3866373087987934712": {
+      "message": "Uploaden is mislukt: $1​"
+   },
+   "3869166581651870488": {
+      "message": "Bewerken voltooien"
+   },
+   "3873215756962047275": {
+      "message": "ARCHIEF"
+   },
+   "3873467440437675460": {
+      "message": "De lettertypen die u eerder heeft geselecteerd, zijn niet gevonden."
+   },
+   "3897281533382850749": {
+      "message": "Dempen opheffen"
+   },
+   "3936153839186254186": {
+      "message": "Weergeven: $1​"
+   },
+   "3955760658925284765": {
+      "message": "Opnieuw proberen"
+   },
+   "3974064131130689245": {
+      "message": "Rasterweergave"
+   },
+   "3977699855735576796": {
+      "message": "Probleem bij het laden van meer pagina's."
+   },
+   "3988418762222300024": {
+      "message": "punt"
+   },
+   "3989552504822984034": {
+      "message": "Google Tekeningen"
+   },
+   "4005725939358875643": {
+      "message": "Actie is ongedaan gemaakt."
+   },
+   "4014287326684608407": {
+      "message": "Blauwgroen"
+   },
+   "4048275292053012394": {
+      "message": "Contactpersonen"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4067915791853673774": {
+      "message": "{VIEWER_GENDER,select, female{Sluiten}male{Sluiten}other{Sluiten}}"
+   },
+   "4078179869358383373": {
+      "message": "Geen resultaten gevonden."
+   },
+   "4087667435414545203": {
+      "message": "Niet meer ingelogd. Laad opnieuw om wijzigingen aan te brengen."
+   },
+   "4093134637041332383": {
+      "message": "MEER INFORMATIE"
+   },
+   "4097007735221462946": {
+      "message": "Tekeningen"
+   },
+   "4097921967754832323": {
+      "message": "koppelteken"
+   },
+   "4100504115801514799": {
+      "message": "Notitie teruggezet"
+   },
+   "4119294114251628099": {
+      "message": "De afbeeldings-URL die u heeft opgegeven, kan niet worden gevonden. Mogelijk is het een privé-URL die onze servers niet kunnen openen. Probeer een andere URL."
+   },
+   "4134385041569168669": {
+      "message": "Laden..."
+   },
+   "4148564423510181521": {
+      "message": "Zoekopdracht wissen"
+   },
+   "4152315289461886": {
+      "message": "Documentbeheeropties"
+   },
+   "4168280976997555951": {
+      "message": "Geen documenten."
+   },
+   "4174786386751618325": {
+      "message": "Fotonotitie"
+   },
+   "4182427157920112948": {
+      "message": "tilde"
+   },
+   "4200426647595470259": {
+      "message": "Het audiobestand afspelen"
+   },
+   "4200911267543705377": {
+      "message": "Typ uw zoekopdracht in het bovenstaande vak om blogresultaten te vinden met Google Zoeken in blogs."
+   },
+   "4205329094859140439": {
+      "message": "a.m."
+   },
+   "4211182812451835307": {
+      "message": "Mag bewerken"
+   },
+   "4211806608204126222": {
+      "message": "$2​Servicevoorwaarden$1​"
+   },
+   "4214190403999219403": {
+      "message": "Zoomen"
+   },
+   "4230101516585408149": {
+      "message": "Een nieuwe notitie maken"
+   },
+   "4253741616909644861": {
+      "message": "Zoektermen"
+   },
+   "4280747719095153198": {
+      "message": "Opgeloste opmerking"
+   },
+   "4286663890332754386": {
+      "message": "Upload mislukt."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4314643310615423802": {
+      "message": "U bent uitgelogd."
+   },
+   "4318861667254318892": {
+      "message": "Google Video's"
+   },
+   "4319229296464464147": {
+      "message": "Datum toegevoegd"
+   },
+   "4320831042030778": {
+      "message": "Annuleren"
+   },
+   "4332252081504252077": {
+      "message": "Oeps!"
+   },
+   "4338991104991831337": {
+      "message": "Afbeeldingen"
+   },
+   "4339705658383891586": {
+      "message": "Kleur"
+   },
+   "4343825450663233452": {
+      "message": "Mag weergeven"
+   },
+   "4343836986248234462": {
+      "message": "Lijstitem"
+   },
+   "435214284915110062": {
+      "message": "De zoekbalk openen"
+   },
+   "4372755508519489521": {
+      "message": "Rasterweergave"
+   },
+   "4391715930031906467": {
+      "message": "Volgende zoeken"
+   },
+   "4395845663892873002": {
+      "message": "Home"
+   },
+   "4422985761498356257": {
+      "message": "Openen met"
+   },
+   "4430062722430863019": {
+      "message": "Notitie definitief verwijderen?"
+   },
+   "4439812492856303238": {
+      "message": "Er is een onverwachte fout opgetreden bij het verwerken van uw selectie. Probeer het later opnieuw."
+   },
+   "4444571967705751871": {
+      "message": "Prullenbak"
+   },
+   "4466605492523079635": {
+      "message": "Opslaan"
+   },
+   "4468872996560163913": {
+      "message": "Prullenbak nu leegmaken"
+   },
+   "4473912481270012588": {
+      "message": "Opgeslagen op Drive - verplaatsen naar:"
+   },
+   "45228242181482134": {
+      "message": "Afspelen"
+   },
+   "4536519876526589338": {
+      "message": "Avatar voor $1​."
+   },
+   "4552045407215325033": {
+      "message": "De video-URL die u hierboven heeft opgegeven, kan niet worden geladen. Controleer of de URL correct is en naar een ondersteunde site verwijst."
+   },
+   "4564682305303579317": {
+      "message": "Doorgaan"
+   },
+   "456498742882714639": {
+      "message": "Verplaatsen naar:"
+   },
+   "4588500131398315347": {
+      "message": "Een kring maken"
+   },
+   "4604402426271704651": {
+      "message": "Geen foto"
+   },
+   "4620034373159179678": {
+      "message": "Pagina $1​ van $2​"
+   },
+   "4630690108252818511": {
+      "message": "Geen afbeeldingen gevonden."
+   },
+   "468283184702431827": {
+      "message": "Uitvoering gestart"
+   },
+   "4695897771458936174": {
+      "message": "Foto's delen vanuit Google Drive op Google+"
+   },
+   "4740100782728373253": {
+      "message": "Opslaan op Drive"
+   },
+   "4748046231232264180": {
+      "message": "Google Formulieren"
+   },
+   "4767722428137216885": {
+      "message": "Annuleren"
+   },
+   "477328789314249432": {
+      "message": "Zoeken in notities"
+   },
+   "4775368111547931093": {
+      "message": "Geen beschrijving"
+   },
+   "4781742940361705258": {
+      "message": "Sluiten"
+   },
+   "4783695823456312682": {
+      "message": "Naar beneden verplaatsen"
+   },
+   "47844150329705564": {
+      "message": "Zoekresultaten voor '$1​'"
+   },
+   "4798897505978458661": {
+      "message": "Geen video's gevonden."
+   },
+   "4805047680716507619": {
+      "message": " - Verplaatsen naar:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7-handtekening"
+   },
+   "4833214200453019325": {
+      "message": "$1​ van $2​"
+   },
+   "4846720038197420778": {
+      "message": "Meer apps koppelen"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Notitie in de prullenbak"
+   },
+   "4888104357342241891": {
+      "message": "Herinneringen"
+   },
+   "4889853674709731963": {
+      "message": "Alle notities zijn offline opgeslagen"
+   },
+   "4901386320110714275": {
+      "message": "Onjuist wachtwoord. Probeer het opnieuw."
+   },
+   "490372259452655427": {
+      "message": "Het document is nog niet beschikbaar voor weergave."
+   },
+   "4906669330059413958": {
+      "message": "Wachtwoord verzenden"
+   },
+   "4908614808966678155": {
+      "message": "Geen zoekresultaten voor '$1​'"
+   },
+   "4926020998477695737": {
+      "message": "Overschakelen naar map $1​"
+   },
+   "4943176738805484221": {
+      "message": "bewerken"
+   },
+   "4956678140555659175": {
+      "message": "Backspace"
+   },
+   "4957674814179289955": {
+      "message": "Navigeren naar volgende/vorige lijstitem"
+   },
+   "4963784280521435720": {
+      "message": "Opslaan…"
+   },
+   "4969219890884320840": {
+      "message": "Updaten"
+   },
+   "4983125135476400111": {
+      "message": "Notitie/lijst naar prullenbak verplaatsen"
+   },
+   "4988132901627446385": {
+      "message": "Detailvenster uitgevouwen."
+   },
+   "4998757387516632837": {
+      "message": "Getoonde resultaten zijn gelabeld voor hergebruik met wijziging."
+   },
+   "5006225450559627366": {
+      "message": "+$1​ meer"
+   },
+   "501475221876543407": {
+      "message": "Notities die u toevoegt, worden hier weergegeven"
+   },
+   "5023525794410110078": {
+      "message": "Tekst aan foto toevoegen"
+   },
+   "5026241297254150381": {
+      "message": "Notitie toevoegen"
+   },
+   "5046371569383796818": {
+      "message": "Behouden"
+   },
+   "5055418092354683641": {
+      "message": "Serif"
+   },
+   "5095987896933771566": {
+      "message": "Het document afdrukken"
+   },
+   "5096751700090310607": {
+      "message": "Geen foto's."
+   },
+   "509815948423424872": {
+      "message": "Navigatie"
+   },
+   "5099245668405591445": {
+      "message": "Zoeken"
+   },
+   "512429649443191386": {
+      "message": "$2​Help$1​"
+   },
+   "5124522868502261563": {
+      "message": "Spreadsheets"
+   },
+   "5130903421326358933": {
+      "message": "Er is een probleem opgetreden bij het opslaan van de bijlage in Google Drive."
+   },
+   "5149937870346466591": {
+      "message": "Lijstweergave"
+   },
+   "5169187962228219813": {
+      "message": "Life-afbeeldingen"
+   },
+   "5180454621500142444": {
+      "message": "Terugzetten"
+   },
+   "5180989337128758117": {
+      "message": "vierkante haak links"
+   },
+   "5184692850089055965": {
+      "message": "Afbeeldingtekst ophalen"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Detailvenster met tabbladbalk. Druk op de linker- of rechterpijltoets om te schakelen tussen de tabbladen."
+   },
+   "5204391636475413312": {
+      "message": "Opslaan"
+   },
+   "5213411023807957844": {
+      "message": "Zoeken in Google Keep"
+   },
+   "5213974294317036409": {
+      "message": "{numPages,plural, =0{}=1{1 pagina}other{# pagina's}}"
+   },
+   "5226470917948786938": {
+      "message": "Alfabetisch"
+   },
+   "5238003680997310998": {
+      "message": "Meer"
+   },
+   "5238371081785912565": {
+      "message": "Openen met $1​"
+   },
+   "5275493935807628890": {
+      "message": "We kunnen de afbeelding via die URL niet vinden."
+   },
+   "5281121179861637423": {
+      "message": "Er is een wachtwoord vereist voor toegang tot $1​. Voer het wachtwoord in."
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5291153964865714504": {
+      "message": "Geen overeenkomende notities"
+   },
+   "5299648222246616124": {
+      "message": "accent grave"
+   },
+   "5304869088141363028": {
+      "message": "Aanbevolen foto's"
+   },
+   "5316658541831864803": {
+      "message": "Het weergeven van dit type document wordt niet ondersteund."
+   },
+   "5319313176242717957": {
+      "message": "Afbeeldingen verwerken…"
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "534228323125524312": {
+      "message": "Uitzoomen"
+   },
+   "5353129315502554762": {
+      "message": "Stylesheet"
+   },
+   "5372143986724491245": {
+      "message": "$1​ dag geleden"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5399553230649155346": {
+      "message": "over $1​ uur"
+   },
+   "5403830377590414208": {
+      "message": "Wit"
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5438481737351808090": {
+      "message": "$1​"
+   },
+   "544377415081282702": {
+      "message": "Excuses."
+   },
+   "5447119197363232006": {
+      "message": "Weergeven in Drive"
+   },
+   "5465323999933375616": {
+      "message": "U heeft de bandbreedtelimiet bereikt voor het weergeven of downloaden van bestanden in een andere indeling dan Google Documenten."
+   },
+   "5472312735475866917": {
+      "message": "Opmerking van $1​."
+   },
+   "547865385964196102": {
+      "message": "$1​ minuten geleden"
+   },
+   "5482872484546230111": {
+      "message": "Boeken zoeken"
+   },
+   "5494181290179470995": {
+      "message": "Verwijderen"
+   },
+   "5500117709595533163": {
+      "message": "Typ uw zoekopdracht in het bovenstaande vak om eBoek-resultaten te vinden met Google Boeken"
+   },
+   "5514516347328112388": {
+      "message": "U kunt ook proberen het originele document te downloaden door $2​hier$1​ te klikken."
+   },
+   "5529532831767466284": {
+      "message": "{VIEWER_GENDER,select, female{{DEGREES}° {MINUTES}' {SECONDS}\"}male{{DEGREES}° {MINUTES}' {SECONDS}\"}other{{DEGREES}° {MINUTES}' {SECONDS}\"}}"
+   },
+   "5555182241047709329": {
+      "message": "Kies een locatie"
+   },
+   "5555599189512365009": {
+      "message": "OK"
+   },
+   "5571842632470308750": {
+      "message": "Elk type"
+   },
+   "5588597116382648727": {
+      "message": "Uitpakken starten."
+   },
+   "5598649706113950710": {
+      "message": "Editor"
+   },
+   "5609727719971819773": {
+      "message": "{VIEWER_GENDER,select, female{Terug}male{Terug}other{Terug}}"
+   },
+   "5627470193961862490": {
+      "message": "Notities met naderende herinneringen worden hier weergegeven"
+   },
+   "5631086126416409232": {
+      "message": "Blauw"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5660422479531064559": {
+      "message": "Geen formulieren."
+   },
+   "5675154446465700699": {
+      "message": "Pdf's"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Aangevinkte items verwijderen?"
+   },
+   "5714240424645614611": {
+      "message": "Android-pakket"
+   },
+   "5728640851616538925": {
+      "message": "Groen"
+   },
+   "5744491383087191878": {
+      "message": "De afbeeldings-URL die u hierboven heeft opgegeven, is niet correct of kan niet worden geladen."
+   },
+   "5747728324987383020": {
+      "message": "Gezicht"
+   },
+   "5783875011049188612": {
+      "message": "Afbeeldingtekst opgehaald"
+   },
+   "5785010887521443923": {
+      "message": "Verwijderen"
+   },
+   "5834678297024555032": {
+      "message": "Toestaan"
+   },
+   "5840330517914556080": {
+      "message": "Uitzoomen"
+   },
+   "5842536098490298653": {
+      "message": "Geen lettertypen gevonden."
+   },
+   "5865680764501413616": {
+      "message": "Kan tekst niet herkennen."
+   },
+   "5871966496153339793": {
+      "message": "Thumbnail van video $1​ weergeven"
+   },
+   "5875004331736681428": {
+      "message": "Uitpakken naar uw e-mailaccount."
+   },
+   "587666071025645113": {
+      "message": "Zoeken"
+   },
+   "5877526626743756786": {
+      "message": "Feedback"
+   },
+   "5889725440363483648": {
+      "message": "Iedereen binnen de groep"
+   },
+   "5911012384539794869": {
+      "message": "Kan het uitpakken niet starten."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5949528478488617689": {
+      "message": "Downloadrechten"
+   },
+   "5950887255133612666": {
+      "message": "Niet gestart."
+   },
+   "5969696744752069015": {
+      "message": "Er is geen voorbeeld beschikbaar."
+   },
+   "5971400924847413790": {
+      "message": "U kunt ook de $2​gewone HTML$1​ weergeven (automatisch omleiden)."
+   },
+   "5972111804366033138": {
+      "message": "Downloaden"
+   },
+   "5975031149676029214": {
+      "message": "Iedereen"
+   },
+   "5976369213680241300": {
+      "message": "Afbeeldingen zoeken"
+   },
+   "5980081664136280513": {
+      "message": "Groen"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "6009962986062136164": {
+      "message": "$1​ wordt geladen."
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6043068172993241858": {
+      "message": "Er is niemand in deze kring."
+   },
+   "604883455412617728": {
+      "message": "Er zijn geen contactpersonen die met uw zoekopdracht overeenkomen."
+   },
+   "6051386830221821025": {
+      "message": "Inloggen..."
+   },
+   "6064654062949366878": {
+      "message": "Afspelen"
+   },
+   "6070475007374165567": {
+      "message": "Opslaan..."
+   },
+   "6083586461434260179": {
+      "message": "Nieuwe kijkervaring"
+   },
+   "6087078248621415351": {
+      "message": "Aangepast: $1​"
+   },
+   "6091926883608250483": {
+      "message": "Meer"
+   },
+   "6105571474005679446": {
+      "message": "Probleem met het voorbeeld."
+   },
+   "6113237889871930608": {
+      "message": "Lege notitie"
+   },
+   "6118623991445349480": {
+      "message": "Pagina $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Lijst met apps"
+   },
+   "6149175749937815029": {
+      "message": "Alle items weergeven"
+   },
+   "6160805346274626656": {
+      "message": "Definitief verwijderen"
+   },
+   "616807262818311711": {
+      "message": "Type"
+   },
+   "6175043905327075444": {
+      "message": "Eerder geselecteerd"
+   },
+   "6177107655089301674": {
+      "message": "Download de Google Keep-app voor Android"
+   },
+   "6185886893933834031": {
+      "message": "Geselecteerde behouden"
+   },
+   "6186290899408627510": {
+      "message": "Enter"
+   },
+   "6189891414154673003": {
+      "message": "Mijn kaarten"
+   },
+   "6203260615455347677": {
+      "message": "Getallen"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Iedereen"
+   },
+   "623118860067088424": {
+      "message": "Video's"
+   },
+   "6231401379881217113": {
+      "message": "Insert"
+   },
+   "6252259197986158120": {
+      "message": "Gisteren"
+   },
+   "6253076263700695984": {
+      "message": "Verificatiefout. Laad de pagina opnieuw."
+   },
+   "6255475144867830247": {
+      "message": "Kies uit andere navigatietabbladen."
+   },
+   "6267063643272327592": {
+      "message": "Probeer het later opnieuw."
+   },
+   "6290270819062517523": {
+      "message": "Te veel items geselecteerd. Maak de selectie van een of meer items ongedaan."
+   },
+   "6305748545202493254": {
+      "message": "Detailvenster weergeven/verbergen"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6331677437567501421": {
+      "message": "Er is een probleem opgetreden bij het bijwerken van de downloadrechten."
+   },
+   "6333496730738019575": {
+      "message": "Laden..."
+   },
+   "634900089121611600": {
+      "message": "Geen video's."
+   },
+   "6362170008350775214": {
+      "message": "Herinnering bij $1​"
+   },
+   "6375395544374251820": {
+      "message": "Probleem bij het laden van meer pagina's. Opnieuw proberen..."
+   },
+   "6376739025584042564": {
+      "message": "Foto bijsnijden"
+   },
+   "6386587519843563719": {
+      "message": "Binair bestand"
+   },
+   "6416495701611778255": {
+      "message": "Voorgestelde apps van derden"
+   },
+   "6419411265907669340": {
+      "message": "Vandaag"
+   },
+   "6436479735235889890": {
+      "message": "Herinnering op $2​, $1​"
+   },
+   "6450508807204492448": {
+      "message": "Pictogram $1​"
+   },
+   "6457802200418354862": {
+      "message": "Kijkers kunnen downloaden"
+   },
+   "6459405233858728718": {
+      "message": "Google Presentaties"
+   },
+   "6464761738227651511": {
+      "message": "$1​ minuut geleden"
+   },
+   "6466736813846482957": {
+      "message": "Vorige"
+   },
+   "6479216014938929613": {
+      "message": "$1​"
+   },
+   "6482358947077977110": {
+      "message": "Afbeeldingen uit Google Zoeken"
+   },
+   "6487403767449360463": {
+      "message": "Keep opnieuw laden?"
+   },
+   "6488225756782357866": {
+      "message": "De afbeelding die u heeft gemarkeerd, is door Google Afbeeldingen gevonden op deze pagina:"
+   },
+   "6510131849363684615": {
+      "message": "Morgen"
+   },
+   "6516256764288947999": {
+      "message": "Mensen taggen"
+   },
+   "6522917155620379865": {
+      "message": "Downloaden"
+   },
+   "6524849072392100692": {
+      "message": "Google Drive-map"
+   },
+   "6551588617715293696": {
+      "message": "Sorteeropties"
+   },
+   "6570921376519753466": {
+      "message": "Weergave"
+   },
+   "6571686604846453345": {
+      "message": "Er is een probleem opgetreden bij het toevoegen van dit item aan Drive."
+   },
+   "6582286158693833652": {
+      "message": "Meer informatie"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6602430002978098812": {
+      "message": "Handschrift"
+   },
+   "6614046405230762587": {
+      "message": "Geen contactpersonen gevonden."
+   },
+   "6622304228074863427": {
+      "message": "App"
+   },
+   "6624754161346656119": {
+      "message": "Avatar voor $1​."
+   },
+   "6644861766016503644": {
+      "message": "Wachtwoord vereist"
+   },
+   "6650600936729710500": {
+      "message": "Reacties."
+   },
+   "666311703374681171": {
+      "message": "Afbeeldingen en video's"
+   },
+   "6666820082708870349": {
+      "message": "Verwijderen"
+   },
+   "6707173584987026005": {
+      "message": "Vandaag"
+   },
+   "6709984792949009238": {
+      "message": "Laatst geopend door mij"
+   },
+   "6726462693927865256": {
+      "message": "Details"
+   },
+   "6726879257388338969": {
+      "message": "Afdrukken"
+   },
+   "6726925393892510846": {
+      "message": "Er is een fout opgetreden. Probeer het opnieuw."
+   },
+   "6741759391888465238": {
+      "message": "Opslaan op Drive - verplaatsen naar:"
+   },
+   "6744457949320515234": {
+      "message": "Lege notitie weggegooid"
+   },
+   "6757218172402086688": {
+      "message": "Zoeken in notities..."
+   },
+   "6780628488957834429": {
+      "message": "Oranje"
+   },
+   "6784073265197389491": {
+      "message": "Meer informatie"
+   },
+   "681598652078493281": {
+      "message": "Meer informatie"
+   },
+   "6818286476757207074": {
+      "message": "Selecteer uitsluitend afbeeldingen waarvoor u heeft bevestigd dat u er een licentie voor heeft."
+   },
+   "682070933835616121": {
+      "message": "Geen tabellen."
+   },
+   "6822338149422461362": {
+      "message": "Google Drive"
+   },
+   "6827821461670731013": {
+      "message": "Selectievakjes weergeven"
+   },
+   "6828581947433060251": {
+      "message": "Er is een probleem opgetreden bij het wijzigen van de naam van het item."
+   },
+   "6833760103261954639": {
+      "message": "Probleem bij het laden van deze pagina. Opnieuw proberen..."
+   },
+   "6841020391100928352": {
+      "message": "Maximumbestandsgrootte overschreden."
+   },
+   "6851307437837490686": {
+      "message": "Kijkers niet toestaan te downloaden"
+   },
+   "6856672816797218730": {
+      "message": "Bijvoegen"
+   },
+   "6891563484025164308": {
+      "message": "Vorige"
+   },
+   "6893687445500687349": {
+      "message": "Sites"
+   },
+   "6898823203505321799": {
+      "message": "Details"
+   },
+   "6904351530369058983": {
+      "message": "Eigenaar"
+   },
+   "6905021988981026920": {
+      "message": "Video's zoeken"
+   },
+   "6922953828399110511": {
+      "message": "De viewer sluiten"
+   },
+   "6929958461954697067": {
+      "message": "Foto's van u"
+   },
+   "6939782595426687411": {
+      "message": "Toevoegen..."
+   },
+   "6940998537415516791": {
+      "message": "om"
+   },
+   "695253297035211081": {
+      "message": "Prullenbak leegmaken"
+   },
+   "6967244066810487978": {
+      "message": "PRULLENBAK"
+   },
+   "6970167488058122005": {
+      "message": "auteur onbekend"
+   },
+   "6976414863987386971": {
+      "message": "Formulieren"
+   },
+   "7001938470263404128": {
+      "message": "Uploaden"
+   },
+   "7002768663714031226": {
+      "message": "Updaten"
+   },
+   "7004919150329996187": {
+      "message": "Geen overeenkomende mensen gevonden in deze kring."
+   },
+   "7054631817922169541": {
+      "message": "Google Keep bevat wijzigingen die niet zijn opgeslagen. Wilt u de pagina verlaten en uw wijzigingen annuleren?"
+   },
+   "7059437903473652416": {
+      "message": "YouTube-video $1​ afspelen"
+   },
+   "7080196430479494775": {
+      "message": "Opnieuw proberen"
+   },
+   "7084324152376766809": {
+      "message": "$1​ dagen geleden"
+   },
+   "7084991134824194740": {
+      "message": "Herinner mij hieraan"
+   },
+   "7092062731478679314": {
+      "message": "Geen kringen gevonden."
+   },
+   "7117183622067702162": {
+      "message": "Met Google Drive hoeft u nooit meer een e-mailbijlage te versturen. U hoeft alleen maar een link te delen naar een bestand dat u in Google Drive heeft opgeslagen. Iedereen heeft dus automatisch toegang tot hetzelfde bestand en dezelfde versie."
+   },
+   "713754035716193665": {
+      "message": "Nieuwe lijst"
+   },
+   "7146242673022399081": {
+      "message": "Tekst"
+   },
+   "7148992630785407972": {
+      "message": "Dit bestand is beveiligd met een wachtwoord. Er kan geen voorbeeld worden weergegeven."
+   },
+   "7151987668860086450": {
+      "message": "Google Zoeken"
+   },
+   "7153847618034547771": {
+      "message": "Inschakelen"
+   },
+   "7161134329606048317": {
+      "message": "Sluiten"
+   },
+   "7164532930742017984": {
+      "message": "Iedereen met de link"
+   },
+   "7174189954350964804": {
+      "message": "Opnieuw proberen"
+   },
+   "7177591028189992523": {
+      "message": "Verplaatsen"
+   },
+   "7188754206068648188": {
+      "message": "Door komma's gescheiden gegevens"
+   },
+   "7225837680381806920": {
+      "message": "$1​"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7236199858216720905": {
+      "message": "Kaarten"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7259352906118493156": {
+      "message": "Geen sites."
+   },
+   "7282548567245878869": {
+      "message": "Item verwijderd"
+   },
+   "7295712436136900176": {
+      "message": "Opnieuw laden"
+   },
+   "7310311230493556740": {
+      "message": "URL"
+   },
+   "7339696241980105410": {
+      "message": "De video die u heeft geselecteerd, bestaat niet meer. Mogelijk heeft de eigenaar deze verwijderd."
+   },
+   "7342923890755029722": {
+      "message": "Sluiten"
+   },
+   "734478884582426793": {
+      "message": "Gecomprimeerd archief"
+   },
+   "7357017164339332230": {
+      "message": "U kunt deze afbeeldingen ook bekijken en delen in $2​Picasa Webalbums$1​, de gratis hostingservice voor foto's van Google."
+   },
+   "736105042796745909": {
+      "message": "{VIEWER_GENDER,select, female{Map maken}male{Map maken}other{Map maken}}"
+   },
+   "7362061801920948830": {
+      "message": "Meer uploaden"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7377239345926788722": {
+      "message": "Acties"
+   },
+   "7380785991026002613": {
+      "message": "Getoonde resultaten zijn gelabeld voor hergebruik."
+   },
+   "7382688299146249119": {
+      "message": "Item downloaden"
+   },
+   "7383706174467122149": {
+      "message": "Notitie verwijderd"
+   },
+   "7388342865555961406": {
+      "message": "over $1​ dag"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "740507516967994591": {
+      "message": "Openen"
+   },
+   "7422452809590461532": {
+      "message": "Rood"
+   },
+   "7426603384368095928": {
+      "message": "Laad de pagina opnieuw om nogmaals in te loggen en verder te werken."
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (bewerkt: $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Opslaan op Drive"
+   },
+   "7451573821837395189": {
+      "message": "Item is toegevoegd aan $2​uw Google Drive$1​."
+   },
+   "7468322419516352788": {
+      "message": "Er is een probleem opgetreden bij het bijwerken van de beschrijving."
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7492710087472140422": {
+      "message": "Meer informatie"
+   },
+   "7493919863870655172": {
+      "message": "Webcamera"
+   },
+   "7500786109708143683": {
+      "message": "Audio verwijderd"
+   },
+   "7501027876827009022": {
+      "message": "Getoonde resultaten zijn commercieel gelabeld voor hergebruik."
+   },
+   "7521272923988336579": {
+      "message": "Blijf up-to-date door Keep nu opnieuw te laden."
+   },
+   "7532552995569296274": {
+      "message": "Zoekopdracht wissen"
+   },
+   "7546994163355383999": {
+      "message": "Alle notities zijn opgeslagen"
+   },
+   "7559208209275370228": {
+      "message": "Laatst bewerkt door mij"
+   },
+   "7565383798249439151": {
+      "message": "over $1​ dagen"
+   },
+   "7565870443143407759": {
+      "message": "Zoeken in document"
+   },
+   "7586291841734385643": {
+      "message": "Groot weergeven"
+   },
+   "7598582624136632660": {
+      "message": "De zoekbalk openen/volgende zoeken"
+   },
+   "7602870977118971161": {
+      "message": "Opnieuw laden"
+   },
+   "7610654194202731772": {
+      "message": "Verwijderen"
+   },
+   "761925792744044896": {
+      "message": "Instellen als profielfoto"
+   },
+   "7630723924002267143": {
+      "message": "Sneltoetsen zijn ingeschakeld."
+   },
+   "7640546114686970497": {
+      "message": "Kan niet meer items toevoegen"
+   },
+   "7669846901402551021": {
+      "message": "Vandaag"
+   },
+   "7691521283331762131": {
+      "message": "Uw gearchiveerde notities worden hier weergegeven"
+   },
+   "772000107335590599": {
+      "message": "over $1​ minuten"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7745005220197261896": {
+      "message": "Zoeken naar boeken"
+   },
+   "7759846028901235026": {
+      "message": "Notitie teruggezet uit archief"
+   },
+   "776065748745885880": {
+      "message": "Spatiebalk"
+   },
+   "7770982082843341533": {
+      "message": "Geen items in deze map."
+   },
+   "779472474101127362": {
+      "message": "Een foto maken"
+   },
+   "7800318069267901681": {
+      "message": "Gewijzigd"
+   },
+   "7805487598105530487": {
+      "message": "Inline"
+   },
+   "7814778057875152792": {
+      "message": "Er is een probleem opgetreden bij het verplaatsen van de bijlage naar de geselecteerde map in Google Drive."
+   },
+   "7820417126206702946": {
+      "message": "De weergegeven resultaten zijn alleen beschikbaar voor persoonlijk of commercieel gebruik in Google Drive en mogen niet afzonderlijk opnieuw worden gedistribueerd of verkocht."
+   },
+   "7822364282298323175": {
+      "message": "Lijst verwijderd"
+   },
+   "7830513726270865588": {
+      "message": "Agenda"
+   },
+   "7845751753397906805": {
+      "message": "Conflicterende bewerkingen gevonden"
+   },
+   "7852396628465259068": {
+      "message": "Profielfoto"
+   },
+   "7859526172011446452": {
+      "message": "Casten stoppen"
+   },
+   "78870906674150830": {
+      "message": "$3​$1​$2​"
+   },
+   "7895643887742936844": {
+      "message": "puntkomma"
+   },
+   "7899833760457194273": {
+      "message": "Afbeeldingen zoeken"
+   },
+   "7899913952063063825": {
+      "message": "Afbeelding verwijderd"
+   },
+   "7906726367011430855": {
+      "message": "Koppelen"
+   },
+   "7910518224461588465": {
+      "message": "Geel"
+   },
+   "7953603850004320936": {
+      "message": "Geen voorbeeld beschikbaar."
+   },
+   "7957306528733096600": {
+      "message": "Uitvoering voltooid"
+   },
+   "7960528690514646841": {
+      "message": "{moreCount,plural, =0{unused plural form}=1{+ 1 meer}other{+ {moreCount} meer}}"
+   },
+   "7973635145070803181": {
+      "message": "Foto's uploaden"
+   },
+   "7987180255015869513": {
+      "message": "Of plak hier een internetadres:"
+   },
+   "8011497727123874703": {
+      "message": "Mapknop $1​"
+   },
+   "8016231262233952856": {
+      "message": "Blauwgroen"
+   },
+   "8019402848412685977": {
+      "message": "'$2​' gewijzigd in '$1​'."
+   },
+   "8023466614826324314": {
+      "message": "Foto's worden gedeeld met een breed publiek."
+   },
+   "8043514121228710092": {
+      "message": "Afbeelding toevoegen"
+   },
+   "8044700199531805239": {
+      "message": "$3​$1​$2​ is gekoppeld."
+   },
+   "8069384932934428393": {
+      "message": "over $1​ minuut"
+   },
+   "8081927474846706026": {
+      "message": "Geen tekeningen."
+   },
+   "8090743714060857028": {
+      "message": "Kijkers kunnen niet downloaden"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 bytes}=1{1 byte}other{# bytes}}"
+   },
+   "8099047958506869131": {
+      "message": "{VIEWER_GENDER,select, female{Nieuwe map}male{Nieuwe map}other{Nieuwe map}}"
+   },
+   "8100558294600077150": {
+      "message": "Zoeken in blogs"
+   },
+   "8105635255693472607": {
+      "message": "Nieuwe lijstitems toevoegen"
+   },
+   "8106780183458743723": {
+      "message": "Fotoalbums"
+   },
+   "8112699352770418817": {
+      "message": "Geen boeken gevonden."
+   },
+   "8132410616064087953": {
+      "message": "Video te lang (maximale duur is $1​ seconden)."
+   },
+   "8135145577663029437": {
+      "message": "Beide behouden"
+   },
+   "8146560259680897627": {
+      "message": "Annuleren"
+   },
+   "8158191101452862916": {
+      "message": "Afbeeldingen invoegen"
+   },
+   "8159493406018222636": {
+      "message": "Feedback verzenden"
+   },
+   "8172945196588870035": {
+      "message": "Evenementen"
+   },
+   "8174654098152723289": {
+      "message": "Beschrijving bewerken"
+   },
+   "8178754379486173416": {
+      "message": "{VIEWER_GENDER,select, female{U heeft erg weinig items geselecteerd. Selecteer er meer.}male{U heeft erg weinig items geselecteerd. Selecteer er meer.}other{U heeft erg weinig items geselecteerd. Selecteer er meer.}}"
+   },
+   "8192378456655629049": {
+      "message": "Video wordt verwerkt..."
+   },
+   "8193991135666622583": {
+      "message": "Keep"
+   },
+   "821942580510564685": {
+      "message": "Voer het wachtwoord in van dit document om het te bekijken"
+   },
+   "8239237134193392595": {
+      "message": "Meldingen voor locatieherinneringen worden alleen weergegeven op mobiele apparaten."
+   },
+   "8267458240960831780": {
+      "message": "Verifiëren..."
+   },
+   "8281141013543828574": {
+      "message": "Onbewerkte afbeelding"
+   },
+   "8281678863271800533": {
+      "message": "Afbeeldingenfilter"
+   },
+   "8283103456188558313": {
+      "message": "Presentaties"
+   },
+   "8290434443655418968": {
+      "message": "{filesCount,plural, =0{unused plural form}=1{Geselecteerd bestand [{file}] wordt niet ondersteund voor uploaden.}other{Geselecteerde bestanden [{files}] worden niet ondersteund voor uploaden.}}"
+   },
+   "8304474373444239435": {
+      "message": "Reactie van $1​."
+   },
+   "8322416564157128458": {
+      "message": "Delen"
+   },
+   "8324195080917648153": {
+      "message": "De video past hier niet. Maak het browservenster iets groter."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342684858400436871": {
+      "message": "Tab"
+   },
+   "8379952094517631162": {
+      "message": "Nee"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412684147928483084": {
+      "message": "Zwart"
+   },
+   "8435544675017330861": {
+      "message": "Er zijn geen items die met uw zoekopdracht overeenkomen."
+   },
+   "8436817383042650304": {
+      "message": "Caps Lock"
+   },
+   "8451184312655705174": {
+      "message": "Als uw URL juist is, verschijnt hier een voorbeeld. Het kan enkele minuten duren voor grote afbeeldingen zichtbaar worden."
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8506198918368329269": {
+      "message": "Getoonde resultaten zijn gelabeld voor commercieel hergebruik met wijziging."
+   },
+   "8571315158566081191": {
+      "message": "Geen spreadsheets."
+   },
+   "8580600056399054303": {
+      "message": "Instellen waar nieuwe of aangevinkte items terechtkomen"
+   },
+   "8595175575778060149": {
+      "message": "Meer"
+   },
+   "8596257056433048992": {
+      "message": "Welkom bij"
+   },
+   "8616342546716995946": {
+      "message": "Ik snap het"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8638281560898810401": {
+      "message": "{MINUTES,plural, =0{0 minuten }=1{1 minuut }other{# minuten }}{SECONDS,plural, =0{0 seconden.}=1{1 seconde.}other{# seconden.}}"
+   },
+   "863955692838281739": {
+      "message": "Sluiten"
+   },
+   "8643398764569428530": {
+      "message": "Google Keep toestaan meldingen weer te geven?"
+   },
+   "8652566647088230560": {
+      "message": "Dogfood vertrouwelijk"
+   },
+   "8660016472468563221": {
+      "message": "dubbelepunt"
+   },
+   "8663507590720636709": {
+      "message": "$1​ + $2​ meer"
+   },
+   "8666643061920113075": {
+      "message": "{VIEWER_GENDER,select, female{Plak hier een afbeeldings-URL:}male{Plak hier een afbeeldings-URL:}other{Plak hier een afbeeldings-URL:}}"
+   },
+   "8674222789100049233": {
+      "message": "Sluiten"
+   },
+   "86815590954366945": {
+      "message": "Lijst van gearchiveerde inhoud"
+   },
+   "8709611758728645225": {
+      "message": "Page Down"
+   },
+   "8711002053494037632": {
+      "message": "Geen items aangevinkt"
+   },
+   "8748281640412284111": {
+      "message": "Stockfoto's"
+   },
+   "8759520888087120926": {
+      "message": "Geen scripts."
+   },
+   "8775097441636640256": {
+      "message": "$2​ - $1​"
+   },
+   "8780212274435014958": {
+      "message": "Kringen"
+   },
+   "8781837301864053001": {
+      "message": "Tekst met opmaak"
+   },
+   "8792038552136453044": {
+      "message": "Er is iets misgegaan"
+   },
+   "8793166064242077041": {
+      "message": "Probleem bij het weergeven van deze afbeelding."
+   },
+   "8813101408630252335": {
+      "message": "$1​ sec."
+   },
+   "8820281478062782578": {
+      "message": "Zoeken"
+   },
+   "8822326207328431952": {
+      "message": "Er kunnen geen afbeeldingen worden geüpload"
+   },
+   "8840223453482998505": {
+      "message": "Geselecteerde map $1​"
+   },
+   "8845176264121061589": {
+      "message": "Vinkjes voor alle items verwijderen"
+   },
+   "8850238112725591771": {
+      "message": "sneltoets $1​"
+   },
+   "8852550049823214385": {
+      "message": "vervolgens"
+   },
+   "8883744193208363722": {
+      "message": "Er is een app-update beschikbaar."
+   },
+   "8884900765322249670": {
+      "message": "Lijstweergave"
+   },
+   "8889019648958415451": {
+      "message": "Onbekend bestand"
+   },
+   "8911996820409711834": {
+      "message": "Tekst verplaatsen naar nieuw lijstitem &raquo;"
+   },
+   "8916237870980173557": {
+      "message": "Verbinding maken..."
+   },
+   "8917554093651202032": {
+      "message": "$1​ afspelen"
+   },
+   "8919660666733306860": {
+      "message": "Afbeelding"
+   },
+   "8930959387403789939": {
+      "message": "Herinnering"
+   },
+   "8943760679396635042": {
+      "message": "$1​ wordt weergegeven."
+   },
+   "8953555255469284376": {
+      "message": "Sleep afbeeldingen hier naartoe"
+   },
+   "8979615310931291676": {
+      "message": "Bewerkt op $1​"
+   },
+   "8986044948621891903": {
+      "message": "Typ uw zoekopdracht in het bovenstaande vak om internetresultaten te vinden met Google Zoeken."
+   },
+   "901615442107785480": {
+      "message": "Notitie/lijst archiveren"
+   },
+   "9024023699330078373": {
+      "message": "Als u dit item opent, wordt het toegevoegd aan uw Drive."
+   },
+   "9028041601596584772": {
+      "message": "Locatie"
+   },
+   "9058308423774656474": {
+      "message": "Hangul-tekstverwerker"
+   },
+   "9083935734710258396": {
+      "message": "Weigeren"
+   },
+   "9094248058931620597": {
+      "message": "Detailvenster samengevouwen."
+   },
+   "9114674068220302553": {
+      "message": "Als bijlage"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9130962320402467249": {
+      "message": "Stockfoto's"
+   },
+   "9146716987301178362": {
+      "message": "Er is een fout opgetreden. Laad de pagina opnieuw."
+   },
+   "9165877886714239857": {
+      "message": "Kan afbeeldingtekst niet ophalen. Probeer het later opnieuw."
+   },
+   "916773043895242978": {
+      "message": "De afbeeldings-URL die u hierboven heeft opgegeven, is niet correct of kan niet worden geladen. Geef een correcte afbeeldings-URL op."
+   },
+   "9173629944963872598": {
+      "message": "Geen evenementen gevonden."
+   },
+   "9182500445937900938": {
+      "message": "Sluiten"
+   },
+   "9195941533351099011": {
+      "message": "$1​ van $2​ wordt geüpload"
+   },
+   "9197837492705576727": {
+      "message": "Naar het volgende item gaan"
+   },
+   "919969969251998566": {
+      "message": "Dit archief uitpakken naar uw e-mailaccount."
+   },
+   "9203542510134660095": {
+      "message": "Uitpakken gestart. De inhoud van het archief wordt weergegeven in Drive onder de map '$1​'."
+   },
+   "940276535015195877": {
+      "message": "Geen mappen."
+   },
+   "943493480163896757": {
+      "message": "{resultCount,plural, =1{# overeenkomende notitie}other{# overeenkomende notities}}"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "95809842507987016": {
+      "message": "Verwijderen"
+   },
+   "963611681085757795": {
+      "message": "Het document kan momenteel niet worden weergegeven."
+   },
+   "96556988207614774": {
+      "message": "Agenda's"
+   },
+   "974042541427403929": {
+      "message": "Blauw"
+   },
+   "980395722421409371": {
+      "message": "Geen kaarten gevonden."
+   },
+   "982187142411651629": {
+      "message": "Sluiten"
+   },
+   "985197728509875956": {
+      "message": "Chemisch model"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "998727788921602971": {
+      "message": "Video's"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Leg snel uw ingevingen vast en laat u er op het juiste moment of de juiste plaats aan herinneren."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Google Keep - notities en lijstjes"
+   }
+}

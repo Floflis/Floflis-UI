@@ -1,0 +1,2485 @@
+{
+   "1006787209796778126": {
+      "message": "Oma Drive"
+   },
+   "1017907757187630742": {
+      "message": "Omat kirjasimet"
+   },
+   "1029072043275376320": {
+      "message": "Kalentereita ei löytynyt."
+   },
+   "1030781695901615026": {
+      "message": "Loppuun"
+   },
+   "103870949919613488": {
+      "message": "Huomautus arkistoitiin"
+   },
+   "1039394921418415681": {
+      "message": "Kirjaudu sisään"
+   },
+   "1083918249169198626": {
+      "message": "Pikanäppäimet on poistettu käytöstä."
+   },
+   "1090919586152138659": {
+      "message": "Arkistokuvat"
+   },
+   "1101371910696766077": {
+      "message": "Luo kopio"
+   },
+   "1107413433574576014": {
+      "message": "Otsikko on liian pitkä. Korostettua tekstiä ei tallenneta."
+   },
+   "1127320433256851404": {
+      "message": "Videosoitin"
+   },
+   "1162642135048988280": {
+      "message": "Nimeä asiakirja uudelleen"
+   },
+   "1166244120191806795": {
+      "message": "Anna palautetta"
+   },
+   "1179891706526242218": {
+      "message": "Seuraava"
+   },
+   "1185164838496022543": {
+      "message": "Päivitä sivu klikkaamalla tätä."
+   },
+   "1185644932132585290": {
+      "message": "$1​ merkkiä jäljellä"
+   },
+   "1213005208968286932": {
+      "message": "Merkitty ratkaistuksi"
+   },
+   "1263557413037343589": {
+      "message": "Kuvien järjestäminen"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1311350045083871503": {
+      "message": "Peruuta"
+   },
+   "1311729747516144362": {
+      "message": "Punainen"
+   },
+   "1315844696796851207": {
+      "message": "Sans Serif"
+   },
+   "1319037146426591038": {
+      "message": "tai"
+   },
+   "132822872080714863": {
+      "message": "OK"
+   },
+   "133192954417440569": {
+      "message": "Tuloksia ei löytynyt."
+   },
+   "1349697396109290623": {
+      "message": "Näytetään $1​ tarkemmassa resoluutiossa"
+   },
+   "1376126796144976437": {
+      "message": "Kaikki kirjasimet"
+   },
+   "139942704574044780": {
+      "message": "Hyväksy"
+   },
+   "141491180325662484": {
+      "message": "Google Drivessa voit tallentaa kaikki tiedot samaan paikkaan ja käyttää niitä kaikkialla millä tahansa laitteella. Kun kuvasi ovat Google Drivessa, voit jakaa ne hetkessä piireillesi."
+   },
+   "1418114637490664392": {
+      "message": "LIFE-valokuva-arkisto"
+   },
+   "1419896259743862406": {
+      "message": "Avaa"
+   },
+   "1440171352837969028": {
+      "message": "Video/ääni"
+   },
+   "1441487391064925653": {
+      "message": "Näytä kaikki pikanäppäimet ohjekeskuksessa"
+   },
+   "1446829548948002072": {
+      "message": "pilkku"
+   },
+   "1454684154234137497": {
+      "message": "pause"
+   },
+   "1459765068821943106": {
+      "message": "{VIEWER_GENDER,select, female{Liitä YouTuben URL-osoite tähän:}male{Liitä YouTuben URL-osoite tähän:}other{Liitä YouTuben URL-osoite tähän:}}"
+   },
+   "1463079206290378085": {
+      "message": "Orkut-valokuvat"
+   },
+   "1463389029497634261": {
+      "message": "Vähennä äänenvoimakkuutta"
+   },
+   "1475179211173444554": {
+      "message": "Jokainen verkkotunnukseen kuuluva, jolla on linkki"
+   },
+   "1492360016907725281": {
+      "message": "{VIEWER_GENDER,select, female{Liitä videon URL-osoite tähän:}male{Liitä videon URL-osoite tähän:}other{Liitä videon URL-osoite tähän:}}"
+   },
+   "1493251742569121894": {
+      "message": "Muistiinpano on liian pitkä. Korostettua tekstiä ei tallenneta."
+   },
+   "1493384967280942491": {
+      "message": "Vaaleanpunainen"
+   },
+   "1499433769420882987": {
+      "message": "Näytetään $1​"
+   },
+   "1505876360160857231": {
+      "message": "$1​ Tt"
+   },
+   "1521707405717823409": {
+      "message": "Violetti"
+   },
+   "153439508598626384": {
+      "message": "Omat kuvat"
+   },
+   "1536051766421561160": {
+      "message": "yhtäsuuruusmerkki"
+   },
+   "156992719062713230": {
+      "message": "Harmaa"
+   },
+   "1586968957182554447": {
+      "message": "Poista käytöstä"
+   },
+   "1588268697057804046": {
+      "message": "$1​ tuntia sitten"
+   },
+   "1603139897109307706": {
+      "message": "Virhe, yritä uudelleen"
+   },
+   "1604359562654146902": {
+      "message": "Valokuva"
+   },
+   "1633370388224271051": {
+      "message": "Henkilöitä ei löytynyt."
+   },
+   "1633798963327779260": {
+      "message": "Huomenna"
+   },
+   "1654222450095043962": {
+      "message": "Ääni"
+   },
+   "1656911987308166143": {
+      "message": "Poista"
+   },
+   "1665821947855814052": {
+      "message": "Koko"
+   },
+   "1692901784886701962": {
+      "message": "Muistiinpano on liian suuri."
+   },
+   "1697160643589236962": {
+      "message": "$1​ Pt"
+   },
+   "1700522311470719738": {
+      "message": "Muistuta"
+   },
+   "1701312243672511585": {
+      "message": "Siirrä teksti uuteen muistiinpanoon &raquo;"
+   },
+   "1709410429018687341": {
+      "message": "Aamu ($1​)"
+   },
+   "1715552550526864429": {
+      "message": "Hae blogeja"
+   },
+   "171683163267149669": {
+      "message": "$1​ Gt"
+   },
+   "1739900012825270238": {
+      "message": "Siirry edelliseen kohteeseen"
+   },
+   "1756171223417807431": {
+      "message": "Varmista, että kuva on julkinen. Jos kuvasi on suojattu salasanalla tai jos se on sisäisessä verkossa, emme pysty lukemaan sitä."
+   },
+   "1759957963056319953": {
+      "message": "Palaa kohteesta $1​"
+   },
+   "1783719421893050637": {
+      "message": "Mitat"
+   },
+   "178927681797742562": {
+      "message": "Kirjaudu sisään"
+   },
+   "1791115075948268631": {
+      "message": "Avaa pikanäppäinohje"
+   },
+   "1808245543551507519": {
+      "message": "Ääni"
+   },
+   "1816851800848432562": {
+      "message": "Poista"
+   },
+   "1818306025747564729": {
+      "message": "Siirry linkkiin"
+   },
+   "1823222042913714987": {
+      "message": "Anna salasana"
+   },
+   "1823854753950594157": {
+      "message": "Jätä paikoilleen"
+   },
+   "1830157062072535681": {
+      "message": "Näytetään $1​"
+   },
+   "185012928288875755": {
+      "message": "Ei ehtoja vastaavia kohteita."
+   },
+   "1856444915090632305": {
+      "message": "Asiakirja on salattu. Anna salasana."
+   },
+   "1866863108233180413": {
+      "message": "Kansiot"
+   },
+   "187077078156858455": {
+      "message": "Äänimuistiinpano"
+   },
+   "189303170370862360": {
+      "message": "Kohde $1​/$2​"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901351411358749070": {
+      "message": "Jaettu minun kanssani"
+   },
+   "1913425963149828429": {
+      "message": "Pura tämä arkisto Driveen."
+   },
+   "1918176455405610789": {
+      "message": "Valmis"
+   },
+   "1920189655549476211": {
+      "message": "tuntematon pituus"
+   },
+   "1929603188252533075": {
+      "message": "Videota ei voitu poistaa. Yritä uudelleen."
+   },
+   "1951810091681076784": {
+      "message": "{COUNT_1,plural, =1{1 vastaava muistiinpano}other{{COUNT_2} vastaavaa muistiinpanoa}}"
+   },
+   "1956794332842050061": {
+      "message": "Seuraava sivu"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1968405748623909021": {
+      "message": "Kokeile tämän kohteen avaamista tai muokkaamista jollakin seuraavista sovelluksista"
+   },
+   "1974063091619095703": {
+      "message": "Ihmiset"
+   },
+   "1988244842147989817": {
+      "message": "Roskakorissa olevat muistiinpanot poistetaan seitsemän päivän kuluttua."
+   },
+   "1993674829873313178": {
+      "message": "Onko sinulla ongelmia lataamisessa? Suoritamme huoltotoimenpiteitä, mutta palvelun pitäisi pian palata normaaliksi."
+   },
+   "2003845117979929469": {
+      "message": "Tiedot"
+   },
+   "2048322072989992494": {
+      "message": "Kukaan ei ole vielä jakanut tiedostoja kanssasi."
+   },
+   "2055836117545582610": {
+      "message": "Luettelon asetukset"
+   },
+   "2059084517358086391": {
+      "message": "Sulje hakupalkki"
+   },
+   "2061440050632248160": {
+      "message": "Arkisto"
+   },
+   "2068023589621557589": {
+      "message": "TrueType-kirjasin"
+   },
+   "2073035325657060696": {
+      "message": "Esikatselu ei ole käytettävissä."
+   },
+   "2073322475696388995": {
+      "message": "Siirry eteenpäin"
+   },
+   "207810168108507460": {
+      "message": "$1​ tunti sitten"
+   },
+   "2109272338124379867": {
+      "message": "Muokattu viimeksi"
+   },
+   "2116013171202209313": {
+      "message": "Valitse"
+   },
+   "2122256657192674586": {
+      "message": "Hae videoita"
+   },
+   "2125135092719715773": {
+      "message": "Lähettäminen"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "213665695896111861": {
+      "message": "Huomautukset"
+   },
+   "2138593281154109183": {
+      "message": "Arkisto"
+   },
+   "2147952938331523160": {
+      "message": "Nimeä uudelleen…"
+   },
+   "2154372123324862271": {
+      "message": "kauttaviiva"
+   },
+   "2154940358270068005": {
+      "message": "Säilytä poistetut muistiinpanot hiukan kauemmin"
+   },
+   "2184278444368405837": {
+      "message": "$1​ kohdetta"
+   },
+   "2187239650627580457": {
+      "message": "Lähetä"
+   },
+   "2198096971937872560": {
+      "message": "Muistutus:"
+   },
+   "220168959069469607": {
+      "message": "Lisää toimintoja"
+   },
+   "221715292685577880": {
+      "message": "Kyllä"
+   },
+   "2220005860896049129": {
+      "message": "Asiakirjan etsiminen alkuperäisestä lähteestä kesti liian kauan."
+   },
+   "2228413078211839077": {
+      "message": "Meillä on väliaikainen ongelma asiakirjanäkymän muodostamisessa."
+   },
+   "2235097878790803849": {
+      "message": "Hyvästi liitteet. Tervetuloa Google Drive."
+   },
+   "2257303402199718039": {
+      "message": "Asiakirjaa ei löydy alkuperäisestä lähteestä. Varmista, että asiakirja on yhä olemassa."
+   },
+   "2274436793504233543": {
+      "message": "Peruuta"
+   },
+   "2278224983638451454": {
+      "message": "Hanki nyt"
+   },
+   "2280650195464600721": {
+      "message": "Navigointi"
+   },
+   "2285069188138705005": {
+      "message": "Yhdistetyt sovellukset"
+   },
+   "2289534534793293486": {
+      "message": "Poista arkistosta"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Lisää äänenvoimakkuutta"
+   },
+   "230180475614658119": {
+      "message": "Valmis"
+   },
+   "2304293593067358316": {
+      "message": "Leikekuvat"
+   },
+   "2310145944356900158": {
+      "message": "Valittu"
+   },
+   "2311880726221661199": {
+      "message": "Ladataan suurempia resoluutioita"
+   },
+   "2329167963662998826": {
+      "message": "Google Keep haluaa käyttää sijaintiasi parantaakseen sijaintimuistutusten paikkaehdotuksia."
+   },
+   "234046557601727809": {
+      "message": "Ei kuvia tai videoita."
+   },
+   "2349912757088764940": {
+      "message": "Näkyy seuraaville:"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2370463380397641604": {
+      "message": "Suositut pikanäppäimet"
+   },
+   "2370656573843123707": {
+      "message": "oikea hakasulku"
+   },
+   "2393487423640708285": {
+      "message": "URL-osoite ei kelpaa. Varmista, että URL-osoitteesi alussa on http:// tai https://."
+   },
+   "2405795704816921421": {
+      "message": "Tiedosto $1​"
+   },
+   "2412314804333167252": {
+      "message": "Laskentataulukko on liian suuri. $3​Lataa$1​ se klikkaamalla tai $4​muokkaa sitä Google Sheetsin avulla$1​."
+   },
+   "2418104318933043113": {
+      "message": "Google-kuvahaku"
+   },
+   "2433429041384246549": {
+      "message": "Mykistä"
+   },
+   "2449254824382583885": {
+      "message": "Avaa ikkunaan"
+   },
+   "2452522051596946166": {
+      "message": "Hups! Kohteen $1​ esikatselussa tapahtui virhe. Yritetään uudelleen."
+   },
+   "2454642351139428112": {
+      "message": "Kumoa"
+   },
+   "2466251465475184755": {
+      "message": "Tyhjennetäänkö roskakori? Kaikki roskakorissa olevat muistiinpanot poistetaan pysyvästi."
+   },
+   "2475181823688399272": {
+      "message": "Seuraava"
+   },
+   "2484568559152875936": {
+      "message": "Ei valokuva-albumeita."
+   },
+   "2504232652631703202": {
+      "message": "Yhdistetty"
+   },
+   "251025074207413762": {
+      "message": "Lisää kuvaus"
+   },
+   "2510929871271209216": {
+      "message": "Laskentataulukko on liian suuri. Lataa se klikkaamalla $2​tätä$1​."
+   },
+   "2513437337377210144": {
+      "message": "end"
+   },
+   "2524021436052870191": {
+      "message": "Tiedostoa ei voi lähettää. Voit lähettää vain tiedostoja, joiden tyyppi on $1​ ja koko alle $2​ Mt."
+   },
+   "2532280782491328445": {
+      "message": "Hae edellinen"
+   },
+   "2538080331309772448": {
+      "message": "Lajittelu: $1​"
+   },
+   "2538462904124380434": {
+      "message": "Muistiinpano siirrettiin roskakoriin"
+   },
+   "2546225293834487484": {
+      "message": "Muistiinpano"
+   },
+   "2558480112329900136": {
+      "message": "Harmaa"
+   },
+   "257317112834806705": {
+      "message": "Vaihda luettelo- tai ruudukkonäkymään"
+   },
+   "2579679351920691492": {
+      "message": "Siirry taaksepäin"
+   },
+   "2587566920590457715": {
+      "message": "Maps Engine Lite"
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609750184896485102": {
+      "message": "Videot puhelimesta"
+   },
+   "2615188670181508661": {
+      "message": "Et ole viime aikoina valinnut mitään."
+   },
+   "2623861453769098676": {
+      "message": "Asiakirjan esikatselussa tapahtui virhe."
+   },
+   "2628268670001557269": {
+      "message": "Kiintiö"
+   },
+   "2643241712502664984": {
+      "message": "Omat YouTube-videot"
+   },
+   "2661850177130037208": {
+      "message": "Avaa kohde"
+   },
+   "2681830832355823748": {
+      "message": "Haku kaikista pikakuvakkeista"
+   },
+   "2687303256387847763": {
+      "message": "Suosio"
+   },
+   "2702485557996900362": {
+      "message": "Korjaa ristiriitaiset muokkaukset"
+   },
+   "2705842902318123127": {
+      "message": "Siirry seuraavaan/edelliseen muistiinpanoon/luetteloon"
+   },
+   "272948685355798518": {
+      "message": "Valittu tiedostotyyppi on virheellinen."
+   },
+   "2731144323070245943": {
+      "message": "Luettelon asetukset"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2750830436677712001": {
+      "message": "{VIEWER_GENDER,select, female{Luonti epäonnistui: {FOLDER_NAME}.}male{Luonti epäonnistui: {FOLDER_NAME}.}other{Luonti epäonnistui: {FOLDER_NAME}.}}"
+   },
+   "2752123004911547510": {
+      "message": "Nousussa olevat"
+   },
+   "2758125083752925237": {
+      "message": "(Omistaja)"
+   },
+   "277430914014962533": {
+      "message": "Hups! Kohteen $1​ esikatselussa tapahtui virhe."
+   },
+   "2774713922589657910": {
+      "message": "Kaikki verkkotunnukseen kuuluvat"
+   },
+   "2786560864906393383": {
+      "message": "Kuvat puhelimesta"
+   },
+   "2789687492331041935": {
+      "message": "Valitse aika"
+   },
+   "2790446494460492805": {
+      "message": "Purkaminen aloitettiin. Sähköpostiviesteissä näkyy seuraava tunniste: Tuonti: $1​."
+   },
+   "2793841261389879255": {
+      "message": "Edellinen sivu"
+   },
+   "2801153442808430222": {
+      "message": "Oma Drive"
+   },
+   "2817277146396981386": {
+      "message": "ip"
+   },
+   "2818020101821669029": {
+      "message": "Luotu"
+   },
+   "2818135503416309545": {
+      "message": "Videon kuvaaminen"
+   },
+   "2827039933590757722": {
+      "message": "Windows Shortcut"
+   },
+   "2829226075651806940": {
+      "message": "Lähennä"
+   },
+   "2860188519781080944": {
+      "message": "Oranssi"
+   },
+   "2861568351294148466": {
+      "message": "Ohjelmat"
+   },
+   "2864281852037732729": {
+      "message": "Vähemmän"
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Tauko"
+   },
+   "2878874627361086801": {
+      "message": "esikatselu"
+   },
+   "2879276552944958066": {
+      "message": "Palaa kansioon $1​."
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2902747751281161248": {
+      "message": "Käytä uusille luetteloille"
+   },
+   "2905147317995482841": {
+      "message": "Nyt voit katsella kaikkia tiedostoja Google Drivessa entistä helppokäyttöisemmässä ja näyttävämmässä ympäristössä. Toivottavasti nautit uudesta katselukokemuksesta!"
+   },
+   "2917498437550635075": {
+      "message": "Kuvake"
+   },
+   "2964778642459027786": {
+      "message": "Roskakorissa ei ole muistiinpanoja"
+   },
+   "2974598228601710262": {
+      "message": "Lisää"
+   },
+   "2979466412944870220": {
+      "message": "Ladataan esikatselua…"
+   },
+   "2982511431742033448": {
+      "message": "Ei esityksiä."
+   },
+   "298817883481775869": {
+      "message": "Ladataan…"
+   },
+   "3000689173481666334": {
+      "message": "Piirin muokkaaminen"
+   },
+   "3029395493413607486": {
+      "message": "Videosoitinta ei voitu ladata. Yritä ladata sivu uudelleen.$1​Jos ongelma ei poistu,$3​tutustu ohjekeskukseen$2​."
+   },
+   "3043961722025425136": {
+      "message": "Kuvaus"
+   },
+   "306516303501625305": {
+      "message": "Todennus epäonnistui."
+   },
+   "3073005748126521632": {
+      "message": "Edellinen muistutus $1​"
+   },
+   "3074184819310272351": {
+      "message": "Lähetetyt valokuvat"
+   },
+   "3084372889071691504": {
+      "message": "{VIEWER_GENDER,select, female{Liitä URL-osoite tähän:}male{Liitä URL-osoite tähän:}other{Liitä URL-osoite tähän:}}"
+   },
+   "3095645856215493958": {
+      "message": "Etsi tekstiä kuvista"
+   },
+   "31018542656161389": {
+      "message": "Sovita"
+   },
+   "3109321241584918345": {
+      "message": "Yhdistä lisää sovelluksia…"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "$1​ tunnin kuluttua"
+   },
+   "3189854932778515441": {
+      "message": "Muistiinpano on arkistossa"
+   },
+   "3207670492626476064": {
+      "message": "Taulukot"
+   },
+   "3211163842850942567": {
+      "message": "Lähennä"
+   },
+   "3222929029344613957": {
+      "message": "Tiedoston avaamisessa tapahtui virhe. Yritä uudelleen."
+   },
+   "3233388241926683100": {
+      "message": "Hae muistiinpanoja"
+   },
+   "3243829462528324248": {
+      "message": "Ruskea"
+   },
+   "3250489229749307913": {
+      "message": "Sähköinen julkaisu"
+   },
+   "3256928852560591255": {
+      "message": "Ei voi muokata roskakorissa"
+   },
+   "3261131345401321392": {
+      "message": "Voi kommentoida"
+   },
+   "3265524298292280681": {
+      "message": "esc"
+   },
+   "3267563602179728277": {
+      "message": "delete"
+   },
+   "3272496516667407797": {
+      "message": "Lisätietojen lataamisessa tapahtui virhe."
+   },
+   "3275029321588462173": {
+      "message": "Ei mitään"
+   },
+   "3278237562147211998": {
+      "message": "Kuvituskuvat"
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3306487262690341751": {
+      "message": "Päiväys ja kellonaika"
+   },
+   "3312545971976531405": {
+      "message": "Viesti"
+   },
+   "3319087486907616296": {
+      "message": "Lähetä tämä kohde"
+   },
+   "3328129883064940351": {
+      "message": "Kirjasimet"
+   },
+   "3335409796971631780": {
+      "message": "Puretaan Driveen."
+   },
+   "3343451103608774400": {
+      "message": "Esittelyssä $3​uusi Omat kartat.$2​$1​Entistä paremmat karttatyökalut."
+   },
+   "3354260708176476985": {
+      "message": "Ladataan&hellip;"
+   },
+   "3357778055650785985": {
+      "message": "Luettelokohta on liian pitkä. Korostettua tekstiä ei tallenneta."
+   },
+   "3364679383274077479": {
+      "message": "Sovelluspäivitys saatavilla"
+   },
+   "3368639944474272225": {
+      "message": "Valitettavasti asiakirjan noutaminen ei onnistu tai sinulla ei ole lupaa tarkastella sitä."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Avaa"
+   },
+   "3408219901032480508": {
+      "message": "$2​, $1​"
+   },
+   "3409257542937182842": {
+      "message": "Yritetään uudelleen…"
+   },
+   "3409483962000136213": {
+      "message": "Toista/keskeytä"
+   },
+   "3418767079436101103": {
+      "message": "Sivun lataamisessa tapahtui virhe."
+   },
+   "3421685394169412932": {
+      "message": "Jokainen tekemäsi muutos tallennetaan automaattisesti"
+   },
+   "3422389100099960864": {
+      "message": "Ei kuvia"
+   },
+   "3428726060007577698": {
+      "message": "Luettelo on liian suuri."
+   },
+   "3430885603500576146": {
+      "message": "Valitse vain kuvia, joita sinulla on lupa käyttää."
+   },
+   "3440534675925634227": {
+      "message": "Avaa Chrome-selainikkunassa osoite chrome://settings ja varmista, että olet kirjautunut sisään. Valitse sitten Kirjaudu sisään uudelleen."
+   },
+   "3446158485617778228": {
+      "message": "Kumoa"
+   },
+   "3448234415275521882": {
+      "message": "Yleiset tiedot"
+   },
+   "3448684788258660606": {
+      "message": "Omat kuvat"
+   },
+   "3450585781337676327": {
+      "message": "Ladataan…"
+   },
+   "3457279184692206825": {
+      "message": "Kuvat näkyvät kaikille (julkisia verkossa)."
+   },
+   "3468441711253011521": {
+      "message": "Google Sheets"
+   },
+   "3473620774713000513": {
+      "message": "Ratkaistu"
+   },
+   "3483438888494819423": {
+      "message": "Uutta Google Keepissä"
+   },
+   "3511274344439521198": {
+      "message": "Toiminnot"
+   },
+   "3518073392823563581": {
+      "message": "Pikanäppäimet"
+   },
+   "3531603810713611778": {
+      "message": "Tiedostojen maksimikoko ylitetty. Poista valinta yhdestä tai useammasta tiedostosta."
+   },
+   "3543475399174940144": {
+      "message": "+$1​"
+   },
+   "3547194749488601916": {
+      "message": "Päivitetään…"
+   },
+   "354828103903104581": {
+      "message": "Valitut kohteet"
+   },
+   "3561658662634401836": {
+      "message": "Nimi"
+   },
+   "357172711168973843": {
+      "message": "Äskettäin lisättyjä muistiinpanoja tai muutoksia ei tallennettu. Tee sisällöstä itsellesi kopio ja lataa sivu uudelleen."
+   },
+   "3586705906700410505": {
+      "message": "Viivapiirros"
+   },
+   "3587798318180902863": {
+      "message": "{NUM_SELECTED,plural, =1{ valittu »}other{ valittu »}}"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3602920441714068008": {
+      "message": "Muistutus $1​ klo $2​"
+   },
+   "3608606849109645545": {
+      "message": "Anna uusi asiakirjan nimi:"
+   },
+   "361202495024972887": {
+      "message": "Videoiden lähettäminen"
+   },
+   "361630518611593946": {
+      "message": "Piilota valintaruudut"
+   },
+   "3625886392901506764": {
+      "message": "tai"
+   },
+   "3643146117250542609": {
+      "message": "Ei PDF-tiedostoja."
+   },
+   "3645728163953189422": {
+      "message": "Asiakirjaa ei voi noutaa tarkasteltavaksi, koska se on liian iso."
+   },
+   "3651893685901703652": {
+      "message": "…"
+   },
+   "3657386785336906042": {
+      "message": "kenoviiva"
+   },
+   "3659554681396757189": {
+      "message": "Avaamani dokumentit"
+   },
+   "3663571259791438207": {
+      "message": "Ilmoita väärinkäytöstä"
+   },
+   "3664842788764635265": {
+      "message": "Ei mitään"
+   },
+   "3666123569747918021": {
+      "message": "Tässä asiakirjassa on tallentamattomia muutoksia. Haluatko poistua sivulta ja hylätä muutokset?"
+   },
+   "3673346558112798837": {
+      "message": "Ei taustaa"
+   },
+   "3674811252904549204": {
+      "message": "Kansikuvat"
+   },
+   "3678477908297567934": {
+      "message": "alaviiva"
+   },
+   "3681747688524363195": {
+      "message": "Alkuun"
+   },
+   "3690515530505404607": {
+      "message": "Videon toistossa tapahtui virhe."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Ei kohteita}=1{1 kohde}other{# kohdetta}}"
+   },
+   "3712215972250917265": {
+      "message": "Kommentit"
+   },
+   "3717138719704492547": {
+      "message": "Tarkista, onko osoitteessa kirjoitusvirheitä."
+   },
+   "374088101949877889": {
+      "message": "Sulje"
+   },
+   "3745308627628779133": {
+      "message": "Uusi kansio"
+   },
+   "3748461364828242354": {
+      "message": "Valitse väri"
+   },
+   "3770795578481676514": {
+      "message": "Keltainen"
+   },
+   "3771958676925493302": {
+      "message": "Poista suodatin: $1​"
+   },
+   "3779945546806941187": {
+      "message": "Harmaasävy"
+   },
+   "3793086499925031123": {
+      "message": "Avaa hakupalkki / etsi edellinen"
+   },
+   "37992665410817181": {
+      "message": "Avattu uudelleen"
+   },
+   "3801617971018550169": {
+      "message": "Eilen"
+   },
+   "3808213429720572062": {
+      "message": "Palauta"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3842411126100113634": {
+      "message": "pg-up"
+   },
+   "3844047145949375230": {
+      "message": "Dokumentit"
+   },
+   "3858324058837632381": {
+      "message": "Äänitiedoston toistossa tapahtui virhe."
+   },
+   "3864575916269080329": {
+      "message": "Tekstihaku kuvista"
+   },
+   "3866373087987934712": {
+      "message": "Lähetys epäonnistui: $1​"
+   },
+   "3869166581651870488": {
+      "message": "Lopeta muokkaus"
+   },
+   "3873215756962047275": {
+      "message": "ARKISTO"
+   },
+   "3873467440437675460": {
+      "message": "Valitettavasti aiemmin valitsemiasi kirjasimia ei löytynyt."
+   },
+   "3897281533382850749": {
+      "message": "Poista mykistys"
+   },
+   "3936153839186254186": {
+      "message": "Näytä: $1​"
+   },
+   "3955760658925284765": {
+      "message": "Yritä uudelleen"
+   },
+   "3974064131130689245": {
+      "message": "Ruudukkonäkymä"
+   },
+   "3977699855735576796": {
+      "message": "Lisäsivujen lataamisessa tapahtui virhe."
+   },
+   "3988418762222300024": {
+      "message": "piste"
+   },
+   "3989552504822984034": {
+      "message": "Google-piirros"
+   },
+   "4005725939358875643": {
+      "message": "Toiminto kumottiin."
+   },
+   "4014287326684608407": {
+      "message": "Turkoosi"
+   },
+   "4048275292053012394": {
+      "message": "Kontaktit"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4067915791853673774": {
+      "message": "{VIEWER_GENDER,select, female{Sulje}male{Sulje}other{Sulje}}"
+   },
+   "4078179869358383373": {
+      "message": "Tuloksia ei löytynyt."
+   },
+   "4087667435414545203": {
+      "message": "Et ole enää kirjautunut sisään. Lataa uudelleen, niin voit tehdä muutoksia."
+   },
+   "4093134637041332383": {
+      "message": "LISÄTIETOJA"
+   },
+   "4097007735221462946": {
+      "message": "Piirrokset"
+   },
+   "4097921967754832323": {
+      "message": "yhdysmerkki"
+   },
+   "4100504115801514799": {
+      "message": "Muistiinpano palautettiin"
+   },
+   "4119294114251628099": {
+      "message": "Antamaasi kuvan URL-osoitetta ei voitu hakea. Osoite saattaa olla yksityinen URL-osoite, johon palvelimillamme ei ole käyttöoikeutta. Yritä uudelleen toisella URL-osoitteella."
+   },
+   "4134385041569168669": {
+      "message": "Ladataan…"
+   },
+   "4148564423510181521": {
+      "message": "Tyhjennä haku"
+   },
+   "4152315289461886": {
+      "message": "Asiakirjan hallinta"
+   },
+   "4168280976997555951": {
+      "message": "Ei asiakirjoja."
+   },
+   "4174786386751618325": {
+      "message": "Kuvamuistiinpano"
+   },
+   "4182427157920112948": {
+      "message": "aaltoviiva"
+   },
+   "4200426647595470259": {
+      "message": "Aloita äänitiedoston toisto"
+   },
+   "4200911267543705377": {
+      "message": "Etsi blogeja Google-blogihaulla kirjoittamalla haku yllä olevaan kenttään."
+   },
+   "4205329094859140439": {
+      "message": "ap"
+   },
+   "4211182812451835307": {
+      "message": "Voi muokata"
+   },
+   "4211806608204126222": {
+      "message": "$2​Käyttöehdot$1​"
+   },
+   "4214190403999219403": {
+      "message": "Zoomaa"
+   },
+   "4230101516585408149": {
+      "message": "Kirjoita uusi muistiinpano"
+   },
+   "4253741616909644861": {
+      "message": "Hakutermit"
+   },
+   "4280747719095153198": {
+      "message": "Ratkaistu kommentti"
+   },
+   "4286663890332754386": {
+      "message": "Lähetys epäonnistui."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4314643310615423802": {
+      "message": "Olet kirjautunut ulos."
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4319229296464464147": {
+      "message": "Lisätty"
+   },
+   "4320831042030778": {
+      "message": "Peruuta"
+   },
+   "4332252081504252077": {
+      "message": "Hups!"
+   },
+   "4338991104991831337": {
+      "message": "Kuvat"
+   },
+   "4339705658383891586": {
+      "message": "Kaikki värit"
+   },
+   "4343825450663233452": {
+      "message": "Voi tarkastella"
+   },
+   "4343836986248234462": {
+      "message": "Luettelokohde"
+   },
+   "435214284915110062": {
+      "message": "Avaa hakupalkki"
+   },
+   "4372755508519489521": {
+      "message": "Ruudukkonäkymä"
+   },
+   "4391715930031906467": {
+      "message": "Hae seuraava"
+   },
+   "4395845663892873002": {
+      "message": "home"
+   },
+   "4422985761498356257": {
+      "message": "Avaa sovelluksessa"
+   },
+   "4430062722430863019": {
+      "message": "Poistetaanko muistiinpano pysyvästi?"
+   },
+   "4439812492856303238": {
+      "message": "Valintasi käsittelyssä tapahtui odottamaton virhe. Yritä myöhemmin uudelleen."
+   },
+   "4444571967705751871": {
+      "message": "Roskakori"
+   },
+   "4466605492523079635": {
+      "message": "Tallenna"
+   },
+   "4468872996560163913": {
+      "message": "Tyhjennä roskakori nyt"
+   },
+   "4473912481270012588": {
+      "message": "Tallennettu Driveen – siirrä kohteeseen:"
+   },
+   "45228242181482134": {
+      "message": "Toista"
+   },
+   "4536519876526589338": {
+      "message": "Avatar $1​."
+   },
+   "4552045407215325033": {
+      "message": "Edellisessä kohdassa antamaasi videon URL-osoitetta ei voida ladata. Varmista, että se on oikein ja että sivusto on tuettu."
+   },
+   "4564682305303579317": {
+      "message": "Jatka"
+   },
+   "456498742882714639": {
+      "message": "Siirrä kohteeseen:"
+   },
+   "4588500131398315347": {
+      "message": "Piirin luominen"
+   },
+   "4604402426271704651": {
+      "message": "Ei kuvaa"
+   },
+   "4620034373159179678": {
+      "message": "Sivu $1​/$2​"
+   },
+   "4630690108252818511": {
+      "message": "Kuvia ei löytynyt."
+   },
+   "468283184702431827": {
+      "message": "Toiminto käynnistyi"
+   },
+   "4695897771458936174": {
+      "message": "Jaa kuvia Google Drivesta Google+ -palveluun"
+   },
+   "4740100782728373253": {
+      "message": "Tallenna Driveen"
+   },
+   "4748046231232264180": {
+      "message": "Google Forms"
+   },
+   "4767722428137216885": {
+      "message": "Peruuta"
+   },
+   "477328789314249432": {
+      "message": "Hae muistiinpanoja"
+   },
+   "4775368111547931093": {
+      "message": "Ei kuvausta"
+   },
+   "4781742940361705258": {
+      "message": "Hylkää"
+   },
+   "4783695823456312682": {
+      "message": "Siirrä loppuun"
+   },
+   "47844150329705564": {
+      "message": "Tulokset haulle $1​"
+   },
+   "4798897505978458661": {
+      "message": "Videoita ei löytynyt."
+   },
+   "4805047680716507619": {
+      "message": " – siirrä kohteeseen:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7 Signature"
+   },
+   "4833214200453019325": {
+      "message": "$1​/$2​"
+   },
+   "4846720038197420778": {
+      "message": "Yhdistä lisää sovelluksia"
+   },
+   "4853788427396558692": {
+      "message": "$1​ Mt"
+   },
+   "4858389278403807208": {
+      "message": "Muistiinpano on roskakorissa"
+   },
+   "4888104357342241891": {
+      "message": "Muistutukset"
+   },
+   "4889853674709731963": {
+      "message": "Kaikki muistiinpanot tallennettu offline-tilassa"
+   },
+   "4901386320110714275": {
+      "message": "Väärä salasana. Yritä uudelleen."
+   },
+   "490372259452655427": {
+      "message": "Asiakirja ei valitettavasti ole vielä tarkasteltavissa."
+   },
+   "4906669330059413958": {
+      "message": "Lähetä salasana"
+   },
+   "4908614808966678155": {
+      "message": "Ei tuloksia haulle $1​"
+   },
+   "4926020998477695737": {
+      "message": "Siirry kansioon $1​"
+   },
+   "4943176738805484221": {
+      "message": "muokkaa"
+   },
+   "4956678140555659175": {
+      "message": "askelpalautin"
+   },
+   "4957674814179289955": {
+      "message": "Siirry seuraavaan/edelliseen luettelokohteeseen"
+   },
+   "4963784280521435720": {
+      "message": "Tallennetaan…"
+   },
+   "4969219890884320840": {
+      "message": "Päivitä"
+   },
+   "4983125135476400111": {
+      "message": "Siirrä muistiinpano/luettelo roskakoriin"
+   },
+   "4988132901627446385": {
+      "message": "Tietopaneeli on laajennettu."
+   },
+   "4998757387516632837": {
+      "message": "Tuloksissa näytetään vain kuvat, joiden uudelleenkäyttö ja muokkaus on sallittu."
+   },
+   "5006225450559627366": {
+      "message": "+$1​ muuta"
+   },
+   "501475221876543407": {
+      "message": "Lisäämäsi muistiinpanot näkyvät tässä"
+   },
+   "5023525794410110078": {
+      "message": "Tekstin lisääminen valokuvaan"
+   },
+   "5026241297254150381": {
+      "message": "Lisää muistiinpano"
+   },
+   "5046371569383796818": {
+      "message": "Säilytä"
+   },
+   "5055418092354683641": {
+      "message": "Serif"
+   },
+   "5095987896933771566": {
+      "message": "Tulosta asiakirja"
+   },
+   "5096751700090310607": {
+      "message": "Ei valokuvia."
+   },
+   "509815948423424872": {
+      "message": "Liikkuminen"
+   },
+   "5099245668405591445": {
+      "message": "Hae"
+   },
+   "512429649443191386": {
+      "message": "$2​Ohje$1​"
+   },
+   "5124522868502261563": {
+      "message": "Laskentataulukot"
+   },
+   "5130903421326358933": {
+      "message": "Liitteen tallennuksessa Google Driveen oli ongelmia."
+   },
+   "5149937870346466591": {
+      "message": "Luettelonäkymä"
+   },
+   "5169187962228219813": {
+      "message": "Life-lehden valokuvat"
+   },
+   "5180454621500142444": {
+      "message": "Palauta"
+   },
+   "5180989337128758117": {
+      "message": "vasen hakasulku"
+   },
+   "5184692850089055965": {
+      "message": "Kopioi kuvan teksti"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Tietopaneelin välilehtipalkki. Vaihda välilehteä painamalla vasenta tai oikeaa nuolinäppäintä."
+   },
+   "5204391636475413312": {
+      "message": "Tallenna"
+   },
+   "5213411023807957844": {
+      "message": "Google Keep -haku"
+   },
+   "5213974294317036409": {
+      "message": "{numPages,plural, =0{}=1{1 sivu}other{# sivua}}"
+   },
+   "5226470917948786938": {
+      "message": "Aakkosjärjestys"
+   },
+   "5238003680997310998": {
+      "message": "Lisää"
+   },
+   "5238371081785912565": {
+      "message": "Avaa sovelluksella $1​"
+   },
+   "5275493935807628890": {
+      "message": "Kuvaa ei löydy kyseisestä URL-osoitteesta."
+   },
+   "5281121179861637423": {
+      "message": "Kohteen $1​ käyttö vaatii salasanan. Anna salasana."
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5291153964865714504": {
+      "message": "Ei hakua vastaavia muistiinpanoja"
+   },
+   "5299648222246616124": {
+      "message": "aksenttimerkki vasemmalle"
+   },
+   "5304869088141363028": {
+      "message": "Suositellut valokuvat"
+   },
+   "5316658541831864803": {
+      "message": "Tämäntyyppisen asiakirjan tarkastelua ei tueta."
+   },
+   "5319313176242717957": {
+      "message": "Kuvia käsitellään…"
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "534228323125524312": {
+      "message": "Loitonna"
+   },
+   "5353129315502554762": {
+      "message": "Tyyliarkki"
+   },
+   "5372143986724491245": {
+      "message": "$1​ päivä sitten"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5399553230649155346": {
+      "message": "$1​ tunnin kuluttua"
+   },
+   "5403830377590414208": {
+      "message": "Valkoinen"
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5438481737351808090": {
+      "message": "Iltapäivä ($1​)"
+   },
+   "544377415081282702": {
+      "message": "Pahoittelut."
+   },
+   "5447119197363232006": {
+      "message": "Näytä Drivessa"
+   },
+   "5465323999933375616": {
+      "message": "Saavutit muussa kuin Google Docs -muodossa olevien tiedostojen tarkastelun tai lataamisen enimmäismäärän."
+   },
+   "5472312735475866917": {
+      "message": "Kommentin lähettäjä: $1​."
+   },
+   "547865385964196102": {
+      "message": "$1​ minuuttia sitten"
+   },
+   "5482872484546230111": {
+      "message": "Hae teoksia"
+   },
+   "5494181290179470995": {
+      "message": "Poista"
+   },
+   "5500117709595533163": {
+      "message": "Etsi e-kirjatuloksia Google-kirjat-palvelun avulla kirjoittamalla haku yllä olevaan kenttään."
+   },
+   "5514516347328112388": {
+      "message": "Voit myös ladata alkuperäisen asiakirjan klikkaamalla $2​tätä$1​."
+   },
+   "5529532831767466284": {
+      "message": "{VIEWER_GENDER,select, female{{DEGREES}° {MINUTES}' {SECONDS}\"}male{{DEGREES}° {MINUTES}' {SECONDS}\"}other{{DEGREES}° {MINUTES}' {SECONDS}\"}}"
+   },
+   "5555182241047709329": {
+      "message": "Valitse sijainti"
+   },
+   "5555599189512365009": {
+      "message": "SELVÄ"
+   },
+   "5571842632470308750": {
+      "message": "Kaikki tyypit"
+   },
+   "5588597116382648727": {
+      "message": "Aloitetaan purkaminen."
+   },
+   "5598649706113950710": {
+      "message": "Muokkaaja"
+   },
+   "5609727719971819773": {
+      "message": "{VIEWER_GENDER,select, female{Edellinen}male{Edellinen}other{Edellinen}}"
+   },
+   "5627470193961862490": {
+      "message": "Muistiinpanot, joihin liittyy tulevia muistutuksia, näkyvät tässä"
+   },
+   "5631086126416409232": {
+      "message": "Sininen"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5660422479531064559": {
+      "message": "Ei lomakkeita."
+   },
+   "5675154446465700699": {
+      "message": "PDF-tiedostot"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Poistetaanko valitut kohteet?"
+   },
+   "5714240424645614611": {
+      "message": "Android-paketti"
+   },
+   "5728640851616538925": {
+      "message": "Vihreä"
+   },
+   "5744491383087191878": {
+      "message": "Yllä antamasi kuvan URL-osoite on virheellinen tai sitä ei voi ladata."
+   },
+   "5747728324987383020": {
+      "message": "Kasvot"
+   },
+   "5783875011049188612": {
+      "message": "Kuvan teksti kopioitu"
+   },
+   "5785010887521443923": {
+      "message": "Poista"
+   },
+   "5834678297024555032": {
+      "message": "Salli"
+   },
+   "5840330517914556080": {
+      "message": "Loitonna"
+   },
+   "5842536098490298653": {
+      "message": "Kirjasimia ei löytynyt."
+   },
+   "5865680764501413616": {
+      "message": "Tekstiä ei voi tunnistaa."
+   },
+   "5871966496153339793": {
+      "message": "Näytetään videon $1​ pikkukuva"
+   },
+   "5875004331736681428": {
+      "message": "Puretaan sähköpostitiliisi."
+   },
+   "587666071025645113": {
+      "message": "Haku"
+   },
+   "5877526626743756786": {
+      "message": "Palaute"
+   },
+   "5889725440363483648": {
+      "message": "Kaikki ryhmään kuuluvat"
+   },
+   "5911012384539794869": {
+      "message": "Purkamisen aloittaminen epäonnistui."
+   },
+   "5916010927050975496": {
+      "message": "$1​ kt"
+   },
+   "5949528478488617689": {
+      "message": "Lataa käyttöoikeus"
+   },
+   "5950887255133612666": {
+      "message": "Ei aloitettu."
+   },
+   "5969696744752069015": {
+      "message": "Esikatselu ei ole käytettävissä."
+   },
+   "5971400924847413790": {
+      "message": "Voit myös tarkastella $2​HTML-perusnäkymää$1​ (uudelleenohjaus hoituu automaattisesti)."
+   },
+   "5972111804366033138": {
+      "message": "Lataa"
+   },
+   "5975031149676029214": {
+      "message": "Kaikki"
+   },
+   "5976369213680241300": {
+      "message": "Hae kuvia"
+   },
+   "5980081664136280513": {
+      "message": "Vihreä"
+   },
+   "5984398071085567332": {
+      "message": "Google-fuusiotaulukot"
+   },
+   "6009962986062136164": {
+      "message": "Ladataan $1​."
+   },
+   "60305871484579258": {
+      "message": "Alt+"
+   },
+   "6043068172993241858": {
+      "message": "Tässä piirissä ei ole ketään."
+   },
+   "604883455412617728": {
+      "message": "Yhtään hakuasi vastaavaa yhteystietoa ei löytynyt."
+   },
+   "6051386830221821025": {
+      "message": "Kirjaudutaan sisään…"
+   },
+   "6064654062949366878": {
+      "message": "Toista"
+   },
+   "6070475007374165567": {
+      "message": "Tallennetaan…"
+   },
+   "6083586461434260179": {
+      "message": "Uusi katselukokemus"
+   },
+   "6087078248621415351": {
+      "message": "Muokattu $1​"
+   },
+   "6091926883608250483": {
+      "message": "Lisää"
+   },
+   "6105571474005679446": {
+      "message": "Esikatselussa tapahtui virhe."
+   },
+   "6113237889871930608": {
+      "message": "Tyhjä muistiinpano"
+   },
+   "6118623991445349480": {
+      "message": "Sivu $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Sovellusluettelo"
+   },
+   "6149175749937815029": {
+      "message": "Näytä kaikki kohteet"
+   },
+   "6160805346274626656": {
+      "message": "Poista pysyvästi"
+   },
+   "616807262818311711": {
+      "message": "Tyyppi"
+   },
+   "6175043905327075444": {
+      "message": "Aiemmin valitut"
+   },
+   "6177107655089301674": {
+      "message": "Lataa Google Keep Android-laitteeseen"
+   },
+   "6185886893933834031": {
+      "message": "Säilytä valittu"
+   },
+   "6186290899408627510": {
+      "message": "enter"
+   },
+   "6189891414154673003": {
+      "message": "Omat kartat"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Kuka tahansa"
+   },
+   "623118860067088424": {
+      "message": "Videot"
+   },
+   "6231401379881217113": {
+      "message": "insert"
+   },
+   "6252259197986158120": {
+      "message": "Eilen"
+   },
+   "6253076263700695984": {
+      "message": "Todennusvirhe. Päivitä sivu."
+   },
+   "6255475144867830247": {
+      "message": "Valitse muista navigointivälilehdistä."
+   },
+   "6267063643272327592": {
+      "message": "Yritä myöhemmin uudelleen."
+   },
+   "6290270819062517523": {
+      "message": "Liian monta valittua kohdetta. Poista yksi tai useampi valinta."
+   },
+   "6305748545202493254": {
+      "message": "Näytä/piilota tietoruutu"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6331677437567501421": {
+      "message": "Latausoikeuden päivityksessä oli ongelmia."
+   },
+   "6333496730738019575": {
+      "message": "Ladataan…"
+   },
+   "634900089121611600": {
+      "message": "Ei videoita."
+   },
+   "6362170008350775214": {
+      "message": "Muistutus: $1​"
+   },
+   "6375395544374251820": {
+      "message": "Lisäsivujen lataamisessa tapahtui virhe. Yritetään uudelleen…"
+   },
+   "6376739025584042564": {
+      "message": "Valokuvarajaus"
+   },
+   "6386587519843563719": {
+      "message": "Binaaritiedosto"
+   },
+   "6416495701611778255": {
+      "message": "Ehdotetut kolmannen osapuolen sovellukset"
+   },
+   "6419411265907669340": {
+      "message": "Tänään"
+   },
+   "6436479735235889890": {
+      "message": "Muistutus: $2​, $1​"
+   },
+   "6450508807204492448": {
+      "message": "Kuvake $1​"
+   },
+   "6457802200418354862": {
+      "message": "Katsojat voivat ladata"
+   },
+   "6459405233858728718": {
+      "message": "Google Slides"
+   },
+   "6464761738227651511": {
+      "message": "$1​ minuutti sitten"
+   },
+   "6466736813846482957": {
+      "message": "Edellinen"
+   },
+   "6479216014938929613": {
+      "message": "Yö ($1​)"
+   },
+   "6482358947077977110": {
+      "message": "Google-haun kuvat"
+   },
+   "6487403767449360463": {
+      "message": "Ladataanko Keep uudelleen?"
+   },
+   "6488225756782357866": {
+      "message": "Korostamasi kuva löytyi Google-kuvahaulla tältä sivulta:"
+   },
+   "6510131849363684615": {
+      "message": "Huomenna"
+   },
+   "6516256764288947999": {
+      "message": "Henkilöiden merkitseminen"
+   },
+   "6522917155620379865": {
+      "message": "Lataa"
+   },
+   "6524849072392100692": {
+      "message": "Google Drive -kansio"
+   },
+   "6551588617715293696": {
+      "message": "Lajitteluvaihtoehdot"
+   },
+   "6570921376519753466": {
+      "message": "Näyttökirjasimet"
+   },
+   "6571686604846453345": {
+      "message": "Tämän kohteen lisäämisessä Driveen ilmeni ongelma."
+   },
+   "6582286158693833652": {
+      "message": "Lisätietoja"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps -skripti"
+   },
+   "6602430002978098812": {
+      "message": "Käsinkirjoitus"
+   },
+   "6614046405230762587": {
+      "message": "Yhteystietoja ei löytynyt."
+   },
+   "6622304228074863427": {
+      "message": "Sovellus"
+   },
+   "6624754161346656119": {
+      "message": "Avatar $1​."
+   },
+   "6644861766016503644": {
+      "message": "Salasana vaaditaan"
+   },
+   "6650600936729710500": {
+      "message": "Vastaukset."
+   },
+   "666311703374681171": {
+      "message": "Kuvat ja videot"
+   },
+   "6666820082708870349": {
+      "message": "Poista"
+   },
+   "6707173584987026005": {
+      "message": "Tänään"
+   },
+   "6709984792949009238": {
+      "message": "Viimeksi avaamani"
+   },
+   "6726462693927865256": {
+      "message": "Tiedot"
+   },
+   "6726879257388338969": {
+      "message": "Tulosta"
+   },
+   "6726925393892510846": {
+      "message": "Tapahtui virhe. Yritä uudelleen."
+   },
+   "6741759391888465238": {
+      "message": "Tallennetaan Driveen – siirrä kohteeseen:"
+   },
+   "6744457949320515234": {
+      "message": "Tyhjä muistiinpano hylättiin"
+   },
+   "6757218172402086688": {
+      "message": "Hae muistiinpanoja…"
+   },
+   "6780628488957834429": {
+      "message": "Oranssi"
+   },
+   "6784073265197389491": {
+      "message": "Lisätietoja"
+   },
+   "681598652078493281": {
+      "message": "Lisätietoja"
+   },
+   "6818286476757207074": {
+      "message": "Valitse vain kuvia, joita sinulla on lupa käyttää."
+   },
+   "682070933835616121": {
+      "message": "Ei taulukoita."
+   },
+   "6822338149422461362": {
+      "message": "Google Drive"
+   },
+   "6827821461670731013": {
+      "message": "Näytä valintaruudut"
+   },
+   "6828581947433060251": {
+      "message": "Kohteen uudelleennimeämisessä oli ongelmia."
+   },
+   "6833760103261954639": {
+      "message": "Sivun lataamisessa tapahtui virhe. Yritetään uudelleen…"
+   },
+   "6841020391100928352": {
+      "message": "Tiedostojen maksimikoko ylitetty."
+   },
+   "6851307437837490686": {
+      "message": "Estä katsojia lataamasta"
+   },
+   "6856672816797218730": {
+      "message": "Liitä"
+   },
+   "6891563484025164308": {
+      "message": "Edellinen"
+   },
+   "6893687445500687349": {
+      "message": "Sivustot"
+   },
+   "6898823203505321799": {
+      "message": "Tiedot"
+   },
+   "6904351530369058983": {
+      "message": "Omistaja"
+   },
+   "6905021988981026920": {
+      "message": "Videohaku"
+   },
+   "6922953828399110511": {
+      "message": "Sulje katseluohjelma"
+   },
+   "6929958461954697067": {
+      "message": "Kuvia sinusta"
+   },
+   "6939782595426687411": {
+      "message": "Lisätään…"
+   },
+   "6940998537415516791": {
+      "message": "klo"
+   },
+   "695253297035211081": {
+      "message": "Tyhjennä roskakori"
+   },
+   "6967244066810487978": {
+      "message": "ROSKAKORI"
+   },
+   "6970167488058122005": {
+      "message": "tuntematon tekijä"
+   },
+   "6976414863987386971": {
+      "message": "Lomakkeet"
+   },
+   "7001938470263404128": {
+      "message": "Lähetä"
+   },
+   "7002768663714031226": {
+      "message": "Päivitä"
+   },
+   "7004919150329996187": {
+      "message": "Vastaavia henkilöitä ei löytynyt tästä piiristä."
+   },
+   "7054631817922169541": {
+      "message": "Google Keep -palvelussa on tallentamattomia muutoksia. Haluatko poistua sivulta ja hylätä muutokset?"
+   },
+   "7059437903473652416": {
+      "message": "Toista YouTube-video $1​"
+   },
+   "7080196430479494775": {
+      "message": "Yritä uudelleen"
+   },
+   "7084324152376766809": {
+      "message": "$1​ päivää sitten"
+   },
+   "7084991134824194740": {
+      "message": "Muistuta"
+   },
+   "7092062731478679314": {
+      "message": "Piirejä ei löytynyt."
+   },
+   "7117183622067702162": {
+      "message": "Google Driven ansiosta sinun ei enää tarvitse lähettää sähköpostin liitetiedostoa. Lähetä vain linkki mihin tahansa Google Driveen tallentamaasi tiedostoon, niin kaikilla on automaattisesti käytettävissään saman tiedoston sama versio."
+   },
+   "713754035716193665": {
+      "message": "Uusi luettelo"
+   },
+   "7146242673022399081": {
+      "message": "Teksti"
+   },
+   "7148992630785407972": {
+      "message": "Tiedosto on suojattu salasanalla eikä sitä voi esikatsella."
+   },
+   "7151987668860086450": {
+      "message": "Verkkohaku"
+   },
+   "7153847618034547771": {
+      "message": "Ota käyttöön"
+   },
+   "7161134329606048317": {
+      "message": "Sulje"
+   },
+   "7164532930742017984": {
+      "message": "Jokainen linkin saanut"
+   },
+   "7174189954350964804": {
+      "message": "Yritä uudelleen"
+   },
+   "7177591028189992523": {
+      "message": "Siirrä"
+   },
+   "7188754206068648188": {
+      "message": "Comma Separated Data"
+   },
+   "7225837680381806920": {
+      "message": "Ilta ($1​)"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7236199858216720905": {
+      "message": "Maps"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7259352906118493156": {
+      "message": "Ei sivustoja."
+   },
+   "7282548567245878869": {
+      "message": "Kohde poistettu"
+   },
+   "7295712436136900176": {
+      "message": "Päivitä sivu"
+   },
+   "7310311230493556740": {
+      "message": "URL-osoite"
+   },
+   "7339696241980105410": {
+      "message": "Valitsemaasi videota ei enää ole. Omistaja on saattanut poistaa sen."
+   },
+   "7342923890755029722": {
+      "message": "Sulje"
+   },
+   "734478884582426793": {
+      "message": "Pakattu arkisto"
+   },
+   "7357017164339332230": {
+      "message": "Voit tarkastella ja jakaa näitä kuvia myös $2​Picasa-verkkoalbumeissa$1​, joka on Googlen maksuton valokuvapalvelu."
+   },
+   "736105042796745909": {
+      "message": "{VIEWER_GENDER,select, female{Luo kansio}male{Luo kansio}other{Luo kansio}}"
+   },
+   "7362061801920948830": {
+      "message": "Lähetä lisää"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7377239345926788722": {
+      "message": "Toiminnot"
+   },
+   "7380785991026002613": {
+      "message": "Tuloksissa näytetään vain kuvat, joiden uudelleenkäyttö on sallittu."
+   },
+   "7382688299146249119": {
+      "message": "Lataa kohde"
+   },
+   "7383706174467122149": {
+      "message": "Huomautus poistettiin"
+   },
+   "7388342865555961406": {
+      "message": "$1​ päivän kuluttua"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "740507516967994591": {
+      "message": "Avaa"
+   },
+   "7422452809590461532": {
+      "message": "Punainen"
+   },
+   "7426603384368095928": {
+      "message": "Kirjaudu uudelleen sisään ja jatka työskentelyä päivittämällä sivu."
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (muokattu $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Tallennetaan Driveen"
+   },
+   "7451573821837395189": {
+      "message": "Kohde lisättiin $2​Driveen$1​."
+   },
+   "7468322419516352788": {
+      "message": "Kuvauksen päivityksessä oli ongelmia."
+   },
+   "7488945223835574498": {
+      "message": "Postscript"
+   },
+   "7492710087472140422": {
+      "message": "Lisätietoja"
+   },
+   "7493919863870655172": {
+      "message": "Web-kamera"
+   },
+   "7500786109708143683": {
+      "message": "Äänitallenne poistettu"
+   },
+   "7501027876827009022": {
+      "message": "Tuloksissa näytetään vain kuvat, joiden kaupallinen uudelleenkäyttö on sallittu."
+   },
+   "7521272923988336579": {
+      "message": "Pysy ajan tasalla päivittämällä Keep."
+   },
+   "7532552995569296274": {
+      "message": "Tyhjennä haku"
+   },
+   "7546994163355383999": {
+      "message": "Kaikki muistiinpanot tallennettu"
+   },
+   "7559208209275370228": {
+      "message": "Viimeksi muokkaamani"
+   },
+   "7565383798249439151": {
+      "message": "$1​ päivän kuluttua"
+   },
+   "7565870443143407759": {
+      "message": "Etsi asiakirjasta"
+   },
+   "7586291841734385643": {
+      "message": "Avaa ikkunaan"
+   },
+   "7598582624136632660": {
+      "message": "Avaa hakupalkki / etsi seuraava"
+   },
+   "7602870977118971161": {
+      "message": "Päivitä sivu"
+   },
+   "7610654194202731772": {
+      "message": "Poista"
+   },
+   "761925792744044896": {
+      "message": "Aseta profiilikuvaksi"
+   },
+   "7630723924002267143": {
+      "message": "Pikanäppäimet ovat käytössä."
+   },
+   "7640546114686970497": {
+      "message": "Ei voi lisätä enempää kohteita"
+   },
+   "7669846901402551021": {
+      "message": "Tänään"
+   },
+   "7691521283331762131": {
+      "message": "Arkistoimasi muistiinpanot näkyvät tässä"
+   },
+   "772000107335590599": {
+      "message": "$1​ minuutin kuluttua"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7745005220197261896": {
+      "message": "Teoshaku"
+   },
+   "7759846028901235026": {
+      "message": "Muistiinpano poistettiin arkistosta"
+   },
+   "776065748745885880": {
+      "message": "väli"
+   },
+   "7770982082843341533": {
+      "message": "Kansiossa ei ole kohteita."
+   },
+   "779472474101127362": {
+      "message": "Tilannekuvan ottaminen"
+   },
+   "7800318069267901681": {
+      "message": "Muutettu"
+   },
+   "7805487598105530487": {
+      "message": "Upota"
+   },
+   "7814778057875152792": {
+      "message": "Liitteen siirtämisessä Google Driven valittuun kansioon oli ongelmia."
+   },
+   "7820417126206702946": {
+      "message": "Oheiset tulokset on tarkoitettu henkilökohtaiseen tai kaupalliseen käyttöön ainoastaan Google Drivessa. Niitä ei saa jakaa tai myydä itsenäisesti."
+   },
+   "7822364282298323175": {
+      "message": "Luettelo poistettu"
+   },
+   "7830513726270865588": {
+      "message": "Kalenteri"
+   },
+   "7845751753397906805": {
+      "message": "Löydettiin ristiriitaisia muokkauksia"
+   },
+   "7852396628465259068": {
+      "message": "Profiilikuva"
+   },
+   "7859526172011446452": {
+      "message": "Lopeta lähettäminen"
+   },
+   "78870906674150830": {
+      "message": "$3​$1​$2​"
+   },
+   "7895643887742936844": {
+      "message": "puolipiste"
+   },
+   "7899833760457194273": {
+      "message": "Kuvahaku"
+   },
+   "7899913952063063825": {
+      "message": "Kuva poistettu"
+   },
+   "7906726367011430855": {
+      "message": "Yhdistä"
+   },
+   "7910518224461588465": {
+      "message": "Keltainen"
+   },
+   "7953603850004320936": {
+      "message": "Esikatselu ei ole käytettävissä."
+   },
+   "7957306528733096600": {
+      "message": "Toiminto valmistui"
+   },
+   "7960528690514646841": {
+      "message": "{moreCount,plural, =0{unused plural form}=1{+ 1 muu}other{+ {moreCount} muuta}}"
+   },
+   "7973635145070803181": {
+      "message": "Kuvien lähettäminen"
+   },
+   "7987180255015869513": {
+      "message": "Tai liitä tähän verkko-osoite:"
+   },
+   "8011497727123874703": {
+      "message": "Kansiopainike $1​"
+   },
+   "8016231262233952856": {
+      "message": "Turkoosi"
+   },
+   "8019402848412685977": {
+      "message": "$2​ muutettiin nimeksi $1​."
+   },
+   "8023466614826324314": {
+      "message": "Kuvat jaetaan laajan yleisön kanssa."
+   },
+   "8043514121228710092": {
+      "message": "Lisää kuva"
+   },
+   "8044700199531805239": {
+      "message": "$3​$1​$2​ on yhdistetty."
+   },
+   "8069384932934428393": {
+      "message": "$1​ minuutin kuluttua"
+   },
+   "8081927474846706026": {
+      "message": "Ei piirroksia."
+   },
+   "8090743714060857028": {
+      "message": "Katsojat eivät voi ladata"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 tavua}=1{1 tavu}other{# tavua}}"
+   },
+   "8099047958506869131": {
+      "message": "{VIEWER_GENDER,select, female{Uusi kansio}male{Uusi kansio}other{Uusi kansio}}"
+   },
+   "8100558294600077150": {
+      "message": "Blogihaku"
+   },
+   "8105635255693472607": {
+      "message": "Lisää uudet luettelokohdat"
+   },
+   "8106780183458743723": {
+      "message": "Valokuva-albumit"
+   },
+   "8112699352770418817": {
+      "message": "Kirjoja ei löytynyt."
+   },
+   "8132410616064087953": {
+      "message": "Video on liian pitkä (enimmäiskesto on $1​ sekuntia)."
+   },
+   "8135145577663029437": {
+      "message": "Säilytä molemmat"
+   },
+   "8146560259680897627": {
+      "message": "Peruuta"
+   },
+   "8158191101452862916": {
+      "message": "Lisää kuvia"
+   },
+   "8159493406018222636": {
+      "message": "Lähetä palautetta"
+   },
+   "8172945196588870035": {
+      "message": "Tapahtumat"
+   },
+   "8174654098152723289": {
+      "message": "Muokkaa kuvausta"
+   },
+   "8178754379486173416": {
+      "message": "{VIEWER_GENDER,select, female{Vain muutama kohde valittuna. Valitse useampia.}male{Vain muutama kohde valittuna. Valitse useampia.}other{Vain muutama kohde valittuna. Valitse useampia.}}"
+   },
+   "8192378456655629049": {
+      "message": "Käsitellään videota…"
+   },
+   "8193991135666622583": {
+      "message": "Keep"
+   },
+   "821942580510564685": {
+      "message": "Anna asiakirjan salasana, jotta voit tarkastella sitä"
+   },
+   "8239237134193392595": {
+      "message": "Sijaintimuistutusilmoitukset näkyvät vain mobiililaitteissa."
+   },
+   "8267458240960831780": {
+      "message": "Todennetaan…"
+   },
+   "8281141013543828574": {
+      "message": "RAW-kuvatiedosto"
+   },
+   "8281678863271800533": {
+      "message": "Kuvasuodatin"
+   },
+   "8283103456188558313": {
+      "message": "Esitykset"
+   },
+   "8290434443655418968": {
+      "message": "{filesCount,plural, =0{unused plural form}=1{Valitun tiedoston [{file}] lähettämistä ei tueta.}other{Valittujen tiedostojen [{files}] lähettämistä ei tueta.}}"
+   },
+   "8304474373444239435": {
+      "message": "Vastauksen lähettäjä: $1​."
+   },
+   "8322416564157128458": {
+      "message": "Jakaminen"
+   },
+   "8324195080917648153": {
+      "message": "Video ei mahdu tähän. Suurenna hieman selainikkunaa."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342684858400436871": {
+      "message": "sarkain"
+   },
+   "8379952094517631162": {
+      "message": "En"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412684147928483084": {
+      "message": "Musta"
+   },
+   "8435544675017330861": {
+      "message": "Ei hakua vastaavia kohteita."
+   },
+   "8436817383042650304": {
+      "message": "caps-lock"
+   },
+   "8451184312655705174": {
+      "message": "Jos URL-osoitteesi on oikein, näet esikatselun tässä. Suurien kuvien ilmestyminen saattaa kestää pari minuuttia."
+   },
+   "8467894483369467251": {
+      "message": "Salama"
+   },
+   "8506198918368329269": {
+      "message": "Tuloksissa näytetään vain kuvat, joiden kaupallinen uudelleenkäyttö ja muokkaus on sallittu."
+   },
+   "8571315158566081191": {
+      "message": "Ei laskentataulukoita."
+   },
+   "8580600056399054303": {
+      "message": "Valitse, mihin uudet ja valitut kohteet sijoitetaan"
+   },
+   "8595175575778060149": {
+      "message": "Lisää"
+   },
+   "8596257056433048992": {
+      "message": "Tervetuloa"
+   },
+   "8616342546716995946": {
+      "message": "Selvä"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8638281560898810401": {
+      "message": "{MINUTES,plural, =0{0 minuuttia }=1{1 minuutti }other{# minuuttia }}{SECONDS,plural, =0{0 sekuntia.}=1{1 sekunti.}other{# sekuntia.}}"
+   },
+   "863955692838281739": {
+      "message": "Sulje"
+   },
+   "8643398764569428530": {
+      "message": "Sallitko Google Keep -palvelun ilmoitusten näyttämisen?"
+   },
+   "8652566647088230560": {
+      "message": "Luottamuksellinen testiversio"
+   },
+   "8660016472468563221": {
+      "message": "kaksoispiste"
+   },
+   "8663507590720636709": {
+      "message": "$1​ +$2​ muuta"
+   },
+   "8666643061920113075": {
+      "message": "{VIEWER_GENDER,select, female{Liitä kuvan URL-osoite tähän:}male{Liitä kuvan URL-osoite tähän:}other{Liitä kuvan URL-osoite tähän:}}"
+   },
+   "8674222789100049233": {
+      "message": "Sulje"
+   },
+   "86815590954366945": {
+      "message": "Arkistoidun kohteen sisältö"
+   },
+   "8709611758728645225": {
+      "message": "pg-down"
+   },
+   "8711002053494037632": {
+      "message": "Kaikkien kohteiden valinta poistettiin"
+   },
+   "8748281640412284111": {
+      "message": "Arkistokuvat"
+   },
+   "8759520888087120926": {
+      "message": "Ei ohjelmia."
+   },
+   "8775097441636640256": {
+      "message": "$2​ – $1​"
+   },
+   "8780212274435014958": {
+      "message": "Piirit"
+   },
+   "8781837301864053001": {
+      "message": "Rich Text"
+   },
+   "8792038552136453044": {
+      "message": "Hups! Jokin meni vikaan."
+   },
+   "8793166064242077041": {
+      "message": "Kuvan näyttämisessä tapahtui virhe."
+   },
+   "8813101408630252335": {
+      "message": "$1​ s"
+   },
+   "8820281478062782578": {
+      "message": "Hae"
+   },
+   "8822326207328431952": {
+      "message": "Kuvien lataus ei ole käytettävissä"
+   },
+   "8840223453482998505": {
+      "message": "Valittu kansio: $1​"
+   },
+   "8845176264121061589": {
+      "message": "Poista kaikkien kohteiden valinta"
+   },
+   "8850238112725591771": {
+      "message": "pikanäppäin $1​"
+   },
+   "8852550049823214385": {
+      "message": "seuraavaksi"
+   },
+   "8883744193208363722": {
+      "message": "Sovelluspäivitys on saatavilla."
+   },
+   "8884900765322249670": {
+      "message": "Luettelonäkymä"
+   },
+   "8889019648958415451": {
+      "message": "Tuntematon tiedosto"
+   },
+   "8911996820409711834": {
+      "message": "Siirrä teksti uuteen luettelokohtaan &raquo;"
+   },
+   "8916237870980173557": {
+      "message": "Yhdistetään…"
+   },
+   "8917554093651202032": {
+      "message": "Toista $1​"
+   },
+   "8919660666733306860": {
+      "message": "Kuva"
+   },
+   "8930959387403789939": {
+      "message": "Muistutus"
+   },
+   "8943760679396635042": {
+      "message": "Näytetään $1​."
+   },
+   "8953555255469284376": {
+      "message": "Pudota kuvat tähän"
+   },
+   "8979615310931291676": {
+      "message": "Muokattu $1​"
+   },
+   "8986044948621891903": {
+      "message": "Etsi tuloksia verkosta Google-haulla kirjoittamalla haku yllä olevaan kenttään."
+   },
+   "901615442107785480": {
+      "message": "Arkistoi muistiinpano/luettelo"
+   },
+   "9024023699330078373": {
+      "message": "Kohteen avaaminen lisää sen Driveen"
+   },
+   "9028041601596584772": {
+      "message": "Sijainti"
+   },
+   "9058308423774656474": {
+      "message": "Hangul Word Processor"
+   },
+   "9083935734710258396": {
+      "message": "Estä"
+   },
+   "9094248058931620597": {
+      "message": "Tietopaneeli on tiivistetty."
+   },
+   "9114674068220302553": {
+      "message": "Liitteenä"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9130962320402467249": {
+      "message": "Kuvituskuvat"
+   },
+   "9146716987301178362": {
+      "message": "Tapahtui virhe. Päivitä sivu."
+   },
+   "9165877886714239857": {
+      "message": "Kuvassa olevan tekstin kopiointi epäonnistui. Yritä myöhemmin uudelleen."
+   },
+   "916773043895242978": {
+      "message": "Yllä antamasi kuvan URL-osoite on virheellinen tai sitä ei voi ladata. Anna kuvan oikea URL-osoite."
+   },
+   "9173629944963872598": {
+      "message": "Tapahtumia ei löytynyt."
+   },
+   "9182500445937900938": {
+      "message": "Sulje"
+   },
+   "9195941533351099011": {
+      "message": "Lähetetään $1​/$2​"
+   },
+   "9197837492705576727": {
+      "message": "Siirry seuraavaan kohteeseen"
+   },
+   "919969969251998566": {
+      "message": "Pura tämä arkisto sähköpostitiliisi."
+   },
+   "9203542510134660095": {
+      "message": "Purkaminen aloitettiin. Arkiston sisältö näkyy Drivessa kansiossa $1​."
+   },
+   "940276535015195877": {
+      "message": "Ei kansioita."
+   },
+   "943493480163896757": {
+      "message": "{resultCount,plural, =1{# vastaava muistiinpano}other{# vastaavaa muistiinpanoa}}"
+   },
+   "951963820437151566": {
+      "message": "Google-sivustot"
+   },
+   "95809842507987016": {
+      "message": "Poista"
+   },
+   "963611681085757795": {
+      "message": "Valitettavasti asiakirjasta ei tällä hetkellä voi luoda näkymää."
+   },
+   "96556988207614774": {
+      "message": "Kalenterit"
+   },
+   "974042541427403929": {
+      "message": "Sininen"
+   },
+   "980395722421409371": {
+      "message": "Karttoja ei löytynyt."
+   },
+   "982187142411651629": {
+      "message": "Ohita"
+   },
+   "985197728509875956": {
+      "message": "Chemical Model"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "998727788921602971": {
+      "message": "Videot"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Kirjaa ajatuksesi nopeasti muistiin ja aseta aika- ja paikkamuistutuksia."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Google Keepin muistiinpanot ja luettelot"
+   }
+}
