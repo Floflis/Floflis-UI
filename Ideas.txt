@@ -2,3 +2,5 @@
 * Login screen's background;
 * Lockscreen;
 * Bottombar;
+* Sound icon on topbar;
+* Can show battery percentage on topbar;
