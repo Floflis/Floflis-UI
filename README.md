@@ -13,11 +13,11 @@ This is an template for who want get started to make your own operating system f
 
 # Understanting #
 
-You can read the SPECS.md, and too you can read the FEATURES.md file.
+You can read the SPECS.md, and too you can read the FEATURES.md file, all included in the project.
 
 # Get started to make your own OS #
 
-For get started to making your own modern operating system for DCRS, you need to read the GET_STARTED.md file.
+For get started to making your own modern operating system for DCRS, you need to read the GET_STARTED.md file included in the project.
 
 # Contributing #
 
