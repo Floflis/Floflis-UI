@@ -21,6 +21,6 @@ For get started to making your own modern operating system for DCRS, you need to
 
 # Contributing #
 
-You can see the source code for submit your modifications, or read SPECS.md/FEATURES.md to submit your ideas/work on new codes.
+You can see the source code for submit your modifications, or read SPECS.md/FEATURES.md to submit your ideas/work on new codes. Too, you can edit the GET_STARTED.md file.
 
 Pull requests, comments and open issues are very welcome.
