@@ -9,7 +9,7 @@
 
 HTML5-based modern, generic and open-source operating system for work on [Modern "Bios" (DCRS - Device Checker/Runtime System)](https://github.com/DaniellMesquita/Modern-Bios "Click here to know more how DCRS works and get started how insert DCRS in your mainboard/device and/or making your own modern OS.").
 
-This is an template for who want get started to make your own operating system for DCRS.
+This is an template for who want get started to make your own operating system for DCRS. This isn't hard for who have knowledge only in HTML/CSS/Javascript languages.
 
 # Understanting #
 
