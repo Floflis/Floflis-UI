@@ -8,7 +8,7 @@
 > Boot page will can receive communications from system page for show status of loading in real time.
 
 - System page;
-- Can do bootoff for user can go to other operating system via DCRS (Device Checker/Runtime System);
+- Can do bootoff for user can go to other operating system via DCRS (Device Checker/Runtime System) or traditionally & direct turn off the device;
 - Settings only for config the work ecosystem, not to config device (for config device, user will use DCRS);
 - Responsible code to work in all possible resolutions, since watchs to teather-screens;
 - Can be installed as LIVE OS, including an installer app for installing OS;
