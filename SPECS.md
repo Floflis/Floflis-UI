@@ -16,7 +16,7 @@
 - Constant updates separating "Alpha", "Beta" and "Release" categories;
 > You can use more or less channels, but make sure to separe the "Alpha" and "Release" channels to make your users have an constantly updated OS.
 
-- ;
+- Can work online on browsers;
 - ;
 - ;
 - ;
