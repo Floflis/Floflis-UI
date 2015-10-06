@@ -13,8 +13,8 @@
 - Responsible code to work in all possible resolutions, since watchs to teather-screens;
 - Can be installed as LIVE OS, including an installer app for installing OS;
 - Constant updates using GIT system;
-- Constant updates separating "Alpha", "Beta" and "Release" categories;
-> You can use more or less channels, but make sure to separe the "Alpha" and "Release" channels to make your users have an constantly updated OS.
+- Constant updates separating "Alpha", "Beta" and "Stable" categories;
+> You can use more or less channels, but make sure to separe the "Alpha" and "Stable" channels to make your users have an constantly updated OS.
 
 - Can work online on browsers;
 - ;
