@@ -14,7 +14,11 @@
 - Can be installed as LIVE OS, including an installer app for installing OS;
 - Constant updates using GIT system;
 - Constant updates separating "Alpha", "Beta" and "Stable" categories;
-> You can use more or less channels, but make sure to separe the "Alpha" and "Stable" channels to make your users have an constantly updated OS.
+> 
+- You can use more or less channels, but make sure to separe the "Alpha" and "Stable" channels to make your users have an constantly updated OS.
+- If your project is closed-source, you need to create another repository only for your updates. If your project is open-source, you can simply use your own repository.
+- Each commit is considered an update or an update pack, and you need to include a manifest file with infos of update/update pack/updates included in update pack.
+> 
 
 - Can work online on browsers;
 - ;
