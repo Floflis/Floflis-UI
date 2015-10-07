@@ -1,1 +1,3 @@
 #bootscreen{height:100%;background:#ffd700;text-align:center;top:0;left:0;right:0;bottom:0;position:fixed;z-index:10000}.bootball{background:url(../img/icon.svg);width:550px;height:550px;background-size:555px;background-position:-1px;border:30px solid #fff;border-radius:50%;position:absolute;left:-100px;bottom:-150px}.boot-text{font-family:Chiller;font-size:150pt;font-weight:bold;color:#333;display:block}.boot-status{font-family:Berlin Sans FB Demi;font-size:50pt;font-weight:bold;color:#708fc5;display:block}
+
+@media(max-width:480px){.bootball{width:200px;height:200px;background-size:181px;background-position:0px;border:10px solid #fff;left:-35px;bottom:-55px}}
