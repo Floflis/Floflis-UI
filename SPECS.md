@@ -4,10 +4,13 @@
 
 - Use HTML+Javascript as code languages;
 - Manifest.json containing OS name, icon, description, version, developer-name, developer-url, OS shop ID, manifest version number, default language;
-- Boot page for be shown while system page is loading;
-> Boot page will can receive communications from system page for show status of loading in real time.
+- Index page in root directory;
+> - You need hide this file for users don't make dangerous changes in operating system. [Learn more](http:// "");
+> - Other good trick is create an index.html (thinking in actual not modern browsers) in root directory redirecting to the main page in System folder, and too reference this file in manifest.json. [Learn more](http:// "").
 
-- System page;
+- Boot screen in index.html for be shown while page is loading;
+> This boot div will can receive communications from page for show status of loading in real time.
+
 - Can do bootoff for user can go to other operating system via DCRS (Device Checker/Runtime System) or traditionally & direct turn off the device;
 - Settings only for config the work ecosystem, not to config device (for config device, user will use DCRS);
 - Responsible code to work in all possible resolutions, since watchs to teather-screens;
