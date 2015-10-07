@@ -88,20 +88,6 @@ var JQD = (function($) {
 			// Start clock.
 			JQD.init_clock();
 
-			// Relative or remote links?
-			$('a').click(function() {
-				var url = $(this).attr('href');
-				this.blur();
-
-				if (url.match(/^#/)) {
-					return false;
-				}
-				else if (url.match('://')) {
-					$(this).attr('target', '_blank');
-					return true;
-				}
-			});
-
 		}
 	};
 // Pass in jQuery.
