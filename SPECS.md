@@ -26,7 +26,7 @@
 - [Learn more](http:// "")
 
 - Can work online on browsers;
-- ;
+- SVG icons;
 - ;
 - ;
 - ;
