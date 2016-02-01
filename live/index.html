@@ -3,7 +3,20 @@
 <head>
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
 <script src="rsc/jquery.min.js"></script>
-<div id="onlyboot"><link href="rsc/boot.css" rel="stylesheet"/><script src="rsc/boot.js"></script><div id='bootscreen'></div></div>
+<div id="onlyboot"><link href="rsc/boot.css" rel="stylesheet"/>
+<script>
+$(document).ready(function() {
+  $("#title").html("Loading - Modern OS");
+  $("#bootscreen").html("<span class='boot-text'>Loading....</span><span class='boot-status'>Undefined</span><div class='bootball'></div>")
+})
+
+window.onload = function() {
+  $("#title").html("Modern OS");
+  var p = document.getElementById('onlyboot');
+  var pdiv = document.getElementById('onlyboot');
+  p.remove(pdiv)
+}
+</script><div id='bootscreen'></div></div>
 <link href="rsc/style.css" rel="stylesheet"/>
 <script src="rsc/p-ui-framework.js"></script>
 <script src="rsc/script.js"></script>
