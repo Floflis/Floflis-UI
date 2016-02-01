@@ -2,8 +2,10 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+<div id="onlyboot1"><link href="rsc/boot.css" rel="stylesheet"/></div>
+<link href="rsc/style.css" rel="stylesheet"/>
 <script src="rsc/jquery.min.js"></script>
-<div id="onlyboot"><link href="rsc/boot.css" rel="stylesheet"/>
+<div id="onlyboot2">
 <script>
 $(document).ready(function() {
   $("#title").html("Loading - Modern OS");
@@ -12,12 +14,14 @@ $(document).ready(function() {
 
 window.onload = function() {
   $("#title").html("Modern OS");
-  var p = document.getElementById('onlyboot');
-  var pdiv = document.getElementById('onlyboot');
-  p.remove(pdiv)
+  var one = document.getElementById('onlyboot1');
+  var onediv = document.getElementById('onlyboot1');
+  one.remove(onediv);
+  var two = document.getElementById('onlyboot2');
+  var twodiv = document.getElementById('onlyboot2');
+  two.remove(twodiv)
 }
 </script><div id='bootscreen'></div></div>
-<link href="rsc/style.css" rel="stylesheet"/>
 <script src="rsc/p-ui-framework.js"></script>
 <script src="rsc/script.js"></script>
 <link rel="icon" href="favicon.png"/>
