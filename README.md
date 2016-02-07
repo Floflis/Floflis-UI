@@ -24,3 +24,11 @@ For get started to making your own modern operating system for DCRS, you need to
 You can see the source code for submit your modifications, or read SPECS.md/FEATURES.md to submit your ideas/work on new codes. Too, you can edit other .md files if you think that have need.
 
 Pull requests, comments and open issues are very welcome.
+
+**PS: don't change Modern OS' "addons", please contribute directly with their repositories. See the addons used bellow:**
+
+# Addons #
+
+Windowing: [Ventus](https://github.com/rlamana/Ventus)
+
+Notifications: [notifyjs](https://github.com/notifyjs/notifyjs)
