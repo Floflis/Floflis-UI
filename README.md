@@ -34,3 +34,11 @@ Windowing: [Ventus](https://github.com/rlamana/Ventus)
 Notifications: [notifyjs](https://github.com/notifyjs/notifyjs)
 
 Updates: [node-github](https://github.com/mikedeboer/node-github) (search and parse updates)
+
+# Apps #
+
+Notes: [clearwater](https://github.com/lbarman/clearwater)
+
+# Games #
+
+[Ultimate Tic Tac Toe](https://github.com/kennycason/ultimate_tictactoe)
