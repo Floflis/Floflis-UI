@@ -32,3 +32,5 @@ Pull requests, comments and open issues are very welcome.
 Windowing: [Ventus](https://github.com/rlamana/Ventus)
 
 Notifications: [notifyjs](https://github.com/notifyjs/notifyjs)
+
+Updates: [node-github](https://github.com/mikedeboer/node-github) (search and parse updates)
