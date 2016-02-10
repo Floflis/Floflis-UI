@@ -1,3 +1,15 @@
+$(document).ready(function () {
+    $(document).click(function (e) {
+        if ($(e.target).closest(".topbar-current,.toggled").length) {
+            $(".toggled").toggle();
+            e.preventDefault();
+        } else {
+            $(".toggled").hide();
+        }
+
+    });
+});
+
 $(".app-title").each(function () {
     text = $(this).text();
     if (text.length > 12) {
