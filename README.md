@@ -37,7 +37,7 @@ Updates: [node-github](https://github.com/mikedeboer/node-github) (search and pa
 
 # Apps #
 
-Notes: [clearwater](https://github.com/lbarman/clearwater)
+Tasks: [clearwater](https://github.com/lbarman/clearwater)
 
 # Games #
 
