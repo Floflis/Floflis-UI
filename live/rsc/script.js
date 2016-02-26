@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $(document).click(function (e) {
-        if ($(e.target).closest(".topbar-current,.toggled").length) {
+        if ($(e.target).closest(".topbar-current,.topbar-notifications,.toggled").length) {
             $(".toggled").toggle();
             e.preventDefault();
         } else {
