@@ -1,0 +1,2485 @@
+{
+   "1006787209796778126": {
+      "message": "Moj disk"
+   },
+   "1017907757187630742": {
+      "message": "Moje pisave"
+   },
+   "1029072043275376320": {
+      "message": "Najden ni bil noben koledar."
+   },
+   "1030781695901615026": {
+      "message": "Na dno"
+   },
+   "103870949919613488": {
+      "message": "Zapisek je arhiviran"
+   },
+   "1039394921418415681": {
+      "message": "Prijava"
+   },
+   "1083918249169198626": {
+      "message": "Bližnjične tipke so onemogočene."
+   },
+   "1090919586152138659": {
+      "message": "Standardne"
+   },
+   "1101371910696766077": {
+      "message": "Ustvari kopijo"
+   },
+   "1107413433574576014": {
+      "message": "Naslov je predolg. Označeno besedilo ne bo shranjeno."
+   },
+   "1127320433256851404": {
+      "message": "Videopredvajalnik"
+   },
+   "1162642135048988280": {
+      "message": "Preimenovanje dokumenta"
+   },
+   "1166244120191806795": {
+      "message": "Pošljite povratne informacije"
+   },
+   "1179891706526242218": {
+      "message": "Naprej"
+   },
+   "1185164838496022543": {
+      "message": "Kliknite tukaj, da znova naložite stran."
+   },
+   "1185644932132585290": {
+      "message": "Število znakov na voljo: $1​"
+   },
+   "1213005208968286932": {
+      "message": "Označeno kot razrešeno"
+   },
+   "1263557413037343589": {
+      "message": "Razvrščanje fotografij"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1311350045083871503": {
+      "message": "Prekliči"
+   },
+   "1311729747516144362": {
+      "message": "Rdeča"
+   },
+   "1315844696796851207": {
+      "message": "Sans Serif"
+   },
+   "1319037146426591038": {
+      "message": "ali"
+   },
+   "132822872080714863": {
+      "message": "V redu"
+   },
+   "133192954417440569": {
+      "message": "Najden ni bil noben rezultat."
+   },
+   "1349697396109290623": {
+      "message": "Prikaz slikovne datoteke $1​ v višji ločljivosti"
+   },
+   "1376126796144976437": {
+      "message": "Vse pisave"
+   },
+   "139942704574044780": {
+      "message": "Dovoli"
+   },
+   "141491180325662484": {
+      "message": "Google Drive vam ponuja mesto za shranjevanje vseh datotek, na katerem lahko dostopate do njih kjer koli in iz poljubne naprave. Če shranite fotografije na disk Google Drive, jih lahko tukaj takoj daste v skupno rabo s svojimi krogi."
+   },
+   "1418114637490664392": {
+      "message": "Arhiv fotografij LIFE"
+   },
+   "1419896259743862406": {
+      "message": "Za odpiranje uporabi"
+   },
+   "1440171352837969028": {
+      "message": "Video/zvok"
+   },
+   "1441487391064925653": {
+      "message": "V centru za pomoč si oglejte vse bližnjice"
+   },
+   "1446829548948002072": {
+      "message": "vejica"
+   },
+   "1454684154234137497": {
+      "message": "tipka Pause"
+   },
+   "1459765068821943106": {
+      "message": "{VIEWER_GENDER,select, female{URL videoposnetka v YouTubu prilepite sem:}male{URL videoposnetka v YouTubu prilepite sem:}other{URL videoposnetka v YouTubu prilepite sem:}}"
+   },
+   "1463079206290378085": {
+      "message": "Fotografije iz orkuta"
+   },
+   "1463389029497634261": {
+      "message": "Zmanjšaj glasnost"
+   },
+   "1475179211173444554": {
+      "message": "Vsi v domeni, ki imajo povezavo"
+   },
+   "1492360016907725281": {
+      "message": "{VIEWER_GENDER,select, female{URL videoposnetka prilepite sem:}male{URL videoposnetka prilepite sem:}other{URL videoposnetka prilepite sem:}}"
+   },
+   "1493251742569121894": {
+      "message": "Zapisek je predolg. Označeno besedilo ne bo shranjeno."
+   },
+   "1493384967280942491": {
+      "message": "Rožnata"
+   },
+   "1499433769420882987": {
+      "message": "Prikazan je element $1​"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1521707405717823409": {
+      "message": "Vijoličasta"
+   },
+   "153439508598626384": {
+      "message": "Vaše fotografije"
+   },
+   "1536051766421561160": {
+      "message": "enačaj"
+   },
+   "156992719062713230": {
+      "message": "Siva"
+   },
+   "1586968957182554447": {
+      "message": "Onemogočanje"
+   },
+   "1588268697057804046": {
+      "message": "pred $1​ h"
+   },
+   "1603139897109307706": {
+      "message": "Napaka, poskusite znova"
+   },
+   "1604359562654146902": {
+      "message": "Fotografija"
+   },
+   "1633370388224271051": {
+      "message": "Najdena ni bila nobena oseba."
+   },
+   "1633798963327779260": {
+      "message": "Jutri"
+   },
+   "1654222450095043962": {
+      "message": "Zvok"
+   },
+   "1656911987308166143": {
+      "message": "Izbriši"
+   },
+   "1665821947855814052": {
+      "message": "Velikost"
+   },
+   "1692901784886701962": {
+      "message": "Zapisek je prevelik."
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700522311470719738": {
+      "message": "Spomni me"
+   },
+   "1701312243672511585": {
+      "message": "Premaknite besedilo v nov zapisek &raquo;"
+   },
+   "1709410429018687341": {
+      "message": "Zjutraj ($1​)"
+   },
+   "1715552550526864429": {
+      "message": "Išči spletne dnevnike"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1739900012825270238": {
+      "message": "Pojdi na prejšnji element"
+   },
+   "1756171223417807431": {
+      "message": "Prepričajte se, da je slika javna. Če je slika zaščitena z geslom ali je v notranjem omrežju, je ne bo mogoče prebrati."
+   },
+   "1759957963056319953": {
+      "message": "Nazaj s tega mesta: $1​"
+   },
+   "1783719421893050637": {
+      "message": "Mere"
+   },
+   "178927681797742562": {
+      "message": "Prijava"
+   },
+   "1791115075948268631": {
+      "message": "Odpiranje pomoči za bližnjice na tipkovnici"
+   },
+   "1808245543551507519": {
+      "message": "Zvok"
+   },
+   "1816851800848432562": {
+      "message": "Odstrani"
+   },
+   "1818306025747564729": {
+      "message": "Odpiranje povezave"
+   },
+   "1823222042913714987": {
+      "message": "Submit password"
+   },
+   "1823854753950594157": {
+      "message": "Ohrani na mestu"
+   },
+   "1830157062072535681": {
+      "message": "Prikazovanje: $1​"
+   },
+   "185012928288875755": {
+      "message": "Noben element ne izpolnjuje vaših pogojev."
+   },
+   "1856444915090632305": {
+      "message": "Dokument je šifriran. Vnesite geslo."
+   },
+   "1866863108233180413": {
+      "message": "Mape"
+   },
+   "187077078156858455": {
+      "message": "Zvočni zapisek"
+   },
+   "189303170370862360": {
+      "message": "$1​. od $2​"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901351411358749070": {
+      "message": "V skupni rabi z mano"
+   },
+   "1913425963149828429": {
+      "message": "Ekstrahiraj ta arhiv v Google Drive."
+   },
+   "1918176455405610789": {
+      "message": "Končano"
+   },
+   "1920189655549476211": {
+      "message": "neznana dolžina"
+   },
+   "1929603188252533075": {
+      "message": "Videoposnetka ni bilo mogoče izbrisati. Poskusite znova."
+   },
+   "1951810091681076784": {
+      "message": "{COUNT_1,plural, =1{1 zapisek, ki se ujema}one{{COUNT_2} zapisek, ki se ujema}two{{COUNT_2} zapiska, ki se ujemata}few{{COUNT_2} zapiski, ki se ujemajo}other{{COUNT_2} zapiskov, ki se ujemajo}}"
+   },
+   "1956794332842050061": {
+      "message": "Naslednja stran"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1968405748623909021": {
+      "message": "Poskusite odpreti ali urejati ta element z eno od spodnjih aplikacij"
+   },
+   "1974063091619095703": {
+      "message": "Osebe"
+   },
+   "1988244842147989817": {
+      "message": "Zapiski v smetnjaku se po 7 dneh izbrišejo."
+   },
+   "1993674829873313178": {
+      "message": "Težave s prenosom v strežnik? Trenutno poteka vzdrževanje, vendar bo storitev kmalu ponovno na voljo."
+   },
+   "2003845117979929469": {
+      "message": "Podrobnosti"
+   },
+   "2048322072989992494": {
+      "message": "Nihče še ni dal datotek v skupno rabo z vami."
+   },
+   "2055836117545582610": {
+      "message": "Nastavitve seznama"
+   },
+   "2059084517358086391": {
+      "message": "Zapri vrstico za iskanje"
+   },
+   "2061440050632248160": {
+      "message": "Arhiviraj"
+   },
+   "2068023589621557589": {
+      "message": "Pisava TrueType"
+   },
+   "2073035325657060696": {
+      "message": "Predogled ni na voljo."
+   },
+   "2073322475696388995": {
+      "message": "Preskoči naprej"
+   },
+   "207810168108507460": {
+      "message": "pred $1​ h"
+   },
+   "2109272338124379867": {
+      "message": "Zadnja sprememba"
+   },
+   "2116013171202209313": {
+      "message": "Izberi"
+   },
+   "2122256657192674586": {
+      "message": "Išči videoposnetke"
+   },
+   "2125135092719715773": {
+      "message": "Prenos"
+   },
+   "212796670323571824": {
+      "message": "V redu"
+   },
+   "213665695896111861": {
+      "message": "Zapiski"
+   },
+   "2138593281154109183": {
+      "message": "Arhiv"
+   },
+   "2147952938331523160": {
+      "message": "Preimenuj …"
+   },
+   "2154372123324862271": {
+      "message": "poševnica"
+   },
+   "2154940358270068005": {
+      "message": "Obdržite izbrisane zapiske še nekaj časa"
+   },
+   "2184278444368405837": {
+      "message": "Št. elementov: $1​"
+   },
+   "2187239650627580457": {
+      "message": "Pošlji"
+   },
+   "2198096971937872560": {
+      "message": "Opomnik:"
+   },
+   "220168959069469607": {
+      "message": "Več dejanj"
+   },
+   "221715292685577880": {
+      "message": "Da"
+   },
+   "2220005860896049129": {
+      "message": "Iskanje dokumenta v izvirnem viru je trajalo predolgo."
+   },
+   "2228413078211839077": {
+      "message": "Pri oblikovanju pogleda dokumenta je prišlo do začasne težave."
+   },
+   "2235097878790803849": {
+      "message": "Poslovite se od prilog in pozdravite Google Drive."
+   },
+   "2257303402199718039": {
+      "message": "Dokumenta ni bilo mogoče najti v izvirnem viru. Preverite, ali dokument še vedno obstaja."
+   },
+   "2274436793504233543": {
+      "message": "Prekliči"
+   },
+   "2278224983638451454": {
+      "message": "Prenesite zdaj"
+   },
+   "2280650195464600721": {
+      "message": "Krmarjenje"
+   },
+   "2285069188138705005": {
+      "message": "Povezane aplikacije"
+   },
+   "2289534534793293486": {
+      "message": "Povrni iz arhiva"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Povečaj glasnost"
+   },
+   "230180475614658119": {
+      "message": "Končano"
+   },
+   "2304293593067358316": {
+      "message": "Slikovni izrezki"
+   },
+   "2310145944356900158": {
+      "message": "Označeno"
+   },
+   "2311880726221661199": {
+      "message": "Nalaganje višjih ločljivosti"
+   },
+   "2329167963662998826": {
+      "message": "Google Keep želi uporabiti podatke o vaši lokaciji za izboljšanje predlogov mest za lokacijske opomnike."
+   },
+   "234046557601727809": {
+      "message": "Ni slik ali videoposnetkov."
+   },
+   "2349912757088764940": {
+      "message": "Ogled je omogočen:"
+   },
+   "2359614137862708172": {
+      "message": "tipka Shift"
+   },
+   "2370463380397641604": {
+      "message": "Priljubljene bližnjične tipke"
+   },
+   "2370656573843123707": {
+      "message": "oglati zaklepaj"
+   },
+   "2393487423640708285": {
+      "message": "URL ni veljaven. Začeti se mora s http:// ali https://."
+   },
+   "2405795704816921421": {
+      "message": "Datoteka $1​"
+   },
+   "2412314804333167252": {
+      "message": "Ta preglednica je prevelika. Kliknite, če jo želite $3​prenesti$1​ ali $4​urediti v Google Preglednicah$1​."
+   },
+   "2418104318933043113": {
+      "message": "Google Iskanje slik"
+   },
+   "2433429041384246549": {
+      "message": "Izklopi zvok"
+   },
+   "2449254824382583885": {
+      "message": "Odpri na novem zavihku"
+   },
+   "2452522051596946166": {
+      "message": "Ups. Pri predogledu elementa $1​ je prišlo do težave. Vnovičen poskus."
+   },
+   "2454642351139428112": {
+      "message": "Razveljavi"
+   },
+   "2466251465475184755": {
+      "message": "Ali želite izprazniti smetnjak? Vsi zapiski v smetnjaku bodo trajno izbrisani."
+   },
+   "2475181823688399272": {
+      "message": "Naprej"
+   },
+   "2484568559152875936": {
+      "message": "Ni albumov s fotografijami."
+   },
+   "2504232652631703202": {
+      "message": "Povezano"
+   },
+   "251025074207413762": {
+      "message": "Dodajte opis"
+   },
+   "2510929871271209216": {
+      "message": "Ta preglednica je prevelika. Kliknite $2​tukaj$1​, če jo želite prenesti."
+   },
+   "2513437337377210144": {
+      "message": "tipka End"
+   },
+   "2524021436052870191": {
+      "message": "Te datoteke ni mogoče naložiti. Delujejo samo datoteke $1​ velikosti največ $2​ MB."
+   },
+   "2532280782491328445": {
+      "message": "Poišči prejšnje"
+   },
+   "2538080331309772448": {
+      "message": "Razvrsti: $1​"
+   },
+   "2538462904124380434": {
+      "message": "Zapisek je bil premaknjen v smetnjak"
+   },
+   "2546225293834487484": {
+      "message": "Zapisek"
+   },
+   "2558480112329900136": {
+      "message": "Siva"
+   },
+   "257317112834806705": {
+      "message": "Preklop med pogledom seznama in mreže"
+   },
+   "2579679351920691492": {
+      "message": "Preskoči nazaj"
+   },
+   "2587566920590457715": {
+      "message": "Maps Engine Lite"
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609750184896485102": {
+      "message": "Videoposnetki iz telefona"
+   },
+   "2615188670181508661": {
+      "message": "Nedavno niste izbrali ničesar."
+   },
+   "2623861453769098676": {
+      "message": "Pri predogledu tega dokumenta je prišlo do težave."
+   },
+   "2628268670001557269": {
+      "message": "Razpoložljiv prostor"
+   },
+   "2643241712502664984": {
+      "message": "Vaši videoposnetki v YouTubu"
+   },
+   "2661850177130037208": {
+      "message": "Odpri element"
+   },
+   "2681830832355823748": {
+      "message": "Iskanje vseh bližnjic"
+   },
+   "2687303256387847763": {
+      "message": "Priljubljeno"
+   },
+   "2702485557996900362": {
+      "message": "Odpravite težavo z urejanji v sporu"
+   },
+   "2705842902318123127": {
+      "message": "Premik na naslednjo/prejšnjo opombo/seznam"
+   },
+   "272948685355798518": {
+      "message": "Izbrana je neveljavna vrsta datoteke."
+   },
+   "2731144323070245943": {
+      "message": "Nastavitve seznama"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2750830436677712001": {
+      "message": "{VIEWER_GENDER,select, female{Mape {FOLDER_NAME} ni bilo mogoče ustvariti.}male{Mape {FOLDER_NAME} ni bilo mogoče ustvariti.}other{Mape {FOLDER_NAME} ni bilo mogoče ustvariti.}}"
+   },
+   "2752123004911547510": {
+      "message": "Pogosto uporabljeno"
+   },
+   "2758125083752925237": {
+      "message": "(Lastnik)"
+   },
+   "277430914014962533": {
+      "message": "Ups. Pri predogledu elementa $1​ je prišlo do težave."
+   },
+   "2774713922589657910": {
+      "message": "Vsi v domeni"
+   },
+   "2786560864906393383": {
+      "message": "Fotografije iz telefona"
+   },
+   "2789687492331041935": {
+      "message": "Izberite čas"
+   },
+   "2790446494460492805": {
+      "message": "Postopek izvlečenja se je začel. Arhivska sporočila bodo v e-poštnem računu prikazana pod oznako »Uvoz: $1​«."
+   },
+   "2793841261389879255": {
+      "message": "Prejšnja stran"
+   },
+   "2801153442808430222": {
+      "message": "Moj disk"
+   },
+   "2817277146396981386": {
+      "message": "popoldne"
+   },
+   "2818020101821669029": {
+      "message": "Ustvarjeno"
+   },
+   "2818135503416309545": {
+      "message": "Snemanje videa"
+   },
+   "2827039933590757722": {
+      "message": "Bližnjica sistema Windows"
+   },
+   "2829226075651806940": {
+      "message": "Povečava"
+   },
+   "2860188519781080944": {
+      "message": "Oranžna"
+   },
+   "2861568351294148466": {
+      "message": "Skripti"
+   },
+   "2864281852037732729": {
+      "message": "Manj"
+   },
+   "2873089307546162154": {
+      "message": "V redu"
+   },
+   "2877285560485318801": {
+      "message": "Zaustavi"
+   },
+   "2878874627361086801": {
+      "message": "predogled"
+   },
+   "2879276552944958066": {
+      "message": "Nazaj na mapo $1​."
+   },
+   "289798573180023043": {
+      "message": "V redu"
+   },
+   "2902747751281161248": {
+      "message": "Uporabi za nove sezname"
+   },
+   "2905147317995482841": {
+      "message": "Prenovili smo način ogleda za vse datoteke v Googlu Drive. Zdaj je lepši in preprostejši. Upamo, da vam je novi videz všeč."
+   },
+   "2917498437550635075": {
+      "message": "Ikona"
+   },
+   "2964778642459027786": {
+      "message": "V smetnjaku ni zapiskov"
+   },
+   "2974598228601710262": {
+      "message": "Dodaj"
+   },
+   "2979466412944870220": {
+      "message": "Nalaganje predogleda ..."
+   },
+   "2982511431742033448": {
+      "message": "Ni predstavitev."
+   },
+   "298817883481775869": {
+      "message": "Nalaganje ..."
+   },
+   "3000689173481666334": {
+      "message": "Urejanje kroga"
+   },
+   "3029395493413607486": {
+      "message": "Predvajalnika videoposnetkov ni bilo mogoče naložiti. Poskusite znova naložiti stran.$1​Če težave še vedno ne odpravite, $3​obiščite center za pomoč$2​."
+   },
+   "3043961722025425136": {
+      "message": "Opis"
+   },
+   "306516303501625305": {
+      "message": "Preverjanje pristnosti ni uspelo."
+   },
+   "3073005748126521632": {
+      "message": "Opomnjeno na lokaciji: $1​"
+   },
+   "3074184819310272351": {
+      "message": "Prenesene fotografije"
+   },
+   "3084372889071691504": {
+      "message": "{VIEWER_GENDER,select, female{URL prilepite sem:}male{URL prilepite sem:}other{URL prilepite sem:}}"
+   },
+   "3095645856215493958": {
+      "message": "Poiščite natisnjeno besedilo v fotografijah"
+   },
+   "31018542656161389": {
+      "message": "Povečaj/pomanjšaj, da ustreza"
+   },
+   "3109321241584918345": {
+      "message": "Poveži več aplikacij ..."
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "čez $1​ h"
+   },
+   "3189854932778515441": {
+      "message": "Zapisek v arhivu"
+   },
+   "3207670492626476064": {
+      "message": "Tabele"
+   },
+   "3211163842850942567": {
+      "message": "Povečava"
+   },
+   "3222929029344613957": {
+      "message": "Pri odpiranju te datoteke je prišlo do napake. Poskusite znova."
+   },
+   "3233388241926683100": {
+      "message": "Iskanje po zapiskih"
+   },
+   "3243829462528324248": {
+      "message": "Rjava"
+   },
+   "3250489229749307913": {
+      "message": "Elektronska publikacija"
+   },
+   "3256928852560591255": {
+      "message": "V smetnjaku ni mogoče urejati"
+   },
+   "3261131345401321392": {
+      "message": "Lahko komentira"
+   },
+   "3265524298292280681": {
+      "message": "tipka Esc"
+   },
+   "3267563602179728277": {
+      "message": "tipka Delete"
+   },
+   "3272496516667407797": {
+      "message": "Pri nalaganju podrobnosti je prišlo do težave."
+   },
+   "3275029321588462173": {
+      "message": "Brez"
+   },
+   "3278237562147211998": {
+      "message": "Standardne fotografije"
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3306487262690341751": {
+      "message": "Datum in ura"
+   },
+   "3312545971976531405": {
+      "message": "Sporočilo"
+   },
+   "3319087486907616296": {
+      "message": "Predvajaj ta element"
+   },
+   "3328129883064940351": {
+      "message": "Pisave"
+   },
+   "3335409796971631780": {
+      "message": "Ekstrahiranje v Google Drive."
+   },
+   "3343451103608774400": {
+      "message": "Predstavljamo $3​novo funkcijo »Moji zemljevidi«.$2​$1​Boljša orodja za izdelavo zemljevidov."
+   },
+   "3354260708176476985": {
+      "message": "Nalaganje &hellip;"
+   },
+   "3357778055650785985": {
+      "message": "Element je predolg. Označeno besedilo ne bo shranjeno."
+   },
+   "3364679383274077479": {
+      "message": "Na voljo je posodobitev za aplikacijo"
+   },
+   "3368639944474272225": {
+      "message": "Dokumenta ni mogoče prenesti za ogled ali pa nimate dovoljenja za ogled dokumenta."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Odpri"
+   },
+   "3408219901032480508": {
+      "message": "$2​; $1​"
+   },
+   "3409257542937182842": {
+      "message": "Vnovičen poskus ..."
+   },
+   "3409483962000136213": {
+      "message": "Predvajaj/zaustavi"
+   },
+   "3418767079436101103": {
+      "message": "Pri nalaganju te strani je prišlo do težave."
+   },
+   "3421685394169412932": {
+      "message": "Vse spremembe, ki jih naredite, se samodejno shranijo."
+   },
+   "3422389100099960864": {
+      "message": "Ni slik."
+   },
+   "3428726060007577698": {
+      "message": "Seznam je prevelik."
+   },
+   "3430885603500576146": {
+      "message": "Izberite samo tiste slike, za katere veste, da imate licenco za njihovo uporabo."
+   },
+   "3440534675925634227": {
+      "message": "V oknu brskalnika Chrome odprite chrome://settings in poskrbite, da ste prijavljeni. Nato znova kliknite »Prijava«."
+   },
+   "3446158485617778228": {
+      "message": "Razveljavi"
+   },
+   "3448234415275521882": {
+      "message": "Splošne informacije"
+   },
+   "3448684788258660606": {
+      "message": "Vaše fotografije"
+   },
+   "3450585781337676327": {
+      "message": "Nalaganje ..."
+   },
+   "3457279184692206825": {
+      "message": "Fotografije bodo prikazane vsem (javno v spletu)."
+   },
+   "3468441711253011521": {
+      "message": "Google Preglednice"
+   },
+   "3473620774713000513": {
+      "message": "Razrešeno"
+   },
+   "3483438888494819423": {
+      "message": "Novosti v aplikaciji Google Keep"
+   },
+   "3511274344439521198": {
+      "message": "Dejanja"
+   },
+   "3518073392823563581": {
+      "message": "Bližnjice na tipkovnici"
+   },
+   "3531603810713611778": {
+      "message": "Največja dovoljena velikost datotek je presežena. Počistite izbiro enega ali več elementov."
+   },
+   "3543475399174940144": {
+      "message": "+$1​"
+   },
+   "3547194749488601916": {
+      "message": "Posodabljanje ..."
+   },
+   "354828103903104581": {
+      "message": "Potrjeni elementi"
+   },
+   "3561658662634401836": {
+      "message": "Naslov"
+   },
+   "357172711168973843": {
+      "message": "Nedavno dodani zapiski ali spremembe se niso shranili. Ustvarite kopijo vsebine in znova naložite stran."
+   },
+   "3586705906700410505": {
+      "message": "Črtna risba"
+   },
+   "3587798318180902863": {
+      "message": "{NUM_SELECTED,plural, =1{ izbran »}one{ izbran »}two{ izbrana »}few{ izbrani »}other{ izbranih »}}"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3602920441714068008": {
+      "message": "Opomnjeno dne $1​ ob $2​"
+   },
+   "3608606849109645545": {
+      "message": "Vnesite novo ime dokumenta:"
+   },
+   "361202495024972887": {
+      "message": "Prenos videoposnetkov"
+   },
+   "361630518611593946": {
+      "message": "Skrij potrditvena polja"
+   },
+   "3625886392901506764": {
+      "message": "ali"
+   },
+   "3643146117250542609": {
+      "message": "Ni datotek PDF."
+   },
+   "3645728163953189422": {
+      "message": "Dokumenta ni mogoče prenesti za ogled, ker je prevelik."
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "poševnica nazaj"
+   },
+   "3659554681396757189": {
+      "message": "Odprl sam"
+   },
+   "3663571259791438207": {
+      "message": "Prijavite zlorabo"
+   },
+   "3664842788764635265": {
+      "message": "Brez"
+   },
+   "3666123569747918021": {
+      "message": "V dokumentu so neshranjene spremembe. Ali želite zapustiti stran in zavreči spremembe?"
+   },
+   "3673346558112798837": {
+      "message": "Brez ozadja"
+   },
+   "3674811252904549204": {
+      "message": "Fotografije za prvo stran"
+   },
+   "3678477908297567934": {
+      "message": "podčrtaj"
+   },
+   "3681747688524363195": {
+      "message": "Na vrh"
+   },
+   "3690515530505404607": {
+      "message": "Pri predvajanju tega videoposnetka je prišlo do težave."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Ni elementov}=1{1 element}one{# element}two{# elementa}few{# elementi}other{# elementov}}"
+   },
+   "3712215972250917265": {
+      "message": "Komentarji"
+   },
+   "3717138719704492547": {
+      "message": "Preverite, ali so v naslovu napake."
+   },
+   "374088101949877889": {
+      "message": "Zapri"
+   },
+   "3745308627628779133": {
+      "message": "Nova mapa"
+   },
+   "3748461364828242354": {
+      "message": "Izberite barvo"
+   },
+   "3770795578481676514": {
+      "message": "Rumena"
+   },
+   "3771958676925493302": {
+      "message": "Odstrani filter: $1​"
+   },
+   "3779945546806941187": {
+      "message": "Enobarvno"
+   },
+   "3793086499925031123": {
+      "message": "Odpri iskalno vrstico/najdi prejšnje"
+   },
+   "37992665410817181": {
+      "message": "Znova odprto"
+   },
+   "3801617971018550169": {
+      "message": "Včeraj"
+   },
+   "3808213429720572062": {
+      "message": "Obnovi"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3842411126100113634": {
+      "message": "tipka Page Up"
+   },
+   "3844047145949375230": {
+      "message": "Dokumenti"
+   },
+   "3858324058837632381": {
+      "message": "Pri predvajanju te zvočne datoteke je prišlo do težave."
+   },
+   "3864575916269080329": {
+      "message": "Slike, po katerih je mogoče iskati"
+   },
+   "3866373087987934712": {
+      "message": "Prenos ni uspel: $1​"
+   },
+   "3869166581651870488": {
+      "message": "Dokončanje urejanja"
+   },
+   "3873215756962047275": {
+      "message": "ARHIV"
+   },
+   "3873467440437675460": {
+      "message": "Pisav, ki ste jih izbrali, žal ni bilo mogoče najti."
+   },
+   "3897281533382850749": {
+      "message": "Vklopi zvok"
+   },
+   "3936153839186254186": {
+      "message": "Pokaži: $1​"
+   },
+   "3955760658925284765": {
+      "message": "Poskusite znova"
+   },
+   "3974064131130689245": {
+      "message": "Mrežni pogled"
+   },
+   "3977699855735576796": {
+      "message": "Pri nalaganju več strani je prišlo do težave."
+   },
+   "3988418762222300024": {
+      "message": "pika"
+   },
+   "3989552504822984034": {
+      "message": "Google Risbe"
+   },
+   "4005725939358875643": {
+      "message": "Dejanje je razveljavljeno."
+   },
+   "4014287326684608407": {
+      "message": "Zelenomodra"
+   },
+   "4048275292053012394": {
+      "message": "Stiki"
+   },
+   "4059387791040010947": {
+      "message": "tipka Meta"
+   },
+   "4067915791853673774": {
+      "message": "{VIEWER_GENDER,select, female{Zapri}male{Zapri}other{Zapri}}"
+   },
+   "4078179869358383373": {
+      "message": "Najden ni bil noben rezultat."
+   },
+   "4087667435414545203": {
+      "message": "Niste več prijavljeni. Če želite izvesti spremembe, znova naložite."
+   },
+   "4093134637041332383": {
+      "message": "VEČ O TEM"
+   },
+   "4097007735221462946": {
+      "message": "Risbe"
+   },
+   "4097921967754832323": {
+      "message": "vezaj"
+   },
+   "4100504115801514799": {
+      "message": "Zapisek je obnovljen"
+   },
+   "4119294114251628099": {
+      "message": "URL-ja slike, ki ste ga navedli, ni bilo mogoče pridobiti. URL je lahko zaseben, zato naši strežniki nimajo dostopa do njega. Poskusite vnesti drug URL."
+   },
+   "4134385041569168669": {
+      "message": "Nalaganje …"
+   },
+   "4148564423510181521": {
+      "message": "Počisti iskanje"
+   },
+   "4152315289461886": {
+      "message": "Kontrolniki za dokument"
+   },
+   "4168280976997555951": {
+      "message": "Ni dokumentov."
+   },
+   "4174786386751618325": {
+      "message": "Fotografski zapisek"
+   },
+   "4182427157920112948": {
+      "message": "tilda"
+   },
+   "4200426647595470259": {
+      "message": "Začni predvajanje zvočne datoteke"
+   },
+   "4200911267543705377": {
+      "message": "Vnesite iskalno poizvedbo v zgornje polje, če želite poiskati spletne dnevnike z Google Iskanjem spletnih dnevnikov."
+   },
+   "4205329094859140439": {
+      "message": "dopoldne"
+   },
+   "4211182812451835307": {
+      "message": "Lahko ureja"
+   },
+   "4211806608204126222": {
+      "message": "$2​Pogoji storitve$1​"
+   },
+   "4214190403999219403": {
+      "message": "Povečaj/pomanjšaj"
+   },
+   "4230101516585408149": {
+      "message": "Sestavljanje novega zapiska"
+   },
+   "4253741616909644861": {
+      "message": "Iskalne poizvedbe"
+   },
+   "4280747719095153198": {
+      "message": "Razrešen komentar"
+   },
+   "4286663890332754386": {
+      "message": "Nalaganje ni uspelo."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4314643310615423802": {
+      "message": "Bili ste odjavljeni."
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4319229296464464147": {
+      "message": "Datum dodajanja"
+   },
+   "4320831042030778": {
+      "message": "Prekliči"
+   },
+   "4332252081504252077": {
+      "message": "Ups."
+   },
+   "4338991104991831337": {
+      "message": "Slike"
+   },
+   "4339705658383891586": {
+      "message": "Vse barve"
+   },
+   "4343825450663233452": {
+      "message": "Si lahko ogleda"
+   },
+   "4343836986248234462": {
+      "message": "Element seznama"
+   },
+   "435214284915110062": {
+      "message": "Odpri iskalno vrstico"
+   },
+   "4372755508519489521": {
+      "message": "Mrežni pogled"
+   },
+   "4391715930031906467": {
+      "message": "Poišči naslednje"
+   },
+   "4395845663892873002": {
+      "message": "tipka Home"
+   },
+   "4422985761498356257": {
+      "message": "Za odpiranje uporabi"
+   },
+   "4430062722430863019": {
+      "message": "Želite dokončno izbrisati zapisek?"
+   },
+   "4439812492856303238": {
+      "message": "Pri obdelavi vašega izbora je žal prišlo do nepričakovane napake. Poskusite znova pozneje."
+   },
+   "4444571967705751871": {
+      "message": "Izbrisani zapiski"
+   },
+   "4466605492523079635": {
+      "message": "Shrani"
+   },
+   "4468872996560163913": {
+      "message": "Izprazni smetnjak"
+   },
+   "4473912481270012588": {
+      "message": "Shranjeno v Google Drive – premik v:"
+   },
+   "45228242181482134": {
+      "message": "Predvajaj"
+   },
+   "4536519876526589338": {
+      "message": "Avatar $1​."
+   },
+   "4552045407215325033": {
+      "message": "URL-ja videoposnetka, ki ste ga vnesli zgoraj, ni mogoče naložiti. Prepričajte se, da je pravilen in izhaja s podprtega spletnega mesta."
+   },
+   "4564682305303579317": {
+      "message": "Nadaljuj"
+   },
+   "456498742882714639": {
+      "message": "Premik v:"
+   },
+   "4588500131398315347": {
+      "message": "Ustvarjanje kroga"
+   },
+   "4604402426271704651": {
+      "message": "Brez fotografije"
+   },
+   "4620034373159179678": {
+      "message": "$1​. stran od $2​"
+   },
+   "4630690108252818511": {
+      "message": "Najdena ni bila nobena slika."
+   },
+   "468283184702431827": {
+      "message": "Dejanje začeto"
+   },
+   "4695897771458936174": {
+      "message": "Dajte fotografije iz storitve Google Drive v skupno rabo v Googlu+"
+   },
+   "4740100782728373253": {
+      "message": "Shrani v Google Drive"
+   },
+   "4748046231232264180": {
+      "message": "Google Obrazci"
+   },
+   "4767722428137216885": {
+      "message": "Prekliči"
+   },
+   "477328789314249432": {
+      "message": "Iskanje po zapiskih"
+   },
+   "4775368111547931093": {
+      "message": "Opis ni na voljo"
+   },
+   "4781742940361705258": {
+      "message": "Opusti"
+   },
+   "4783695823456312682": {
+      "message": "Premakni na dno"
+   },
+   "47844150329705564": {
+      "message": "Rezultati iskanja za »$1​«"
+   },
+   "4798897505978458661": {
+      "message": "Najden ni bil noben videoposnetek."
+   },
+   "4805047680716507619": {
+      "message": " – Premakni v:"
+   },
+   "4806763987633034948": {
+      "message": "Podpis PKCS7"
+   },
+   "4833214200453019325": {
+      "message": "$1​ od $2​"
+   },
+   "4846720038197420778": {
+      "message": "Poveži več aplikacij"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Zapisek v smetnjaku"
+   },
+   "4888104357342241891": {
+      "message": "Opomniki"
+   },
+   "4889853674709731963": {
+      "message": "Vsi zapiski so shranjeni brez povezave"
+   },
+   "4901386320110714275": {
+      "message": "Napačno geslo. Poskusite znova."
+   },
+   "490372259452655427": {
+      "message": "Ta dokument trenutno še ni na voljo za ogled."
+   },
+   "4906669330059413958": {
+      "message": "Pošlji geslo"
+   },
+   "4908614808966678155": {
+      "message": "Za »$1​« ni rezultatov iskanja"
+   },
+   "4926020998477695737": {
+      "message": "Preklopi na mapo $1​"
+   },
+   "4943176738805484221": {
+      "message": "uredi"
+   },
+   "4956678140555659175": {
+      "message": "vračalka"
+   },
+   "4957674814179289955": {
+      "message": "Premik na naslednji/prejšnji element na seznamu"
+   },
+   "4963784280521435720": {
+      "message": "Shranjevanje …"
+   },
+   "4969219890884320840": {
+      "message": "Posodobi"
+   },
+   "4983125135476400111": {
+      "message": "Premik zapiska/seznama v smetnjak"
+   },
+   "4988132901627446385": {
+      "message": "Podokno s podrobnostmi je razširjeno."
+   },
+   "4998757387516632837": {
+      "message": "Prikazani rezultati so označeni za nadaljnjo uporabo s spremembami."
+   },
+   "5006225450559627366": {
+      "message": "in še $1​"
+   },
+   "501475221876543407": {
+      "message": "Dodani zapiski so prikazani tukaj"
+   },
+   "5023525794410110078": {
+      "message": "Dodajanje besedila fotografiji"
+   },
+   "5026241297254150381": {
+      "message": "Dodajte zapisek"
+   },
+   "5046371569383796818": {
+      "message": "Ohrani"
+   },
+   "5055418092354683641": {
+      "message": "Serif"
+   },
+   "5095987896933771566": {
+      "message": "Natisni dokument"
+   },
+   "5096751700090310607": {
+      "message": "Ni fotografij."
+   },
+   "509815948423424872": {
+      "message": "Krmarjenje"
+   },
+   "5099245668405591445": {
+      "message": "Iskanje"
+   },
+   "512429649443191386": {
+      "message": "$2​Pomoč$1​"
+   },
+   "5124522868502261563": {
+      "message": "Preglednice"
+   },
+   "5130903421326358933": {
+      "message": "Pri shranjevanju priloge v Google Drive je prišlo do težave."
+   },
+   "5149937870346466591": {
+      "message": "Seznam"
+   },
+   "5169187962228219813": {
+      "message": "Slike Life"
+   },
+   "5180454621500142444": {
+      "message": "Obnovitev"
+   },
+   "5180989337128758117": {
+      "message": "oglati oklepaj"
+   },
+   "5184692850089055965": {
+      "message": "Zajem besedila v sliki"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Vrstica zavihkov podokna s podrobnostmi. Pritisnite levo in desno puščično tipko, če želite preklapljati med zavihki."
+   },
+   "5204391636475413312": {
+      "message": "Shrani"
+   },
+   "5213411023807957844": {
+      "message": "Iskanje v Googlu Keep"
+   },
+   "5213974294317036409": {
+      "message": "{numPages,plural, =0{}=1{1 stran}one{# stran}two{# strani}few{# strani}other{# strani}}"
+   },
+   "5226470917948786938": {
+      "message": "Abecedno"
+   },
+   "5238003680997310998": {
+      "message": "Več"
+   },
+   "5238371081785912565": {
+      "message": "Odpiranje z aplikacijo $1​"
+   },
+   "5275493935807628890": {
+      "message": "Slike na tem URL-ju ni mogoče najti."
+   },
+   "5281121179861637423": {
+      "message": "Za dostop do elementa $1​ je treba vnesti geslo. Vnesite ga."
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5291153964865714504": {
+      "message": "Ni zapiskov, ki bi se ujemali"
+   },
+   "5299648222246616124": {
+      "message": "krativec"
+   },
+   "5304869088141363028": {
+      "message": "Predstavljene fotografije"
+   },
+   "5316658541831864803": {
+      "message": "Ta vrsta dokumenta ni podprta za ogled."
+   },
+   "5319313176242717957": {
+      "message": "Obdelava slik ..."
+   },
+   "5336801339221383042": {
+      "message": "Javascript"
+   },
+   "534228323125524312": {
+      "message": "Pomanjšava"
+   },
+   "5353129315502554762": {
+      "message": "Datoteka s slogi"
+   },
+   "5372143986724491245": {
+      "message": "pred $1​ dnem"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5399553230649155346": {
+      "message": "čez $1​ h"
+   },
+   "5403830377590414208": {
+      "message": "Bela"
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5438481737351808090": {
+      "message": "Popoldne ($1​)"
+   },
+   "544377415081282702": {
+      "message": "Opravičujemo se."
+   },
+   "5447119197363232006": {
+      "message": "Pokaži v Googlu Drive"
+   },
+   "5465323999933375616": {
+      "message": "Dosegli ste omejitev pasovne širine za ogled ali prenos datotek, ki niso v obliki Google Dokumentov."
+   },
+   "5472312735475866917": {
+      "message": "Komentar osebe $1​."
+   },
+   "547865385964196102": {
+      "message": "pred $1​ min"
+   },
+   "5482872484546230111": {
+      "message": "Išči knjige"
+   },
+   "5494181290179470995": {
+      "message": "Izbriši"
+   },
+   "5500117709595533163": {
+      "message": "Vnesite iskalno poizvedbo v zgornje polje, če želite poiskati e-knjige z Google Knjigami."
+   },
+   "5514516347328112388": {
+      "message": "Poskusite lahko tudi prenesti izvirni dokument, tako da kliknete $2​tukaj$1​."
+   },
+   "5529532831767466284": {
+      "message": "{VIEWER_GENDER,select, female{{DEGREES}° {MINUTES}' {SECONDS}\"}male{{DEGREES}° {MINUTES}' {SECONDS}\"}other{{DEGREES}° {MINUTES}' {SECONDS}\"}}"
+   },
+   "5555182241047709329": {
+      "message": "Izberite lokacijo"
+   },
+   "5555599189512365009": {
+      "message": "V REDU"
+   },
+   "5571842632470308750": {
+      "message": "Poljubna vrsta"
+   },
+   "5588597116382648727": {
+      "message": "Začetek ekstrahiranja."
+   },
+   "5598649706113950710": {
+      "message": "Urejevalnik"
+   },
+   "5609727719971819773": {
+      "message": "{VIEWER_GENDER,select, female{Nazaj}male{Nazaj}other{Nazaj}}"
+   },
+   "5627470193961862490": {
+      "message": "Zapiski z opomniki za dogodke v bližnji prihodnosti so prikazani tukaj"
+   },
+   "5631086126416409232": {
+      "message": "Modra"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5660422479531064559": {
+      "message": "Ni obrazcev."
+   },
+   "5675154446465700699": {
+      "message": "Datoteke PDF"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Želite izbrisati označeno?"
+   },
+   "5714240424645614611": {
+      "message": "Paket za Android"
+   },
+   "5728640851616538925": {
+      "message": "Zelena"
+   },
+   "5744491383087191878": {
+      "message": "URL slike, ki ste ga vnesli zgoraj, ni pravilen ali ga ni mogoče naložiti."
+   },
+   "5747728324987383020": {
+      "message": "Obraz"
+   },
+   "5783875011049188612": {
+      "message": "Besedilo v sliki je bilo zajeto"
+   },
+   "5785010887521443923": {
+      "message": "Odstrani"
+   },
+   "5834678297024555032": {
+      "message": "Dovoli"
+   },
+   "5840330517914556080": {
+      "message": "Pomanjšava"
+   },
+   "5842536098490298653": {
+      "message": "Najdena ni bila nobena pisava."
+   },
+   "5865680764501413616": {
+      "message": "Ni mogoče prepoznati besedila."
+   },
+   "5871966496153339793": {
+      "message": "Prikazovanje sličice videoposnetka $1​"
+   },
+   "5875004331736681428": {
+      "message": "Izvlečenje v e-poštni račun."
+   },
+   "587666071025645113": {
+      "message": "Išči"
+   },
+   "5877526626743756786": {
+      "message": "Povratne informacije"
+   },
+   "5889725440363483648": {
+      "message": "Vsi v skupini"
+   },
+   "5911012384539794869": {
+      "message": "Ekstrahiranja ni bilo mogoče začeti."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5949528478488617689": {
+      "message": "Dovoljenje za prenos"
+   },
+   "5950887255133612666": {
+      "message": "Ni zagnano."
+   },
+   "5969696744752069015": {
+      "message": "Predogled ni na voljo."
+   },
+   "5971400924847413790": {
+      "message": "Dokument si lahko ogledate tudi v pogledu $2​osnovnega HTML-ja$1​ (samodejna preusmeritev)."
+   },
+   "5972111804366033138": {
+      "message": "Prenos"
+   },
+   "5975031149676029214": {
+      "message": "Vsi"
+   },
+   "5976369213680241300": {
+      "message": "Išči slike"
+   },
+   "5980081664136280513": {
+      "message": "Zelena"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "6009962986062136164": {
+      "message": "Nalaganje: $1​."
+   },
+   "60305871484579258": {
+      "message": "tipka Alt"
+   },
+   "6043068172993241858": {
+      "message": "V tem krogu ni oseb."
+   },
+   "604883455412617728": {
+      "message": "Noben stik ne ustreza iskalni poizvedbi."
+   },
+   "6051386830221821025": {
+      "message": "Prijavljanje ..."
+   },
+   "6064654062949366878": {
+      "message": "Predvajaj"
+   },
+   "6070475007374165567": {
+      "message": "Shranjevanje …"
+   },
+   "6083586461434260179": {
+      "message": "Nov način ogleda"
+   },
+   "6087078248621415351": {
+      "message": "Sprememba: $1​"
+   },
+   "6091926883608250483": {
+      "message": "Več"
+   },
+   "6105571474005679446": {
+      "message": "Pri predogledu je prišlo do težave."
+   },
+   "6113237889871930608": {
+      "message": "Prazen zapisek"
+   },
+   "6118623991445349480": {
+      "message": "$1​. stran"
+   },
+   "6122643025527543706": {
+      "message": "tipka Ctrl"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Seznam aplikacij"
+   },
+   "6149175749937815029": {
+      "message": "Prikaži vse elemente"
+   },
+   "6160805346274626656": {
+      "message": "Dokončno izbriši"
+   },
+   "616807262818311711": {
+      "message": "Vrsta"
+   },
+   "6175043905327075444": {
+      "message": "Prej izbrano"
+   },
+   "6177107655089301674": {
+      "message": "Prenesite aplikacijo Google Keep za Android"
+   },
+   "6185886893933834031": {
+      "message": "Ohrani izbrano"
+   },
+   "6186290899408627510": {
+      "message": "tipka Enter"
+   },
+   "6189891414154673003": {
+      "message": "Moji zemljevidi"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Vsi"
+   },
+   "623118860067088424": {
+      "message": "Videoposnetki"
+   },
+   "6231401379881217113": {
+      "message": "tipka Insert"
+   },
+   "6252259197986158120": {
+      "message": "Včeraj"
+   },
+   "6253076263700695984": {
+      "message": "Napaka pri preverjanju pristnosti. Znova naložite stran."
+   },
+   "6255475144867830247": {
+      "message": "Izberete lahko druge zavihke za krmarjenje."
+   },
+   "6267063643272327592": {
+      "message": "Poskusite znova pozneje."
+   },
+   "6290270819062517523": {
+      "message": "Izbranih je preveč elementov. Prekličite izbor enega ali več elementov."
+   },
+   "6305748545202493254": {
+      "message": "Pokaži/skrij podokno s podrobnostmi"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6331677437567501421": {
+      "message": "Pri posodabljanju dovoljenja za prenos je prišlo do težave."
+   },
+   "6333496730738019575": {
+      "message": "Nalaganje …"
+   },
+   "634900089121611600": {
+      "message": "Ni videoposnetkov."
+   },
+   "6362170008350775214": {
+      "message": "Opomnik na lokaciji $1​"
+   },
+   "6375395544374251820": {
+      "message": "Pri nalaganju več strani je prišlo do težave. Vnovičen poskus …"
+   },
+   "6376739025584042564": {
+      "message": "Obrezovanje fotografije"
+   },
+   "6386587519843563719": {
+      "message": "Dvojiška datoteka"
+   },
+   "6416495701611778255": {
+      "message": "Predlagane aplikacije drugih razvijalcev"
+   },
+   "6419411265907669340": {
+      "message": "Danes"
+   },
+   "6436479735235889890": {
+      "message": "Opomnik ob $2​, $1​"
+   },
+   "6450508807204492448": {
+      "message": "Ikona $1​"
+   },
+   "6457802200418354862": {
+      "message": "Gledalci lahko prenesejo"
+   },
+   "6459405233858728718": {
+      "message": "Google Predstavitve"
+   },
+   "6464761738227651511": {
+      "message": "pred $1​ min"
+   },
+   "6466736813846482957": {
+      "message": "Nazaj"
+   },
+   "6479216014938929613": {
+      "message": "Ponoči ($1​)"
+   },
+   "6482358947077977110": {
+      "message": "Slike iz Iskanja Google"
+   },
+   "6487403767449360463": {
+      "message": "Želite znova naložiti Google Keep?"
+   },
+   "6488225756782357866": {
+      "message": "Sliko, ki ste jo označili, je našla storitev Google Iskanje slik na tej strani:"
+   },
+   "6510131849363684615": {
+      "message": "Jutri"
+   },
+   "6516256764288947999": {
+      "message": "Označevanje oseb"
+   },
+   "6522917155620379865": {
+      "message": "Prenos"
+   },
+   "6524849072392100692": {
+      "message": "Mapa Google Drive"
+   },
+   "6551588617715293696": {
+      "message": "Možnosti razvrščanja"
+   },
+   "6570921376519753466": {
+      "message": "Prikaz"
+   },
+   "6571686604846453345": {
+      "message": "Pri dodajanju tega elementa v Google Drive je prišlo do težave."
+   },
+   "6582286158693833652": {
+      "message": "Več o tem"
+   },
+   "6588176324871799870": {
+      "message": "Skript Google Apps"
+   },
+   "6602430002978098812": {
+      "message": "Rokopis"
+   },
+   "6614046405230762587": {
+      "message": "Najden ni bil noben stik."
+   },
+   "6622304228074863427": {
+      "message": "Aplikacija"
+   },
+   "6624754161346656119": {
+      "message": "Avatar $1​."
+   },
+   "6644861766016503644": {
+      "message": "Vnesite geslo"
+   },
+   "6650600936729710500": {
+      "message": "Odgovori."
+   },
+   "666311703374681171": {
+      "message": "Slike in videoposnetki"
+   },
+   "6666820082708870349": {
+      "message": "Odstrani"
+   },
+   "6707173584987026005": {
+      "message": "Danes"
+   },
+   "6709984792949009238": {
+      "message": "Nazadnje odprl: jaz"
+   },
+   "6726462693927865256": {
+      "message": "Podrobnosti"
+   },
+   "6726879257388338969": {
+      "message": "Natisni"
+   },
+   "6726925393892510846": {
+      "message": "Prišlo je do napake. Poskusite znova."
+   },
+   "6741759391888465238": {
+      "message": "Shranjevanje v Google Drive – premik v:"
+   },
+   "6744457949320515234": {
+      "message": "Prazni zapisek je zavržen"
+   },
+   "6757218172402086688": {
+      "message": "Iskanje po zapiskih ..."
+   },
+   "6780628488957834429": {
+      "message": "Oranžna"
+   },
+   "6784073265197389491": {
+      "message": "Več o tem"
+   },
+   "681598652078493281": {
+      "message": "Več o tem"
+   },
+   "6818286476757207074": {
+      "message": "Izberite samo tiste slike, za katere veste, da imate licenco za njihovo uporabo."
+   },
+   "682070933835616121": {
+      "message": "Ni tabel."
+   },
+   "6822338149422461362": {
+      "message": "Google Drive"
+   },
+   "6827821461670731013": {
+      "message": "Pokaži potrditvena polja"
+   },
+   "6828581947433060251": {
+      "message": "Pri preimenovanju elementa je prišlo do težave."
+   },
+   "6833760103261954639": {
+      "message": "Pri nalaganju te strani je prišlo do težave. Vnovičen poskus …"
+   },
+   "6841020391100928352": {
+      "message": "Največja dovoljena velikost datoteke je presežena."
+   },
+   "6851307437837490686": {
+      "message": "Gledalcem prepreči prenos"
+   },
+   "6856672816797218730": {
+      "message": "Priloži"
+   },
+   "6891563484025164308": {
+      "message": "Nazaj"
+   },
+   "6893687445500687349": {
+      "message": "Google Sites"
+   },
+   "6898823203505321799": {
+      "message": "Podrobnosti"
+   },
+   "6904351530369058983": {
+      "message": "Lastnik"
+   },
+   "6905021988981026920": {
+      "message": "Iskanje videoposnetkov"
+   },
+   "6922953828399110511": {
+      "message": "Zapri pregledovalnik"
+   },
+   "6929958461954697067": {
+      "message": "Fotografije, na katerih ste vi"
+   },
+   "6939782595426687411": {
+      "message": "Dodajanje ..."
+   },
+   "6940998537415516791": {
+      "message": "ob"
+   },
+   "695253297035211081": {
+      "message": "Izprazni smetnjak"
+   },
+   "6967244066810487978": {
+      "message": "SMETNJAK"
+   },
+   "6970167488058122005": {
+      "message": "avtor ni znan"
+   },
+   "6976414863987386971": {
+      "message": "Obrazci"
+   },
+   "7001938470263404128": {
+      "message": "Prenesi v Drive"
+   },
+   "7002768663714031226": {
+      "message": "Posodobitev"
+   },
+   "7004919150329996187": {
+      "message": "V tem krogu ni ustreznih oseb."
+   },
+   "7054631817922169541": {
+      "message": "V storitvi Google Keep so neshranjene spremembe. Ali želite zapustiti stran in zavreči spremembe?"
+   },
+   "7059437903473652416": {
+      "message": "Predvajaj videoposnetek $1​ v YouTubu"
+   },
+   "7080196430479494775": {
+      "message": "Poskusi znova"
+   },
+   "7084324152376766809": {
+      "message": "pred toliko dnevi: $1​"
+   },
+   "7084991134824194740": {
+      "message": "Spomni me"
+   },
+   "7092062731478679314": {
+      "message": "Najden ni bil noben krog."
+   },
+   "7117183622067702162": {
+      "message": "Če začnete uporabljati Google Drive, vam nikoli več ne bo treba poslati e-poštne priloge. Povezavo do poljubne datoteke, ki jo shranite v Google Drive, preprosto dajte v skupno rabo. Tako vsem uporabnikom samodejno omogočite dostop do iste različice datoteke."
+   },
+   "713754035716193665": {
+      "message": "Nov seznam"
+   },
+   "7146242673022399081": {
+      "message": "Besedilo"
+   },
+   "7148992630785407972": {
+      "message": "Predogled te datoteke ni mogoč, ker je zaščitena z geslom."
+   },
+   "7151987668860086450": {
+      "message": "Spletno iskanje"
+   },
+   "7153847618034547771": {
+      "message": "Omogočanje"
+   },
+   "7161134329606048317": {
+      "message": "Zapri"
+   },
+   "7164532930742017984": {
+      "message": "Vsi s povezavo"
+   },
+   "7174189954350964804": {
+      "message": "Poskusi znova"
+   },
+   "7177591028189992523": {
+      "message": "Premakni"
+   },
+   "7188754206068648188": {
+      "message": "Z vejico ločeni podatki"
+   },
+   "7225837680381806920": {
+      "message": "Zvečer ($1​)"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7236199858216720905": {
+      "message": "Zemljevidi"
+   },
+   "7247530225058410142": {
+      "message": "$2​, $1​"
+   },
+   "7259352906118493156": {
+      "message": "Ni spletnih mest."
+   },
+   "7282548567245878869": {
+      "message": "Element je izbrisan"
+   },
+   "7295712436136900176": {
+      "message": "Znova naloži"
+   },
+   "7310311230493556740": {
+      "message": "URL"
+   },
+   "7339696241980105410": {
+      "message": "Izbrani videoposnetek ne obstaja več. Morda ga je lastnik odstranil."
+   },
+   "7342923890755029722": {
+      "message": "Zapri"
+   },
+   "734478884582426793": {
+      "message": "Stisnjeni arhiv"
+   },
+   "7357017164339332230": {
+      "message": "Te slike so za ogled in deljenje z drugimi na voljo tudi v $2​Spletnih albumih Picasa$1​, Googlovi brezplačni storitvi za gostovanje fotografij."
+   },
+   "736105042796745909": {
+      "message": "{VIEWER_GENDER,select, female{Ustvari mapo}male{Ustvari mapo}other{Ustvari mapo}}"
+   },
+   "7362061801920948830": {
+      "message": "Prenesi več"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7377239345926788722": {
+      "message": "Dejanja"
+   },
+   "7380785991026002613": {
+      "message": "Prikazani rezultati so označeni za nadaljnjo uporabo."
+   },
+   "7382688299146249119": {
+      "message": "Prenos izdelka"
+   },
+   "7383706174467122149": {
+      "message": "Zapisek je izbrisan"
+   },
+   "7388342865555961406": {
+      "message": "čez $1​ dan"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "740507516967994591": {
+      "message": "Odpri"
+   },
+   "7422452809590461532": {
+      "message": "Rdeča"
+   },
+   "7426603384368095928": {
+      "message": "Znova naložite stran, da se še enkrat prijavite in nadaljujete delo."
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (urejeno $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Shranjevanje v Google Drive"
+   },
+   "7451573821837395189": {
+      "message": "Element je bil dodan v $2​vašo storitev Google Drive$1​."
+   },
+   "7468322419516352788": {
+      "message": "Pri posodabljanju opisa je prišlo do težave."
+   },
+   "7488945223835574498": {
+      "message": "Postscript"
+   },
+   "7492710087472140422": {
+      "message": "Več o tem"
+   },
+   "7493919863870655172": {
+      "message": "Spletna kamera"
+   },
+   "7500786109708143683": {
+      "message": "Zvočni posnetek je izbrisan"
+   },
+   "7501027876827009022": {
+      "message": "Prikazani rezultati so označeni za komercialno nadaljnjo uporabo."
+   },
+   "7521272923988336579": {
+      "message": "Bodite na tekočem – znova naložite Google Keep."
+   },
+   "7532552995569296274": {
+      "message": "Počisti iskanje"
+   },
+   "7546994163355383999": {
+      "message": "Vsi zapiski so shranjeni"
+   },
+   "7559208209275370228": {
+      "message": "Nazadnje uredil: jaz"
+   },
+   "7565383798249439151": {
+      "message": "čez toliko dni: $1​"
+   },
+   "7565870443143407759": {
+      "message": "Iskanje v dokumentu"
+   },
+   "7586291841734385643": {
+      "message": "Odpri na novem zavihku"
+   },
+   "7598582624136632660": {
+      "message": "Odpri iskalno vrstico/najdi naslednje"
+   },
+   "7602870977118971161": {
+      "message": "Znova naloži"
+   },
+   "7610654194202731772": {
+      "message": "Izbriši"
+   },
+   "761925792744044896": {
+      "message": "Nastavi kot fotografijo profila"
+   },
+   "7630723924002267143": {
+      "message": "Bližnjične tipke so omogočene."
+   },
+   "7640546114686970497": {
+      "message": "Več elementov ni mogoče dodati"
+   },
+   "7669846901402551021": {
+      "message": "Danes"
+   },
+   "7691521283331762131": {
+      "message": "Arhivirani zapiski so prikazani tukaj"
+   },
+   "772000107335590599": {
+      "message": "čez $1​ min"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7745005220197261896": {
+      "message": "Google Iskanje knjig"
+   },
+   "7759846028901235026": {
+      "message": "Zapisek je bil povrnjen iz arhiva"
+   },
+   "776065748745885880": {
+      "message": "preslednica"
+   },
+   "7770982082843341533": {
+      "message": "V tej mapi ni elementov."
+   },
+   "779472474101127362": {
+      "message": "Izdelava posnetka"
+   },
+   "7800318069267901681": {
+      "message": "Spremenjeno"
+   },
+   "7805487598105530487": {
+      "message": "V vrstici"
+   },
+   "7814778057875152792": {
+      "message": "Pri premikanju priloge v izbrano mapo v Googlu Drive je prišlo do težave."
+   },
+   "7820417126206702946": {
+      "message": "Prikazani rezultati so na voljo za osebno in komercialno uporabo samo v storitvi Google Drive in jih ne smete ločeno nadalje distribuirati ali jih prodati."
+   },
+   "7822364282298323175": {
+      "message": "Seznam je izbrisan"
+   },
+   "7830513726270865588": {
+      "message": "Koledar"
+   },
+   "7845751753397906805": {
+      "message": "Najdeni sta bili urejanji v sporu"
+   },
+   "7852396628465259068": {
+      "message": "Fotografija profila"
+   },
+   "7859526172011446452": {
+      "message": "Ustavi predvajanje"
+   },
+   "78870906674150830": {
+      "message": "$3​$1​$2​"
+   },
+   "7895643887742936844": {
+      "message": "podpičje"
+   },
+   "7899833760457194273": {
+      "message": "Iskanje slik"
+   },
+   "7899913952063063825": {
+      "message": "Slika je izbrisana"
+   },
+   "7906726367011430855": {
+      "message": "Poveži"
+   },
+   "7910518224461588465": {
+      "message": "Rumena"
+   },
+   "7953603850004320936": {
+      "message": "Predogled ni na voljo."
+   },
+   "7957306528733096600": {
+      "message": "Dejanje dokončano"
+   },
+   "7960528690514646841": {
+      "message": "{moreCount,plural, =0{unused plural form}=1{+ še 1}one{+ še {moreCount}}two{+ še {moreCount}}few{+ še {moreCount}}other{+ še {moreCount}}}"
+   },
+   "7973635145070803181": {
+      "message": "Prenos fotografij"
+   },
+   "7987180255015869513": {
+      "message": "Ali prilepite spletni naslov sem:"
+   },
+   "8011497727123874703": {
+      "message": "Gumb mape $1​"
+   },
+   "8016231262233952856": {
+      "message": "Zelenomodra"
+   },
+   "8019402848412685977": {
+      "message": "Element »$2​« je preimenovan v »$1​«."
+   },
+   "8023466614826324314": {
+      "message": "Fotografije bodo v skupni rabi s širokim krogom ljudi."
+   },
+   "8043514121228710092": {
+      "message": "Dodaj sliko"
+   },
+   "8044700199531805239": {
+      "message": "Aplikacija $3​$1​$2​ je povezana."
+   },
+   "8069384932934428393": {
+      "message": "čez $1​ min"
+   },
+   "8081927474846706026": {
+      "message": "Ni risb."
+   },
+   "8090743714060857028": {
+      "message": "Gledalci ne morejo prenesti"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 B}=1{1 B}one{# B}two{# B}few{# B}other{# B}}"
+   },
+   "8099047958506869131": {
+      "message": "{VIEWER_GENDER,select, female{Nova mapa}male{Nova mapa}other{Nova mapa}}"
+   },
+   "8100558294600077150": {
+      "message": "Iskanje spletnih dnevnikov"
+   },
+   "8105635255693472607": {
+      "message": "Dodajanje novih elementov seznama"
+   },
+   "8106780183458743723": {
+      "message": "Albumi s fotografijami"
+   },
+   "8112699352770418817": {
+      "message": "Najdena ni bila nobena knjiga."
+   },
+   "8132410616064087953": {
+      "message": "Videoposnetek je predolg (traja lahko največ $1​ s)."
+   },
+   "8135145577663029437": {
+      "message": "Ohrani obe"
+   },
+   "8146560259680897627": {
+      "message": "Prekliči"
+   },
+   "8158191101452862916": {
+      "message": "Vstavi slike"
+   },
+   "8159493406018222636": {
+      "message": "Pošiljanje povratnih informacij"
+   },
+   "8172945196588870035": {
+      "message": "Dogodki"
+   },
+   "8174654098152723289": {
+      "message": "Urejanje opisa"
+   },
+   "8178754379486173416": {
+      "message": "{VIEWER_GENDER,select, female{Izbranih je zelo malo elementov. Izberite jih več.}male{Izbranih je zelo malo elementov. Izberite jih več.}other{Izbranih je zelo malo elementov. Izberite jih več.}}"
+   },
+   "8192378456655629049": {
+      "message": "Obdelava videoposnetka ..."
+   },
+   "8193991135666622583": {
+      "message": "Keep"
+   },
+   "821942580510564685": {
+      "message": "Če si želite ogledati dokument, vnesite geslo zanj"
+   },
+   "8239237134193392595": {
+      "message": "Obvestila glede lokacijskih opomnikov se prikazujejo samo v mobilnih napravah."
+   },
+   "8267458240960831780": {
+      "message": "Preverjanje pristnosti ..."
+   },
+   "8281141013543828574": {
+      "message": "Slikovna datoteka RAW"
+   },
+   "8281678863271800533": {
+      "message": "Filter za slike"
+   },
+   "8283103456188558313": {
+      "message": "Predstavitve"
+   },
+   "8290434443655418968": {
+      "message": "{filesCount,plural, =0{unused plural form}=1{Prenos izbrane datoteke [{file}] ni podprt.}one{Prenos izbranih datotek [{files}] ni podprt.}two{Prenos izbranih datotek [{files}] ni podprt.}few{Prenos izbranih datotek [{files}] ni podprt.}other{Prenos izbranih datotek [{files}] ni podprt.}}"
+   },
+   "8304474373444239435": {
+      "message": "Odgovor osebe $1​."
+   },
+   "8322416564157128458": {
+      "message": "Skupna raba"
+   },
+   "8324195080917648153": {
+      "message": "Tukaj ni prostora za ta videoposnetek. Nekoliko povečajte okno brskalnika."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342684858400436871": {
+      "message": "tabulatorka"
+   },
+   "8379952094517631162": {
+      "message": "Ne"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412684147928483084": {
+      "message": "Črna"
+   },
+   "8435544675017330861": {
+      "message": "Noben element ne ustreza iskalni poizvedbi."
+   },
+   "8436817383042650304": {
+      "message": "tipka Caps Lock"
+   },
+   "8451184312655705174": {
+      "message": "Če je vaš URL pravilen, se tu prikaže predogled. Velike slike se bodo morda prikazale šele čez nekaj minut."
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8506198918368329269": {
+      "message": "Prikazani rezultati so označeni za komercialno nadaljnjo uporabo s spremembami."
+   },
+   "8571315158566081191": {
+      "message": "Ni preglednic."
+   },
+   "8580600056399054303": {
+      "message": "Določite, kam naj gredo novi ali potrjeni elementi"
+   },
+   "8595175575778060149": {
+      "message": "Več"
+   },
+   "8596257056433048992": {
+      "message": "Pozdravljeni v"
+   },
+   "8616342546716995946": {
+      "message": "Razumem"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8638281560898810401": {
+      "message": "{MINUTES,plural, =0{0 min }=1{1 minuta }one{# minuta }two{# minuti }few{# minute }other{# minut }}{SECONDS,plural, =0{0 sekund.}=1{1 sekunda.}one{# sekunda.}two{# sekundi.}few{# sekunde.}other{# sekund.}}"
+   },
+   "863955692838281739": {
+      "message": "Zapri"
+   },
+   "8643398764569428530": {
+      "message": "Želite aplikaciji Google Keep dovoliti prikazovanje obvestil?"
+   },
+   "8652566647088230560": {
+      "message": "Preskusna interna uporaba – zaupno"
+   },
+   "8660016472468563221": {
+      "message": "dvopičje"
+   },
+   "8663507590720636709": {
+      "message": "$1​ in še $2​"
+   },
+   "8666643061920113075": {
+      "message": "{VIEWER_GENDER,select, female{URL slike prilepite sem:}male{URL slike prilepite sem:}other{URL slike prilepite sem:}}"
+   },
+   "8674222789100049233": {
+      "message": "Zapri"
+   },
+   "86815590954366945": {
+      "message": "Seznam arhivirane vsebine"
+   },
+   "8709611758728645225": {
+      "message": "tipka Page Down"
+   },
+   "8711002053494037632": {
+      "message": "Polja za vse elemente so počiščena"
+   },
+   "8748281640412284111": {
+      "message": "Standardne slike"
+   },
+   "8759520888087120926": {
+      "message": "Ni skriptov."
+   },
+   "8775097441636640256": {
+      "message": "$2​ – $1​"
+   },
+   "8780212274435014958": {
+      "message": "Krogi"
+   },
+   "8781837301864053001": {
+      "message": "Obogateno besedilo"
+   },
+   "8792038552136453044": {
+      "message": "Ojoj, prišlo je do napake"
+   },
+   "8793166064242077041": {
+      "message": "Pri prikazu te slike je prišlo do težave."
+   },
+   "8813101408630252335": {
+      "message": "$1​ s"
+   },
+   "8820281478062782578": {
+      "message": "Išči"
+   },
+   "8822326207328431952": {
+      "message": "Prenosi slik niso na voljo"
+   },
+   "8840223453482998505": {
+      "message": "Izbrana mapa $1​"
+   },
+   "8845176264121061589": {
+      "message": "Počisti polja za vse elemente"
+   },
+   "8850238112725591771": {
+      "message": "bližnjica $1​"
+   },
+   "8852550049823214385": {
+      "message": "nato"
+   },
+   "8883744193208363722": {
+      "message": "Na voljo je posodobitev za aplikacijo."
+   },
+   "8884900765322249670": {
+      "message": "Pogled seznama"
+   },
+   "8889019648958415451": {
+      "message": "Neznana datoteka"
+   },
+   "8911996820409711834": {
+      "message": "Premaknite besedilo v nov element seznama &raquo;"
+   },
+   "8916237870980173557": {
+      "message": "Vzpostavljanje povezave ..."
+   },
+   "8917554093651202032": {
+      "message": "Predvajaj videoposnetek $1​"
+   },
+   "8919660666733306860": {
+      "message": "Slika"
+   },
+   "8930959387403789939": {
+      "message": "Opomnik"
+   },
+   "8943760679396635042": {
+      "message": "Prikazovanje: $1​."
+   },
+   "8953555255469284376": {
+      "message": "Spustite slike tukaj"
+   },
+   "8979615310931291676": {
+      "message": "Urejeno: $1​"
+   },
+   "8986044948621891903": {
+      "message": "Vnesite iskalno poizvedbo v zgornje polje, če želite poiskati spletne rezultate z Google Spletnim iskanjem."
+   },
+   "901615442107785480": {
+      "message": "Arhiviranje zapiska/seznama"
+   },
+   "9024023699330078373": {
+      "message": "Če odprete ta element, bo dodan v Google Drive"
+   },
+   "9028041601596584772": {
+      "message": "Lokacija"
+   },
+   "9058308423774656474": {
+      "message": "Urejevalnik besedil v hangulu"
+   },
+   "9083935734710258396": {
+      "message": "Zavrni"
+   },
+   "9094248058931620597": {
+      "message": "Podokno s podrobnostmi je strnjeno."
+   },
+   "9114674068220302553": {
+      "message": "Kot prilogo"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9130962320402467249": {
+      "message": "Standardne fotografije"
+   },
+   "9146716987301178362": {
+      "message": "Prišlo je do napake. Znova naložite stran."
+   },
+   "9165877886714239857": {
+      "message": "Besedila v sliki ni mogoče zajeti. Poskusite znova pozneje."
+   },
+   "916773043895242978": {
+      "message": "URL slike, ki ste ga vnesli zgoraj, ni pravilen ali ga ni mogoče naložiti. Vnesite pravilen URL slike."
+   },
+   "9173629944963872598": {
+      "message": "Najden ni bil noben dogodek."
+   },
+   "9182500445937900938": {
+      "message": "Zapri"
+   },
+   "9195941533351099011": {
+      "message": "Prenos $1​ od $2​"
+   },
+   "9197837492705576727": {
+      "message": "Pojdi na naslednji element"
+   },
+   "919969969251998566": {
+      "message": "Izvlečenje tega arhiva v e-poštni račun."
+   },
+   "9203542510134660095": {
+      "message": "Ekstrahiranje se je začelo. Vsebina arhiva se bo pojavila v mapi »$1​« Googla Drive."
+   },
+   "940276535015195877": {
+      "message": "Ni map."
+   },
+   "943493480163896757": {
+      "message": "{resultCount,plural, =1{# ujemajoči se zapisek}one{# ujemajoči se zapisek}two{# ujemajoča se zapiska}few{# ujemajoči se zapiski}other{# ujemajočih se zapiskov}}"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "95809842507987016": {
+      "message": "Izbriši"
+   },
+   "963611681085757795": {
+      "message": "Pogleda dokumenta trenutno ni mogoče ustvariti."
+   },
+   "96556988207614774": {
+      "message": "Koledarji"
+   },
+   "974042541427403929": {
+      "message": "Modra"
+   },
+   "980395722421409371": {
+      "message": "Najden ni bil noben zemljevid."
+   },
+   "982187142411651629": {
+      "message": "Opusti"
+   },
+   "985197728509875956": {
+      "message": "Kemijski model"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "998727788921602971": {
+      "message": "Videoposnetki"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Hitro zabeležite svoje misli in prejmite opomnike na pravem mestu ali ob pravem času."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Google Keep – zapiski in seznami"
+   }
+}
