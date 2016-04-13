@@ -102,4 +102,4 @@ background-color:rgba(255, 255, 255, 0.5)}
 }
 .dialog.info .dialog-close-button:active {
   background-color: #1b6eae;
-}.op-dark{background-color: rgba(29, 29, 29, 0.7)}
+}.op-dark{background-color: rgba(29, 29, 29, 0.7)}button{cursor:inherit}
