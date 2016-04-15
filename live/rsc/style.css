@@ -118,3 +118,6 @@ color:#ffffff
 .dialog .info .dialog-close-button:active{
 background-color:#1b6eae
 }.op-dark{background-color:rgba(29,29,29,0.7)}
+
+.tabicon{width:12px;height:12px;display:inline-block}ul.tabs li.current a div{background-position-x:12px}
+.tab-add{background:url(../img/add.png)}.tab-customize{background:url(../img/customize.png)}.tab-test{background:url(../img/test.png)}.tab-apps{background:url(../img/apps.png)}.tab-games{background:url(../img/games.png)}.tab-pinned{background:url(../img/pinned.png)}.tab-mostused{background:url(../img/mostused.png)}.tab-recent{background:url(../img/recent.png)}.tab-all{background:url(../img/all.png)}
