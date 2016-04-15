@@ -1,4 +1,9 @@
 $(document).ready(function () {
+$("li.navi-item").hover(function() {
+  $(this).find("img").attr("src", $(this).find("img").attr("src").replace("#black", "#white"));
+}, function() {
+  $(this).find("img").attr("src", $(this).find("img").attr("src").replace("#white", "#black"));
+});
     $(document).click(function (e) {
         if ($(e.target).closest(".topbar-current,.topbar-notifications,.toggled").length) {
             $(".toggled").toggle();
@@ -8,12 +13,6 @@ $(document).ready(function () {
         }
 
     });
-});
-
-$("li.navi-item").hover(function() {
-  $(this).find("img").attr("src", $(this).find("img").attr("src").replace("#black", "#white"));
-}, function() {
-  $(this).find("img").attr("src", $(this).find("img").attr("src").replace("#white", "#black"));
 });
 
 $(".app-title").each(function () {
