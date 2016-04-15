@@ -10,6 +10,12 @@ $(document).ready(function () {
     });
 });
 
+$("li.myclass").hover(function(){
+     $(this).children("img").attr("src", $(this).children("img").attr("src").replace("#black", "#white") );
+     }, function(){
+     $(this).children("img").attr("src", $(this).children("img").attr("src").replace("#white", "#black") );
+}); 
+
 $(".app-title").each(function () {
     text = $(this).text();
     if (text.length > 12) {
