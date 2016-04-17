@@ -4,15 +4,6 @@ $("li.navi-item").hover(function() {
 }, function() {
   $(this).find("img").attr("src", $(this).find("img").attr("src").replace("#white", "#black"));
 });
-    $(document).click(function (e) {
-        if ($(e.target).closest(".topbar-current,.topbar-notifications,.toggled").length) {
-            $(".toggled").toggle();
-            e.preventDefault();
-        } else {
-            $(".toggled").hide();
-        }
-
-    });
 });
 
 $(".app-title").each(function () {
