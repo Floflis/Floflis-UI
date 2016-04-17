@@ -64,7 +64,7 @@ launcher.tiles{padding:50px}tile.medium{width:140px;height:140px;background:#393
 }
 .notifycenterbtn.active:active {
     background: #fff;
-    color: rgb(69, 69, 69);
+    color: green;
 }
 
 .minipic{height:22px;display:inline-block;float:right}.minipic img{width:22px;height:22px;box-shadow:0px 0px 0 1px rgb(69, 69, 69)}.alertsbtn{width:112px;height:22px;display:block;text-align:center;float:right}
