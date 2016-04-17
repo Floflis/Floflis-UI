@@ -39,6 +39,8 @@ if (typeof process === 'object') {
   }
 }
 
+if(typeof isNode != 'undefined' && isNode == true){document.getElementsByTagName("btnFullscreen")[0].setAttribute("class", "display:none");}
+
 $(".app-title").each(function () {
     text = $(this).text();
     if (text.length > 12) {
