@@ -23,8 +23,8 @@ body{background-size:cover !important;margin:0;cursor:url(../img/Cursors/pointer
 
 .powercontainer{width:100%;overflow:hidden;position:relative;height:100%;height:calc(100% + 20px);margin-top:-20px !important;box-sizing:border-box}
 
-launcher{position:fixed;top:22px;width:100%;height:calc(100% - 60px);overflow:auto}
-launcher icon{display:inline-block;width:78px;height:93px;padding-top:5px;float:left;text-align:center;-webkit-user-drag:element}launcher icon:hover{background:rgba(51, 51, 51, 0.5);box-shadow:inset 0 0 0 1px #555}launcher icon:active{background:#222}launcher icon img{width:48px;height:48px;/*-webkit-filter:drop-shadow(12px 12px 25px rgba(0,0,0,0.5));*/}icon span{margin-top:8px;display:block;font-family:Arial;font-size:12px;color:#000}icon>div>img{width:25px;height:25px;position:absolute}
+launcher{position:fixed;top:22px;width:100%;height:calc(100% - 60px);overflow:auto}.alphabetic{display:inline-block;border:5px dotted;width:40px;height:40px;padding-top:5px;margin-top:10px;float:left;font-size:24px;text-align:center;position:relative;clear:both}
+launcher icon{display:inline-block;width:78px;height:93px;padding-top:5px;float:left;text-align:center;-webkit-user-drag:element;position:relative}launcher icon:hover{background:rgba(51, 51, 51, 0.5);box-shadow:inset 0 0 0 1px #555}launcher icon:active{background:#222}launcher icon img{width:48px;height:48px;/*-webkit-filter:drop-shadow(12px 12px 25px rgba(0,0,0,0.5));*/}icon span{margin-top:8px;display:block;font-family:Arial;font-size:12px;color:#000}icon>div>img{width:25px;height:25px;position:absolute}
 
 .bar icon{width:60px;height:40px;margin-right:2px;padding-top:3px;float:left;text-align:center}.bar icon img{width:32px;height:32px}.bar > div icon.openned{background:rgba(51, 51, 51, 0.5);border-left:1px dotted #333;border-right:1px dotted #333}.bar > div > icon.current{border-left:1px dotted #333;border-right:1px dotted #333}
 
