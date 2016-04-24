@@ -5,11 +5,26 @@
 <div id="onlyboot1"><link href="rsc/boot.css" rel="stylesheet"/></div>
 <link href="rsc/style.css" rel="stylesheet"/>
 <script src="rsc/jquery.min.js"></script>
+<script>function startTime() {
+    var today = new Date();
+    var h = today.getHours();
+    var m = today.getMinutes();
+    var s = today.getSeconds();
+    m = checkTime(m);
+    s = checkTime(s);
+    document.getElementById('clock').innerHTML =
+    h + ":" + m + ":" + s;
+    var t = setTimeout(startTime, 500);
+}
+function checkTime(i) {
+    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    return i;
+}</script>
 <div id="onlyboot2">
 <script>
 $(document).ready(function() {
   $("#title").html("Loading - WS.js");
-  $("#bootscreen").html("<span class='boot-text'>Loading....</span><span class='boot-status'>Undefined</span><div class='bootball'></div>")
+  $("#bootscreen").html("<span class='boot-text'>Loading....</span><span class='boot-status'>Undefined</span><span id='clock'></span><div class='bootball'></div>")
 })
 
 window.onload = function() {
@@ -21,7 +36,8 @@ window.onload = function() {
   var twodiv = document.getElementById('onlyboot2');
   two.remove(twodiv)
 }
-</script><div id='bootscreen'></div></div>
+</script>
+<style>#bootscreen > span#clock{font-size:42px;position:absolute;top:130px}</style><div id='bootscreen' onload='startTime()'></div></div>
 <script src="metro.js"></script>
 <script src="rsc/p-ui-framework.js"></script>
 <script src="rsc/script.js"></script>
