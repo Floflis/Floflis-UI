@@ -45,6 +45,10 @@ function toggleFullScreen() {
   }  
 }
 
+function toggleLockScreen() {
+document.getElementById("lockscreen").className = "unlocked";
+}
+
 var isNode = false;    
 if (typeof process === 'object') {
   if (typeof process.versions === 'object') {
