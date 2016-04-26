@@ -1,4 +1,4 @@
-# <img src="/live/img/icon.svg#black" align="absmiddle" width="42" height="42"> Modern OS
+# <img src="/live/img/icon.svg#black" align="absmiddle" width="42" height="42"> WS.js (Modern OS)
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DaniellMesquita/Modern-OS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![PEHTML](http://developers.plasmmer.com/badges/PEHTML.svg)](https://gitter.im/DaniellMesquita/Plasmmer-UI-Framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
