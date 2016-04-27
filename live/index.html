@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
-<div id="onlyboot1"><link href="rsc/boot.css" rel="stylesheet"/></div>
 <link href="rsc/style.css" rel="stylesheet"/>
 <script src="rsc/jquery.min.js"></script>
 <script>function startTime() {
@@ -20,24 +19,6 @@ function checkTime(i) {
     if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
     return i;
 }</script>
-<div id="onlyboot2">
-<script>
-$(document).ready(function() {
-  $("#title").html("Loading - WS.js");
-  $("#bootscreen").html("<span class='boot-text'>Loading....</span><span class='boot-status'>Undefined</span><span id='clock'></span><div class='bootball'></div>")
-})
-
-window.onload = function() {
-  $("#title").html("WS.js");
-  var one = document.getElementById('onlyboot1');
-  var onediv = document.getElementById('onlyboot1');
-  one.remove(onediv);
-  var two = document.getElementById('onlyboot2');
-  var twodiv = document.getElementById('onlyboot2');
-  two.remove(twodiv)
-}
-</script>
-<style>#bootscreen > span#clock{font-size:42px;position:absolute;top:130px}</style><div id='bootscreen' onload='startTime()'></div></div>
 <script src="metro.js"></script>
 <script src="rsc/p-ui-framework.js"></script>
 <script src="rsc/script.js"></script>
@@ -45,6 +26,21 @@ window.onload = function() {
 <title id="title"></title>
 </head>
 <body id="body" class="locked" style="background:url(System/Resources/Themes/Default/Backgrounds/Dashboard/Default.svg#default) no-repeat center center fixed" onload="startTime()">
+
+<div id="onlyboot">
+<script>
+$(document).ready(function() {
+  $("#title").html("Loading - WS.js");
+  $("#bootscreen").html("<span class='boot-text'>Loading....</span><span class='boot-status'>Undefined</span><span id='clock'></span><div class='bootball'></div>")
+})
+window.onload = function() {
+  $("#title").html("WS.js");
+  var boot = document.getElementById('onlyboot');
+  var bootdiv = document.getElementById('onlyboot');
+  boot.remove(bootdiv)
+}
+</script>
+<style>#bootscreen{height:100%;background:#000;text-align:center;top:0;left:0;right:0;bottom:0;position:fixed;z-index:10000;cursor:url(../img/Cursors/busy.gif),auto}.bootball{background: url(../img/icon.svg#white);width:550px;height:550px;background-size:555px;background-position:-1px;border:30px solid rgba(255, 255, 255, 0.5);border-radius:50%;margin:0 auto;margin-bottom:-150px}.boot-text{font-family:Lucida Console;font-size:80pt;font-weight:bold;color:#fff;margin-top:24px;display:block}.boot-status{font-family:Lucida Console;position:relative;top:-92px;left:272px;font-size:42pt;color:rgba(255, 255, 255, 0.5);display:block}@media(max-width:480px){.bootball{width:248px;height:248px;background-size:248px;background-position:0px;border:10px solid rgba(255, 255, 255, 0.5);left:-74px;bottom:-74px}.boot-text{font-size:36pt}.boot-status{top:-38px;left:112px;font-size:16pt}}#bootscreen > span#clock{font-size:42px;position:absolute;top:130px}</style><div id='bootscreen' onload='startTime()'></div></div>
 
 <div id="lockscreen" style="background:url(System/Resources/Themes/Default/Backgrounds/Lockscreen/Default.svg#default) no-repeat center center fixed" onclick="unlock()"></div>
 
