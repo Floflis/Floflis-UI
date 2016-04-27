@@ -1,0 +1,96 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  font-family: monospace;
+  padding: 10px;
+  color: #000;
+}
+
+h1 {
+  font-size: 28px;
+  margin: 20px auto;
+}
+
+#table {
+  width: auto;
+  margin: 0 auto;
+  max-width: 310px;
+  font-size: 12px;
+}
+
+#table .row {
+  margin: 0 0 20px 0;
+}
+
+#table label {
+  display: inline-block;
+  width: 145px;
+  text-align: right;
+  padding-right: 10px;
+}
+
+#table output {
+  display: inline-block;
+  width: 145px;
+  text-align: left;
+}
+
+#battery-container {
+  margin: 20px auto 40px auto;
+}
+
+#battery {
+  position: relative;
+  display: inline-block;
+  width: 150px;
+  height: 60px;
+  margin: 0 auto;
+  border: 6px solid #000;
+}
+
+#battery-bar {
+  width: 0%;
+  height: 48px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 0;
+  background: #000;
+  border: 6px solid #fff;
+  -webkit-transition: all .2s ease-out;
+  -moz-transition: all .2s ease-out;
+  transition: all .2s ease-out;
+}
+
+#battery-bar.ok {
+  background: #31C379;
+}
+
+#battery-bar.warning {
+  background: #C3A431;
+}
+
+#battery-bar.critical {
+  background: #C33131;
+}
+
+#battery:after {
+  content: "";
+  display: block;
+  background: transparent;
+  border: 6px solid #000;
+  width: 6px;
+  height: 24px;
+  position: absolute;
+  border-radius: 4px;
+  right: -18px;
+  top: 50%;
+  margin: -18px 0 0 0;
+}
