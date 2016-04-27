@@ -30,7 +30,7 @@ function toggleFullScreen() {
 }
 
 function toggleLockScreen() {
-document.getElementById("lockscreen").className = "unlocked";
+document.getElementById("body").className = "unlocked";
 }
 
 var isNode = false;    
