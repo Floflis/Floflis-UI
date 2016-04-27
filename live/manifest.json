@@ -1,15 +1,13 @@
 {
-   "name": "WS.js",
-   "description": "A template for future modern operating systems",
-   "icon": "img/icon.svg",
-   "version": "X.X.X.X",
-   "developer": {
-    "name": "Daniell Mesquita",
-    "url": "http://about.me/daniellmesquita"
-  },
-   "ws-shop_id": "1",
-   "manifest_version": 1,
-   "default_language": "en",
-   },
-   "permissions": [ "identity", "https://*.googleapis.com/", "https://keep.google.com/media/", "https://*.googleusercontent.com/", "https://*.client-channel.google.com/client-channel", "https://clients4.google.com/client-channel/client", "geolocation", "notifications" ],
+    "name": "WS.js",
+    "description": "A template for future modern operating systems",
+    "icon": "img/icon.svg",
+    "version": "X.X.X.X",
+    "developer": {
+        "name": "Daniell Mesquita",
+        "url": "http://about.me/daniellmesquita"
+    },
+    "shop_id": "1",
+    "manifest_version": 1,
+    "default_language": "en"
 }
