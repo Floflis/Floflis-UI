@@ -3,7 +3,8 @@ body.locked #lockscreen{position:fixed;width:100%;height:100%;z-index:3}body.unl
 body.locked #header{display:none}
 body.locked .statusbar{width:100%;background:rgba(0,0,0,0.5);position:fixed}
 body.locked .statusbar .working-apps{display:none}
-body.locked .statusbar #clock{position:absolute;top:40px;left:0;width:100%;font-size:150px}
+body.locked .statusbar #clock{display:none}
+body.locked #lockscreen #clock{position:absolute;top:40px;left:0;width:100%;text-align:center;font-size:150px}
 
 .tophotspot{position:fixed;top:0;left:0;width:100%;height:1px;z-index:3}.tophotspot:hover + #header, #header:hover{visibility:visible}body > header{position:fixed;height:22px;background:black;z-index:3;width:calc(100% - 281px)}.statusbar{z-index:4;float:right;background:#000;border-bottom:1px dotted rgb(69, 69, 69)}
 
