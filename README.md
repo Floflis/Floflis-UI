@@ -46,3 +46,5 @@ Tasks: [clearwater](https://github.com/lbarman/clearwater)
 # Games #
 
 [Ultimate Tic Tac Toe](https://github.com/kennycason/ultimate_tictactoe)
+
+[2048](https://github.com/gabrielecirulli/2048)
