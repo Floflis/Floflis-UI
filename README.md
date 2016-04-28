@@ -37,6 +37,8 @@ Notifications: [notifyjs](https://github.com/notifyjs/notifyjs) (Floating notifi
 
 Updates: [node-github](https://github.com/mikedeboer/node-github) (search and parse updates)
 
+Battery System: [battery.js](https://github.com/miguelmota/battery)
+
 # Apps #
 
 Tasks: [clearwater](https://github.com/lbarman/clearwater)
@@ -44,3 +46,5 @@ Tasks: [clearwater](https://github.com/lbarman/clearwater)
 # Games #
 
 [Ultimate Tic Tac Toe](https://github.com/kennycason/ultimate_tictactoe)
+
+[2048](https://github.com/gabrielecirulli/2048)
