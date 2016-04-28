@@ -53,7 +53,7 @@ body{background-size:cover !important;margin:0;cursor:url(../img/Cursors/pointer
     color: green;
 }
 
-@media(max-width:2in){.boot-text{font-size:32pt}.boot-status{top:-36px;left:98px;font-size:14pt}.minipic img{width:30px;height:30px}}
+@media(max-width:2in){.boot-text{font-size:32pt}.boot-status{top:-36px;left:98px;font-size:14pt}}
 
 @media(max-width:5in){#alphabeticalsele{top:155px;height:calc(100% - 204px)}.dialog .dialog-close-button{height:2.5rem !important;width:2.5rem !important;min-height:1.5rem !important;font-size:2rem !important;top:1.25rem !important;right:1.25rem !important;line-height:1}.scroller{height:calc(100% - 205px);top:165px}#search{top:72px;width:100%;height:calc(100% - 112px)}#navmenu > tab > ul > a > li > div{height:50px}}
 
