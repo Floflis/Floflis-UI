@@ -1,5 +1,5 @@
 /*
-	Plasmmer UI Framework r1 | (c) 2015, 2015 Daniell Mesquita | developers.plasmmer.com/license 
+	Framework.js r1 | (c) 2015, 2016 Daniell Mesquita | developers.plasmmer.com/license 
 */
 
 /*Tabs menu from kickstart.js, which is part of 99Lime.com HTML KickStart by Joshua Gatcke.*/
