@@ -43,54 +43,26 @@ h1 {
 }
 
 #battery-container {
-  margin: 20px auto 40px auto;
+  width: 200px;
+  height: 120px;
+  margin: -32px auto 13px auto;
+  display: flex;
+  align-items: center;
+  text-align: middle;
 }
 
 #battery {
-  position: relative;
-  display: inline-block;
-  width: 150px;
-  height: 60px;
   margin: 0 auto;
-  border: 6px solid #000;
-}
-
-#battery-bar {
-  width: 0%;
-  height: 48px;
-  position: absolute;
-  left: 0;
-  top: 0;
-  margin: 0;
-  background: #000;
-  border: 6px solid #fff;
-  -webkit-transition: all .2s ease-out;
-  -moz-transition: all .2s ease-out;
-  transition: all .2s ease-out;
 }
 
 #battery-bar.ok {
-  background: #31C379;
+  fill: #31C379;
 }
 
 #battery-bar.warning {
-  background: #C3A431;
+  fill: #C3A431;
 }
 
 #battery-bar.critical {
-  background: #C33131;
-}
-
-#battery:after {
-  content: "";
-  display: block;
-  background: transparent;
-  border: 6px solid #000;
-  width: 6px;
-  height: 24px;
-  position: absolute;
-  border-radius: 4px;
-  right: -18px;
-  top: 50%;
-  margin: -18px 0 0 0;
+  fill: #C33131;
 }

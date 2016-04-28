@@ -4,8 +4,7 @@ var el = {
   chargingTime: $.getElementById('chargingTime'),
   dischargingTime: $.getElementById('dischargingTime'),
   level: $.getElementById('level'),
-  battery: $.getElementById('battery'),
-  batteryBar: $.getElementById('battery-bar')
+  batteryBar: $.querySelector('#battery-bar')
 };
 
 battery.on('ready', function() {
@@ -58,7 +57,7 @@ function updateLevel(level) {
   if (level < 0.1) {
     statusClass = 'critical';
   }
-  document.getElementById('batteryBar').setAttribute('width', battery.getPercentage() + "%");
+  el.batteryBar.setAttribute('width', battery.getPercentage() + '%');
   el.batteryBar.setAttribute('class', statusClass);
 }
 
