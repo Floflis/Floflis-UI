@@ -25,7 +25,7 @@ You can see the source code for submit your modifications, or read SPECS.md/FEAT
 
 Pull requests, comments and open issues are very welcome.
 
-**PS: don't change WS.js' "addons/apps/games" inside this project, please contribute directly with their separate repositories. See the used projects bellow:**
+**PS: don't change WS.js' addons, apps and/or games inside this project, please contribute directly with their separate repositories. See the used projects bellow:**
 
 # Addons #
 
