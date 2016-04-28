@@ -80,7 +80,7 @@ launcher.tiles{padding:50px}tile.medium{width:140px;height:140px;background:#393
 .minipic{height:22px;display:inline-block;float:right}.minipic img{width:22px;height:22px;box-shadow:0px 0px 0 1px rgb(69, 69, 69)}.alertsbtn{width:112px;height:22px;display:block;text-align:center;float:right}
 .userpic{display:none}
 
-.abtndata{font-size:10px;color:#fff;position:relative;top:-1px}#clock{font-size:12px;color:#fff}.alertgeneral{font-size:11px;color:#da4a37;display:none}.citytxt{display:none}.wheatertxt{display:none}
+#clock{font-size:12px;color:#fff}.abtndata{font-size:10px;color:#fff;position:relative;top:-1px}.alertgeneral{font-size:11px;color:#da4a37;display:none}.citytxt{display:none}.wheatertxt{display:none}
 
 .bottomhotspot{position:fixed;bottom:0;left:0;width:100%;height:1px;z-index:2}.bottomhotspot:hover + .bar, .bar:hover {visibility:visible}
 
