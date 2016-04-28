@@ -1,10 +1,3 @@
-function unlock() {
-document.getElementById("body").className = "unlocked";
-}
-function lock() {
-document.getElementById("body").className = "locked";
-}
-
 var isNode = false;    
 if (typeof process === 'object') {
   if (typeof process.versions === 'object') {
