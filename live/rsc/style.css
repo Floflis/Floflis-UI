@@ -1,5 +1,7 @@
 body{background-size:cover !important;margin:0;cursor:url(../img/Cursors/pointer.png),auto;font-family:Segoe UI;-moz-user-select:none;-webkit-user-select:none}body img{-webkit-user-drag:none}a{text-decoration:none;cursor:url(../img/Cursors/link.png),auto}button{cursor:inherit}
 
+.scroller{height:calc(100% - 148px)!important;top:108px!important}
+
 #controlcenter {
     width: 400px;
     height: 100%;
