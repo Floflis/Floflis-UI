@@ -4,3 +4,16 @@
     border-color: rgba(0, 0, 0, 0.52);
     color: rgba(0, 0, 0, 0.52);
 }
+
+ul.tabs.contabs{margin:10px 0 -1px 0;padding:0;width:100%;border-bottom:1px dotted #fff;float:left;font-size:0}ul.tabs.left{text-align:left}ul.tabs.center{text-align:center}ul.tabs.right{text-align:right}ul.tabs.right li{margin:0 0 0 -2px}ul.tabs.contabs li{font-size:14px;list-style-type:none;margin:0 -2px 0 0;padding:0;display:inline-block;*display:inline;position:relative;top:0;left:0;*top:1px;zoom:1}ul.tabs.contabs li a{text-decoration:none;color:rgba(255,255,255,0.5);display:inline-block;padding:9px 15px;position:relative;top:0;left:0;line-height:100%;border-bottom:0;font-size:.9em;zoom:1}ul.tabs.contabs li.current a{position:relative;left:0;box-shadow:none;color:#000;border-left:4px dotted #000}.tab-content{clear:both;display:block}
+
+.scroller {
+    width: 100%;
+    height: calc(100% - 148px);
+    position: fixed;
+    top: 108px;
+    overflow: auto;
+}
+
+.tabicon{width:12px;height:12px;display:inline-block}ul.tabs li.current a div{background-position-x:12px}
+.tab-add{background:url(../img/add.png)}.tab-customize{background:url(../img/customize.png)}.tab-test{background:url(../img/test.png)}.tab-apps{background:url(../img/apps.png)}.tab-games{background:url(../img/games.png)}.tab-pinned{background:url(../img/pinned.png)}.tab-mostused{background:url(../img/mostused.png)}.tab-recent{background:url(../img/recent.png)}.tab-all{background:url(../img/all.png)}.tab-files{background:url(../img/files.png)}.tab-browser{background:url(../img/browser.png)}
