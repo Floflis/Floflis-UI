@@ -1,0 +1,6 @@
+#alphabeticalsele{position:fixed;top:108px;width:100%;height:calc(100% - 148px);overflow:auto;z-index:1;background:#808080;display:none}
+#alphabeticalsele .alphabetic{clear:none;position:initial;display:inline-block;float:none}
+.alphabetic.inactive {
+    border-color: rgba(0, 0, 0, 0.52);
+    color: rgba(0, 0, 0, 0.52);
+}
