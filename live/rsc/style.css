@@ -1,37 +1,6 @@
 body{background-size:cover !important;margin:0;cursor:url(../img/Cursors/pointer.png),auto;font-family:Segoe UI;-moz-user-select:none;-webkit-user-select:none}body img{-webkit-user-drag:none}a{text-decoration:none;cursor:url(../img/Cursors/link.png),auto}button{cursor:inherit}
 
-.scroller{height:calc(100% - 148px)!important;top:108px!important}
-
-#controlcenter {
-    width: 400px;
-    height: 100%;
-    border-left: 1px dotted;
-    background: rgb(69, 69, 69);
-    border-color: #000;
-    padding: 10px 0 0 0;
-    z-index: 2;
-    position: fixed !important;
-    top: 22px;
-    right: 0;
-    display: none;
-}
-
-#search {
-    background-color: #808080;
-    position: fixed;
-    top: 23px;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: calc(100% - 63px);
-    z-index: 1049;
-    display: none;
-}
-
-@media(max-width:2in){.boot-text{font-size:32pt}.boot-status{top:-36px;left:98px;font-size:14pt}}
-
-@media(max-width:5in){#alphabeticalsele{top:155px;height:calc(100% - 204px)}.dialog .dialog-close-button{height:2.5rem !important;width:2.5rem !important;min-height:1.5rem !important;font-size:2rem !important;top:1.25rem !important;right:1.25rem !important;line-height:1}.scroller{height:calc(100% - 205px);top:165px}#search{top:72px;width:100%;height:calc(100% - 112px)}#navmenu > tab > ul > a > li > div{height:50px}}
+@media(max-width:5in){.dialog .dialog-close-button{height:2.5rem !important;width:2.5rem !important;min-height:1.5rem !important;font-size:2rem !important;top:1.25rem !important;right:1.25rem !important;line-height:1}}
 
 /*!
  * Metro UI CSS v3.0.14 (http://metroui.org.ua)
