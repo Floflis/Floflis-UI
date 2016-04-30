@@ -1,4 +1,4 @@
-body{background-size:cover !important;margin:0;font-family:Segoe UI;-moz-user-select:none;-webkit-user-select:none}body img{-webkit-user-drag:none}a{text-decoration:none}
+body{background-size:cover !important;margin:0;font-family:Segoe UI;-moz-user-select:none;-webkit-user-select:none}body img{-webkit-user-drag:none}a{text-decoration:none}a:visited{color:#A500A5}
 
 .powerbar{height:22px;border-bottom:1px dotted rgb(69, 69, 69);-webkit-padding-start:0;-webkit-margin-after:0;-webkit-margin-before:0}.topbar-current{width:138px;height:22px;float:left}.topbar-current:hover{background:rgba(51, 51, 51, 0.5)}.topbar-current:active{-webkit-filter:opacity(0.5)}.navlocal{position:absolute;top:-3px;margin-left:34px;font-size:14pt;color:#fff}.icon{width:16px;height:16px;position:absolute;top:3px;left:10px}.togglemenu{display:inline-block;width:calc(100% + -121px);height:60px;float:left}
 
