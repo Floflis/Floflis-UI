@@ -16,4 +16,3 @@ ul.tabs.contabs{margin:10px 0 -1px 0;padding:0;width:100%;border-bottom:1px dott
 }
 
 .tabicon{width:12px;height:12px;display:inline-block}ul.tabs li.current a div{background-position-x:12px}
-.tab-add{background:url(../img/add.png)}.tab-customize{background:url(../img/customize.png)}.tab-test{background:url(../img/test.png)}.tab-apps{background:url(../img/apps.png)}.tab-games{background:url(../img/games.png)}.tab-pinned{background:url(../img/pinned.png)}.tab-mostused{background:url(../img/mostused.png)}.tab-recent{background:url(../img/recent.png)}.tab-all{background:url(../img/all.png)}.tab-files{background:url(../img/files.png)}.tab-browser{background:url(../img/browser.png)}
