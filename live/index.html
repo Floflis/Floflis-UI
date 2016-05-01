@@ -2,117 +2,119 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
-<link href="System/Addons/cursors/cursors.css" rel="stylesheet"/>
-<link href="System/Addons/status/status.css" rel="stylesheet"/>
-<link href="System/Addons/battery/battery.css" rel="stylesheet"/>
-<link href="System/Addons/lockscreen/lockscreen.css" rel="stylesheet"/>
-<link href="metro.css" rel="stylesheet"/>
-<link href="System/Addons/launcher/launcher.css" rel="stylesheet"/>
-<link href="System/Addons/framework.js/framework.css" rel="stylesheet"/>
-<script src="jquery.min.js"></script>
-<script src="metro.js"></script>
-<script src="core.js"></script>
-<script src="System/Addons/status/status.js"></script>
-<script src="System/Addons/battery/battery.js"></script>
-<script src="System/Addons/lockscreen/lockscreen.js"></script>
-<script src="System/Addons/launcher/launcher.js"></script>
-<script src="System/Addons/framework.js/framework.js"></script>
 <link rel="shortcut icon" href="favicon.png"/>
-<title id="title"></title>
+<title id="title">Loading - WS.js</title>
 </head>
-<body id="body" class="locked" style="background:url(System/Resources/Themes/Default/Backgrounds/Launcher/Default.svg#default) no-repeat center center fixed" onload="startTime()">
-<div id="onlyboot">
+<body id="body" class="boot" style="" onload="startTime()">
+<div id="onlyboot" style="z-index:10000">
+<style>body.boot{margin:0}#onlyboot{overflow:hidden;background:#000;position:fixed;width:100%;height:100%;text-align:center;top:0;left:0;right:0;bottom:0;cursor:url(System/Addons/cursors/busy.gif),auto}.bootball{background:url(icon.svg#white);width:550px;height:550px;background-size:555px;background-position:-1px;border:30px solid rgba(255, 255, 255, 0.5);border-radius:50%;margin:0 auto;margin-bottom:-150px}.boot-text{font-family:Lucida Console;font-size:80pt;font-weight:bold;color:#fff;margin-top:24px;display:block;text-align:center}#boot-status{font-family:Lucida Console;font-size:42pt;color:rgba(255,255,255,0.5)}@media(max-width:480px){.bootball{width:248px;height:248px;background-size:248px;background-position:0px;border:10px solid rgba(255, 255, 255, 0.5);left:-74px;bottom:-74px}.boot-text{font-size:36pt}#boot-status{top:-38px;left:112px;font-size:16pt}}#bootscreen > span#clock{font-size:42px;position:absolute;top:130px}@media(max-width:2in){.boot-text{font-size:32pt}#boot-status{top:-36px;left:98px;font-size:14pt}}</style>
+<span class='boot-text'>Loading....</span><span id='boot-status'></span><div class='bootball'></div>
 <script>
-$(document).ready(function() {
-  $("#title").html("Loading - WS.js");
-  $("#bootscreen").html("<span class='boot-text'>Loading....</span><span class='boot-status'>Undefined</span><span id='clock'></span><div class='bootball'></div>")
-})
-window.onload = function() {
-  $("#title").html("WS.js");
-  var boot = document.getElementById('onlyboot');
-  var bootdiv = document.getElementById('onlyboot');
-  boot.remove(bootdiv)
+document.getElementById("boot-status").innerHTML = "jQuery";
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = 'jquery.min.js';
+script.onload = CallBackForAfterFileLoaded;
+document.head.appendChild(script);
+function CallBackForAfterFileLoaded (e) {
+document.getElementById("boot-status").innerHTML = "Core";
+}
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = 'core.js';
+script.onload = CallBackForAfterFileLoaded;
+document.head.appendChild(script);
+function CallBackForAfterFileLoaded (e) {
+document.getElementById("boot-status").innerHTML = "Addon: Cursors";
+}
+var link = document.createElement("link");
+link.rel = "stylesheet";
+link.href = 'System/Addons/cursors/cursors.css';
+link.onload = CallBackForAfterFileLoaded;
+document.head.appendChild(link);
+function CallBackForAfterFileLoaded (e) {
+document.getElementById("boot-status").innerHTML = "Addon: Status - CSS";
+}
+var link = document.createElement("link");
+link.rel = "stylesheet";
+link.href = 'System/Addons/status/status.css';
+link.onload = CallBackForAfterFileLoaded;
+document.head.appendChild(link);
+function CallBackForAfterFileLoaded (e) {
+document.getElementById("boot-status").innerHTML = "Addon: Status - Bar";
+}
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = 'System/Addons/status/status.js';
+document.head.appendChild(script);
+script.onload = CallBackForAfterFileLoaded;
+function CallBackForAfterFileLoaded (e) {
+document.getElementById("boot-status").innerHTML = "Addon: Battery";
+}
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = 'System/Addons/battery/battery.js';
+document.head.appendChild(script);
+var link = document.createElement("link");
+link.rel = "stylesheet";
+link.href = 'System/Addons/battery/battery.css';
+link.onload = CallBackForAfterFileLoaded;
+document.head.appendChild(link);
+function CallBackForAfterFileLoaded (e) {
+document.getElementById("boot-status").innerHTML = "Addon: Lockscreen";
+}
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = 'System/Addons/lockscreen/lockscreen.js';
+document.head.appendChild(script);
+var link = document.createElement("link");
+link.rel = "stylesheet";
+link.href = 'System/Addons/lockscreen/lockscreen.css';
+link.onload = CallBackForAfterFileLoaded;
+document.head.appendChild(link);
+function CallBackForAfterFileLoaded (e) {
+document.getElementById("boot-status").innerHTML = "";
+document.getElementById("body").className = "locked";
+document.getElementById("onlyboot").setAttribute("style", "");
+}
+function secondboot() {
+document.getElementById("onlyboot").setAttribute("style", "z-index:10000");
+unlock();
+document.getElementById("lockscreen").setAttribute("onclick", "unlock()");
+document.getElementById("boot-status").innerHTML = "Addon: Framework.js";
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = 'System/Addons/framework.js/framework.js';
+document.head.appendChild(script);
+var link = document.createElement("link");
+link.rel = "stylesheet";
+link.href = 'System/Addons/framework.js/framework.css';
+link.onload = CallBackForAfterFileLoaded;
+document.head.appendChild(link);
+function CallBackForAfterFileLoaded (e) {
+document.getElementById("boot-status").innerHTML = "Addon: Launcher - CSS"
+}
+var link = document.createElement("link");
+link.rel = "stylesheet";
+link.href = 'System/Addons/launcher/launcher.css';
+link.onload = CallBackForAfterFileLoaded;
+document.head.appendChild(link);
+function CallBackForAfterFileLoaded (e) {
+document.getElementById("boot-status").innerHTML = "Addon: Launcher - Header";
+}
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = 'System/Addons/launcher/launcher.js';
+script.onload = CallBackForAfterFileLoaded;
+document.head.appendChild(script);
+function CallBackForAfterFileLoaded (e) {
+}
+document.getElementById("title").innerHTML = "WS.js";
+var boot = document.getElementById('onlyboot');
+var bootdiv = document.getElementById('onlyboot');
+boot.remove(bootdiv)
 }
 </script>
-<style>#bootscreen{height:100%;background:#000;text-align:center;top:0;left:0;right:0;bottom:0;position:fixed;z-index:10000;cursor:url(System/Addons/cursors/busy.gif),auto}.bootball{background:url(icon.svg#white);width:550px;height:550px;background-size:555px;background-position:-1px;border:30px solid rgba(255, 255, 255, 0.5);border-radius:50%;margin:0 auto;margin-bottom:-150px}.boot-text{font-family:Lucida Console;font-size:80pt;font-weight:bold;color:#fff;margin-top:24px;display:block}.boot-status{font-family:Lucida Console;position:relative;top:-92px;left:272px;font-size:42pt;color:rgba(255, 255, 255, 0.5);display:block}@media(max-width:480px){.bootball{width:248px;height:248px;background-size:248px;background-position:0px;border:10px solid rgba(255, 255, 255, 0.5);left:-74px;bottom:-74px}.boot-text{font-size:36pt}.boot-status{top:-38px;left:112px;font-size:16pt}}#bootscreen > span#clock{font-size:42px;position:absolute;top:130px}@media(max-width:2in){.boot-text{font-size:32pt}.boot-status{top:-36px;left:98px;font-size:14pt}}</style><div id='bootscreen' onload='startTime()'></div></div>
-
-<div id="lockscreen" style="background:url(System/Resources/Themes/Default/Backgrounds/Lockscreen/Default.svg#default) no-repeat center center fixed" onclick="unlock()"></div>
-
-<div data-role="dialog" id="dialog" class="padding20 dialog" data-close-button="true" data-overlay="true" data-overlay-color="op-dark" data-overlay-click-close="true" data-windows-style="true" style="width: auto; height: auto; visibility: visible; top: 122.5px; left: 0px; right: 0px;"><h1>Oh, sorry!</h1><p>This function was not been implemented, yet.<i><br><b>Developer Tip: </b>You can submit a pull request with this function in <a target="blank" href="https://github.com/Software-js/WS.js">GitHub!</a></i></p><span class="dialog-close-button"></span></div>
-
-<div id="search" style="display: none;"><ul class="tabs center"><li class="first unavail current"><a href="#tabs1"><div class="tabicon tab-apps"></div> Apps</a></li><li class=""><a href="#tabs2"><div class="tabicon tab-games"></div> Games</a></li>
-<li class=""><a href="#tabs3"><div class="tabicon tab-files"></div> Files</a></li><li class="last"><a href="#tabs4"><div class="tabicon tab-browser"></div> Web</a></li></ul>
-<tab id="tabs1" class="tab-content clearfix" style="display: block;">
-<h1>Oh, sorry!</h1><p>This function was not been implemented, yet.<i><br><b>Developer Tip: </b>You can submit a pull request with this function in <a target="blank" href="https://github.com/Software-js/WS.js">GitHub!</a></i></p></tab>
-<tab id="tabs2" class="tab-content clearfix" style="display: none;">
-<h1>Oh, sorry!</h1><p>This function was not been implemented, yet.<i><br><b>Developer Tip: </b>You can submit a pull request with this function in <a target="blank" href="https://github.com/Software-js/WS.js">GitHub!</a></i></p></tab>
-<tab id="tabs3" class="tab-content clearfix" style="display: none;"><h1>Oh, sorry!</h1><p>This function was not been implemented, yet.<i><br><b>Developer Tip: </b>You can submit a pull request with this function in <a target="blank" href="https://github.com/Software-js/WS.js">GitHub!</a></i></p></tab>
-<tab id="tabs4" class="tab-content clearfix" style="display: none;"><h1>Oh, sorry!</h1><p>This function was not been implemented, yet.<i><br><b>Developer Tip: </b>You can submit a pull request with this function in <a target="blank" href="https://github.com/Software-js/WS.js">GitHub!</a></i></p></tab></div>
-
-<div id="alphabeticalsele"><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">🌐</div><div class="alphabetic inactive unavail">&amp;</div><div class="alphabetic inactive unavail">0-9</div><div class="alphabetic inactive unavail">A</div><div class="alphabetic unavail">B</div><div class="alphabetic unavail">C</div><div class="alphabetic unavail">D</div><div class="alphabetic inactive unavail">E</div><div class="alphabetic unavail">F</div><div class="alphabetic inactive unavail">G</div><div class="alphabetic inactive unavail">H</div><div class="alphabetic inactive unavail">I</div><div class="alphabetic inactive unavail">J</div><div class="alphabetic inactive unavail">K</div><div class="alphabetic inactive unavail">L</div><div class="alphabetic unavail">M</div><div class="alphabetic unavail">N</div><div class="alphabetic inactive unavail">O</div><div class="alphabetic inactive unavail">P</div><div class="alphabetic inactive unavail">Q</div><div class="alphabetic inactive unavail">R</div><div class="alphabetic unavail">S</div><div class="alphabetic inactive unavail">T</div><div class="alphabetic inactive unavail">U</div><div class="alphabetic inactive unavail">V</div><div class="alphabetic inactive unavail">W</div><div class="alphabetic inactive unavail">X</div><div class="alphabetic inactive unavail">Y</div><div class="alphabetic inactive unavail">Z</div></div>
-
-<div class="tophotspot"></div>
-<div class="statusbar"><li class="alertsbtn" title="Alerts" onclick="showDialog('dialog')"><span class="citytxt">Cascavel</span><span id="clock"></span> <span class="abtndata" id="weekday"></span><span class="alertgeneral">99+</span><span class="wheatertxt">35°</span></li><div class="system-apps"><div id="battery-container"><svg id="battery" width="18px" height="18px" viewBox="0 0 338 168" version="1.1" xmlns="http://www.w3.org/2000/svg" class="unavail"><g class="battery" id="#ffffffff"><path fill="#ffffff" opacity="1.00" d=" M 10.50 0.00 L 73.50 0.00 C 73.51 6.99 73.48 13.97 73.52 20.96 C 56.02 21.05 38.51 20.97 21.01 21.00 C 20.94 40.85 21.11 60.70 20.92 80.54 C 13.95 80.46 6.97 80.52 0.00 80.50 L 0.00 17.49 C 3.50 17.51 6.99 17.50 10.49 17.49 C 10.52 11.66 10.49 5.83 10.50 0.00 Z" /><path fill="#ffffff" opacity="1.00" d=" M 94.50 0.00 L 157.50 0.00 C 157.51 6.98 157.47 13.95 157.54 20.93 C 136.52 21.06 115.49 21.02 94.47 20.95 C 94.52 13.97 94.49 6.98 94.50 0.00 Z" /><path fill="#ffffff" opacity="1.00" d=" M 178.50 0.00 L 241.50 0.00 C 241.54 6.95 241.41 13.91 241.59 20.86 C 220.56 21.16 199.51 20.96 178.48 20.96 C 178.52 13.97 178.49 6.99 178.50 0.00 Z" /><path fill="#ffffff" opacity="1.00" d=" M 262.50 0.00 L 287.00 0.00 C 287.00 16.00 286.99 32.00 287.00 48.00 C 304.00 48.01 321.00 48.00 338.00 48.00 L 338.00 119.00 C 321.00 119.00 304.00 118.99 287.00 119.01 C 286.89 127.21 287.21 135.41 286.84 143.61 C 279.91 143.38 272.97 143.54 266.03 143.52 C 265.94 123.67 266.05 103.82 265.97 83.98 C 265.94 81.27 267.36 78.76 267.04 76.02 C 266.71 69.70 267.76 63.26 266.02 57.09 C 265.97 45.08 266.02 33.07 266.00 21.07 C 264.81 21.01 263.62 20.94 262.44 20.85 C 262.57 13.90 262.47 6.95 262.50 0.00 Z" /><path fill="#ffffff" opacity="1.00" d=" M 0.00 101.50 C 6.99 101.50 13.98 101.51 20.97 101.49 C 21.07 120.12 20.92 138.76 21.05 157.39 C 19.87 157.45 18.69 157.51 17.51 157.57 C 17.50 161.04 17.49 164.52 17.50 168.00 L 0.00 168.00 L 0.00 101.50 Z" /><path fill="#ffffff" opacity="1.00" d=" M 38.48 147.03 C 59.49 146.97 80.50 146.99 101.51 147.02 C 101.49 154.01 101.50 161.01 101.50 168.00 L 38.50 168.00 C 38.50 161.01 38.51 154.02 38.48 147.03 Z" /><path fill="#ffffff" opacity="1.00" d=" M 122.45 147.10 C 143.47 146.91 164.50 146.99 185.53 147.05 C 185.47 154.04 185.51 161.02 185.50 168.00 L 122.50 168.00 C 122.48 161.03 122.55 154.06 122.45 147.10 Z" /><path fill="#ffffff" opacity="1.00" d=" M 206.48 147.04 C 227.49 146.97 248.50 146.98 269.52 147.03 C 269.48 154.02 269.51 161.01 269.50 168.00 L 206.50 168.00 C 206.49 161.01 206.52 154.03 206.48 147.04 Z" /></g><svg class="charge" id="1f6e43ff" x="37" y="37" width="214" height="95" ><rect id="battery-bar" width="0%" height="100%" fill="#1f6e43"/></svg></svg></div><li class="minipic unavail" title="[Example] User"><img src="Users/User/Data/pic-default.svg" alt="User" height="39" width="52" onclick="showDialog('dialog')"></li></div><div class="working-apps"><div class="topbar-notifications" title="Control Center" onclick="$('#controlcenter').toggle();return false"></div>
-<icon class="mini unavail" title="[Example] 4 app updates available" onclick="showDialog('dialog')"><img width="18" height="18" src="System/Apps/Modern Apps/icon.svg#icon" onclick="showDialog('dialog')"></icon><icon class="mini unavail" title="[Example] Browser - Updating app" onclick="showDialog('dialog')"><img width="18" height="18" src="System/Apps/Browser/icon.svg#icon"></icon><icon class="mini unavail" title="[Example] Playing Halo - Beyoncé" onclick="showDialog('dialog')"><img width="18" height="18" src="System/Apps/Music/icon.svg#icon"></icon><icon class="mini unavail" title="[Example] Uploading photo" onclick="showDialog('dialog')"><img width="18" height="18" src="System/Apps/Camera/icon.svg#icon"></icon><icon class="mini unavail" title="[Example] Running in background" onclick="showDialog('dialog')"><img width="18" height="18" src="System/Apps/Messenger/icon.svg#icon"></icon></div></div>
-<header id="header">
-<div class="powerbar tabs"><div class="topbar-current" title="Options" onclick="$('#navmenu').toggle();return false"><img width="16" height="16" src="System/Addons/launcher/icon.svg" class="icon"><span class="navlocal">Launcher</span></div><div class="powercontainer" style="visibility:hidden"><div id="power-handle" onclick="whiteline()" onmousedown="destroywhite()"><div id="handle-line"></div></div></div>
-</header>
-
-<nav id="navmenu">
-<ul class="tabs center"><li class="first current unavail"><a href="#tabc1"><div class="tabicon tab-add"></div> Add</a></li><li class=""><a href="#tabc2"><div class="tabicon tab-customize"></div> Customize</a></li><li class="last"><a href="#tabc3"><div class="tabicon tab-test"></div> Test Hub</a></li></ul>
-<tab id="tabc1" class="tab-content clearfix" style="display: block;">
-<ul><a onclick="showDialog('dialog')"><li draggable="true" class="navi-item unavail"><div><img src="img/Navmenu/file.svg#black" class="navi-img"></div><p>File</p></li></a>
-<a onclick="showDialog('dialog')"><li draggable="true" class="navi-item unavail"><div><img src="img/Navmenu/folder.svg#black" class="navi-img"></div><p>Folder</p></li></a>
-<a onclick="showDialog('dialog')"><li draggable="true" class="navi-item unavail"><div><img src="img/Navmenu/action.svg#black" class="navi-img"></div><p>Action</p></li></a>
-<a onclick="showDialog('dialog')"><li draggable="true" class="navi-item unavail"><div><img src="img/Navmenu/shortcut.svg#black" class="navi-img"></div><p>Shortcut</p></li></a><a><li draggable="true" class="navi-item unavail"><div><img src="img/Navmenu/groups.svg#black" class="navi-img"></div><p>Group</p></li></a>
-</ul></tab>
-
-<tab id="tabc2" class="tab-content clearfix" style="display: none;">
-<ul><a onclick="showDialog('dialog')"><li draggable="true" class="navi-item unavail"><div><img src="img/Navmenu/background.svg#black" class="navi-img"></div><p>Wallpaper</p></li></a>
-<a onclick="showDialog('dialog')"><li draggable="true" class="navi-item unavail"><div><img src="img/Navmenu/launcher.svg#black" class="navi-img"></div><p>Launcher</p></li></a>
-<a onclick="showDialog('dialog')"><li draggable="true" class="navi-item unavail"><div><img src="img/Navmenu/themes.svg#black" class="navi-img"></div><p>Themes</p></li></a>
-</ul></tab>
-<tab id="tabc3" class="tab-content clearfix" style="display: none;"><button onclick="lock()">Lockscreen</button></tab>
-</nav>
-
-<div id="controlcenter" style="display: none;"><ul class="tabs center"><li class="first unavail current"><a href="#tabcc1"><div class="tabicon tab-all"></div> + Background apps</a></li><li class=""><a href="#tabcc2"><div class="tabicon tab-apps"></div> Notifications</a></li><li class="last"><a href="#tabcc3"><div class="tabicon tab-apps"></div> Actions</a></li></ul>
-<tab id="tabcc1" class="tab-content clearfix" style="display: block;"><p>No more background apps are running.</p></tab>
-<tab id="tabcc2" class="tab-content clearfix" style="display: none;"><p>No notifications.</p></tab>
-<tab id="tabcc3" class="tab-content clearfix" style="display: none;"><div class="notifycenterbtn userpic unavail" title="[Example] User"><img src="Users/User/Data/pic-default.svg" alt="User" height="39" width="52" onclick="showDialog('dialog')"></div><div class="notifycenterbtn" id="btnFullscreen" onclick="toggleFullScreen()"><span>Fullscreen</span></div></tab></div>
-
-<iframe src="System/Apps/Modern Apps/index.html" width="100%" frameborder="0" style="position:absolute;top:61px;height:calc(100% + -61px);z-index:1;display:none"></iframe>
-
-<launcher><ul class="tabs center"><li class="first current unavail"><a href="#tab1"><div class="tabicon tab-apps"></div> Apps</a></li><li class="last"><a href="#tab2"><div class="tabicon tab-games"></div> Games</a></li></ul><tab id="tab1" class="tab-content clearfix" style="display: block;">
-<ul class="tabs center"><li class="first current unavail"><a href="#tab-apps1"><div class="tabicon tab-pinned"></div> Pinned</a></li><li class=""><a href="#tab-apps2"><div class="tabicon tab-mostused"></div> Most used</a></li>
-<li class=""><a href="#tab-apps3"><div class="tabicon tab-recent"></div> Recent</a></li>
-<li class="last"><a href="#tab-apps4"><div class="tabicon tab-all"></div> All</a></li></ul>
-<tab id="tab-apps1" class="tab-content clearfix scroller" style="display: block;"><icon class="unavail"><img width="48" height="48" src="img/pinnedsite.svg#badge"><span class="app-title">[Example] Pinned site</span></icon><p><b style="color:yellow">Warning: </b> All these icons can't open apps. I've not developed codes for dinamically list or open apps. These examples are not yet functional. Soon I'll do this.</p><button onclick="showDialog('#dialog')">Show dialog</button></tab><tab id="tab-apps2" class="tab-content clearfix scroller" style="display: block;"><h1>Oh, sorry!</h1><p>This function was not been implemented, yet.<i><br><b>Developer Tip: </b>You can submit a pull request with this function in <a target="blank" href="https://github.com/Software-js/WS.js">GitHub!</a></i></p></span></tab><tab id="tab-apps3" class="tab-content clearfix scroller" style="display: none;"><h1>Oh, sorry!</h1><p>This function was not been implemented, yet.<i><br><b>Developer Tip: </b>You can submit a pull request with this function in <a target="blank" href="https://github.com/Software-js/WS.js">GitHub!</a></i></p></span></tab><tab id="tab-apps4" class="tab-content clearfix scroller" style="display: none;"><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">B</div>
-<icon class="unavail"><img width="48" height="48" src="System/Apps/Browser/icon.svg#badge"><span class="app-title">Browser</span></icon>
-<div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">C</div><icon class="unavail"><img width="48" height="48" src="System/Apps/Camera/icon.svg#badge"><span class="app-title">Camera</span></icon><icon class="unavail"><img width="48" height="48" src="System/Apps/Contacts/icon.svg#badge"><span class="app-title">Contacts</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">D</div>
-<icon class="unavail"><img width="48" height="48" src="System/Apps/Devices/pc.svg#badge"><span class="app-title">Devices</span></icon><icon class="unavail"><img width="48" height="48" src="img/app.svg#badge"><span class="app-title">Dialer</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">F</div>
-<icon class="unavail"><img width="48" height="48" src="System/Apps/File Explorer/icon.svg#badge"><span class="app-title">File Explorer</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">G</div>
-<icon class="unavail"><img width="48" height="48" src="System/Apps/Gallery/icon.svg#badge"><span class="app-title">Gallery</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">M</div>
-<icon class="unavail"><img width="48" height="48" src="System/Apps/Messenger/icon.svg#badge"><span class="app-title">Messenger</span></icon><icon class="unavail"><img width="48" height="48" src="System/Apps/Microphone/icon.svg#badge"><span class="app-title">Microphone</span></icon><icon class="unavail"><img width="48" height="48" src="System/Apps/Modern Apps/icon.svg#badge"><span class="app-title">Modern Apps</span></icon><icon class="unavail"><img width="48" height="48" src="System/Apps/Music/icon.svg#badge"><span class="app-title">Music</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">N</div>
-<icon class="unavail"><img width="48" height="48" src="System/Apps/Notes/icon.svg#badge"><span class="app-title">Notes</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">S</div>
-<icon class="unavail"><img width="48" height="48" src="System/Apps/Studio/icon.svg#badge"><span class="app-title">Studio</span></icon><p><b style="color:yellow">Warning: </b> All these icons can't open apps. I've not developed codes for dinamically list or open apps. These examples are not yet functional. Soon I'll do this.</p></tab></tab><tab id="tab2" class="tab-content clearfix" style="display: none;">
-<ul class="tabs center"><li class="first current unavail"><a href="#tab-games1"><div class="tabicon tab-pinned"></div> Pinned</a></li><li class=""><a href="#tab-games2"><div class="tabicon tab-mostused"></div> Most used</a></li>
-<li class=""><a href="#tab-games3"><div class="tabicon tab-recent"></div> Recent</a></li>
-<li class="last"><a href="#tab-games4"><div class="tabicon tab-all"></div> All</a></li></ul><tab id="tab-games1" class="tab-content clearfix scroller" style="display: block;"><icon class="unavail"><img width="48" height="48" src="img/pinnedsite.svg#badge"><span class="app-title">[Example] Pinned webgame</span></icon><p><b style="color:yellow">Warning: </b> All these icons can't open apps. I've not developed codes for dinamically list or open apps. These examples are not yet functional. Soon I'll do this.</p></tab>
-<tab id="tab-games2" class="tab-content clearfix scroller" style="display: none;"><h1>Oh, sorry!</h1><p>This function was not been implemented, yet.<i><br><b>Developer Tip: </b>You can submit a pull request with this function in <a target="blank" href="https://github.com/Software-js/WS.js">GitHub!</a></i></p></span></tab><tab id="tab-games3" class="tab-content clearfix scroller" style="display: none;"><h1>Oh, sorry!</h1><p>This function was not been implemented, yet.<i><br><b>Developer Tip: </b>You can submit a pull request with this function in <a target="blank" href="https://github.com/Software-js/WS.js">GitHub!</a></i></p></span></tab><tab id="tab-games4" class="tab-content clearfix scroller" style="display: none;"><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">0-9</div>
-<icon class="unavail"><img width="48" height="48" src="img/game.svg#badge"><span class="app-title">2048</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">B</div>
-<icon class="unavail"><img width="48" height="48" src="img/game.svg#badge"><span class="app-title">Battleship</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">P</div>
-<icon class="unavail"><img width="48" height="48" src="img/game.svg#badge"><span class="app-title">Pixel Paint</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">R</div>
-<icon class="unavail"><img width="48" height="48" src="img/game.svg#badge"><span class="app-title">Rock Paper Scizor</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">S</div>
-<icon class="unavail"><img width="48" height="48" src="img/game.svg#badge"><span class="app-title">Symbolistic</span></icon><div class="alphabetic" onclick="$('#alphabeticalsele').toggle();return false">T</div>
-<icon class="unavail"><img width="48" height="48" src="img/game.svg#badge"><span class="app-title">Tic Tac Toe</span></icon><p><b style="color:yellow">Warning: </b> All these icons can't open apps. I've not developed codes for dinamically list or open apps. These examples are not yet functional. Soon I'll do this.</p></tab></tab>
-</launcher>
-
-<div class="bottomhotspot"></div><div class="bar"><img width="32" height="32" class="virtualbutton unavail" title="Go to Launcher" src="System/Addons/launcher/icon.svg" onclick="showDialog('dialog')"><img width="32" height="32" class="virtualbutton unavail" title="Work Ambients" src="System/Addons/launcher/img/buttons/ambients.svg" onclick="showDialog('dialog')"><img width="32" height="32" class="virtualbutton" title="Search" src="System/Addons/launcher/img/buttons/search.svg" onclick="$('#search').toggle();return false;"><img width="32" height="32" class="virtualbutton unavail" title="Return" src="System/Addons/launcher/img/buttons/arrow-left.svg" onclick="showDialog('dialog')"><div style="padding-left:10px"><icon class="closed unavail" title="[Example] Dialer" onclick="showDialog('dialog')"><img width="32" height="32" src="img/app.svg#icon"></icon><icon class="closed unavail" title="[Example] Messenger" onclick="showDialog('dialog')"><img width="32" height="32" src="System/Apps/Messenger/icon.svg#icon"></icon><icon class="closed unavail" title="[Example] Contacts" onclick="showDialog('dialog')"><img width="32" height="32" src="System/Apps/Contacts/icon.svg#icon"></icon><icon class="closed unavail" title="[Example] Browser" onclick="showDialog('dialog')"><img width="32" height="32" src="System/Apps/Browser/icon.svg#icon"></icon><icon class="closed unavail" title="[Example] Camera" onclick="showDialog('dialog')"><img width="32" height="32" src="System/Apps/Camera/icon.svg#icon"></icon><icon class="current unavail" title="[Example] Modern Apps" onclick="showDialog('dialog')"><img width="32" height="32" src="System/Apps/Modern Apps/icon.svg#icon"></icon><div class="app-preview"><img width="32" height="32" src="System/Apps/Studio/icon.svg#icon"><span class="app-title">Studio</span><div class="window-button_close" title="Close"></div><div title="Maximize"></div><div title="Toggle Fullscreen"></div><iframe src="System/Apps/Studio/index.html" width="200" height="141" frameborder="0" style="border: 1px solid #333;z-index:1"></iframe></div><icon class="openned unavail" title="[Example] Studio" onclick="showDialog('dialog')"><img width="32" height="32" src="System/Apps/Studio/icon.svg#badge"></icon></div></div>
-<script>
-    function showDialog(id){
-        var dialog = $(id).data('dialog');
-        dialog.open();
-    }
-</script>
+</div>
 </body>
 </html>
