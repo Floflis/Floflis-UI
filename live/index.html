@@ -5,7 +5,7 @@
 <link rel="shortcut icon" href="favicon.png"/>
 <title id="title">Loading - WS.js</title>
 </head>
-<body id="body" class="boot" style="" onload="startTime()">
+<body id="body" class="boot" onload="startTime()">
 <div id="onlyboot" style="z-index:10000">
 <style>body.boot{margin:0}#onlyboot{overflow:hidden;background:#000;position:fixed;width:100%;height:100%;text-align:center;top:0;left:0;right:0;bottom:0;cursor:url(System/Addons/cursors/busy.gif),auto}.bootball{background:url(icon.svg#white);width:550px;height:550px;background-size:555px;background-position:-1px;border:30px solid rgba(255, 255, 255, 0.5);border-radius:50%;margin:0 auto;margin-bottom:-150px}.boot-text{font-family:Lucida Console;font-size:80pt;font-weight:bold;color:#fff;margin-top:24px;display:block;text-align:center}#boot-status{font-family:Lucida Console;font-size:42pt;color:rgba(255,255,255,0.5)}@media(max-width:480px){.bootball{width:248px;height:248px;background-size:248px;background-position:0px;border:10px solid rgba(255, 255, 255, 0.5);left:-74px;bottom:-74px}.boot-text{font-size:36pt}#boot-status{top:-38px;left:112px;font-size:16pt}}#bootscreen > span#clock{font-size:42px;position:absolute;top:130px}@media(max-width:2in){.boot-text{font-size:32pt}#boot-status{top:-36px;left:98px;font-size:14pt}}</style>
 <span class='boot-text'>Loading....</span><span id='boot-status'></span><div class='bootball'></div>
@@ -109,6 +109,7 @@ script.onload = CallBackForAfterFileLoaded;
 document.head.appendChild(script);
 function CallBackForAfterFileLoaded (e) {
 }
+document.getElementsByTagName("body")[0].setAttribute("style", "background:url(System/Resources/Themes/Default/Backgrounds/Launcher/Default.svg#default) no-repeat center center fixed");
 document.getElementById("title").innerHTML = "WS.js";
 var boot = document.getElementById('onlyboot');
 var bootdiv = document.getElementById('onlyboot');
