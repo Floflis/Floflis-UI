@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/6203d77ddfc976586a9d220f0f1234346118b65a/687474703a2f2f692e696d6775722e636f6d2f4271584b696f36672e706e67" align="absmiddle">
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DaniellMesquita/Modern-OS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![PEHTML](http://developers.plasmmer.com/badges/PEHTML.svg)](https://gitter.im/DaniellMesquita/Plasmmer-UI-Framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Plasmmer UI Framework](http://developers.plasmmer.com/badges/Framework.svg)](https://gitter.im/DaniellMesquita/Plasmmer-UI-Framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![PEHTML](http://developers.plasmmer.com/badges/PEHTML.svg)](https://github.com/Plasmmer/PEHTML)
+[![Plasmmer UI Framework](http://developers.plasmmer.com/badges/Framework.svg)](https://github.com/Software-js/Framework.js)
 
 ----------
 # Description #
