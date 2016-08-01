@@ -15,4 +15,21 @@ ul.tabs.contabs{margin:10px 0 -1px 0;padding:0;width:100%;border-bottom:1px dott
 	overflow: auto;
 }
 
+button {
+    cursor: inherit;
+    background: black;
+    color: #fff;
+    border: 1px dotted #fff;
+    outline: none;
+}
+button:hover {
+    -webkit-filter: opacity(0.5);
+}
+button:active {
+    background: #fff;
+    color: #000;
+    border: 1px dotted #000;
+    -webkit-filter: opacity(1);
+}
+
 .tabicon{width:12px;height:12px;display:inline-block}ul.tabs li.current a div{background-position-x:12px}
