@@ -31,7 +31,7 @@ Pull requests, comments and open issues are very welcome.
 
 Contexts Menus: [contextmenu](https://github.com/aantthony/contextmenu)
 
-Windowing: [Ventus](https://github.com/rlamana/Ventus)
+Windowing: [Windowing.js](https://github.com/Software-js/Windowing.js)
 
 Notifications: [notifyjs](https://github.com/notifyjs/notifyjs) (Floating notifications) | [Notificon](https://github.com/makeable/Notificon) (Favicon counter)
 
