@@ -7,17 +7,21 @@
 ----------
 # Description #
 
-HTML5-based modern, generic and open-source operating system for work on [Modern "Bios" (DCRS - Device Checker/Runtime System)](https://github.com/DaniellMesquita/Modern-Bios "Click here to know more how DCRS works and get started how insert DCRS in your mainboard/device and/or making your own modern OS.").
+Describe WS.js is like describing the sensation of sex. But I can explain in a human-understandable way! Imagine a world when the BIOS we know and OS are merged. Then we have the DCRS. Imagine the OS we know only doing settings for our work ecosystem while DCRS do the advanced settings. Then we have WS.js.
 
-This is an template for who want get started to make your own operating system for DCRS. This isn't hard for who have knowledge only in HTML/CSS/Javascript languages.
+WS is a achronym for Work System. This is a new concept, when operating systems do the advanced settings and WS the basic ambient for work. DCRS for settings, WS.js for your work!
 
-# Understanting #
+WS.js is HTML5-based modern, generic, open-source and the world's first work system. Runs on [DCRS - Device Checker/Runtime System](https://github.com/DaniellMesquita/Modern-Bios "Click here to know more how DCRS works and get started how insert DCRS in your mainboard/device and/or making your own WS.").
+
+This is an template for who want get started to make your own work system for DCRS. This isn't hard for who have knowledge only in HTML/CSS/Javascript languages.
+
+# Understanting more #
 
 You can read the SPECS.md, and too you can read the FEATURES.md file, all included in the project.
 
-# Get started to make your own OS #
+# Get started to make your own WS #
 
-For get started to making your own modern operating system for DCRS, you need to read the GET_STARTED.md file included in the project.
+For get started to making your own work system for DCRS, you need to read the GET_STARTED.md file included in the project.
 
 # Contributing #
 
