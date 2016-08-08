@@ -11,7 +11,7 @@ Describe WS.js is like describing the sensation of sex. But I can explain in a h
 
 WS is a achronym for Work System. This is a new concept, when operating system (DCRS) do the advanced settings and WS the basic ambient for work. DCRS for settings, WS.js for your work!
 
-WS.js is HTML5-based modern, generic, open-source and the world's first work system. Runs on [DCRS - Device Checker/Runtime System](https://github.com/DaniellMesquita/Modern-Bios "Click here to know more how DCRS works and get started how insert DCRS in your mainboard/device and/or making your own WS.").
+WS.js is HTML5-based modern, generic, open-source and the world's first work system. Runs on [DCRS - Device Checker/Runtime System](https://github.com/Software-js/DCRS "Click here to know more how DCRS works and get started how insert DCRS in your mainboard/device.").
 
 This is an template for who want get started to make your own work system for DCRS. This isn't hard for who have knowledge only in HTML/CSS/Javascript languages.
 
