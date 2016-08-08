@@ -7,7 +7,7 @@
 ----------
 # Description #
 
-Describe WS.js is like describing the sensation of sex. But I can explain in a human-understandable way! Imagine a world when the BIOS we know and OS are merged. Then we have the DCRS. Imagine the OS we know running in a environment and only doing settings for our work ecosystem while DCRS do the advanced settings. Then we have WS.js running on DCRS.
+Describe WS.js is like describing the sensation of sex. But I can explain in a human-understandable way! Imagine a world when the BIOS we know and OS are merged. Then we have the DCRS. Imagine the OS we know running in a environment and only doing settings for our work ecosystem while DCRS do the advanced settings. Then we have WS.js running on DCRS. For final user the sensation is that DCRS is the BIOS and WS.js the operating system (OS). But technically DCRS is the OS and WS.js the work system (WS)!
 
 WS is a achronym for Work System. This is a new concept, when operating system (DCRS) do the advanced settings and WS the basic ambient for work. DCRS for settings, WS.js for your work!
 
