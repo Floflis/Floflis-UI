@@ -1,3 +1,7 @@
+function restart() {
+location.reload();
+}
+
 function whiteline() {
 document.getElementById("handle-line").style.background="#fff"
 }
