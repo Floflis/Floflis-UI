@@ -27,7 +27,13 @@ For get started to making your own work system for DCRS, you need to read the GE
 
 You can see the source code for submit your modifications, or read SPECS.md/FEATURES.md to submit your ideas/work on new codes. Too, you can edit other .md files if you think that have need.
 
-Pull requests, comments and open issues are very welcome.
+You can donate any of Bitcoins value to:
+
+<a href="bitcoin:1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU">1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU</a>
+
+<img width="250px" src="http://i.imgur.com/uDVyDTj.png"/>
+
+Pull requests, comments and open issues are too very welcome.
 
 **PS: don't change WS.js' addons, apps and/or games inside this project, please contribute directly with their separate repositories. See the used projects bellow:**
 
