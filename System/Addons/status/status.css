@@ -10,7 +10,6 @@
     border-left: 1px dotted;
     background: rgb(69, 69, 69);
     border-color: #000;
-    padding: 10px 0 0 0;
     z-index: 2;
     position: fixed !important;
     top: 22px;
