@@ -1,5 +1,7 @@
 Print ponteiro do mouse ou somente a tela
 Abrir no Painter
+Poder gravar video
+Poder gravar audio
 
 Isto é um app que funciona em segundo plano, como o relogio.
 Preciso criar o alarme. E colocar o icone com a hora no know.
