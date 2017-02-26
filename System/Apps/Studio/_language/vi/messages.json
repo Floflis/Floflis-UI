@@ -1,0 +1,2485 @@
+{
+   "1006787209796778126": {
+      "message": "Drive của tôi"
+   },
+   "1017907757187630742": {
+      "message": "Phông chữ của tôi"
+   },
+   "1029072043275376320": {
+      "message": "Không tìm thấy lịch nào."
+   },
+   "1030781695901615026": {
+      "message": "Dưới cùng"
+   },
+   "103870949919613488": {
+      "message": "Đã lưu trữ ghi chú"
+   },
+   "1039394921418415681": {
+      "message": "Đăng nhập"
+   },
+   "1083918249169198626": {
+      "message": "Đã tắt phím tắt."
+   },
+   "1090919586152138659": {
+      "message": "Kho ảnh"
+   },
+   "1101371910696766077": {
+      "message": "Tạo bản sao"
+   },
+   "1107413433574576014": {
+      "message": "Tiêu đề quá dài. Văn bản được đánh dấu sẽ không được lưu."
+   },
+   "1127320433256851404": {
+      "message": "Trình phát video"
+   },
+   "1162642135048988280": {
+      "message": "Đổi tên tài liệu"
+   },
+   "1166244120191806795": {
+      "message": "Gửi phản hồi"
+   },
+   "1179891706526242218": {
+      "message": "Tiếp theo"
+   },
+   "1185164838496022543": {
+      "message": "Vui lòng nhấp vào đây để tải lại trang."
+   },
+   "1185644932132585290": {
+      "message": "$1​ ký tự còn lại"
+   },
+   "1213005208968286932": {
+      "message": "Được đánh dấu là đã giải quyết"
+   },
+   "1263557413037343589": {
+      "message": "Sắp xếp ảnh"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1311350045083871503": {
+      "message": "Hủy"
+   },
+   "1311729747516144362": {
+      "message": "Đỏ"
+   },
+   "1315844696796851207": {
+      "message": "Sans Serif"
+   },
+   "1319037146426591038": {
+      "message": "hoặc"
+   },
+   "132822872080714863": {
+      "message": "OK"
+   },
+   "133192954417440569": {
+      "message": "Không tìm thấy kết quả nào."
+   },
+   "1349697396109290623": {
+      "message": "Hiển thị độ phân giải cao hơn của $1​"
+   },
+   "1376126796144976437": {
+      "message": "Tất cả phông chữ"
+   },
+   "139942704574044780": {
+      "message": "Chấp nhận"
+   },
+   "141491180325662484": {
+      "message": "Google Drive là nơi duy nhất giúp lưu giữ tất cả các tệp của bạn để bạn có thể truy cập chúng từ mọi nơi, mọi thiết bị. Khi bạn đã có ảnh trong Google Drive, bạn có thể chia sẻ ngay lập tức với vòng kết nối của bạn ở đây."
+   },
+   "1418114637490664392": {
+      "message": "Kho lưu trữ ảnh LIFE"
+   },
+   "1419896259743862406": {
+      "message": "Mở bằng"
+   },
+   "1440171352837969028": {
+      "message": "Video/Âm thanh"
+   },
+   "1441487391064925653": {
+      "message": "Xem tất cả phím tắt trong Trung tâm trợ giúp"
+   },
+   "1446829548948002072": {
+      "message": "dấu phẩy"
+   },
+   "1454684154234137497": {
+      "message": "pause"
+   },
+   "1459765068821943106": {
+      "message": "{VIEWER_GENDER,select, female{Dán URL YouTube vào đây:}male{Dán URL YouTube vào đây:}other{Dán URL YouTube vào đây:}}"
+   },
+   "1463079206290378085": {
+      "message": "Ảnh Orkut"
+   },
+   "1463389029497634261": {
+      "message": "Giảm âm lượng"
+   },
+   "1475179211173444554": {
+      "message": "Bất kỳ ai có liên kết trong miền"
+   },
+   "1492360016907725281": {
+      "message": "{VIEWER_GENDER,select, female{Dán URL video vào đây:}male{Dán URL video vào đây:}other{Dán URL video vào đây:}}"
+   },
+   "1493251742569121894": {
+      "message": "Ghi chú quá dài. Văn bản được đánh dấu sẽ không được lưu."
+   },
+   "1493384967280942491": {
+      "message": "Hồng"
+   },
+   "1499433769420882987": {
+      "message": "Hiển thị $1​"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1521707405717823409": {
+      "message": "Tía"
+   },
+   "153439508598626384": {
+      "message": "Ảnh của bạn"
+   },
+   "1536051766421561160": {
+      "message": "dấu bằng"
+   },
+   "156992719062713230": {
+      "message": "Xám"
+   },
+   "1586968957182554447": {
+      "message": "Tắt"
+   },
+   "1588268697057804046": {
+      "message": "$1​ giờ trước"
+   },
+   "1603139897109307706": {
+      "message": "Đã xảy ra lỗi, vui lòng thử lại"
+   },
+   "1604359562654146902": {
+      "message": "Ảnh"
+   },
+   "1633370388224271051": {
+      "message": "Không tìm thấy người nào."
+   },
+   "1633798963327779260": {
+      "message": "Ngày mai"
+   },
+   "1654222450095043962": {
+      "message": "Âm thanh"
+   },
+   "1656911987308166143": {
+      "message": "Xóa"
+   },
+   "1665821947855814052": {
+      "message": "Kích thước"
+   },
+   "1692901784886701962": {
+      "message": "Ghi chú quá lớn."
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700522311470719738": {
+      "message": "Nhắc tôi"
+   },
+   "1701312243672511585": {
+      "message": "Di chuyển văn bản sang ghi chú mới &raquo;"
+   },
+   "1709410429018687341": {
+      "message": "Buổi sáng ($1​)"
+   },
+   "1715552550526864429": {
+      "message": "Tìm kiếm blog"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1739900012825270238": {
+      "message": "Chuyển tới mục trước"
+   },
+   "1756171223417807431": {
+      "message": "Đảm bảo hình ảnh được công khai. Nếu hình ảnh của bạn được bảo vệ bằng mật khẩu hoặc thuộc mạng nội bộ, chúng tôi sẽ không thể đọc hình ảnh đó."
+   },
+   "1759957963056319953": {
+      "message": "Quay lại từ $1​"
+   },
+   "1783719421893050637": {
+      "message": "Kích thước"
+   },
+   "178927681797742562": {
+      "message": "Đăng nhập"
+   },
+   "1791115075948268631": {
+      "message": "Mở trợ giúp phím tắt"
+   },
+   "1808245543551507519": {
+      "message": "Âm thanh"
+   },
+   "1816851800848432562": {
+      "message": "Xóa"
+   },
+   "1818306025747564729": {
+      "message": "Truy cập liên kết"
+   },
+   "1823222042913714987": {
+      "message": "Gửi mật khẩu"
+   },
+   "1823854753950594157": {
+      "message": "Ở tại chỗ"
+   },
+   "1830157062072535681": {
+      "message": "Đang hiển thị $1​"
+   },
+   "185012928288875755": {
+      "message": "Không có mục nào phù hợp với tiêu chí của bạn."
+   },
+   "1856444915090632305": {
+      "message": "Tài liệu được mã hóa. Vui lòng nhập mật khẩu."
+   },
+   "1866863108233180413": {
+      "message": "Thư mục"
+   },
+   "187077078156858455": {
+      "message": "Ghi chú âm thanh"
+   },
+   "189303170370862360": {
+      "message": "$1​ / $2​ mục"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901351411358749070": {
+      "message": "Được chia sẻ với tôi"
+   },
+   "1913425963149828429": {
+      "message": "Giải nén tệp lưu trữ này vào Drive."
+   },
+   "1918176455405610789": {
+      "message": "Xong"
+   },
+   "1920189655549476211": {
+      "message": "độ dài không xác định"
+   },
+   "1929603188252533075": {
+      "message": "Không thể xóa video của bạn. Vui lòng thử lại."
+   },
+   "1951810091681076784": {
+      "message": "{COUNT_1,plural, =1{1 ghi chú phù hợp}other{{COUNT_2} ghi chú phù hợp}}"
+   },
+   "1956794332842050061": {
+      "message": "Trang tiếp theo"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1968405748623909021": {
+      "message": "Thử một trong số các ứng dụng bên dưới để mở hoặc chỉnh sửa mục này"
+   },
+   "1974063091619095703": {
+      "message": "Mọi người"
+   },
+   "1988244842147989817": {
+      "message": "Ghi chú trong Thùng rác bị xóa sau 7 ngày."
+   },
+   "1993674829873313178": {
+      "message": "Sự cố tải lên? Chúng tôi đang thực hiện bảo trì nhưng mọi việc sẽ sớm trở lại bình thường."
+   },
+   "2003845117979929469": {
+      "message": "Chi tiết"
+   },
+   "2048322072989992494": {
+      "message": "Chưa có ai chia sẻ bất kỳ tệp nào với bạn!"
+   },
+   "2055836117545582610": {
+      "message": "Cài đặt danh sách"
+   },
+   "2059084517358086391": {
+      "message": "Đóng thanh tìm kiếm"
+   },
+   "2061440050632248160": {
+      "message": "Lưu trữ"
+   },
+   "2068023589621557589": {
+      "message": "Phông chữ TrueType"
+   },
+   "2073035325657060696": {
+      "message": "Không có bản xem trước nào."
+   },
+   "2073322475696388995": {
+      "message": "Tua đi"
+   },
+   "207810168108507460": {
+      "message": "$1​ giờ trước"
+   },
+   "2109272338124379867": {
+      "message": "Sửa đổi lần cuối"
+   },
+   "2116013171202209313": {
+      "message": "Chọn"
+   },
+   "2122256657192674586": {
+      "message": "Tìm kiếm video"
+   },
+   "2125135092719715773": {
+      "message": "Tải lên"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "213665695896111861": {
+      "message": "Lưu ý"
+   },
+   "2138593281154109183": {
+      "message": "Lưu trữ"
+   },
+   "2147952938331523160": {
+      "message": "Đổi tên..."
+   },
+   "2154372123324862271": {
+      "message": "dấu gạch chéo"
+   },
+   "2154940358270068005": {
+      "message": "Giữ ghi chú bị xóa lâu hơn"
+   },
+   "2184278444368405837": {
+      "message": "$1​ mục"
+   },
+   "2187239650627580457": {
+      "message": "Gửi"
+   },
+   "2198096971937872560": {
+      "message": "Lời nhắc:"
+   },
+   "220168959069469607": {
+      "message": "Tác vụ khác"
+   },
+   "221715292685577880": {
+      "message": "Có"
+   },
+   "2220005860896049129": {
+      "message": "Rất tiếc, việc tìm tài liệu ở nguồn gốc mất quá nhiều thời gian."
+   },
+   "2228413078211839077": {
+      "message": "Rất tiếc, chúng tôi đang gặp sự cố tạm thời khi tạo chế độ xem cho tài liệu."
+   },
+   "2235097878790803849": {
+      "message": "Tạm biệt tệp đính kèm. Xin chào Google Drive."
+   },
+   "2257303402199718039": {
+      "message": "Rất tiếc, chúng tôi không thể tìm thấy tài liệu ở nguồn gốc. Hãy xác minh rằng tài liệu vẫn tồn tại."
+   },
+   "2274436793504233543": {
+      "message": "Hủy"
+   },
+   "2278224983638451454": {
+      "message": "Tải ngay"
+   },
+   "2280650195464600721": {
+      "message": "Điều hướng"
+   },
+   "2285069188138705005": {
+      "message": "Ứng dụng đã được kết nối"
+   },
+   "2289534534793293486": {
+      "message": "Hủy lưu trữ"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Tăng âm lượng"
+   },
+   "230180475614658119": {
+      "message": "Xong"
+   },
+   "2304293593067358316": {
+      "message": "Hình mẫu"
+   },
+   "2310145944356900158": {
+      "message": "Đã chọn"
+   },
+   "2311880726221661199": {
+      "message": "Đang tải độ phân giải cao hơn"
+   },
+   "2329167963662998826": {
+      "message": "Google Keep muốn sử dụng vị trí của bạn để cải tiến đề xuất địa điểm cho lời nhắc vị trí."
+   },
+   "234046557601727809": {
+      "message": "Không có hình ảnh hoặc video nào."
+   },
+   "2349912757088764940": {
+      "message": "Hiển thị với:"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2370463380397641604": {
+      "message": "Phím tắt thường dùng"
+   },
+   "2370656573843123707": {
+      "message": "dấu ngoặc đơn phải"
+   },
+   "2393487423640708285": {
+      "message": "URL không hợp lệ. Đảm bảo URL bắt đầu bằng http:// hoặc https://."
+   },
+   "2405795704816921421": {
+      "message": "Tệp $1​"
+   },
+   "2412314804333167252": {
+      "message": "Bảng tính này quá lớn. Nhấp để $3​tải xuống$1​ hoặc $4​chỉnh sửa trong Google Bảng tính$1​."
+   },
+   "2418104318933043113": {
+      "message": "Tìm kiếm hình ảnh của Google"
+   },
+   "2433429041384246549": {
+      "message": "Tắt tiếng"
+   },
+   "2449254824382583885": {
+      "message": "Hiện cửa sổ mở rộng"
+   },
+   "2452522051596946166": {
+      "message": "Rất tiếc! Đã có sự cố khi xem trước $1​. Đang thử lại."
+   },
+   "2454642351139428112": {
+      "message": "Hoàn tác"
+   },
+   "2466251465475184755": {
+      "message": "Dọn sạch thùng rác?  Tất cả ghi chú trong Thùng rác sẽ bị xóa vĩnh viễn."
+   },
+   "2475181823688399272": {
+      "message": "Tiếp"
+   },
+   "2484568559152875936": {
+      "message": "Không có album ảnh nào."
+   },
+   "2504232652631703202": {
+      "message": "Đã kết nối"
+   },
+   "251025074207413762": {
+      "message": "Thêm mô tả"
+   },
+   "2510929871271209216": {
+      "message": "Bảng tính này quá lớn. Nhấp vào $2​đây$1​ để tải xuống."
+   },
+   "2513437337377210144": {
+      "message": "end"
+   },
+   "2524021436052870191": {
+      "message": "Không thể tải tệp này lên. Chỉ các tệp $1​ nhỏ hơn $2​ MB mới được tải lên."
+   },
+   "2532280782491328445": {
+      "message": "Tìm kết quả phù hợp trước"
+   },
+   "2538080331309772448": {
+      "message": "Sắp xếp: $1​"
+   },
+   "2538462904124380434": {
+      "message": "Ghi chú được chuyển vào Thùng rác"
+   },
+   "2546225293834487484": {
+      "message": "Ghi chú"
+   },
+   "2558480112329900136": {
+      "message": "Xám"
+   },
+   "257317112834806705": {
+      "message": "Chuyển đổi giữa chế độ xem danh sách và lưới"
+   },
+   "2579679351920691492": {
+      "message": "Tua lùi"
+   },
+   "2587566920590457715": {
+      "message": "Maps Engine Lite"
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609750184896485102": {
+      "message": "Video từ điện thoại"
+   },
+   "2615188670181508661": {
+      "message": "Gần đây bạn chưa chọn bất kỳ tài liệu nào!"
+   },
+   "2623861453769098676": {
+      "message": "Đã có sự cố khi xem trước tài liệu này."
+   },
+   "2628268670001557269": {
+      "message": "Hạn ngạch dung lượng"
+   },
+   "2643241712502664984": {
+      "message": "Video trên YouTube của bạn"
+   },
+   "2661850177130037208": {
+      "message": "Mở mục"
+   },
+   "2681830832355823748": {
+      "message": "Tìm kiếm tất cả phím tắt"
+   },
+   "2687303256387847763": {
+      "message": "Mức độ phổ biến"
+   },
+   "2702485557996900362": {
+      "message": "Sửa các chỉnh sửa xung đột"
+   },
+   "2705842902318123127": {
+      "message": "Điều hướng tới ghi chú/danh sách tiếp theo/trước"
+   },
+   "272948685355798518": {
+      "message": "Loại tệp đã chọn không hợp lệ."
+   },
+   "2731144323070245943": {
+      "message": "Cài đặt danh sách"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2750830436677712001": {
+      "message": "{VIEWER_GENDER,select, female{Không tạo được {FOLDER_NAME}.}male{Không tạo được {FOLDER_NAME}.}other{Không tạo được {FOLDER_NAME}.}}"
+   },
+   "2752123004911547510": {
+      "message": "Thịnh hành"
+   },
+   "2758125083752925237": {
+      "message": "(Chủ sở hữu)"
+   },
+   "277430914014962533": {
+      "message": "Rất tiếc! Đã có sự cố khi xem trước $1​."
+   },
+   "2774713922589657910": {
+      "message": "Bất kỳ ai trong miền"
+   },
+   "2786560864906393383": {
+      "message": "Ảnh từ điện thoại"
+   },
+   "2789687492331041935": {
+      "message": "Chọn thời gian"
+   },
+   "2790446494460492805": {
+      "message": "Đã bắt đầu việc trích xuất. Thư lưu trữ sẽ xuất hiện trong tài khoản thư của bạn dưới nhãn \"Nhập: $1​\"."
+   },
+   "2793841261389879255": {
+      "message": "Trang trước"
+   },
+   "2801153442808430222": {
+      "message": "Drive của tôi"
+   },
+   "2817277146396981386": {
+      "message": "chiều"
+   },
+   "2818020101821669029": {
+      "message": "Đã tạo"
+   },
+   "2818135503416309545": {
+      "message": "Quay video"
+   },
+   "2827039933590757722": {
+      "message": "Windows Shortcut"
+   },
+   "2829226075651806940": {
+      "message": "Phóng to"
+   },
+   "2860188519781080944": {
+      "message": "Da cam"
+   },
+   "2861568351294148466": {
+      "message": "Tập lệnh"
+   },
+   "2864281852037732729": {
+      "message": "Bớt"
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Tạm dừng"
+   },
+   "2878874627361086801": {
+      "message": "bản xem trước"
+   },
+   "2879276552944958066": {
+      "message": "Quay lại thư mục $1​."
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2902747751281161248": {
+      "message": "Áp dụng cho các danh sách mới"
+   },
+   "2905147317995482841": {
+      "message": "Chúng tôi đã nâng cấp trải nghiệm xem cho tất cả các tệp trong Google Drive. Giao diện mới này giờ đây đẹp hơn và dễ sử dụng! Chúng tôi hi vọng bạn sẽ thích giao diện mới này."
+   },
+   "2917498437550635075": {
+      "message": "Biểu tượng"
+   },
+   "2964778642459027786": {
+      "message": "Không có ghi chú nào trong Thùng rác"
+   },
+   "2974598228601710262": {
+      "message": "Thêm"
+   },
+   "2979466412944870220": {
+      "message": "Đang tải bản xem trước..."
+   },
+   "2982511431742033448": {
+      "message": "Không có bản trình bày nào."
+   },
+   "298817883481775869": {
+      "message": "Đang tải..."
+   },
+   "3000689173481666334": {
+      "message": "Chỉnh sửa vòng kết nối của bạn"
+   },
+   "3029395493413607486": {
+      "message": "Không thể tải trình phát video. Hãy thử tải lại trang.$1​Nếu sự cố vẫn tiếp diễn, hãy $3​tham khảo trung tâm trợ giúp$2​."
+   },
+   "3043961722025425136": {
+      "message": "Mô tả"
+   },
+   "306516303501625305": {
+      "message": "Xác thực không thành công."
+   },
+   "3073005748126521632": {
+      "message": "Đã nhắc nhở tại $1​"
+   },
+   "3074184819310272351": {
+      "message": "Ảnh đã tải lên"
+   },
+   "3084372889071691504": {
+      "message": "{VIEWER_GENDER,select, female{Dán URL vào đây:}male{Dán URL vào đây:}other{Dán URL vào đây:}}"
+   },
+   "3095645856215493958": {
+      "message": "Tìm văn bản in trong ảnh"
+   },
+   "31018542656161389": {
+      "message": "Thu phóng cho vừa"
+   },
+   "3109321241584918345": {
+      "message": "Kết nối các ứng dụng khác..."
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "sau $1​ giờ"
+   },
+   "3189854932778515441": {
+      "message": "Ghi chú trong Lưu trữ"
+   },
+   "3207670492626476064": {
+      "message": "Bảng"
+   },
+   "3211163842850942567": {
+      "message": "Phóng to"
+   },
+   "3222929029344613957": {
+      "message": "Rất tiếc, đã xảy ra lỗi khi mở tệp này. Vui lòng thử lại."
+   },
+   "3233388241926683100": {
+      "message": "Tìm kiếm ghi chú"
+   },
+   "3243829462528324248": {
+      "message": "Nâu"
+   },
+   "3250489229749307913": {
+      "message": "Ấn bản điện tử"
+   },
+   "3256928852560591255": {
+      "message": "Không thể chỉnh sửa trong Thùng rác"
+   },
+   "3261131345401321392": {
+      "message": "Có thể nhận xét"
+   },
+   "3265524298292280681": {
+      "message": "esc"
+   },
+   "3267563602179728277": {
+      "message": "delete"
+   },
+   "3272496516667407797": {
+      "message": "Đã có sự cố khi tải chi tiết."
+   },
+   "3275029321588462173": {
+      "message": "Không màu"
+   },
+   "3278237562147211998": {
+      "message": "Ảnh trên kho ảnh"
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3306487262690341751": {
+      "message": "Ngày và giờ"
+   },
+   "3312545971976531405": {
+      "message": "Thông báo"
+   },
+   "3319087486907616296": {
+      "message": "Truyền mục này"
+   },
+   "3328129883064940351": {
+      "message": "Phông chữ"
+   },
+   "3335409796971631780": {
+      "message": "Đang giải nén vào Drive."
+   },
+   "3343451103608774400": {
+      "message": "Giới thiệu công cụ $3​Bản đồ của tôi mới.$2​$1​Công cụ lập bản đồ tốt hơn."
+   },
+   "3354260708176476985": {
+      "message": "Đang tải&hellip;"
+   },
+   "3357778055650785985": {
+      "message": "Mục quá dài. Văn bản được đánh dấu sẽ không được lưu."
+   },
+   "3364679383274077479": {
+      "message": "Đã có bản cập nhật ứng dụng"
+   },
+   "3368639944474272225": {
+      "message": "Rất tiếc, chúng tôi không thể truy xuất tài liệu để xem hoặc bạn không có quyền xem tài liệu."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Mở"
+   },
+   "3408219901032480508": {
+      "message": "$2​; $1​"
+   },
+   "3409257542937182842": {
+      "message": "Đang thử lại..."
+   },
+   "3409483962000136213": {
+      "message": "Phát/Tạm dừng"
+   },
+   "3418767079436101103": {
+      "message": "Đã có sự cố khi tải trang này."
+   },
+   "3421685394169412932": {
+      "message": "Mọi thay đổi bạn thực hiện sẽ được lưu tự động"
+   },
+   "3422389100099960864": {
+      "message": "Không có hình ảnh nào."
+   },
+   "3428726060007577698": {
+      "message": "Danh sách quá lớn."
+   },
+   "3430885603500576146": {
+      "message": "Chỉ chọn hình ảnh mà bạn đã xác nhận bạn có giấy phép sử dụng."
+   },
+   "3440534675925634227": {
+      "message": "Trong cửa sổ trình duyệt Chrome, đi tới chrome://settings và đảm bảo bạn đã đăng nhập. Sau đó, nhấp vào Đăng nhập một lần nữa."
+   },
+   "3446158485617778228": {
+      "message": "Hoàn tác"
+   },
+   "3448234415275521882": {
+      "message": "Thông tin chung"
+   },
+   "3448684788258660606": {
+      "message": "Ảnh của bạn"
+   },
+   "3450585781337676327": {
+      "message": "Đang tải..."
+   },
+   "3457279184692206825": {
+      "message": "Ảnh sẽ hiển thị với mọi người (công khai trên web)."
+   },
+   "3468441711253011521": {
+      "message": "Google Bảng tính"
+   },
+   "3473620774713000513": {
+      "message": "Đã giải quyết"
+   },
+   "3483438888494819423": {
+      "message": "Tính năng gì mới trong Google Keep"
+   },
+   "3511274344439521198": {
+      "message": "Tác vụ"
+   },
+   "3518073392823563581": {
+      "message": "Phím tắt"
+   },
+   "3531603810713611778": {
+      "message": "Đã vượt quá kích thước tệp tối đa. Vui lòng bỏ chọn một hoặc nhiều tệp."
+   },
+   "3543475399174940144": {
+      "message": "+$1​"
+   },
+   "3547194749488601916": {
+      "message": "Đang cập nhật..."
+   },
+   "354828103903104581": {
+      "message": "Mục đã chọn"
+   },
+   "3561658662634401836": {
+      "message": "Tiêu đề"
+   },
+   "357172711168973843": {
+      "message": "Mọi thay đổi hoặc ghi chú đã thêm gần đây chưa được lưu. Tạo bản sao nội dung của riêng bạn, sau đó tải lại."
+   },
+   "3586705906700410505": {
+      "message": "Đường kẻ"
+   },
+   "3587798318180902863": {
+      "message": "{NUM_SELECTED,plural, =1{ được chọn »}other{ được chọn »}}"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3602920441714068008": {
+      "message": "Đã nhắc nhở vào $1​ lúc $2​"
+   },
+   "3608606849109645545": {
+      "message": "Nhập tên tài liệu mới:"
+   },
+   "361202495024972887": {
+      "message": "Tải video lên"
+   },
+   "361630518611593946": {
+      "message": "Ẩn hộp kiểm"
+   },
+   "3625886392901506764": {
+      "message": "hoặc"
+   },
+   "3643146117250542609": {
+      "message": "Không có bản PDF nào."
+   },
+   "3645728163953189422": {
+      "message": "Rất tiếc, chúng tôi không thể truy xuất tài liệu để xem vì tài liệu quá lớn."
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "dấu gạch chéo ngược"
+   },
+   "3659554681396757189": {
+      "message": "Được mở bởi tôi"
+   },
+   "3663571259791438207": {
+      "message": "Báo cáo lạm dụng"
+   },
+   "3664842788764635265": {
+      "message": "Không có"
+   },
+   "3666123569747918021": {
+      "message": "Tài liệu này có các thay đổi chưa được lưu. Bạn có muốn rời khỏi trang và hủy các thay đổi của mình không?"
+   },
+   "3673346558112798837": {
+      "message": "Không có hình nền"
+   },
+   "3674811252904549204": {
+      "message": "Ảnh bìa"
+   },
+   "3678477908297567934": {
+      "message": "dấu gạch dưới"
+   },
+   "3681747688524363195": {
+      "message": "Trên cùng"
+   },
+   "3690515530505404607": {
+      "message": "Đã có sự cố khi phát video này."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Không có mục nào}=1{1 mục}other{# mục}}"
+   },
+   "3712215972250917265": {
+      "message": "Nhận xét"
+   },
+   "3717138719704492547": {
+      "message": "Vui lòng kiểm tra lỗi đánh máy trong địa chỉ."
+   },
+   "374088101949877889": {
+      "message": "Đóng"
+   },
+   "3745308627628779133": {
+      "message": "Thư mục mới"
+   },
+   "3748461364828242354": {
+      "message": "Chọn màu"
+   },
+   "3770795578481676514": {
+      "message": "Vàng"
+   },
+   "3771958676925493302": {
+      "message": "Xóa bộ lọc: $1​"
+   },
+   "3779945546806941187": {
+      "message": "Đơn sắc"
+   },
+   "3793086499925031123": {
+      "message": "Mở thanh tìm kiếm / tìm kết quả trước"
+   },
+   "37992665410817181": {
+      "message": "Đã mở lại"
+   },
+   "3801617971018550169": {
+      "message": "Hôm qua"
+   },
+   "3808213429720572062": {
+      "message": "Khôi phục"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3842411126100113634": {
+      "message": "pg-up"
+   },
+   "3844047145949375230": {
+      "message": "Tài liệu"
+   },
+   "3858324058837632381": {
+      "message": "Đã có sự cố khi phát tệp âm thanh này."
+   },
+   "3864575916269080329": {
+      "message": "Hình ảnh có thể tìm kiếm"
+   },
+   "3866373087987934712": {
+      "message": "Tải lên không thành công: $1​"
+   },
+   "3869166581651870488": {
+      "message": "Kết thúc chỉnh sửa"
+   },
+   "3873215756962047275": {
+      "message": "LƯU TRỮ"
+   },
+   "3873467440437675460": {
+      "message": "Rất tiếc! Chúng tôi không thể tìm thấy phông chữ bạn đã chọn trước đó."
+   },
+   "3897281533382850749": {
+      "message": "Bật tiếng"
+   },
+   "3936153839186254186": {
+      "message": "Hiển thị: $1​"
+   },
+   "3955760658925284765": {
+      "message": "Thử lại"
+   },
+   "3974064131130689245": {
+      "message": "Chế độ xem lưới"
+   },
+   "3977699855735576796": {
+      "message": "Đã có sự cố khi tải thêm trang."
+   },
+   "3988418762222300024": {
+      "message": "dấu chấm"
+   },
+   "3989552504822984034": {
+      "message": "Google Bản vẽ"
+   },
+   "4005725939358875643": {
+      "message": "Đã hoàn tác tác vụ."
+   },
+   "4014287326684608407": {
+      "message": "Xanh két"
+   },
+   "4048275292053012394": {
+      "message": "Danh bạ"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4067915791853673774": {
+      "message": "{VIEWER_GENDER,select, female{Đóng}male{Đóng}other{Đóng}}"
+   },
+   "4078179869358383373": {
+      "message": "Không tìm thấy kết quả nào."
+   },
+   "4087667435414545203": {
+      "message": "Không còn đăng nhập nữa. Để thực hiện thay đổi, hãy tải lại."
+   },
+   "4093134637041332383": {
+      "message": "TÌM HIỂU THÊM"
+   },
+   "4097007735221462946": {
+      "message": "Bản vẽ"
+   },
+   "4097921967754832323": {
+      "message": "dấu gạch ngang"
+   },
+   "4100504115801514799": {
+      "message": "Đã khôi phục ghi chú"
+   },
+   "4119294114251628099": {
+      "message": "Không thể truy xuất URL hình ảnh mà bạn đã chỉ định. Đây có thể là URL riêng tư mà máy chủ của chúng tôi không thể truy cập. Vui lòng thử một URL khác."
+   },
+   "4134385041569168669": {
+      "message": "Đang tải..."
+   },
+   "4148564423510181521": {
+      "message": "Xóa tìm kiếm"
+   },
+   "4152315289461886": {
+      "message": "Kiểm soát tài liệu"
+   },
+   "4168280976997555951": {
+      "message": "Không có tài liệu nào."
+   },
+   "4174786386751618325": {
+      "message": "Ghi chú ảnh"
+   },
+   "4182427157920112948": {
+      "message": "dấu sóng"
+   },
+   "4200426647595470259": {
+      "message": "Bắt đầu phát tệp âm thanh"
+   },
+   "4200911267543705377": {
+      "message": "Nhập tìm kiếm của bạn vào ô ở trên để tìm kết quả tìm kiếm blog bằng Google Blog Search."
+   },
+   "4205329094859140439": {
+      "message": "sáng"
+   },
+   "4211182812451835307": {
+      "message": "Có thể chỉnh sửa"
+   },
+   "4211806608204126222": {
+      "message": "$2​Điều khoản dịch vụ$1​"
+   },
+   "4214190403999219403": {
+      "message": "Thu phóng"
+   },
+   "4230101516585408149": {
+      "message": "Soạn ghi chú mới"
+   },
+   "4253741616909644861": {
+      "message": "Cụm từ tìm kiếm"
+   },
+   "4280747719095153198": {
+      "message": "Nhận xét đã giải quyết"
+   },
+   "4286663890332754386": {
+      "message": "Không tải lên được."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4314643310615423802": {
+      "message": "Bạn đã bị đăng xuất."
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4319229296464464147": {
+      "message": "Ngày thêm"
+   },
+   "4320831042030778": {
+      "message": "Hủy"
+   },
+   "4332252081504252077": {
+      "message": "Rất tiếc!"
+   },
+   "4338991104991831337": {
+      "message": "Hình ảnh"
+   },
+   "4339705658383891586": {
+      "message": "Đủ màu"
+   },
+   "4343825450663233452": {
+      "message": "Có thể xem"
+   },
+   "4343836986248234462": {
+      "message": "Mục danh sách"
+   },
+   "435214284915110062": {
+      "message": "Mở thanh tìm kiếm"
+   },
+   "4372755508519489521": {
+      "message": "Chế độ xem lưới"
+   },
+   "4391715930031906467": {
+      "message": "Tìm kết quả phù hợp tiếp theo"
+   },
+   "4395845663892873002": {
+      "message": "home"
+   },
+   "4422985761498356257": {
+      "message": "Mở bằng"
+   },
+   "4430062722430863019": {
+      "message": "Xóa ghi chú vĩnh viễn?"
+   },
+   "4439812492856303238": {
+      "message": "Rất tiếc! Đã xảy ra lỗi không mong muốn khi xử lý lựa chọn của bạn. Vui lòng thử lại sau."
+   },
+   "4444571967705751871": {
+      "message": "Thùng rác"
+   },
+   "4466605492523079635": {
+      "message": "Lưu"
+   },
+   "4468872996560163913": {
+      "message": "Dọn sạch Thùng rác ngay bây giờ"
+   },
+   "4473912481270012588": {
+      "message": "Đã lưu vào Drive - Di chuyển đến:"
+   },
+   "45228242181482134": {
+      "message": "Phát"
+   },
+   "4536519876526589338": {
+      "message": "Hình đại diện $1​."
+   },
+   "4552045407215325033": {
+      "message": "URL video bạn đã nhập ở trên không thể tải được. Vui lòng đảm bảo rằng URL đó chính xác và từ trang web được hỗ trợ."
+   },
+   "4564682305303579317": {
+      "message": "Tiếp tục"
+   },
+   "456498742882714639": {
+      "message": "Di chuyển đến:"
+   },
+   "4588500131398315347": {
+      "message": "Tạo vòng kết nối"
+   },
+   "4604402426271704651": {
+      "message": "Không có ảnh nào"
+   },
+   "4620034373159179678": {
+      "message": "Trang $1​ / $2​"
+   },
+   "4630690108252818511": {
+      "message": "Không tìm thấy ảnh nào."
+   },
+   "468283184702431827": {
+      "message": "Tiến độ đã bắt đầu"
+   },
+   "4695897771458936174": {
+      "message": "Chia sẻ ảnh từ Google Drive trên Google+"
+   },
+   "4740100782728373253": {
+      "message": "Lưu vào Drive"
+   },
+   "4748046231232264180": {
+      "message": "Google Biểu mẫu"
+   },
+   "4767722428137216885": {
+      "message": "Hủy"
+   },
+   "477328789314249432": {
+      "message": "Tìm kiếm ghi chú"
+   },
+   "4775368111547931093": {
+      "message": "Không có mô tả nào"
+   },
+   "4781742940361705258": {
+      "message": "Loại bỏ"
+   },
+   "4783695823456312682": {
+      "message": "Chuyển xuống dưới cùng"
+   },
+   "47844150329705564": {
+      "message": "Kết quả tìm kiếm cho \"$1​\""
+   },
+   "4798897505978458661": {
+      "message": "Không tìm thấy video nào."
+   },
+   "4805047680716507619": {
+      "message": " - Di chuyển đến:"
+   },
+   "4806763987633034948": {
+      "message": "Chữ ký PKCS7"
+   },
+   "4833214200453019325": {
+      "message": "$1​ / $2​"
+   },
+   "4846720038197420778": {
+      "message": "Kết nối ứng dụng khác"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Ghi chú trong Thùng rác"
+   },
+   "4888104357342241891": {
+      "message": "Lời nhắc"
+   },
+   "4889853674709731963": {
+      "message": "Đã lưu tất cả ghi chú ngoại tuyến"
+   },
+   "4901386320110714275": {
+      "message": "Mật khẩu không đúng. Vui lòng thử lại."
+   },
+   "490372259452655427": {
+      "message": "Rất tiếc, hiện không có tài liệu này để xem."
+   },
+   "4906669330059413958": {
+      "message": "Gửi mật khẩu"
+   },
+   "4908614808966678155": {
+      "message": "Không có kết quả tìm kiếm cho \"$1​\""
+   },
+   "4926020998477695737": {
+      "message": "Chuyển sang thư mục $1​"
+   },
+   "4943176738805484221": {
+      "message": "chỉnh sửa"
+   },
+   "4956678140555659175": {
+      "message": "backspace (phím lùi)"
+   },
+   "4957674814179289955": {
+      "message": "Điều hướng tới mục danh sách tiếp theo/trước"
+   },
+   "4963784280521435720": {
+      "message": "Đang lưu..."
+   },
+   "4969219890884320840": {
+      "message": "Cập nhật"
+   },
+   "4983125135476400111": {
+      "message": "Chuyển ghi chú/danh sách vào thùng rác"
+   },
+   "4988132901627446385": {
+      "message": "Bảng chi tiết đã được mở rộng."
+   },
+   "4998757387516632837": {
+      "message": "Các kết quả đã hiển thị được gắn nhãn để sử dụng lại có sửa đổi."
+   },
+   "5006225450559627366": {
+      "message": "+$1​ ảnh khác"
+   },
+   "501475221876543407": {
+      "message": "Ghi chú bạn thêm sẽ xuất hiện tại đây"
+   },
+   "5023525794410110078": {
+      "message": "Thêm văn bản vào ảnh"
+   },
+   "5026241297254150381": {
+      "message": "Thêm ghi chú"
+   },
+   "5046371569383796818": {
+      "message": "Giữ"
+   },
+   "5055418092354683641": {
+      "message": "Serif"
+   },
+   "5095987896933771566": {
+      "message": "In tài liệu"
+   },
+   "5096751700090310607": {
+      "message": "Không có ảnh nào."
+   },
+   "509815948423424872": {
+      "message": "Điều hướng"
+   },
+   "5099245668405591445": {
+      "message": "Tìm kiếm"
+   },
+   "512429649443191386": {
+      "message": "$2​Trợ giúp$1​"
+   },
+   "5124522868502261563": {
+      "message": "Bảng tính"
+   },
+   "5130903421326358933": {
+      "message": "Đã xảy ra sự cố khi lưu tệp đính kèm vào Google Drive."
+   },
+   "5149937870346466591": {
+      "message": "Chế độ xem danh sách"
+   },
+   "5169187962228219813": {
+      "message": "Hình ảnh cuộc sống"
+   },
+   "5180454621500142444": {
+      "message": "Khôi phục"
+   },
+   "5180989337128758117": {
+      "message": "dấu ngoặc đơn trái"
+   },
+   "5184692850089055965": {
+      "message": "Tải chú thích hình ảnh"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Thanh tab bảng chi tiết. Nhấn phím mũi tên trái và phải để chuyển đổi giữa các tab."
+   },
+   "5204391636475413312": {
+      "message": "Lưu"
+   },
+   "5213411023807957844": {
+      "message": "Tìm kiếm trên Google Keep"
+   },
+   "5213974294317036409": {
+      "message": "{numPages,plural, =0{}=1{1 trang}other{# trang}}"
+   },
+   "5226470917948786938": {
+      "message": "Thứ tự chữ cái"
+   },
+   "5238003680997310998": {
+      "message": "Thêm"
+   },
+   "5238371081785912565": {
+      "message": "Mở bằng $1​"
+   },
+   "5275493935807628890": {
+      "message": "Chúng tôi không thể tìm thấy hình ảnh tại URL đó."
+   },
+   "5281121179861637423": {
+      "message": "Yêu cầu mật khẩu để truy cập $1​. Vui lòng nhập mật khẩu"
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5291153964865714504": {
+      "message": "Không có ghi chú nào phù hợp"
+   },
+   "5299648222246616124": {
+      "message": "dấu phẩy ngược"
+   },
+   "5304869088141363028": {
+      "message": "Ảnh nổi bật"
+   },
+   "5316658541831864803": {
+      "message": "Rất tiếc, loại tài liệu này không được hỗ trợ để xem."
+   },
+   "5319313176242717957": {
+      "message": "Đang xử lý hình ảnh..."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "534228323125524312": {
+      "message": "Thu nhỏ"
+   },
+   "5353129315502554762": {
+      "message": "Biểu định kiểu"
+   },
+   "5372143986724491245": {
+      "message": "$1​ ngày trước"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5399553230649155346": {
+      "message": "sau $1​ giờ"
+   },
+   "5403830377590414208": {
+      "message": "Trắng"
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5438481737351808090": {
+      "message": "Buổi chiều ($1​)"
+   },
+   "544377415081282702": {
+      "message": "Rất tiếc."
+   },
+   "5447119197363232006": {
+      "message": "Hiển thị trong Drive"
+   },
+   "5465323999933375616": {
+      "message": "Bạn đã đạt đến giới hạn băng thông dành cho xem hoặc tải xuống tệp không ở định dạng Google Documents."
+   },
+   "5472312735475866917": {
+      "message": "Nhận xét của $1​."
+   },
+   "547865385964196102": {
+      "message": "$1​ phút trước"
+   },
+   "5482872484546230111": {
+      "message": "Tìm kiếm sách"
+   },
+   "5494181290179470995": {
+      "message": "Xóa"
+   },
+   "5500117709595533163": {
+      "message": "Nhập tìm kiếm của bạn vào hộp bên trên để tìm các kết quả sách điện tử bằng Google Sách."
+   },
+   "5514516347328112388": {
+      "message": "Bạn cũng có thể thử tải xuống tài liệu ban đầu bằng cách nhấp vào $2​đây$1​."
+   },
+   "5529532831767466284": {
+      "message": "{VIEWER_GENDER,select, female{{DEGREES} độ {MINUTES} phút {SECONDS} giây}male{{DEGREES} độ {MINUTES} phút {SECONDS} giây}other{{DEGREES} độ {MINUTES} phút {SECONDS} giây}}"
+   },
+   "5555182241047709329": {
+      "message": "Chọn vị trí"
+   },
+   "5555599189512365009": {
+      "message": "OK"
+   },
+   "5571842632470308750": {
+      "message": "Mọi loại"
+   },
+   "5588597116382648727": {
+      "message": "Đang bắt đầu lệnh giải nén."
+   },
+   "5598649706113950710": {
+      "message": "Trình chỉnh sửa"
+   },
+   "5609727719971819773": {
+      "message": "{VIEWER_GENDER,select, female{Quay lại}male{Quay lại}other{Quay lại}}"
+   },
+   "5627470193961862490": {
+      "message": "Ghi chú với lời nhắc sắp tới sẽ xuất hiện tại đây"
+   },
+   "5631086126416409232": {
+      "message": "Lam"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5660422479531064559": {
+      "message": "Không có biểu mẫu nào."
+   },
+   "5675154446465700699": {
+      "message": "PDF"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Xóa các mục đã chọn?"
+   },
+   "5714240424645614611": {
+      "message": "Gói Android"
+   },
+   "5728640851616538925": {
+      "message": "Lục"
+   },
+   "5744491383087191878": {
+      "message": "URL ảnh bạn nhập trên đây không chính xác hoặc không thể tải được."
+   },
+   "5747728324987383020": {
+      "message": "Khuôn mặt"
+   },
+   "5783875011049188612": {
+      "message": "Đã tải chú thích hình ảnh"
+   },
+   "5785010887521443923": {
+      "message": "Xóa"
+   },
+   "5834678297024555032": {
+      "message": "Cho phép"
+   },
+   "5840330517914556080": {
+      "message": "Thu nhỏ"
+   },
+   "5842536098490298653": {
+      "message": "Không tìm thấy phông chữ nào."
+   },
+   "5865680764501413616": {
+      "message": "Không thể nhận dạng văn bản."
+   },
+   "5871966496153339793": {
+      "message": "Hiển thị hình thu nhỏ của video $1​"
+   },
+   "5875004331736681428": {
+      "message": "Đang trích xuất sang tài khoản thư của bạn."
+   },
+   "587666071025645113": {
+      "message": "Tìm kiếm"
+   },
+   "5877526626743756786": {
+      "message": "Phản hồi"
+   },
+   "5889725440363483648": {
+      "message": "Bất kỳ ai trong nhóm"
+   },
+   "5911012384539794869": {
+      "message": "Không bắt đầu lệnh giải nén được."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5949528478488617689": {
+      "message": "Quyền tải xuống"
+   },
+   "5950887255133612666": {
+      "message": "Chưa bắt đầu."
+   },
+   "5969696744752069015": {
+      "message": "Không có bản xem trước nào."
+   },
+   "5971400924847413790": {
+      "message": "Ngoài ra, bạn có thể xem $2​HTML thuần túy$1​ (tự động chuyển hướng)."
+   },
+   "5972111804366033138": {
+      "message": "Tải xuống"
+   },
+   "5975031149676029214": {
+      "message": "Mọi người"
+   },
+   "5976369213680241300": {
+      "message": "Tìm kiếm hình ảnh"
+   },
+   "5980081664136280513": {
+      "message": "Lục"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "6009962986062136164": {
+      "message": "Đang tải $1​."
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6043068172993241858": {
+      "message": "Không có ai trong vòng kết nối này."
+   },
+   "604883455412617728": {
+      "message": "Không có địa chỉ liên hệ nào khớp với tìm kiếm của bạn."
+   },
+   "6051386830221821025": {
+      "message": "Đang đăng nhập..."
+   },
+   "6064654062949366878": {
+      "message": "Phát"
+   },
+   "6070475007374165567": {
+      "message": "Đang lưu..."
+   },
+   "6083586461434260179": {
+      "message": "Trải nghiệm xem mới"
+   },
+   "6087078248621415351": {
+      "message": "Đã sửa đổi $1​"
+   },
+   "6091926883608250483": {
+      "message": "Khác"
+   },
+   "6105571474005679446": {
+      "message": "Đã có sự cố với bản xem trước."
+   },
+   "6113237889871930608": {
+      "message": "Ghi chú trống"
+   },
+   "6118623991445349480": {
+      "message": "Trang $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Danh sách ứng dụng"
+   },
+   "6149175749937815029": {
+      "message": "Xem tất cả các mục"
+   },
+   "6160805346274626656": {
+      "message": "Xóa vĩnh viễn"
+   },
+   "616807262818311711": {
+      "message": "Loại"
+   },
+   "6175043905327075444": {
+      "message": "Đã chọn trước đây"
+   },
+   "6177107655089301674": {
+      "message": "Tải xuống ứng dụng Google Keep dành cho Android"
+   },
+   "6185886893933834031": {
+      "message": "Giữ các bản ghi chú đã chọn"
+   },
+   "6186290899408627510": {
+      "message": "enter"
+   },
+   "6189891414154673003": {
+      "message": "Bản đồ của tôi"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Bất kỳ ai"
+   },
+   "623118860067088424": {
+      "message": "Video"
+   },
+   "6231401379881217113": {
+      "message": "insert"
+   },
+   "6252259197986158120": {
+      "message": "Hôm qua"
+   },
+   "6253076263700695984": {
+      "message": "Lỗi xác thực. Vui lòng tải lại."
+   },
+   "6255475144867830247": {
+      "message": "Chọn từ tab điều hướng khác."
+   },
+   "6267063643272327592": {
+      "message": "Vui lòng thử lại sau."
+   },
+   "6290270819062517523": {
+      "message": "Đã chọn quá nhiều mục. Vui lòng bỏ chọn một hoặc nhiều mục."
+   },
+   "6305748545202493254": {
+      "message": "Hiển thị/ẩn ngăn chi tiết"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6331677437567501421": {
+      "message": "Đã xảy ra sự cố khi cập nhật quyền tải xuống."
+   },
+   "6333496730738019575": {
+      "message": "Đang tải..."
+   },
+   "634900089121611600": {
+      "message": "Không có video nào."
+   },
+   "6362170008350775214": {
+      "message": "Lời nhắc tại $1​"
+   },
+   "6375395544374251820": {
+      "message": "Đã có sự cố khi tải thêm trang. Đang thử lại..."
+   },
+   "6376739025584042564": {
+      "message": "Cắt ảnh"
+   },
+   "6386587519843563719": {
+      "message": "Tệp nhị phân"
+   },
+   "6416495701611778255": {
+      "message": "Ứng dụng của bên thứ ba được đề xuất"
+   },
+   "6419411265907669340": {
+      "message": "Hôm nay"
+   },
+   "6436479735235889890": {
+      "message": "Lời nhắc lúc $2​, $1​"
+   },
+   "6450508807204492448": {
+      "message": "Biểu tượng $1​"
+   },
+   "6457802200418354862": {
+      "message": "Người xem có thể tải xuống"
+   },
+   "6459405233858728718": {
+      "message": "Google Trang trình bày"
+   },
+   "6464761738227651511": {
+      "message": "$1​ phút trước"
+   },
+   "6466736813846482957": {
+      "message": "Trước"
+   },
+   "6479216014938929613": {
+      "message": "Đêm ($1​)"
+   },
+   "6482358947077977110": {
+      "message": "Hình ảnh tìm kiếm trên Google"
+   },
+   "6487403767449360463": {
+      "message": "Bạn muốn tải lại Keep?"
+   },
+   "6488225756782357866": {
+      "message": "Hình ảnh bạn đánh dấu được tìm thấy bởi Tìm kiếm hình ảnh của Google trên trang này:"
+   },
+   "6510131849363684615": {
+      "message": "Ngày mai"
+   },
+   "6516256764288947999": {
+      "message": "Gắn thẻ mọi người"
+   },
+   "6522917155620379865": {
+      "message": "Tải xuống"
+   },
+   "6524849072392100692": {
+      "message": "Thư mục Google Drive"
+   },
+   "6551588617715293696": {
+      "message": "Tùy chọn sắp xếp"
+   },
+   "6570921376519753466": {
+      "message": "Hiển thị"
+   },
+   "6571686604846453345": {
+      "message": "Đã xảy ra sự cố khi thêm mục này vào Drive."
+   },
+   "6582286158693833652": {
+      "message": "Tìm hiểu thêm"
+   },
+   "6588176324871799870": {
+      "message": "Tập lệnh Google Apps"
+   },
+   "6602430002978098812": {
+      "message": "Chữ viết tay"
+   },
+   "6614046405230762587": {
+      "message": "Không tìm thấy danh sách liên hệ nào."
+   },
+   "6622304228074863427": {
+      "message": "Ứng dụng"
+   },
+   "6624754161346656119": {
+      "message": "Hình đại diện $1​."
+   },
+   "6644861766016503644": {
+      "message": "Yêu cầu mật khẩu"
+   },
+   "6650600936729710500": {
+      "message": "Trả lời."
+   },
+   "666311703374681171": {
+      "message": "Hình ảnh và video"
+   },
+   "6666820082708870349": {
+      "message": "Xóa"
+   },
+   "6707173584987026005": {
+      "message": "Hôm nay"
+   },
+   "6709984792949009238": {
+      "message": "Mở lần cuối bởi tôi"
+   },
+   "6726462693927865256": {
+      "message": "Chi tiết"
+   },
+   "6726879257388338969": {
+      "message": "In"
+   },
+   "6726925393892510846": {
+      "message": "Đã xảy ra lỗi. Vui lòng thử lại."
+   },
+   "6741759391888465238": {
+      "message": "Đang lưu vào Drive - Di chuyển đến:"
+   },
+   "6744457949320515234": {
+      "message": "Ghi chú trống đã bị hủy"
+   },
+   "6757218172402086688": {
+      "message": "Tìm kiếm ghi chú..."
+   },
+   "6780628488957834429": {
+      "message": "Da cam"
+   },
+   "6784073265197389491": {
+      "message": "Tìm hiểu thêm"
+   },
+   "681598652078493281": {
+      "message": "Tìm hiểu thêm"
+   },
+   "6818286476757207074": {
+      "message": "Chỉ chọn hình ảnh mà bạn đã xác nhận bạn có giấy phép sử dụng."
+   },
+   "682070933835616121": {
+      "message": "Không có bảng nào."
+   },
+   "6822338149422461362": {
+      "message": "Google Drive"
+   },
+   "6827821461670731013": {
+      "message": "Hiển thị hộp kiểm"
+   },
+   "6828581947433060251": {
+      "message": "Đã xảy ra sự cố khi đổi tên mục."
+   },
+   "6833760103261954639": {
+      "message": "Đã có sự cố khi tải trang này. Đang thử lại..."
+   },
+   "6841020391100928352": {
+      "message": "Đã vượt quá kích thước tệp tối đa."
+   },
+   "6851307437837490686": {
+      "message": "Ngăn người xem tải xuống"
+   },
+   "6856672816797218730": {
+      "message": "Đính kèm"
+   },
+   "6891563484025164308": {
+      "message": "Trước"
+   },
+   "6893687445500687349": {
+      "message": "Các trang web"
+   },
+   "6898823203505321799": {
+      "message": "Chi tiết"
+   },
+   "6904351530369058983": {
+      "message": "Chủ sở hữu"
+   },
+   "6905021988981026920": {
+      "message": "Tìm kiếm video"
+   },
+   "6922953828399110511": {
+      "message": "Đóng trình xem"
+   },
+   "6929958461954697067": {
+      "message": "Ảnh chụp bạn"
+   },
+   "6939782595426687411": {
+      "message": "Đang thêm..."
+   },
+   "6940998537415516791": {
+      "message": "lúc"
+   },
+   "695253297035211081": {
+      "message": "Dọn sạch thùng rác"
+   },
+   "6967244066810487978": {
+      "message": "THÙNG RÁC"
+   },
+   "6970167488058122005": {
+      "message": "tác giả không xác định"
+   },
+   "6976414863987386971": {
+      "message": "Biểu mẫu"
+   },
+   "7001938470263404128": {
+      "message": "Tải lên"
+   },
+   "7002768663714031226": {
+      "message": "Cập nhật"
+   },
+   "7004919150329996187": {
+      "message": "Không tìm thấy người nào phù hợp trong vòng kết nối này."
+   },
+   "7054631817922169541": {
+      "message": "Google Keep có các thay đổi chưa được lưu. Bạn có muốn rời khỏi trang và hủy các thay đổi của mình không?"
+   },
+   "7059437903473652416": {
+      "message": "Phát video trên YouTube $1​"
+   },
+   "7080196430479494775": {
+      "message": "Thử lại"
+   },
+   "7084324152376766809": {
+      "message": "$1​ ngày trước"
+   },
+   "7084991134824194740": {
+      "message": "Nhắc tôi"
+   },
+   "7092062731478679314": {
+      "message": "Không tìm thấy vòng kết nối nào."
+   },
+   "7117183622067702162": {
+      "message": "Với Google Drive, bạn không bao giờ phải gửi lại một tệp đính kèm email nào khác. Chỉ cần chia sẻ liên kết tới một tệp bất kỳ mà bạn lưu trữ trong Google Drive. Bằng cách đó mọi người đều có quyền truy cập vào cùng một tệp, cùng một phiên bản - một cách tự động."
+   },
+   "713754035716193665": {
+      "message": "Danh sách mới"
+   },
+   "7146242673022399081": {
+      "message": "Văn bản"
+   },
+   "7148992630785407972": {
+      "message": "Tệp này được bảo vệ bằng mật khẩu và không thể xem trước được."
+   },
+   "7151987668860086450": {
+      "message": "Tìm kiếm trên web"
+   },
+   "7153847618034547771": {
+      "message": "Bật"
+   },
+   "7161134329606048317": {
+      "message": "Đóng"
+   },
+   "7164532930742017984": {
+      "message": "Bất kỳ ai có liên kết"
+   },
+   "7174189954350964804": {
+      "message": "Thử lại"
+   },
+   "7177591028189992523": {
+      "message": "Di chuyển"
+   },
+   "7188754206068648188": {
+      "message": "Dữ liệu được phân tách bằng dấu phẩy"
+   },
+   "7225837680381806920": {
+      "message": "Buổi tối ($1​)"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7236199858216720905": {
+      "message": "Bản đồ"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7259352906118493156": {
+      "message": "Không có trang web nào."
+   },
+   "7282548567245878869": {
+      "message": "Đã xóa mục"
+   },
+   "7295712436136900176": {
+      "message": "Tải lại"
+   },
+   "7310311230493556740": {
+      "message": "URL"
+   },
+   "7339696241980105410": {
+      "message": "Video bạn đã chọn không còn tồn tại. Chủ sở hữu có thể đã xóa video đó."
+   },
+   "7342923890755029722": {
+      "message": "Đóng"
+   },
+   "734478884582426793": {
+      "message": "Lưu trữ nén"
+   },
+   "7357017164339332230": {
+      "message": "Các hình ảnh này cũng khả dụng để xem và chia sẻ trong $2​Album Web Picasa$1​, dịch vụ lưu trữ ảnh miễn phí của Google."
+   },
+   "736105042796745909": {
+      "message": "{VIEWER_GENDER,select, female{Tạo thư mục}male{Tạo thư mục}other{Tạo thư mục}}"
+   },
+   "7362061801920948830": {
+      "message": "Tải thêm lên"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7377239345926788722": {
+      "message": "Tác vụ"
+   },
+   "7380785991026002613": {
+      "message": "Các kết quả đã hiển thị được gắn nhãn để sử dụng lại."
+   },
+   "7382688299146249119": {
+      "message": "Tải mục xuống"
+   },
+   "7383706174467122149": {
+      "message": "Đã xóa ghi chú"
+   },
+   "7388342865555961406": {
+      "message": "sau $1​ ngày"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "740507516967994591": {
+      "message": "Mở"
+   },
+   "7422452809590461532": {
+      "message": "Đỏ"
+   },
+   "7426603384368095928": {
+      "message": "Vui lòng tải lại trang để đăng nhập lại và tiếp tục làm việc."
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (đã chỉnh sửa $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Đang lưu vào Drive"
+   },
+   "7451573821837395189": {
+      "message": "Mục đã được thêm vào $2​Drive của bạn$1​."
+   },
+   "7468322419516352788": {
+      "message": "Đã xảy ra sự cố khi cập nhật mô tả."
+   },
+   "7488945223835574498": {
+      "message": "Postscript"
+   },
+   "7492710087472140422": {
+      "message": "Tìm hiểu thêm"
+   },
+   "7493919863870655172": {
+      "message": "Máy ảnh web"
+   },
+   "7500786109708143683": {
+      "message": "Âm thanh đã bị xóa"
+   },
+   "7501027876827009022": {
+      "message": "Các kết quả đã hiển thị được gắn nhãn để sử dụng lại cho mục đích thương mại."
+   },
+   "7521272923988336579": {
+      "message": "Luôn cập nhật bằng cách tải lại Keep ngay bây giờ."
+   },
+   "7532552995569296274": {
+      "message": "Xóa tìm kiếm"
+   },
+   "7546994163355383999": {
+      "message": "Đã lưu tất cả ghi chú"
+   },
+   "7559208209275370228": {
+      "message": "Chỉnh sửa lần cuối bởi tôi"
+   },
+   "7565383798249439151": {
+      "message": "sau $1​ ngày"
+   },
+   "7565870443143407759": {
+      "message": "Tìm trong tài liệu"
+   },
+   "7586291841734385643": {
+      "message": "Hiện cửa sổ nhỏ mới"
+   },
+   "7598582624136632660": {
+      "message": "Mở thanh tìm kiếm / tìm kết quả tiếp theo"
+   },
+   "7602870977118971161": {
+      "message": "Tải lại"
+   },
+   "7610654194202731772": {
+      "message": "Xóa"
+   },
+   "761925792744044896": {
+      "message": "Đặt làm ảnh tiểu sử"
+   },
+   "7630723924002267143": {
+      "message": "Đã bật phím tắt."
+   },
+   "7640546114686970497": {
+      "message": "Không thể thêm các mục khác"
+   },
+   "7669846901402551021": {
+      "message": "Hôm nay"
+   },
+   "7691521283331762131": {
+      "message": "Ghi chú đã được lưu trữ của bạn sẽ xuất hiện tại đây"
+   },
+   "772000107335590599": {
+      "message": "sau $1​ phút"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7745005220197261896": {
+      "message": "Tìm kiếm sách"
+   },
+   "7759846028901235026": {
+      "message": "Đã hủy lưu trữ ghi chú"
+   },
+   "776065748745885880": {
+      "message": "phím cách"
+   },
+   "7770982082843341533": {
+      "message": "Không có mục nào trong thư mục này."
+   },
+   "779472474101127362": {
+      "message": "Chụp nhanh"
+   },
+   "7800318069267901681": {
+      "message": "Đã sửa đổi"
+   },
+   "7805487598105530487": {
+      "message": "Nội dòng"
+   },
+   "7814778057875152792": {
+      "message": "Đã xảy ra sự cố khi di chuyển tệp đính kèm tới thư mục đã chọn trong Google Drive."
+   },
+   "7820417126206702946": {
+      "message": "Kết quả được hiển thị chỉ dùng cho mục đích cá nhân hoặc thương mại trong Google Drive và không được phân phối lại hoặc bán các kết quả này một cách độc lập."
+   },
+   "7822364282298323175": {
+      "message": "Danh sách đã bị xóa"
+   },
+   "7830513726270865588": {
+      "message": "Lịch"
+   },
+   "7845751753397906805": {
+      "message": "Đã tìm thấy các chỉnh sửa xung đột"
+   },
+   "7852396628465259068": {
+      "message": "Ảnh tiểu sử"
+   },
+   "7859526172011446452": {
+      "message": "Ngừng truyền"
+   },
+   "78870906674150830": {
+      "message": "$3​$1​$2​"
+   },
+   "7895643887742936844": {
+      "message": "dấu chấm phẩy"
+   },
+   "7899833760457194273": {
+      "message": "Tìm kiếm hình ảnh"
+   },
+   "7899913952063063825": {
+      "message": "Hình ảnh đã bị xóa"
+   },
+   "7906726367011430855": {
+      "message": "Kết nối"
+   },
+   "7910518224461588465": {
+      "message": "Vàng"
+   },
+   "7953603850004320936": {
+      "message": "Xem trước không khả dụng."
+   },
+   "7957306528733096600": {
+      "message": "Tiến độ đã kết thúc"
+   },
+   "7960528690514646841": {
+      "message": "{moreCount,plural, =0{unused plural form}=1{+ 1 người khác}other{+ {moreCount} người khác}}"
+   },
+   "7973635145070803181": {
+      "message": "Tải ảnh lên"
+   },
+   "7987180255015869513": {
+      "message": "Hoặc dán địa chỉ web tại đây:"
+   },
+   "8011497727123874703": {
+      "message": "Nút thư mục $1​"
+   },
+   "8016231262233952856": {
+      "message": "Xanh két"
+   },
+   "8019402848412685977": {
+      "message": "Đã đổi tên \"$2​\" thành \"$1​\"."
+   },
+   "8023466614826324314": {
+      "message": "Ảnh sẽ được chia sẻ với một lượng lớn khán giả."
+   },
+   "8043514121228710092": {
+      "message": "Thêm hình ảnh"
+   },
+   "8044700199531805239": {
+      "message": "$3​$1​$2​ đã được kết nối."
+   },
+   "8069384932934428393": {
+      "message": "sau $1​ phút"
+   },
+   "8081927474846706026": {
+      "message": "Không có bản vẽ nào."
+   },
+   "8090743714060857028": {
+      "message": "Người xem không thể tải xuống"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 byte}=1{1 byte}other{# byte}}"
+   },
+   "8099047958506869131": {
+      "message": "{VIEWER_GENDER,select, female{Thư mục mới}male{Thư mục mới}other{Thư mục mới}}"
+   },
+   "8100558294600077150": {
+      "message": "Tìm kiếm blog"
+   },
+   "8105635255693472607": {
+      "message": "Thêm mục danh sách mới"
+   },
+   "8106780183458743723": {
+      "message": "Album ảnh"
+   },
+   "8112699352770418817": {
+      "message": "Không tìm thấy sách nào."
+   },
+   "8132410616064087953": {
+      "message": "Video quá dài (thời lượng tối đa là $1​ giây)."
+   },
+   "8135145577663029437": {
+      "message": "Giữ cả hai"
+   },
+   "8146560259680897627": {
+      "message": "Hủy"
+   },
+   "8158191101452862916": {
+      "message": "Chèn hình ảnh"
+   },
+   "8159493406018222636": {
+      "message": "Gửi phản hồi"
+   },
+   "8172945196588870035": {
+      "message": "Sự kiện"
+   },
+   "8174654098152723289": {
+      "message": "Chỉnh sửa mô tả"
+   },
+   "8178754379486173416": {
+      "message": "{VIEWER_GENDER,select, female{Đã chọn rất ít mục. Vui lòng chọn thêm.}male{Đã chọn rất ít mục. Vui lòng chọn thêm.}other{Đã chọn rất ít mục. Vui lòng chọn thêm.}}"
+   },
+   "8192378456655629049": {
+      "message": "Đang xử lý video..."
+   },
+   "8193991135666622583": {
+      "message": "keep"
+   },
+   "821942580510564685": {
+      "message": "Vui lòng nhập mật khẩu để xem tài liệu này"
+   },
+   "8239237134193392595": {
+      "message": "Thông báo về lời nhắc vị trí chỉ hiển thị trên thiết bị di động."
+   },
+   "8267458240960831780": {
+      "message": "Đang xác thực..."
+   },
+   "8281141013543828574": {
+      "message": "Hình ảnh Raw"
+   },
+   "8281678863271800533": {
+      "message": "Bộ lọc hình ảnh"
+   },
+   "8283103456188558313": {
+      "message": "Bản trình bày"
+   },
+   "8290434443655418968": {
+      "message": "{filesCount,plural, =0{unused plural form}=1{Tệp đã chọn [{file}] không được hỗ trợ tải lên.}other{Các tệp đã chọn [{files}] không được hỗ trợ tải lên.}}"
+   },
+   "8304474373444239435": {
+      "message": "Trả lời của $1​."
+   },
+   "8322416564157128458": {
+      "message": "Chia sẻ"
+   },
+   "8324195080917648153": {
+      "message": "Video này không vừa ở đây. Hãy phóng to cửa sổ trình duyệt của bạn thêm một chút."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342684858400436871": {
+      "message": "tab"
+   },
+   "8379952094517631162": {
+      "message": "Không"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412684147928483084": {
+      "message": "Đen"
+   },
+   "8435544675017330861": {
+      "message": "Không có mục nào khớp với tìm kiếm của bạn."
+   },
+   "8436817383042650304": {
+      "message": "caps-lock"
+   },
+   "8451184312655705174": {
+      "message": "Nếu URL của bạn chính xác, bạn sẽ thấy bản xem trước tại đây. Hình ảnh lớn có thể mất vài phút để hiển thị."
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8506198918368329269": {
+      "message": "Các kết quả đã hiển thị được gắn nhãn để sử dụng lại cho mục đích thương mại có sửa đổi."
+   },
+   "8571315158566081191": {
+      "message": "Không có bảng tính nào."
+   },
+   "8580600056399054303": {
+      "message": "Đặt vị trí mục mới hoặc mục đã chọn"
+   },
+   "8595175575778060149": {
+      "message": "Thêm"
+   },
+   "8596257056433048992": {
+      "message": "Chào mừng bạn đến với"
+   },
+   "8616342546716995946": {
+      "message": "Bỏ qua"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8638281560898810401": {
+      "message": "{MINUTES,plural, =0{0 phút }=1{1 phút }other{# phút }}{SECONDS,plural, =0{0 giây.}=1{1 giây.}other{# giây.}}"
+   },
+   "863955692838281739": {
+      "message": "Đóng"
+   },
+   "8643398764569428530": {
+      "message": "Cho phép Google Keep hiển thị thông báo?"
+   },
+   "8652566647088230560": {
+      "message": "Dogfood Bí mật"
+   },
+   "8660016472468563221": {
+      "message": "dấu hai chấm"
+   },
+   "8663507590720636709": {
+      "message": "$1​ +$2​ mục khác"
+   },
+   "8666643061920113075": {
+      "message": "{VIEWER_GENDER,select, female{Dán URL hình ảnh vào đây:}male{Dán URL hình ảnh vào đây:}other{Dán URL hình ảnh vào đây:}}"
+   },
+   "8674222789100049233": {
+      "message": "Đóng"
+   },
+   "86815590954366945": {
+      "message": "Danh sách nội dung đã lưu trữ"
+   },
+   "8709611758728645225": {
+      "message": "pg-down"
+   },
+   "8711002053494037632": {
+      "message": "Đã bỏ chọn tất cả các mục"
+   },
+   "8748281640412284111": {
+      "message": "Ảnh trên kho ảnh"
+   },
+   "8759520888087120926": {
+      "message": "Không có tập lệnh nào."
+   },
+   "8775097441636640256": {
+      "message": "$2​ - $1​"
+   },
+   "8780212274435014958": {
+      "message": "Vòng kết nối"
+   },
+   "8781837301864053001": {
+      "message": "Văn bản đa dạng thức"
+   },
+   "8792038552136453044": {
+      "message": "Rất tiếc! Đã xảy ra lỗi"
+   },
+   "8793166064242077041": {
+      "message": "Đã có sự cố khi hiển thị hình ảnh này."
+   },
+   "8813101408630252335": {
+      "message": "$1​ giây"
+   },
+   "8820281478062782578": {
+      "message": "Tìm kiếm"
+   },
+   "8822326207328431952": {
+      "message": "Tải hình ảnh lên không khả dụng"
+   },
+   "8840223453482998505": {
+      "message": "Thư mục đã chọn $1​"
+   },
+   "8845176264121061589": {
+      "message": "Bỏ chọn tất cả các mục"
+   },
+   "8850238112725591771": {
+      "message": "phím tắt $1​"
+   },
+   "8852550049823214385": {
+      "message": "rồi đến"
+   },
+   "8883744193208363722": {
+      "message": "Đã có bản cập nhật ứng dụng."
+   },
+   "8884900765322249670": {
+      "message": "Chế độ xem danh sách"
+   },
+   "8889019648958415451": {
+      "message": "Tệp không xác định"
+   },
+   "8911996820409711834": {
+      "message": "Di chuyển văn bản sang mục danh sách mới &raquo;"
+   },
+   "8916237870980173557": {
+      "message": "Đang kết nối..."
+   },
+   "8917554093651202032": {
+      "message": "Phát $1​"
+   },
+   "8919660666733306860": {
+      "message": "Hình ảnh"
+   },
+   "8930959387403789939": {
+      "message": "Lời nhắc"
+   },
+   "8943760679396635042": {
+      "message": "Đang hiển thị $1​."
+   },
+   "8953555255469284376": {
+      "message": "Thả ảnh ở đây"
+   },
+   "8979615310931291676": {
+      "message": "Đã chỉnh sửa $1​"
+   },
+   "8986044948621891903": {
+      "message": "Nhập tìm kiếm của bạn vào hộp bên trên để tìm kết quả trên web bằng Tìm kiếm trên Web của Google."
+   },
+   "901615442107785480": {
+      "message": "Lưu trữ ghi chú/danh sách"
+   },
+   "9024023699330078373": {
+      "message": "Mở mục này sẽ thêm nó vào Drive của bạn"
+   },
+   "9028041601596584772": {
+      "message": "Vị trí"
+   },
+   "9058308423774656474": {
+      "message": "Trình xử lý văn bản Hangul"
+   },
+   "9083935734710258396": {
+      "message": "Từ chối"
+   },
+   "9094248058931620597": {
+      "message": "Bảng chi tiết đã được thu gọn."
+   },
+   "9114674068220302553": {
+      "message": "Dưới dạng tệp đính kèm"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9130962320402467249": {
+      "message": "Ảnh trên kho ảnh"
+   },
+   "9146716987301178362": {
+      "message": "Đã gặp lỗi. Vui lòng tải lại."
+   },
+   "9165877886714239857": {
+      "message": "Không thể tải chú thích hình ảnh. Hãy thử lại sau."
+   },
+   "916773043895242978": {
+      "message": "URL hình ảnh bạn nhập bên trên không chính xác hoặc không thể tải được. Hãy nhập URL hình ảnh chính xác."
+   },
+   "9173629944963872598": {
+      "message": "Không tìm thấy sự kiện nào."
+   },
+   "9182500445937900938": {
+      "message": "Đóng"
+   },
+   "9195941533351099011": {
+      "message": "Đang tải lên $1​ / $2​"
+   },
+   "9197837492705576727": {
+      "message": "Chuyển tới mục tiếp theo"
+   },
+   "919969969251998566": {
+      "message": "Trích xuất lưu trữ này vào tài khoản thư của bạn."
+   },
+   "9203542510134660095": {
+      "message": "Đã bắt đầu lệnh giải nén. Nội dung lưu trữ sẽ hiển thị trong Drive trong thư mục \"$1​\"."
+   },
+   "940276535015195877": {
+      "message": "Không có thư mục nào."
+   },
+   "943493480163896757": {
+      "message": "{resultCount,plural, =1{# ghi chú phù hợp}other{# ghi chú phù hợp}}"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "95809842507987016": {
+      "message": "Xóa"
+   },
+   "963611681085757795": {
+      "message": "Rất tiếc, chúng tôi không thể tạo chế độ xem tài liệu này bây giờ."
+   },
+   "96556988207614774": {
+      "message": "Lịch"
+   },
+   "974042541427403929": {
+      "message": "Lam"
+   },
+   "980395722421409371": {
+      "message": "Không tìm thấy bản đồ nào."
+   },
+   "982187142411651629": {
+      "message": "Loại bỏ"
+   },
+   "985197728509875956": {
+      "message": "Mô hình hóa học"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "998727788921602971": {
+      "message": "Video"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Nhanh chóng ghi lại những suy nghĩ và nhận lời nhắc đúng nơi hoặc đúng lúc."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Google Keep - ghi chú và danh sách"
+   }
+}

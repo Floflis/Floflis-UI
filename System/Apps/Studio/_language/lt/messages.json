@@ -1,0 +1,2485 @@
+{
+   "1006787209796778126": {
+      "message": "Mano diskas"
+   },
+   "1017907757187630742": {
+      "message": "Mano šriftai"
+   },
+   "1029072043275376320": {
+      "message": "Kalendorių nerasta."
+   },
+   "1030781695901615026": {
+      "message": "Apačioje"
+   },
+   "103870949919613488": {
+      "message": "Pastaba suarchyvuota"
+   },
+   "1039394921418415681": {
+      "message": "Prisijungti"
+   },
+   "1083918249169198626": {
+      "message": "Spartieji klavišai išjungti."
+   },
+   "1090919586152138659": {
+      "message": "Licencijuotos nuotraukos"
+   },
+   "1101371910696766077": {
+      "message": "Padaryti kopiją"
+   },
+   "1107413433574576014": {
+      "message": "Pavadinimas per didelis. Paryškintas tekstas nebus išsaugotas."
+   },
+   "1127320433256851404": {
+      "message": "Vaizdo įrašų leistuvė"
+   },
+   "1162642135048988280": {
+      "message": "Pervardyti dokumentą"
+   },
+   "1166244120191806795": {
+      "message": "Pateikti atsiliepimą"
+   },
+   "1179891706526242218": {
+      "message": "Kitas"
+   },
+   "1185164838496022543": {
+      "message": "Spustelėkite čia, kad iš naujo įkeltumėte puslapį."
+   },
+   "1185644932132585290": {
+      "message": "Liko simbolių: $1​"
+   },
+   "1213005208968286932": {
+      "message": "Pažymėta kaip baigta"
+   },
+   "1263557413037343589": {
+      "message": "Nuotraukų tvarkymas"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1311350045083871503": {
+      "message": "Atšaukti"
+   },
+   "1311729747516144362": {
+      "message": "Raudonas"
+   },
+   "1315844696796851207": {
+      "message": "Be užraitų"
+   },
+   "1319037146426591038": {
+      "message": "arba"
+   },
+   "132822872080714863": {
+      "message": "Gerai"
+   },
+   "133192954417440569": {
+      "message": "Rezultatų nerasta."
+   },
+   "1349697396109290623": {
+      "message": "Rodomas didesnės skyros vaizdas „$1​“"
+   },
+   "1376126796144976437": {
+      "message": "Visi šriftai"
+   },
+   "139942704574044780": {
+      "message": "Sutikti"
+   },
+   "141491180325662484": {
+      "message": "„Google“ diskas yra viena vieta visiems failams saugoti, kad galėtumėte juos pasiekti visur naudodami bet kokį įrenginį. Jei turite nuotraukų „Google“ diske, čia galite iš karto bendrinti jas su savo draugų ratais."
+   },
+   "1418114637490664392": {
+      "message": "LIFE nuotraukų archyvas"
+   },
+   "1419896259743862406": {
+      "message": "Atidaryti naudojant"
+   },
+   "1440171352837969028": {
+      "message": "Vaizdo įrašas / garso įrašas"
+   },
+   "1441487391064925653": {
+      "message": "Peržiūrėti visus sparčiuosius klavišus pagalbos centre"
+   },
+   "1446829548948002072": {
+      "message": "kablelis"
+   },
+   "1454684154234137497": {
+      "message": "Pause"
+   },
+   "1459765068821943106": {
+      "message": "{VIEWER_GENDER,select, female{„YouTube“ URL įklijuokite čia:}male{„YouTube“ URL įklijuokite čia:}other{„YouTube“ URL įklijuokite čia:}}"
+   },
+   "1463079206290378085": {
+      "message": "„Orkut“ nuotraukos"
+   },
+   "1463389029497634261": {
+      "message": "Sumažinti garsumą"
+   },
+   "1475179211173444554": {
+      "message": "Bet kuris nuorodą turintis domeno naudotojas"
+   },
+   "1492360016907725281": {
+      "message": "{VIEWER_GENDER,select, female{Vaizdo įrašo URL įklijuokite čia:}male{Vaizdo įrašo URL įklijuokite čia:}other{Vaizdo įrašo URL įklijuokite čia:}}"
+   },
+   "1493251742569121894": {
+      "message": "Užrašas per didelis. Paryškintas tekstas nebus išsaugotas."
+   },
+   "1493384967280942491": {
+      "message": "Rožinis"
+   },
+   "1499433769420882987": {
+      "message": "Pateikiama „$1​“"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1521707405717823409": {
+      "message": "Purpurinis"
+   },
+   "153439508598626384": {
+      "message": "Jūsų nuotraukos"
+   },
+   "1536051766421561160": {
+      "message": "lygybės ženklas"
+   },
+   "156992719062713230": {
+      "message": "Pilka"
+   },
+   "1586968957182554447": {
+      "message": "Išjungti"
+   },
+   "1588268697057804046": {
+      "message": "prieš $1​ val."
+   },
+   "1603139897109307706": {
+      "message": "Klaida, bandykite dar kartą"
+   },
+   "1604359562654146902": {
+      "message": "Nuotrauka"
+   },
+   "1633370388224271051": {
+      "message": "Žmonių nerasta."
+   },
+   "1633798963327779260": {
+      "message": "Rytoj"
+   },
+   "1654222450095043962": {
+      "message": "Garso įrašas"
+   },
+   "1656911987308166143": {
+      "message": "Ištrinti"
+   },
+   "1665821947855814052": {
+      "message": "Dydis"
+   },
+   "1692901784886701962": {
+      "message": "Užrašas per didelis."
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700522311470719738": {
+      "message": "Priminti"
+   },
+   "1701312243672511585": {
+      "message": "Perkelti tekstą į naują užrašą &raquo;"
+   },
+   "1709410429018687341": {
+      "message": "Rytas ($1​)"
+   },
+   "1715552550526864429": {
+      "message": "Ieškoti tinklaraščių"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1739900012825270238": {
+      "message": "Eiti į ankstesnį elementą"
+   },
+   "1756171223417807431": {
+      "message": "Įsitikinkite, kad vaizdas yra viešas. Jei vaizdas apsaugotas slaptažodžiu arba yra vidiniame tinkle, jo negalėsime nuskaityti."
+   },
+   "1759957963056319953": {
+      "message": "Grįžti iš $1​"
+   },
+   "1783719421893050637": {
+      "message": "Matmenys"
+   },
+   "178927681797742562": {
+      "message": "Prisijungti"
+   },
+   "1791115075948268631": {
+      "message": "Atidaryti sparčiųjų klavišų pagalbą"
+   },
+   "1808245543551507519": {
+      "message": "Garso įrašas"
+   },
+   "1816851800848432562": {
+      "message": "Pašalinti"
+   },
+   "1818306025747564729": {
+      "message": "Eiti nuorodos adresu"
+   },
+   "1823222042913714987": {
+      "message": "Pateikti slaptažodį"
+   },
+   "1823854753950594157": {
+      "message": "Neperkelti"
+   },
+   "1830157062072535681": {
+      "message": "Pateikiama „$1​“"
+   },
+   "185012928288875755": {
+      "message": "Jūsų kriterijų neatitiko jokie elementai."
+   },
+   "1856444915090632305": {
+      "message": "Dokumentas yra šifruotas. Įveskite slaptažodį."
+   },
+   "1866863108233180413": {
+      "message": "Aplankai"
+   },
+   "187077078156858455": {
+      "message": "Užrašas su garso įrašu"
+   },
+   "189303170370862360": {
+      "message": "$1​ element. iš $2​"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901351411358749070": {
+      "message": "Bendrinama su manimi"
+   },
+   "1913425963149828429": {
+      "message": "Išskleisti šį archyvą į Diską."
+   },
+   "1918176455405610789": {
+      "message": "Atlikta"
+   },
+   "1920189655549476211": {
+      "message": "nežinoma trukmė"
+   },
+   "1929603188252533075": {
+      "message": "Jūsų vaizdo įrašo nepavyko ištrinti. Bandykite dar kartą."
+   },
+   "1951810091681076784": {
+      "message": "{COUNT_1,plural, =1{1 atitinkanti pastaba}one{{COUNT_2} atitinkanti pastaba}few{{COUNT_2} atitinkančios pastabos}many{{COUNT_2} matching notes}other{{COUNT_2} atitinkančių pastabų}}"
+   },
+   "1956794332842050061": {
+      "message": "Kitas puslapis"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1968405748623909021": {
+      "message": "Bandykite naudoti vieną iš toliau nurodytų programų, kad atidarytumėte ar redaguotumėte šį elementą"
+   },
+   "1974063091619095703": {
+      "message": "Žmonės"
+   },
+   "1988244842147989817": {
+      "message": "Užrašai iš šiukšliadėžės ištrinami po 7 dienų."
+   },
+   "1993674829873313178": {
+      "message": "Kyla problemų įkeliant? Šiuo metu atliekame techninę priežiūrą, bet viskas turėtų greitai susitvarkyti."
+   },
+   "2003845117979929469": {
+      "message": "Išsami informacija"
+   },
+   "2048322072989992494": {
+      "message": "Niekas su jumis dar nebendrino jokių failų."
+   },
+   "2055836117545582610": {
+      "message": "Sąrašo nustatymai"
+   },
+   "2059084517358086391": {
+      "message": "Uždaryti radimo juostą"
+   },
+   "2061440050632248160": {
+      "message": "Archyvas"
+   },
+   "2068023589621557589": {
+      "message": "„TrueType“ šriftas"
+   },
+   "2073035325657060696": {
+      "message": "Nėra jokių galimų peržiūrų."
+   },
+   "2073322475696388995": {
+      "message": "Praleisti pirmyn"
+   },
+   "207810168108507460": {
+      "message": "prieš $1​ val."
+   },
+   "2109272338124379867": {
+      "message": "Pastarąjį kartą keista"
+   },
+   "2116013171202209313": {
+      "message": "Pasirinkti"
+   },
+   "2122256657192674586": {
+      "message": "Ieškoti vaizdo įrašų"
+   },
+   "2125135092719715773": {
+      "message": "Įkėlimas"
+   },
+   "212796670323571824": {
+      "message": "Gerai"
+   },
+   "213665695896111861": {
+      "message": "Pastabos"
+   },
+   "2138593281154109183": {
+      "message": "Archyvas"
+   },
+   "2147952938331523160": {
+      "message": "Pervardyti..."
+   },
+   "2154372123324862271": {
+      "message": "pasvirasis brūkšnys"
+   },
+   "2154940358270068005": {
+      "message": "Šiek tiek ilgiau laikykite ištrintus užrašus"
+   },
+   "2184278444368405837": {
+      "message": "Elementų: $1​"
+   },
+   "2187239650627580457": {
+      "message": "Pateikti"
+   },
+   "2198096971937872560": {
+      "message": "Priminimas:"
+   },
+   "220168959069469607": {
+      "message": "Daugiau veiksmų"
+   },
+   "221715292685577880": {
+      "message": "Taip"
+   },
+   "2220005860896049129": {
+      "message": "Apgailestaujame, dokumento paieška pradiniame šaltinyje užtruko per ilgai."
+   },
+   "2228413078211839077": {
+      "message": "Apgailestaujame, generuojant dokumento rodinį iškilo laikina problema."
+   },
+   "2235097878790803849": {
+      "message": "Atsisveikinkite su priedais ir pradėkite naudoti „Google“ diską."
+   },
+   "2257303402199718039": {
+      "message": "Apgailestaujame, nepavyko rasti dokumento pradiniame šaltinyje. Patikrinkite, ar dokumentas vis dar egzistuoja."
+   },
+   "2274436793504233543": {
+      "message": "Atšaukti"
+   },
+   "2278224983638451454": {
+      "message": "Gauti dabar"
+   },
+   "2280650195464600721": {
+      "message": "Naršymas"
+   },
+   "2285069188138705005": {
+      "message": "Susietos programos"
+   },
+   "2289534534793293486": {
+      "message": "Išarchyvuoti"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Padidinti garsumą"
+   },
+   "230180475614658119": {
+      "message": "Atlikta"
+   },
+   "2304293593067358316": {
+      "message": "Iliustracijos"
+   },
+   "2310145944356900158": {
+      "message": "Pažymėta"
+   },
+   "2311880726221661199": {
+      "message": "Įkeliami didesnės raiškos vaizdai"
+   },
+   "2329167963662998826": {
+      "message": "„Google Keep“ norėtų naudoti jūsų vietovę, kad galėtų pagerinti vietovių priminimų vietų pasiūlymus."
+   },
+   "234046557601727809": {
+      "message": "Vaizdų ar vaizdo įrašų nėra."
+   },
+   "2349912757088764940": {
+      "message": "Matoma:"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2370463380397641604": {
+      "message": "Populiarūs spartieji klavišai"
+   },
+   "2370656573843123707": {
+      "message": "dešinysis laužtinis skliaustas"
+   },
+   "2393487423640708285": {
+      "message": "Šis URL negalioja. Įsitikinkite, kad jis prasideda http:// arba https://."
+   },
+   "2405795704816921421": {
+      "message": "Failas „$1​“"
+   },
+   "2412314804333167252": {
+      "message": "Ši skaičiuoklė per didelė. Spustelėkite, kad $3​atsisiųstumėte$1​ arba $4​redaguotumėte „Google“ skaičiuoklėse$1​."
+   },
+   "2418104318933043113": {
+      "message": "„Google“ vaizdų paieška"
+   },
+   "2433429041384246549": {
+      "message": "Nutildyti"
+   },
+   "2449254824382583885": {
+      "message": "Paleisti naujame lange"
+   },
+   "2452522051596946166": {
+      "message": "Oi, peržiūrint „$1​“ kilo problema. Bandoma iš naujo."
+   },
+   "2454642351139428112": {
+      "message": "Anuliuoti"
+   },
+   "2466251465475184755": {
+      "message": "Išvalyti šiukšliadėžę? Visi šiukšliadėžėje esantys užrašai bus ištrinti visam laikui."
+   },
+   "2475181823688399272": {
+      "message": "Kitas"
+   },
+   "2484568559152875936": {
+      "message": "Nuotraukų albumų nėra."
+   },
+   "2504232652631703202": {
+      "message": "Susieta"
+   },
+   "251025074207413762": {
+      "message": "Pridėti aprašą"
+   },
+   "2510929871271209216": {
+      "message": "Ši skaičiuoklė per didelė. Spustelėkite $2​čia$1​, kad atsisiųstumėte."
+   },
+   "2513437337377210144": {
+      "message": "End"
+   },
+   "2524021436052870191": {
+      "message": "Nepavyko įkelti šio failo. Galima įkelti tik $1​ failus, kurie yra mažesni nei $2​ MB."
+   },
+   "2532280782491328445": {
+      "message": "Rasti ankstesnį"
+   },
+   "2538080331309772448": {
+      "message": "Rūšiuoti: $1​"
+   },
+   "2538462904124380434": {
+      "message": "Pastaba perkelta į šiukšliadėžę"
+   },
+   "2546225293834487484": {
+      "message": "Užrašas"
+   },
+   "2558480112329900136": {
+      "message": "Pilkas"
+   },
+   "257317112834806705": {
+      "message": "Perjungti iš sąrašo rodinio į tinklelio rodinį ir atvirkščiai"
+   },
+   "2579679351920691492": {
+      "message": "Praleisti atgal"
+   },
+   "2587566920590457715": {
+      "message": "Maps Engine Lite"
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609750184896485102": {
+      "message": "Vaizdo įrašai iš telefono"
+   },
+   "2615188670181508661": {
+      "message": "Pastaruoju metu nieko nepasirinkote."
+   },
+   "2623861453769098676": {
+      "message": "Peržiūrint šį dokumentą kilo problema."
+   },
+   "2628268670001557269": {
+      "message": "Kvota"
+   },
+   "2643241712502664984": {
+      "message": "Jūsų „YouTube“ vaizdo įrašai"
+   },
+   "2661850177130037208": {
+      "message": "Atidaryti elementą"
+   },
+   "2681830832355823748": {
+      "message": "Ieškoti visų sparčiųjų klavišų"
+   },
+   "2687303256387847763": {
+      "message": "Populiarumas"
+   },
+   "2702485557996900362": {
+      "message": "Ištaisykite neatitinkančius pataisymus"
+   },
+   "2705842902318123127": {
+      "message": "Pereiti prie kito / ankstesnio užrašo / sąrašo"
+   },
+   "272948685355798518": {
+      "message": "Pasirinktas netinkamas failo tipas."
+   },
+   "2731144323070245943": {
+      "message": "Sąrašo nustatymai"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2750830436677712001": {
+      "message": "{VIEWER_GENDER,select, female{Nepavyko sukurti aplanko „{FOLDER_NAME}“.}male{Nepavyko sukurti aplanko „{FOLDER_NAME}“.}other{Nepavyko sukurti aplanko „{FOLDER_NAME}“.}}"
+   },
+   "2752123004911547510": {
+      "message": "Tendencijos"
+   },
+   "2758125083752925237": {
+      "message": "(Savininkas)"
+   },
+   "277430914014962533": {
+      "message": "Oi, peržiūrint „$1​“ kilo problema."
+   },
+   "2774713922589657910": {
+      "message": "Bet kuris domeno naudotojas"
+   },
+   "2786560864906393383": {
+      "message": "Nuotraukos iš telefono"
+   },
+   "2789687492331041935": {
+      "message": "Pasirinkite laiką"
+   },
+   "2790446494460492805": {
+      "message": "Išskleidimo užduotis pradėta. Archyvo pranešimai bus rodomi pašto paskyroje pažymėti etikete „Importuota: $1​“."
+   },
+   "2793841261389879255": {
+      "message": "Ankstesnis puslapis"
+   },
+   "2801153442808430222": {
+      "message": "Mano Diskas"
+   },
+   "2817277146396981386": {
+      "message": "popiet"
+   },
+   "2818020101821669029": {
+      "message": "Sukurta"
+   },
+   "2818135503416309545": {
+      "message": "Vaizdo įrašo įrašymas"
+   },
+   "2827039933590757722": {
+      "message": "Windows Shortcut"
+   },
+   "2829226075651806940": {
+      "message": "Artinti"
+   },
+   "2860188519781080944": {
+      "message": "Oranžinis"
+   },
+   "2861568351294148466": {
+      "message": "Scenarijai"
+   },
+   "2864281852037732729": {
+      "message": "Mažiau"
+   },
+   "2873089307546162154": {
+      "message": "Gerai"
+   },
+   "2877285560485318801": {
+      "message": "Pristabdyti"
+   },
+   "2878874627361086801": {
+      "message": "peržiūra"
+   },
+   "2879276552944958066": {
+      "message": "Grįžti į aplanką „$1​“."
+   },
+   "289798573180023043": {
+      "message": "Gerai"
+   },
+   "2902747751281161248": {
+      "message": "Taikyti naujiems sąrašams"
+   },
+   "2905147317995482841": {
+      "message": "Atnaujinome visų „Google“ disko failų peržiūros NS. Dabar ji gražesnė ir lengviau naudojama. Tikimės, kad jums patiks ši nauja išvaizda."
+   },
+   "2917498437550635075": {
+      "message": "Piktograma"
+   },
+   "2964778642459027786": {
+      "message": "Šiukšliadėžėje nėra jokių užrašų"
+   },
+   "2974598228601710262": {
+      "message": "Pridėti"
+   },
+   "2979466412944870220": {
+      "message": "Įkeliama peržiūra..."
+   },
+   "2982511431742033448": {
+      "message": "Pristatymų nėra."
+   },
+   "298817883481775869": {
+      "message": "Įkeliama…"
+   },
+   "3000689173481666334": {
+      "message": "Draugų rato redagavimas"
+   },
+   "3029395493413607486": {
+      "message": "Nepavyko įkelti vaizdo įrašų leistuvės. Pabandykite iš naujo įkelti puslapį.$1​Jei problema išlieka, $3​apsilankykite pagalbos centre$2​."
+   },
+   "3043961722025425136": {
+      "message": "Aprašas"
+   },
+   "306516303501625305": {
+      "message": "Nustatant tapatybę įvyko klaida."
+   },
+   "3073005748126521632": {
+      "message": "Priminta $1​"
+   },
+   "3074184819310272351": {
+      "message": "Įkeltos nuotraukos"
+   },
+   "3084372889071691504": {
+      "message": "{VIEWER_GENDER,select, female{URL įklijuokite čia:}male{URL įklijuokite čia:}other{URL įklijuokite čia:}}"
+   },
+   "3095645856215493958": {
+      "message": "Ieškokite spausdintinio teksto nuotraukose"
+   },
+   "31018542656161389": {
+      "message": "Keisti mastelį, kad tilptų"
+   },
+   "3109321241584918345": {
+      "message": "Prijungti daugiau programų…"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "po $1​ val."
+   },
+   "3189854932778515441": {
+      "message": "Užrašas archyve"
+   },
+   "3207670492626476064": {
+      "message": "Lentelės"
+   },
+   "3211163842850942567": {
+      "message": "Artinti"
+   },
+   "3222929029344613957": {
+      "message": "Apgailestaujame, atidarant šį failą įvyko klaida. Bandykite dar kartą."
+   },
+   "3233388241926683100": {
+      "message": "Ieškoti užrašų"
+   },
+   "3243829462528324248": {
+      "message": "Rudas"
+   },
+   "3250489229749307913": {
+      "message": "Elektroninis leidinys"
+   },
+   "3256928852560591255": {
+      "message": "Šiukšliadėžėje negalima redaguoti"
+   },
+   "3261131345401321392": {
+      "message": "Gali komentuoti"
+   },
+   "3265524298292280681": {
+      "message": "Esc"
+   },
+   "3267563602179728277": {
+      "message": "Delete"
+   },
+   "3272496516667407797": {
+      "message": "Įkeliant išsamią informaciją kilo problema."
+   },
+   "3275029321588462173": {
+      "message": "Nėra"
+   },
+   "3278237562147211998": {
+      "message": "Šabloninės nuotraukos"
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3306487262690341751": {
+      "message": "Data ir laikas"
+   },
+   "3312545971976531405": {
+      "message": "Pranešimas"
+   },
+   "3319087486907616296": {
+      "message": "Perduoti šį elementą"
+   },
+   "3328129883064940351": {
+      "message": "Šriftai"
+   },
+   "3335409796971631780": {
+      "message": "Išskleidžiama į Diską."
+   },
+   "3343451103608774400": {
+      "message": "Pristatome $3​naujus Mano žemėlapius.$2​$1​Geresni žemėlapių įrankiai."
+   },
+   "3354260708176476985": {
+      "message": "Įkeliama&hellip;"
+   },
+   "3357778055650785985": {
+      "message": "Elementas per didelis. Paryškintas tekstas nebus išsaugotas."
+   },
+   "3364679383274077479": {
+      "message": "Galimas programos naujinys"
+   },
+   "3368639944474272225": {
+      "message": "Apgailestaujame, negalime gauti dokumento ir pateikti jį peržiūrėti arba jūs neturite leidimo jį peržiūrėti."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Atidaryti"
+   },
+   "3408219901032480508": {
+      "message": "$2​; $1​"
+   },
+   "3409257542937182842": {
+      "message": "Bandoma iš naujo..."
+   },
+   "3409483962000136213": {
+      "message": "Leisti / pristabdyti"
+   },
+   "3418767079436101103": {
+      "message": "Įkeliant šį puslapį kilo problema."
+   },
+   "3421685394169412932": {
+      "message": "Visi atlikti pakeitimai išsaugomi automatiškai"
+   },
+   "3422389100099960864": {
+      "message": "Vaizdų nėra."
+   },
+   "3428726060007577698": {
+      "message": "Sąrašas per didelis."
+   },
+   "3430885603500576146": {
+      "message": "Pasirinkite tik tuos vaizdus, kuriuos naudoti turite licenciją (kaip patvirtinote anksčiau)."
+   },
+   "3440534675925634227": {
+      "message": "„Chrome“ naršyklės lange eikite adresu chrome://settings ir įsitikinkite, kad esate prisijungę. Tada dar kartą spustelėkite „Prisijungti“."
+   },
+   "3446158485617778228": {
+      "message": "Anuliuoti"
+   },
+   "3448234415275521882": {
+      "message": "Bendra informacija"
+   },
+   "3448684788258660606": {
+      "message": "Jūsų nuotraukos"
+   },
+   "3450585781337676327": {
+      "message": "Įkeliama..."
+   },
+   "3457279184692206825": {
+      "message": "Nuotraukos bus matomos visiems (vieša žiniatinklyje)."
+   },
+   "3468441711253011521": {
+      "message": "„Google“ skaičiuoklės"
+   },
+   "3473620774713000513": {
+      "message": "Baigta"
+   },
+   "3483438888494819423": {
+      "message": "Kas naujo „Google Keep“"
+   },
+   "3511274344439521198": {
+      "message": "Veiksmai"
+   },
+   "3518073392823563581": {
+      "message": "Spartieji klavišai"
+   },
+   "3531603810713611778": {
+      "message": "Viršytas didžiausias failų dydis. Atšaukite bent vieno failo pasirinkimą."
+   },
+   "3543475399174940144": {
+      "message": "Dar $1​"
+   },
+   "3547194749488601916": {
+      "message": "Atnaujinama…"
+   },
+   "354828103903104581": {
+      "message": "Pažymėti elementai"
+   },
+   "3561658662634401836": {
+      "message": "Pavadinimas"
+   },
+   "357172711168973843": {
+      "message": "Jokios neseniai pridėtos pastabos ar pakeitimai nebuvo išsaugoti. Išsaugokite turinio kopiją ir iš naujo įkelkite puslapį."
+   },
+   "3586705906700410505": {
+      "message": "Linijos brėžimas"
+   },
+   "3587798318180902863": {
+      "message": "{NUM_SELECTED,plural, =1{ pasirinkta »}one{ pasirinkta »}few{ pasirinkti »}many{ selected »}other{ pasirinkta »}}"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3602920441714068008": {
+      "message": "Priminta $1​, $2​"
+   },
+   "3608606849109645545": {
+      "message": "Įveskite naują dokumento pavadinimą:"
+   },
+   "361202495024972887": {
+      "message": "Vaizdo įrašų įkėlimas"
+   },
+   "361630518611593946": {
+      "message": "Slėpti žymimuosius laukelius"
+   },
+   "3625886392901506764": {
+      "message": "arba"
+   },
+   "3643146117250542609": {
+      "message": "PDF failų nėra."
+   },
+   "3645728163953189422": {
+      "message": "Apgailestaujame, negalime gauti dokumento ir pateikti jį peržiūrėti, nes jis per didelis."
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "kairinis brūkšnys"
+   },
+   "3659554681396757189": {
+      "message": "Atidariau aš"
+   },
+   "3663571259791438207": {
+      "message": "Pranešti apie piktnaudžiavimą"
+   },
+   "3664842788764635265": {
+      "message": "Nėra"
+   },
+   "3666123569747918021": {
+      "message": "Šiame dokumente yra neišsaugotų pakeitimų. Ar norite išeiti iš puslapio ir atmesti atliktus pakeitimus?"
+   },
+   "3673346558112798837": {
+      "message": "Jokio fono"
+   },
+   "3674811252904549204": {
+      "message": "Viršelio nuotraukos"
+   },
+   "3678477908297567934": {
+      "message": "apatinis brūkšnys"
+   },
+   "3681747688524363195": {
+      "message": "Viršuje"
+   },
+   "3690515530505404607": {
+      "message": "Leidžiant šį vaizdo įrašą kilo problema."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Nėra jokių elementų}=1{1 elementas}one{# elementas}few{# elementai}many{# items}other{# elementų}}"
+   },
+   "3712215972250917265": {
+      "message": "Komentarai"
+   },
+   "3717138719704492547": {
+      "message": "Patikrinkite, ar adrese nėra spausdinimo klaidų."
+   },
+   "374088101949877889": {
+      "message": "Uždaryti"
+   },
+   "3745308627628779133": {
+      "message": "Naujas aplankas"
+   },
+   "3748461364828242354": {
+      "message": "Pasirinkti spalvą"
+   },
+   "3770795578481676514": {
+      "message": "Geltona"
+   },
+   "3771958676925493302": {
+      "message": "Pašalinti filtrą: $1​"
+   },
+   "3779945546806941187": {
+      "message": "Vienspalvis"
+   },
+   "3793086499925031123": {
+      "message": "Atidaryti paieškos juostą / rasti ankstesnį"
+   },
+   "37992665410817181": {
+      "message": "Atidaryta dar kartą"
+   },
+   "3801617971018550169": {
+      "message": "Vakar"
+   },
+   "3808213429720572062": {
+      "message": "Atkurti"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3842411126100113634": {
+      "message": "Page Up"
+   },
+   "3844047145949375230": {
+      "message": "Dokumentai"
+   },
+   "3858324058837632381": {
+      "message": "Leidžiant šį garso failą kilo problema."
+   },
+   "3864575916269080329": {
+      "message": "Ieškotini vaizdai"
+   },
+   "3866373087987934712": {
+      "message": "Įkelti nepavyko: $1​"
+   },
+   "3869166581651870488": {
+      "message": "Baigti redaguoti"
+   },
+   "3873215756962047275": {
+      "message": "ARCHYVAS"
+   },
+   "3873467440437675460": {
+      "message": "Deja, nepavyko rasti jūsų anksčiau pasirinktų šriftų."
+   },
+   "3897281533382850749": {
+      "message": "Įjungti garsą"
+   },
+   "3936153839186254186": {
+      "message": "Rodyti: $1​"
+   },
+   "3955760658925284765": {
+      "message": "Bandyti dar kartą"
+   },
+   "3974064131130689245": {
+      "message": "Tinklelio rodinys"
+   },
+   "3977699855735576796": {
+      "message": "Įkeliant daugiau puslapių kilo problema."
+   },
+   "3988418762222300024": {
+      "message": "taškas"
+   },
+   "3989552504822984034": {
+      "message": "„Google“ piešinys"
+   },
+   "4005725939358875643": {
+      "message": "Veiksmas anuliuotas."
+   },
+   "4014287326684608407": {
+      "message": "Žalsvai mėlyna"
+   },
+   "4048275292053012394": {
+      "message": "Kontaktai"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4067915791853673774": {
+      "message": "{VIEWER_GENDER,select, female{Uždaryti}male{Uždaryti}other{Uždaryti}}"
+   },
+   "4078179869358383373": {
+      "message": "Rezultatų nerasta."
+   },
+   "4087667435414545203": {
+      "message": "Nebesate prisijungę. Įkelkite iš naujo, kad galėtumėte atlikti pakeitimus."
+   },
+   "4093134637041332383": {
+      "message": "SUŽINOKITE DAUGIAU"
+   },
+   "4097007735221462946": {
+      "message": "Piešiniai"
+   },
+   "4097921967754832323": {
+      "message": "brūkšnelis"
+   },
+   "4100504115801514799": {
+      "message": "Pastaba atkurta"
+   },
+   "4119294114251628099": {
+      "message": "Jūsų pateikto vaizdo URL nepavyko gauti. Tai gali būti privatus URL, kurio mūsų serveriai negali pasiekti. Bandykite naudoti kitą URL."
+   },
+   "4134385041569168669": {
+      "message": "Įkeliama…"
+   },
+   "4148564423510181521": {
+      "message": "Išvalyti paiešką"
+   },
+   "4152315289461886": {
+      "message": "Dokumento valdikliai"
+   },
+   "4168280976997555951": {
+      "message": "Dokumentų nėra."
+   },
+   "4174786386751618325": {
+      "message": "Užrašas su nuotrauka"
+   },
+   "4182427157920112948": {
+      "message": "tildė"
+   },
+   "4200426647595470259": {
+      "message": "Pradėti leisti garso failą"
+   },
+   "4200911267543705377": {
+      "message": "Įveskite paieškos žodį į aukščiau esantį laukelį, kad naudodami „Google“ tinklaraščių paiešką rastumėte tinklaraščių rezultatų."
+   },
+   "4205329094859140439": {
+      "message": "priešpiet"
+   },
+   "4211182812451835307": {
+      "message": "Gali redaguoti"
+   },
+   "4211806608204126222": {
+      "message": "$2​Paslaugų teikimo sąlygos$1​"
+   },
+   "4214190403999219403": {
+      "message": "Keisti mastelį"
+   },
+   "4230101516585408149": {
+      "message": "Sukurti naują užrašą"
+   },
+   "4253741616909644861": {
+      "message": "Paieškos terminai"
+   },
+   "4280747719095153198": {
+      "message": "Baigtas komentaras"
+   },
+   "4286663890332754386": {
+      "message": "Įkelti nepavyko."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4314643310615423802": {
+      "message": "Jūs atsijungėte."
+   },
+   "4318861667254318892": {
+      "message": "„Google“ vaizdo įrašai"
+   },
+   "4319229296464464147": {
+      "message": "Pridėjimo data"
+   },
+   "4320831042030778": {
+      "message": "Atšaukti"
+   },
+   "4332252081504252077": {
+      "message": "Oi!"
+   },
+   "4338991104991831337": {
+      "message": "Vaizdai"
+   },
+   "4339705658383891586": {
+      "message": "Visos spalvos"
+   },
+   "4343825450663233452": {
+      "message": "Gali peržiūrėti"
+   },
+   "4343836986248234462": {
+      "message": "Sąrašo elementas"
+   },
+   "435214284915110062": {
+      "message": "Atidaryti paieškos juostą"
+   },
+   "4372755508519489521": {
+      "message": "Tinklelio rodinys"
+   },
+   "4391715930031906467": {
+      "message": "Rasti kitą"
+   },
+   "4395845663892873002": {
+      "message": "Home"
+   },
+   "4422985761498356257": {
+      "message": "Atidaryti naudojant"
+   },
+   "4430062722430863019": {
+      "message": "Ištrinti užrašą visam laikui?"
+   },
+   "4439812492856303238": {
+      "message": "Deja, apdorojant pasirinkimą įvyko netikėta klaida. Bandykite dar kartą vėliau."
+   },
+   "4444571967705751871": {
+      "message": "Šiukšliadėžė"
+   },
+   "4466605492523079635": {
+      "message": "Išsaugoti"
+   },
+   "4468872996560163913": {
+      "message": "Išvalyti šiukšliadėžę dabar"
+   },
+   "4473912481270012588": {
+      "message": "Išsaugota Diske – perkelti į:"
+   },
+   "45228242181482134": {
+      "message": "Leisti"
+   },
+   "4536519876526589338": {
+      "message": "$1​ pseudoportretas."
+   },
+   "4552045407215325033": {
+      "message": "Anksčiau įvesto vaizdo įrašo URL neįmanoma įkelti. Patikrinkite, ar jis tinkamas ir ar yra iš palaikomos svetainės."
+   },
+   "4564682305303579317": {
+      "message": "Tęsti"
+   },
+   "456498742882714639": {
+      "message": "Perkelti į:"
+   },
+   "4588500131398315347": {
+      "message": "Draugų rato kūrimas"
+   },
+   "4604402426271704651": {
+      "message": "Nuotraukos nėra"
+   },
+   "4620034373159179678": {
+      "message": "$1​ puslapis iš $2​"
+   },
+   "4630690108252818511": {
+      "message": "Vaizdų nerasta."
+   },
+   "468283184702431827": {
+      "message": "Veiksmas pradėtas"
+   },
+   "4695897771458936174": {
+      "message": "Bendrinkite nuotraukas iš „Google“ disko „Google+“"
+   },
+   "4740100782728373253": {
+      "message": "Išsaugoti Diske"
+   },
+   "4748046231232264180": {
+      "message": "„Google“ formos"
+   },
+   "4767722428137216885": {
+      "message": "Atšaukti"
+   },
+   "477328789314249432": {
+      "message": "Ieškoti užrašų"
+   },
+   "4775368111547931093": {
+      "message": "Nėra aprašo"
+   },
+   "4781742940361705258": {
+      "message": "Atsisakyti"
+   },
+   "4783695823456312682": {
+      "message": "Perkelti į apačią"
+   },
+   "47844150329705564": {
+      "message": "Paieškos rezultatai pagal užklausą „$1​“"
+   },
+   "4798897505978458661": {
+      "message": "Nerasta jokių vaizdo įrašų."
+   },
+   "4805047680716507619": {
+      "message": " – Perkelti į:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7 Signature"
+   },
+   "4833214200453019325": {
+      "message": "$1​ iš $2​"
+   },
+   "4846720038197420778": {
+      "message": "Susieti daugiau programų"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Užrašas šiukšliadėžėje"
+   },
+   "4888104357342241891": {
+      "message": "Priminimai"
+   },
+   "4889853674709731963": {
+      "message": "Visi užrašai išsaugoti neprisijungus"
+   },
+   "4901386320110714275": {
+      "message": "Slaptažodis netinkamas. Bandykite dar kartą."
+   },
+   "490372259452655427": {
+      "message": "Apgailestaujame, dokumento peržiūra dar negalima."
+   },
+   "4906669330059413958": {
+      "message": "Pateikti slaptažodį"
+   },
+   "4908614808966678155": {
+      "message": "Nėra jokių paieškos rezultatų pagal užklausą „$1​“"
+   },
+   "4926020998477695737": {
+      "message": "Perjungti į aplanką „$1​“"
+   },
+   "4943176738805484221": {
+      "message": "redaguoti"
+   },
+   "4956678140555659175": {
+      "message": "naikinimo klavišas"
+   },
+   "4957674814179289955": {
+      "message": "Pereiti prie kito / ankstesnio sąrašo elemento"
+   },
+   "4963784280521435720": {
+      "message": "Išsaugoma…"
+   },
+   "4969219890884320840": {
+      "message": "Atnaujinti"
+   },
+   "4983125135476400111": {
+      "message": "Pastabą / užrašą perkelti į šiukšliadėžę"
+   },
+   "4988132901627446385": {
+      "message": "Išsamios informacijos skydelis išskleistas."
+   },
+   "4998757387516632837": {
+      "message": "Rodomi rezultatai yra pažymėti, kad juos modifikavus galima naudoti pakartotinai."
+   },
+   "5006225450559627366": {
+      "message": "Dar $1​"
+   },
+   "501475221876543407": {
+      "message": "Pridėti užrašai rodomi čia"
+   },
+   "5023525794410110078": {
+      "message": "Teksto pridėjimas prie nuotraukos"
+   },
+   "5026241297254150381": {
+      "message": "Pridėti užrašą"
+   },
+   "5046371569383796818": {
+      "message": "Palikti"
+   },
+   "5055418092354683641": {
+      "message": "Su užraitais"
+   },
+   "5095987896933771566": {
+      "message": "Spausdinti dokumentą"
+   },
+   "5096751700090310607": {
+      "message": "Nuotraukų nėra."
+   },
+   "509815948423424872": {
+      "message": "Naršymas"
+   },
+   "5099245668405591445": {
+      "message": "Paieška"
+   },
+   "512429649443191386": {
+      "message": "$2​Pagalba$1​"
+   },
+   "5124522868502261563": {
+      "message": "Skaičiuoklės"
+   },
+   "5130903421326358933": {
+      "message": "Išsaugant priedą „Google“ diske kilo problema."
+   },
+   "5149937870346466591": {
+      "message": "Sąrašo rodinys"
+   },
+   "5169187962228219813": {
+      "message": "Gyvenimo vaizdai"
+   },
+   "5180454621500142444": {
+      "message": "Atkurti"
+   },
+   "5180989337128758117": {
+      "message": "kairysis laužtinis skliaustas"
+   },
+   "5184692850089055965": {
+      "message": "Užfiksuoti vaizdo tekstą"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Išsamios informacijos skydelio skirtuko juosta. Jei norite perjungti skirtukus, paspauskite kairės ir dešinės pusės rodyklių klavišus."
+   },
+   "5204391636475413312": {
+      "message": "Išsaugoti"
+   },
+   "5213411023807957844": {
+      "message": "Ieškoti „Google Keep“"
+   },
+   "5213974294317036409": {
+      "message": "{numPages,plural, =0{}=1{1 puslapis}one{# puslapis}few{# puslapiai}many{# pages}other{# puslapių}}"
+   },
+   "5226470917948786938": {
+      "message": "Abėcėlės tvarka"
+   },
+   "5238003680997310998": {
+      "message": "Daugiau"
+   },
+   "5238371081785912565": {
+      "message": "Atidaryti naudojant „$1​“"
+   },
+   "5275493935807628890": {
+      "message": "Šiuo URL negalime rasti vaizdo."
+   },
+   "5281121179861637423": {
+      "message": "Slaptažodis būtinas, kad būtų galima pasiekti „$1​“. Įveskite slaptažodį"
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5291153964865714504": {
+      "message": "Nėra jokių atitinkančių užrašų"
+   },
+   "5299648222246616124": {
+      "message": "gravis"
+   },
+   "5304869088141363028": {
+      "message": "Panašios nuotraukos"
+   },
+   "5316658541831864803": {
+      "message": "Apgailestaujame, šio tipo dokumentų peržiūra nepalaikoma."
+   },
+   "5319313176242717957": {
+      "message": "Apdorojami vaizdai..."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "534228323125524312": {
+      "message": "Tolinti"
+   },
+   "5353129315502554762": {
+      "message": "Stiliaus failas"
+   },
+   "5372143986724491245": {
+      "message": "prieš $1​ d."
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5399553230649155346": {
+      "message": "po $1​ val."
+   },
+   "5403830377590414208": {
+      "message": "Baltas"
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5438481737351808090": {
+      "message": "Popietė ($1​)"
+   },
+   "544377415081282702": {
+      "message": "Apgailestaujame."
+   },
+   "5447119197363232006": {
+      "message": "Rodyti Diske"
+   },
+   "5465323999933375616": {
+      "message": "Pasiekėte ne „Google“ dokumentų formato failų peržiūros ar atsisiuntimo pralaidumo ribą."
+   },
+   "5472312735475866917": {
+      "message": "$1​ komentaras."
+   },
+   "547865385964196102": {
+      "message": "prieš $1​ min."
+   },
+   "5482872484546230111": {
+      "message": "Ieškoti knygų"
+   },
+   "5494181290179470995": {
+      "message": "Ištrinti"
+   },
+   "5500117709595533163": {
+      "message": "Įveskite paieškos žodį į aukščiau esantį laukelį, kad naudodami „Google“ knygas rastumėte el. knygų rezultatų."
+   },
+   "5514516347328112388": {
+      "message": "Taip pat galite pabandyti atsisiųsti pradinį dokumentą spustelėję $2​čia$1​."
+   },
+   "5529532831767466284": {
+      "message": "{VIEWER_GENDER,select, female{{DEGREES}° {MINUTES}' {SECONDS}\"}male{{DEGREES}° {MINUTES}' {SECONDS}\"}other{{DEGREES}° {MINUTES}' {SECONDS}\"}}"
+   },
+   "5555182241047709329": {
+      "message": "Pasirinkite vietovę"
+   },
+   "5555599189512365009": {
+      "message": "SUPRATAU"
+   },
+   "5571842632470308750": {
+      "message": "Visi tipai"
+   },
+   "5588597116382648727": {
+      "message": "Pradedama išskleidimo užduotis."
+   },
+   "5598649706113950710": {
+      "message": "Redagavimo priemonė"
+   },
+   "5609727719971819773": {
+      "message": "{VIEWER_GENDER,select, female{Atgal}male{Atgal}other{Atgal}}"
+   },
+   "5627470193961862490": {
+      "message": "Būsimų priminimų užrašai bus rodomi čia"
+   },
+   "5631086126416409232": {
+      "message": "Mėlyna"
+   },
+   "564165666160590723": {
+      "message": "„Windows Media“ leistuvė"
+   },
+   "5660422479531064559": {
+      "message": "Formų nėra."
+   },
+   "5675154446465700699": {
+      "message": "PDF failai"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Ištrinti pažymėtus elementus?"
+   },
+   "5714240424645614611": {
+      "message": "„Android“ paketas"
+   },
+   "5728640851616538925": {
+      "message": "Žalia"
+   },
+   "5744491383087191878": {
+      "message": "Anksčiau įvestas vaizdo URL netinkamas arba negali būti įkeltas."
+   },
+   "5747728324987383020": {
+      "message": "Veidas"
+   },
+   "5783875011049188612": {
+      "message": "Vaizdo tekstas užfiksuotas"
+   },
+   "5785010887521443923": {
+      "message": "Pašalinti"
+   },
+   "5834678297024555032": {
+      "message": "Leisti"
+   },
+   "5840330517914556080": {
+      "message": "Tolinti"
+   },
+   "5842536098490298653": {
+      "message": "Šriftų nerasta."
+   },
+   "5865680764501413616": {
+      "message": "Nepavyksta atpažinti teksto."
+   },
+   "5871966496153339793": {
+      "message": "Pateikiama vaizdo įrašo „$1​“ miniatiūra"
+   },
+   "5875004331736681428": {
+      "message": "Išskleidžiama į pašto paskyrą."
+   },
+   "587666071025645113": {
+      "message": "Paieška"
+   },
+   "5877526626743756786": {
+      "message": "Atsiliepimai"
+   },
+   "5889725440363483648": {
+      "message": "Bet kuris grupės naudotojas"
+   },
+   "5911012384539794869": {
+      "message": "Nepavyko pradėti išskleidimo užduoties."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5949528478488617689": {
+      "message": "Leidimas atsisiųsti"
+   },
+   "5950887255133612666": {
+      "message": "Nepaleistas."
+   },
+   "5969696744752069015": {
+      "message": "Peržiūra negalima."
+   },
+   "5971400924847413790": {
+      "message": "Taip pat galite peržiūrėti $2​paprastą HTML$1​ (peradresuojama automatiškai)."
+   },
+   "5972111804366033138": {
+      "message": "Atsisiųsti"
+   },
+   "5975031149676029214": {
+      "message": "Visi"
+   },
+   "5976369213680241300": {
+      "message": "Ieškoti vaizdų"
+   },
+   "5980081664136280513": {
+      "message": "Žalias"
+   },
+   "5984398071085567332": {
+      "message": "„Google“ duomenų tvarkymo lentelės"
+   },
+   "6009962986062136164": {
+      "message": "Įkeliama „$1​“."
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6043068172993241858": {
+      "message": "Šiame draugų rate nieko nėra."
+   },
+   "604883455412617728": {
+      "message": "Paieškos neatitiko joks kontaktas."
+   },
+   "6051386830221821025": {
+      "message": "Prisijungiama..."
+   },
+   "6064654062949366878": {
+      "message": "Leisti"
+   },
+   "6070475007374165567": {
+      "message": "Išsaugoma…"
+   },
+   "6083586461434260179": {
+      "message": "Nauja peržiūros NS"
+   },
+   "6087078248621415351": {
+      "message": "Pakeistas $1​"
+   },
+   "6091926883608250483": {
+      "message": "Daugiau"
+   },
+   "6105571474005679446": {
+      "message": "Kilo su peržiūra susijusi problema."
+   },
+   "6113237889871930608": {
+      "message": "Tuščias užrašas"
+   },
+   "6118623991445349480": {
+      "message": "Puslapis: $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Programų sąrašas"
+   },
+   "6149175749937815029": {
+      "message": "Peržiūrėti visus elementus"
+   },
+   "6160805346274626656": {
+      "message": "Ištrinti visam laikui"
+   },
+   "616807262818311711": {
+      "message": "Tipas"
+   },
+   "6175043905327075444": {
+      "message": "Anksčiau pasirinkta"
+   },
+   "6177107655089301674": {
+      "message": "Atsisiųskite „Android“ skirtą programą „Google Keep“"
+   },
+   "6185886893933834031": {
+      "message": "Išsaugoti pasirinktas versijas"
+   },
+   "6186290899408627510": {
+      "message": "Enter"
+   },
+   "6189891414154673003": {
+      "message": "Mano žemėlapiai"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Bet kuris naudotojas"
+   },
+   "623118860067088424": {
+      "message": "Vaizdo įrašai"
+   },
+   "6231401379881217113": {
+      "message": "Insert"
+   },
+   "6252259197986158120": {
+      "message": "Vakar"
+   },
+   "6253076263700695984": {
+      "message": "Tapatybės nustatymo klaida. Įkelkite iš naujo."
+   },
+   "6255475144867830247": {
+      "message": "Pasirinkite iš kitų naršymo skirtukų."
+   },
+   "6267063643272327592": {
+      "message": "Vėliau bandykite dar kartą."
+   },
+   "6290270819062517523": {
+      "message": "Pasirinkta per daug elementų. Panaikinkite bent vieno elemento pasirinkimą."
+   },
+   "6305748545202493254": {
+      "message": "Rodyti / slėpti išsamios informacijos sritį"
+   },
+   "6324768448533022780": {
+      "message": "$2​ $1​"
+   },
+   "6331677437567501421": {
+      "message": "Atnaujinant leidimą atsisiųsti kilo problema."
+   },
+   "6333496730738019575": {
+      "message": "Įkeliama…"
+   },
+   "634900089121611600": {
+      "message": "Vaizdo įrašų nėra."
+   },
+   "6362170008350775214": {
+      "message": "Priminimas $1​"
+   },
+   "6375395544374251820": {
+      "message": "Įkeliant daugiau puslapių kilo problema. Bandoma iš naujo..."
+   },
+   "6376739025584042564": {
+      "message": "Nuotraukos apkarpymas"
+   },
+   "6386587519843563719": {
+      "message": "Dvejetainės programos failas"
+   },
+   "6416495701611778255": {
+      "message": "Siūlomos trečiųjų šalių programos"
+   },
+   "6419411265907669340": {
+      "message": "Šiandien"
+   },
+   "6436479735235889890": {
+      "message": "Priminimas $2​, $1​"
+   },
+   "6450508807204492448": {
+      "message": "Piktograma „$1​“"
+   },
+   "6457802200418354862": {
+      "message": "Žiūrintieji gali atsisiųsti"
+   },
+   "6459405233858728718": {
+      "message": "„Google“ skaidrės"
+   },
+   "6464761738227651511": {
+      "message": "prieš $1​ min."
+   },
+   "6466736813846482957": {
+      "message": "Ankstesnis"
+   },
+   "6479216014938929613": {
+      "message": "Naktis ($1​)"
+   },
+   "6482358947077977110": {
+      "message": "„Google“ paieškos vaizdai"
+   },
+   "6487403767449360463": {
+      "message": "Iš naujo įkelti „Keep“?"
+   },
+   "6488225756782357866": {
+      "message": "Pažymėtas vaizdas rastas šiame „Google“ vaizdų paieškos puslapyje:"
+   },
+   "6510131849363684615": {
+      "message": "Rytoj"
+   },
+   "6516256764288947999": {
+      "message": "Žymų priskyrimas žmonėms"
+   },
+   "6522917155620379865": {
+      "message": "Atsisiųsti"
+   },
+   "6524849072392100692": {
+      "message": "„Google“ disko aplankas"
+   },
+   "6551588617715293696": {
+      "message": "Rūšiavimo parinktys"
+   },
+   "6570921376519753466": {
+      "message": "Pateiktis"
+   },
+   "6571686604846453345": {
+      "message": "Pridedant šį elementą prie Disko kilo problema."
+   },
+   "6582286158693833652": {
+      "message": "Sužinokite daugiau"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6602430002978098812": {
+      "message": "Rašymas ranka"
+   },
+   "6614046405230762587": {
+      "message": "Nerasta jokių kontaktų."
+   },
+   "6622304228074863427": {
+      "message": "Programa"
+   },
+   "6624754161346656119": {
+      "message": "$1​ pseudoportretas."
+   },
+   "6644861766016503644": {
+      "message": "Būtina nurodyti slaptažodį"
+   },
+   "6650600936729710500": {
+      "message": "Atsakymai."
+   },
+   "666311703374681171": {
+      "message": "Vaizdai ir vaizdo įrašai"
+   },
+   "6666820082708870349": {
+      "message": "Pašalinti"
+   },
+   "6707173584987026005": {
+      "message": "Šiandien"
+   },
+   "6709984792949009238": {
+      "message": "Pastarąjį kartą mano atidaryta"
+   },
+   "6726462693927865256": {
+      "message": "Išsami informacija"
+   },
+   "6726879257388338969": {
+      "message": "Spausdinti"
+   },
+   "6726925393892510846": {
+      "message": "Įvyko klaida. Bandykite dar kartą."
+   },
+   "6741759391888465238": {
+      "message": "Išsaugoma Diske – perkelti į:"
+   },
+   "6744457949320515234": {
+      "message": "Tuščias užrašas išmestas"
+   },
+   "6757218172402086688": {
+      "message": "Ieškoti užrašų…"
+   },
+   "6780628488957834429": {
+      "message": "Oranžinė"
+   },
+   "6784073265197389491": {
+      "message": "Sužinokite daugiau"
+   },
+   "681598652078493281": {
+      "message": "Sužinokite daugiau"
+   },
+   "6818286476757207074": {
+      "message": "Pasirinkite tik tuos vaizdus, kuriuos naudoti turite licenciją (kaip patvirtinote anksčiau)."
+   },
+   "682070933835616121": {
+      "message": "Lentelių nėra."
+   },
+   "6822338149422461362": {
+      "message": "„Google“ diskas"
+   },
+   "6827821461670731013": {
+      "message": "Rodyti žymimuosius laukelius"
+   },
+   "6828581947433060251": {
+      "message": "Pervardijant elementą kilo problema."
+   },
+   "6833760103261954639": {
+      "message": "Įkeliant šį puslapį kilo problema. Bandoma iš naujo..."
+   },
+   "6841020391100928352": {
+      "message": "Viršytas didžiausias failų dydis."
+   },
+   "6851307437837490686": {
+      "message": "Neleisti žiūrintiesiems atsisiųsti"
+   },
+   "6856672816797218730": {
+      "message": "Pridėti"
+   },
+   "6891563484025164308": {
+      "message": "Ankstesnis"
+   },
+   "6893687445500687349": {
+      "message": "Svetainės"
+   },
+   "6898823203505321799": {
+      "message": "Išsami informacija"
+   },
+   "6904351530369058983": {
+      "message": "Savininkas"
+   },
+   "6905021988981026920": {
+      "message": "Vaizdo įrašų paieška"
+   },
+   "6922953828399110511": {
+      "message": "Uždaryti peržiūros priemonę"
+   },
+   "6929958461954697067": {
+      "message": "Nuotraukos su jumis"
+   },
+   "6939782595426687411": {
+      "message": "Pridedama..."
+   },
+   "6940998537415516791": {
+      "message": ","
+   },
+   "695253297035211081": {
+      "message": "Valyti šiukšliadėžę"
+   },
+   "6967244066810487978": {
+      "message": "ŠIUKŠLIADĖŽĖ"
+   },
+   "6970167488058122005": {
+      "message": "nežinomas autorius"
+   },
+   "6976414863987386971": {
+      "message": "Formos"
+   },
+   "7001938470263404128": {
+      "message": "Įkelti"
+   },
+   "7002768663714031226": {
+      "message": "Atnaujinti"
+   },
+   "7004919150329996187": {
+      "message": "Šiame draugų rate nerasta jokių ieškomų žmonių."
+   },
+   "7054631817922169541": {
+      "message": "„Google Keep“ yra neišsaugotų pakeitimų. Ar norite išeiti iš puslapio ir atmesti atliktus pakeitimus?"
+   },
+   "7059437903473652416": {
+      "message": "Leisti „YouTube“ vaizdo įrašą „$1​“"
+   },
+   "7080196430479494775": {
+      "message": "Bandyti dar kartą"
+   },
+   "7084324152376766809": {
+      "message": "prieš $1​ d."
+   },
+   "7084991134824194740": {
+      "message": "Priminti"
+   },
+   "7092062731478679314": {
+      "message": "Draugų ratų nerasta."
+   },
+   "7117183622067702162": {
+      "message": "Naudojant „Google“ diską, jums daugiau niekada nebereikės siųsti jokio el. laiško priedo. Tiesiog bendrinkite bet kurio „Google“ disko saugomo failo nuorodą. Taip kiekvienas galės automatiškai pasiekti tą patį failą ir tą pačią jo versiją."
+   },
+   "713754035716193665": {
+      "message": "Naujas sąrašas"
+   },
+   "7146242673022399081": {
+      "message": "Tekstas"
+   },
+   "7148992630785407972": {
+      "message": "Šis failas yra apsaugotas slaptažodžiu ir jo negalima peržiūrėti."
+   },
+   "7151987668860086450": {
+      "message": "Žiniatinklio paieška"
+   },
+   "7153847618034547771": {
+      "message": "Įgalinti"
+   },
+   "7161134329606048317": {
+      "message": "Uždaryti"
+   },
+   "7164532930742017984": {
+      "message": "Bet kuris nuorodą turintis naudotojas"
+   },
+   "7174189954350964804": {
+      "message": "Bandyti dar kartą"
+   },
+   "7177591028189992523": {
+      "message": "Perkelti"
+   },
+   "7188754206068648188": {
+      "message": "Kableliais atskirti duomenys"
+   },
+   "7225837680381806920": {
+      "message": "Vakaras ($1​)"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7236199858216720905": {
+      "message": "Žemėlapiai"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7259352906118493156": {
+      "message": "Svetainių nėra."
+   },
+   "7282548567245878869": {
+      "message": "Elementas ištrintas"
+   },
+   "7295712436136900176": {
+      "message": "Įkelti iš naujo"
+   },
+   "7310311230493556740": {
+      "message": "URL adresas"
+   },
+   "7339696241980105410": {
+      "message": "Vaizdo įrašo, kurį pasirinkote, nebėra. Savininkas galėjo jį pašalinti."
+   },
+   "7342923890755029722": {
+      "message": "Uždaryti"
+   },
+   "734478884582426793": {
+      "message": "Suglaudintas archyvas"
+   },
+   "7357017164339332230": {
+      "message": "Šiuos vaizdus taip pat galite peržiūrėti ir bendrinti naudodami $2​„Picasa“ žiniatinklio albumus$1​ – nemokamą „Google“ nuotraukų prieglobos paslaugą."
+   },
+   "736105042796745909": {
+      "message": "{VIEWER_GENDER,select, female{Sukurti aplanką}male{Sukurti aplanką}other{Sukurti aplanką}}"
+   },
+   "7362061801920948830": {
+      "message": "Įkelti daugiau"
+   },
+   "7364571366369083618": {
+      "message": "Vaizdo įrašas"
+   },
+   "7377239345926788722": {
+      "message": "Veiksmai"
+   },
+   "7380785991026002613": {
+      "message": "Rodomi rezultatai yra pažymėti, kad juos galima naudoti pakartotinai."
+   },
+   "7382688299146249119": {
+      "message": "Atsisiųsti elementą"
+   },
+   "7383706174467122149": {
+      "message": "Pastaba ištrinta"
+   },
+   "7388342865555961406": {
+      "message": "po $1​ d."
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "740507516967994591": {
+      "message": "Atidaryti"
+   },
+   "7422452809590461532": {
+      "message": "Raudona"
+   },
+   "7426603384368095928": {
+      "message": "Įkelkite puslapį iš naujo, kad vėl prisijungtumėte ir galėtumėte toliau dirbti."
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (redaguota $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Išsaugoma Diske"
+   },
+   "7451573821837395189": {
+      "message": "Elementas buvo pridėtas prie $2​Disko$1​."
+   },
+   "7468322419516352788": {
+      "message": "Atnaujinant aprašą kilo problema."
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7492710087472140422": {
+      "message": "Sužinokite daugiau"
+   },
+   "7493919863870655172": {
+      "message": "Žiniatinklio kamera"
+   },
+   "7500786109708143683": {
+      "message": "Garso įrašas ištrintas"
+   },
+   "7501027876827009022": {
+      "message": "Rodomi rezultatai yra pažymėti, kad juos galima pakartotinai naudoti komerciniais tikslais."
+   },
+   "7521272923988336579": {
+      "message": "Iš naujo įkelkite „Keep“ dabar, kad galėtumėte naudoti naujausią jos versiją."
+   },
+   "7532552995569296274": {
+      "message": "Išvalyti paiešką"
+   },
+   "7546994163355383999": {
+      "message": "Visi užrašai išsaugoti"
+   },
+   "7559208209275370228": {
+      "message": "Pastarąjį kartą mano redaguota"
+   },
+   "7565383798249439151": {
+      "message": "po $1​ d."
+   },
+   "7565870443143407759": {
+      "message": "Ieškoti dokumente"
+   },
+   "7586291841734385643": {
+      "message": "Atidaryti naujame skirtuko lape"
+   },
+   "7598582624136632660": {
+      "message": "Atidaryti paieškos juostą / rasti kitą"
+   },
+   "7602870977118971161": {
+      "message": "Įkelti iš naujo"
+   },
+   "7610654194202731772": {
+      "message": "Ištrinti"
+   },
+   "761925792744044896": {
+      "message": "Nustatyti kaip profilio nuotrauką"
+   },
+   "7630723924002267143": {
+      "message": "Spartieji klavišai įgalinti."
+   },
+   "7640546114686970497": {
+      "message": "Negalima pridėti daugiau elementų"
+   },
+   "7669846901402551021": {
+      "message": "Šiandien"
+   },
+   "7691521283331762131": {
+      "message": "Suarchyvuoti užrašai rodomi čia"
+   },
+   "772000107335590599": {
+      "message": "po $1​ min."
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7745005220197261896": {
+      "message": "Knygų paieška"
+   },
+   "7759846028901235026": {
+      "message": "Pastaba išarchyvuota"
+   },
+   "776065748745885880": {
+      "message": "tarpo klavišas"
+   },
+   "7770982082843341533": {
+      "message": "Šiame aplanke elementų nėra."
+   },
+   "779472474101127362": {
+      "message": "Padaryti momentinę ekrano nuotrauką"
+   },
+   "7800318069267901681": {
+      "message": "Pakeista"
+   },
+   "7805487598105530487": {
+      "message": "Eilutinis"
+   },
+   "7814778057875152792": {
+      "message": "Perkeliant priedą į pasirinktą „Google“ disko aplanką kilo problema."
+   },
+   "7820417126206702946": {
+      "message": "Rodomi rezultatai gali būti naudojami asmeniniais ar komerciniais tikslais tik „Google“ diske ir negali būti savarankiškai platinami ar parduodami."
+   },
+   "7822364282298323175": {
+      "message": "Sąrašas ištrintas"
+   },
+   "7830513726270865588": {
+      "message": "Kalendorius"
+   },
+   "7845751753397906805": {
+      "message": "Rasta nesuderinamų pakeitimų"
+   },
+   "7852396628465259068": {
+      "message": "Profilio nuotrauka"
+   },
+   "7859526172011446452": {
+      "message": "Sustabdyti perdavimą"
+   },
+   "78870906674150830": {
+      "message": "$3​$1​$2​"
+   },
+   "7895643887742936844": {
+      "message": "kabliataškis"
+   },
+   "7899833760457194273": {
+      "message": "Vaizdų paieška"
+   },
+   "7899913952063063825": {
+      "message": "Vaizdas ištrintas"
+   },
+   "7906726367011430855": {
+      "message": "Susieti"
+   },
+   "7910518224461588465": {
+      "message": "Geltonas"
+   },
+   "7953603850004320936": {
+      "message": "Peržiūra nepasiekiama."
+   },
+   "7957306528733096600": {
+      "message": "Veiksmas užbaigtas"
+   },
+   "7960528690514646841": {
+      "message": "{moreCount,plural, =0{daugiskaitos forma nevartojama}=1{ir dar 1}one{ir dar {moreCount}}few{ir dar {moreCount}}many{+ {moreCount} more}other{ir dar {moreCount}}}"
+   },
+   "7973635145070803181": {
+      "message": "Nuotraukų įkėlimas"
+   },
+   "7987180255015869513": {
+      "message": "Arba įklijuokite žiniatinklio adresą čia:"
+   },
+   "8011497727123874703": {
+      "message": "Aplanko „$1​“ mygtukas"
+   },
+   "8016231262233952856": {
+      "message": "Žalsvai mėlynas"
+   },
+   "8019402848412685977": {
+      "message": "„$2​“ pervardytas į „$1​“."
+   },
+   "8023466614826324314": {
+      "message": "Nuotraukos bus bendrinamos su didele auditorija."
+   },
+   "8043514121228710092": {
+      "message": "Pridėti vaizdą"
+   },
+   "8044700199531805239": {
+      "message": "$3​$1​$2​ susieta."
+   },
+   "8069384932934428393": {
+      "message": "po $1​ min."
+   },
+   "8081927474846706026": {
+      "message": "Piešinių nėra."
+   },
+   "8090743714060857028": {
+      "message": "Žiūrintieji negali atsisiųsti"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 baitų}=1{1 baitas}one{# baitas}few{# baitai}many{# bytes}other{# baitų}}"
+   },
+   "8099047958506869131": {
+      "message": "{VIEWER_GENDER,select, female{Naujas aplankas}male{Naujas aplankas}other{Naujas aplankas}}"
+   },
+   "8100558294600077150": {
+      "message": "Tinklaraščių paieška"
+   },
+   "8105635255693472607": {
+      "message": "Pridėti naujų sąrašo elementų"
+   },
+   "8106780183458743723": {
+      "message": "Nuotraukų albumai"
+   },
+   "8112699352770418817": {
+      "message": "Knygų nerasta."
+   },
+   "8132410616064087953": {
+      "message": "Vaizdo įrašas per ilgas (maksimali trukmė yra $1​ sek.)."
+   },
+   "8135145577663029437": {
+      "message": "Išsaugoti abi versijas"
+   },
+   "8146560259680897627": {
+      "message": "Atšaukti"
+   },
+   "8158191101452862916": {
+      "message": "Įterpti vaizdus"
+   },
+   "8159493406018222636": {
+      "message": "Siųsti atsiliepimą"
+   },
+   "8172945196588870035": {
+      "message": "Įvykiai"
+   },
+   "8174654098152723289": {
+      "message": "Redaguoti aprašą"
+   },
+   "8178754379486173416": {
+      "message": "{VIEWER_GENDER,select, female{Pasirinkta labai mažai elementų. Pasirinkite daugiau.}male{Pasirinkta labai mažai elementų. Pasirinkite daugiau.}other{Pasirinkta labai mažai elementų. Pasirinkite daugiau.}}"
+   },
+   "8192378456655629049": {
+      "message": "Apdorojamas vaizdo įrašas..."
+   },
+   "8193991135666622583": {
+      "message": "Keep"
+   },
+   "821942580510564685": {
+      "message": "Jei norite peržiūrėti šį dokumentą, įveskite jo slaptažodį"
+   },
+   "8239237134193392595": {
+      "message": "Priminimų apie vietoves pranešimai rodomi tik mobiliuosiuose įrenginiuose."
+   },
+   "8267458240960831780": {
+      "message": "Nustatoma tapatybė…"
+   },
+   "8281141013543828574": {
+      "message": "Neapdorotas vaizdas"
+   },
+   "8281678863271800533": {
+      "message": "Vaizdo filtras"
+   },
+   "8283103456188558313": {
+      "message": "Pristatymai"
+   },
+   "8290434443655418968": {
+      "message": "{filesCount,plural, =0{unused plural form}=1{Pasirinktas failas [{file}] nepalaikomas, kad jį būtų galima įkelti.}one{Pasirinkti failai [{files}] nepalaikomi, kad juos būtų galima įkelti.}few{Pasirinkti failai [{files}] nepalaikomi, kad juos būtų galima įkelti.}many{Selected files [{files}] are not supported for upload.}other{Pasirinkti failai [{files}] nepalaikomi, kad juos būtų galima įkelti.}}"
+   },
+   "8304474373444239435": {
+      "message": "$1​ atsakymas."
+   },
+   "8322416564157128458": {
+      "message": "Bendrinimas"
+   },
+   "8324195080917648153": {
+      "message": "Vaizdo įrašas čia netelpa. Šiek tiek padidinkite naršyklės langą."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342684858400436871": {
+      "message": "tabuliavimo klavišas"
+   },
+   "8379952094517631162": {
+      "message": "Ne"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412684147928483084": {
+      "message": "Juodas"
+   },
+   "8435544675017330861": {
+      "message": "Jūsų paieškos neatitiko jokie elementai."
+   },
+   "8436817383042650304": {
+      "message": "Caps Lock"
+   },
+   "8451184312655705174": {
+      "message": "Jei URL adresas teisingas, čia matysite peržiūrą. Gali praeiti kelios minutės, kol pasirodys dideli vaizdai."
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8506198918368329269": {
+      "message": "Rodomi rezultatai yra pažymėti, kad juos modifikavus galima pakartotinai naudoti komerciniais tikslais."
+   },
+   "8571315158566081191": {
+      "message": "Skaičiuoklių nėra."
+   },
+   "8580600056399054303": {
+      "message": "Nustatykite, kur pateikiami nauji ar pažymėti elementai"
+   },
+   "8595175575778060149": {
+      "message": "Daugiau"
+   },
+   "8596257056433048992": {
+      "message": "Sveiki, tai"
+   },
+   "8616342546716995946": {
+      "message": "Supratau"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8638281560898810401": {
+      "message": "{MINUTES,plural, =0{0 minučių }=1{1 minutė }one{# minutė }few{# minutės }many{# minutes }other{# minučių }}{SECONDS,plural, =0{0 sekundžių.}=1{1 sekundė.}one{# sekundė.}few{# sekundės.}many{# seconds.}other{# sekundžių.}}"
+   },
+   "863955692838281739": {
+      "message": "Uždaryti"
+   },
+   "8643398764569428530": {
+      "message": "Leisti „Google Keep“ rodyti pranešimus?"
+   },
+   "8652566647088230560": {
+      "message": "Ne galutinė versija, konfidencialus"
+   },
+   "8660016472468563221": {
+      "message": "dvitaškis"
+   },
+   "8663507590720636709": {
+      "message": "$1​ ir dar $2​"
+   },
+   "8666643061920113075": {
+      "message": "{VIEWER_GENDER,select, female{Vaizdo URL įklijuokite čia:}male{Vaizdo URL įklijuokite čia:}other{Vaizdo URL įklijuokite čia:}}"
+   },
+   "8674222789100049233": {
+      "message": "Uždaryti"
+   },
+   "86815590954366945": {
+      "message": "Suarchyvuoto turinio sąrašas"
+   },
+   "8709611758728645225": {
+      "message": "Page Down"
+   },
+   "8711002053494037632": {
+      "message": "Atžymėti visi elementai"
+   },
+   "8748281640412284111": {
+      "message": "Licencijuoti vaizdai"
+   },
+   "8759520888087120926": {
+      "message": "Nėra scenarijų."
+   },
+   "8775097441636640256": {
+      "message": "$2​ – $1​"
+   },
+   "8780212274435014958": {
+      "message": "Draugų ratai"
+   },
+   "8781837301864053001": {
+      "message": "Raiškusis tekstas"
+   },
+   "8792038552136453044": {
+      "message": "Oi! Kažkas atsitiko."
+   },
+   "8793166064242077041": {
+      "message": "Pateikiant šį vaizdą kilo problema."
+   },
+   "8813101408630252335": {
+      "message": "$1​ sek."
+   },
+   "8820281478062782578": {
+      "message": "Ieškoti"
+   },
+   "8822326207328431952": {
+      "message": "Negalima įkelti vaizdų"
+   },
+   "8840223453482998505": {
+      "message": "Pasirinktas aplankas „$1​“"
+   },
+   "8845176264121061589": {
+      "message": "Atžymėti visus elementus"
+   },
+   "8850238112725591771": {
+      "message": "spartieji klavišai $1​"
+   },
+   "8852550049823214385": {
+      "message": "tada"
+   },
+   "8883744193208363722": {
+      "message": "Galimas programos naujinys."
+   },
+   "8884900765322249670": {
+      "message": "Sąrašo rodinys"
+   },
+   "8889019648958415451": {
+      "message": "Nežinomas failas"
+   },
+   "8911996820409711834": {
+      "message": "Perkelti tekstą į naują sąrašo elementą &raquo;"
+   },
+   "8916237870980173557": {
+      "message": "Jungiamasi…"
+   },
+   "8917554093651202032": {
+      "message": "Leisti „$1​“"
+   },
+   "8919660666733306860": {
+      "message": "Vaizdas"
+   },
+   "8930959387403789939": {
+      "message": "Priminimas"
+   },
+   "8943760679396635042": {
+      "message": "Pateikiama „$1​“."
+   },
+   "8953555255469284376": {
+      "message": "Nuvilkite vaizdus čia"
+   },
+   "8979615310931291676": {
+      "message": "Redaguota $1​"
+   },
+   "8986044948621891903": {
+      "message": "Įveskite paieškos žodį į aukščiau esantį laukelį, kad naudodami „Google“ žiniatinklio paiešką rastumėte žiniatinklio rezultatų."
+   },
+   "901615442107785480": {
+      "message": "Archyvuoti užrašą / sąrašą"
+   },
+   "9024023699330078373": {
+      "message": "Atidarius šį elementą, jis bus pridėtas prie Disko"
+   },
+   "9028041601596584772": {
+      "message": "Vietovė"
+   },
+   "9058308423774656474": {
+      "message": "Hangul Word Processor"
+   },
+   "9083935734710258396": {
+      "message": "Atmesti"
+   },
+   "9094248058931620597": {
+      "message": "Išsamios informacijos skydelis sutrauktas."
+   },
+   "9114674068220302553": {
+      "message": "Kaip priedą"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9130962320402467249": {
+      "message": "Šabloninės nuotraukos"
+   },
+   "9146716987301178362": {
+      "message": "Įvyko klaida. Įkelkite iš naujo."
+   },
+   "9165877886714239857": {
+      "message": "Nepavyksta užfiksuoti vaizdo teksto. Vėliau bandykite dar kartą."
+   },
+   "916773043895242978": {
+      "message": "Anksčiau įvestas vaizdo URL yra netinkamas arba jo įkelti neįmanoma. Įveskite tinkamą vaizdo URL."
+   },
+   "9173629944963872598": {
+      "message": "Įvykių nerasta."
+   },
+   "9182500445937900938": {
+      "message": "Uždaryti"
+   },
+   "9195941533351099011": {
+      "message": "Įkeliama $1​ iš $2​"
+   },
+   "9197837492705576727": {
+      "message": "Eiti į kitą elementą"
+   },
+   "919969969251998566": {
+      "message": "Išskleiskite šį archyvą į pašto paskyrą."
+   },
+   "9203542510134660095": {
+      "message": "Išskleidimo užduotis pradėta. Archyvo turinys bus pateiktas Disko aplanke „$1​“."
+   },
+   "940276535015195877": {
+      "message": "Aplankų nėra."
+   },
+   "943493480163896757": {
+      "message": "{resultCount,plural, =1{# atitinkantis užrašas}one{# atitinkantis užrašas}few{# atitinkantys užrašai}many{# matching notes}other{# atitinkančių užrašų}}"
+   },
+   "951963820437151566": {
+      "message": "„Google“ svetainės"
+   },
+   "95809842507987016": {
+      "message": "Ištrinti"
+   },
+   "963611681085757795": {
+      "message": "Apgailestaujame, šiuo metu negalima sugeneruoti dokumento peržiūros."
+   },
+   "96556988207614774": {
+      "message": "Kalendoriai"
+   },
+   "974042541427403929": {
+      "message": "Mėlynas"
+   },
+   "980395722421409371": {
+      "message": "Žemėlapių nerasta."
+   },
+   "982187142411651629": {
+      "message": "Atsisakyti"
+   },
+   "985197728509875956": {
+      "message": "Chemical Model"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "998727788921602971": {
+      "message": "Vaizdo įrašai"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Greitai fiksuokite, ką galvojate, ir gaukite priminimą tinkamoje vietoje ar tinkamu laiku."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "„Google Keep“ – užrašai ir sąrašai"
+   }
+}
