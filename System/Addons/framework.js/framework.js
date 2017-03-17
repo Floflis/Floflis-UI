@@ -20,6 +20,8 @@ jQuery(document).ready(function($){
 
 	// tab click
 	$(document).on('click', 'ul.tabs a[href^="#"]', function(e){
+body = document.createElement('audio');
+                body.innerHTML = '<audio id="sound" src="' + 'System/Resources/snd/Navigation.flac'+ '" autoplay></audio>';
 		e.preventDefault();
 		var tabs = $(this).parents('ul.tabs').find('li');
 		var tab_next = $(this).attr('href');
