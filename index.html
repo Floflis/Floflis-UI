@@ -75,7 +75,7 @@ link.onload = CallBackForAfterFileLoaded;
 document.head.appendChild(link);
 function CallBackForAfterFileLoaded (e) {
 document.getElementById("boot-status").innerHTML = "";
-document.getElementById("body").className = "locked";
+lock();
 document.getElementById("onlyboot").setAttribute("style", "");
 }
 function secondboot() {
@@ -111,7 +111,6 @@ document.head.appendChild(script);
 function CallBackForAfterFileLoaded (e) {
 }
 document.getElementsByTagName("body")[0].setAttribute("style", "background:url(System/Resources/Themes/Default/Backgrounds/Launcher/Default.png) no-repeat center center fixed");
-document.getElementById("title").innerHTML = "WS.js";
 var boot = document.getElementById('onlyboot');
 var bootdiv = document.getElementById('onlyboot');
 boot.remove(bootdiv)
