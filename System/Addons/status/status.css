@@ -8,7 +8,7 @@
     width: 400px;
     height: 100%;
     border-left: 1px dotted;
-    background: rgb(69, 69, 69);
+    background: rgba(128, 128, 128, 0.9);
     border-color: #000;
     z-index: 2;
     position: fixed !important;
