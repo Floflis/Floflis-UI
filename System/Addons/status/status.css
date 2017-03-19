@@ -55,7 +55,7 @@
     left: initial;
     border-right: 0;
     border-left: 1px dotted;
-    z-index: 6;
+    z-index: 5;
 }
 
 #usermenu > ul > div {
