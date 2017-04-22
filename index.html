@@ -119,5 +119,16 @@ boot.remove(bootdiv)
 }
 </script>
 </div>
+<style>#browserdialog { width: 100%; height: 100%; top: 0; left: 0; position: fixed; background: #fff; color: #000; z-index: 4; display: none } #browserdialog h2 { color: #a90101 }</style>
+<script>window.onload=function() {
+if(window.isElectron=typeof process!="undefined") {
+ //Custom event 
+} else {
+$(`#browserdialog`).toggle();return false;
+}
+}</script>
+<div id="browserdialog"><h1>This page can be accessed only in DCRS. Please download it by visiting</h1>
+<blockquote>http://127.0.0.1:43110/dcrs.bit/</blockquote>
+<h2>If you is an developer, just remove this div element (id browserdialog) via inspector.</h2></div>
 </body>
 </html>
