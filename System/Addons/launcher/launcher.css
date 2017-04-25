@@ -28,9 +28,10 @@ launcher.tiles{padding:50px}tile.medium{width:140px;height:140px;background:#393
 .scroller{height:calc(100% - 129px);top:89px}
 
 #search {
-    background-color: rgba(128, 128, 128, 0.9);
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #fff;
     position: fixed;
-    top: 23px;
+    top: 22px;
     left: 0;
     right: 0;
     bottom: 0;
