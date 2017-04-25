@@ -1,4 +1,9 @@
-.tophotspot{position:fixed;top:0;left:0;width:100%;height:1px;z-index:3}.tophotspot:hover + #header, #header:hover{visibility:visible}body > header{height:22px;background:black;z-index:3}#statusbar{z-index:4;float:right;background:#000;border-bottom:1px dotted rgb(69, 69, 69);position:relative}
+.tophotspot{position:fixed;top:0;left:0;width:100%;height:1px;z-index:3}
+.tophotspot:hover + #header, #header:hover{visibility:visible}
+
+body > header{height:22px;z-index:3;box-shadow: inset 0 -8px 27px -4px #333}
+
+#statusbar{z-index:4;float:right;position:relative}
 
 .powercontainer{width:100%;overflow:hidden;position:relative;height:100%;height:calc(100% + 20px);margin-top:-20px !important;box-sizing:border-box}
 
