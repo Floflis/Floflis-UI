@@ -1,11 +1,30 @@
-#alphabeticalsele{position:fixed;top:23px;width:100%;height:calc(100% - 63px);overflow:auto;z-index:1;background:rgba(128, 128, 128, 0.9);display:none}
-#alphabeticalsele .alphabetic{clear:none;position:initial;display:inline-block;float:none}
+#alphabeticalsele{
+    position: fixed;
+    top: 23px;
+    width: 100%;
+    height: calc(100% - 63px);
+    overflow: auto;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    display: none;
+}
+#alphabeticalsele .alphabetic{clear: none; position: initial; display: inline-block; float: none}
 .alphabetic.inactive {
-    border-color: rgba(0, 0, 0, 0.52);
-    color: rgba(0, 0, 0, 0.52);
+    border-color: rgba(255, 255, 255, 0.52);
+    color: rgba(255, 255, 255, 0.52);
+    border: none;
 }
 
-ul.tabs.contabs{margin:10px 0 -1px 0;padding:0;width:100%;border-bottom:1px dotted #fff;float:left;font-size:0}ul.tabs.left{text-align:left}ul.tabs.center{text-align:center}ul.tabs.right{text-align:right}ul.tabs.right li{margin:0 0 0 -2px}ul.tabs.contabs li{font-size:14px;list-style-type:none;margin:0 -2px 0 0;padding:0;display:inline-block;*display:inline;position:relative;top:0;left:0;*top:1px;zoom:1}ul.tabs.contabs li a{text-decoration:none;color:rgba(255,255,255,0.5);display:inline-block;padding:9px 15px;position:relative;top:0;left:0;line-height:100%;border-bottom:0;font-size:.9em;zoom:1}ul.tabs.contabs li.current a{position:relative;left:0;box-shadow:none;color:#000;border-left:4px dotted #000}.tab-content{clear:both;display:block}
+ul.tabs.contabs{margin:10px 0 -1px 0;padding:0;width:100%;border-bottom:1px dotted #fff;float:left;font-size:0}
+ul.tabs.left{text-align:left}
+ul.tabs.center{text-align:center}
+ul.tabs.right{text-align:right}
+ul.tabs.right li{margin:0 0 0 -2px}
+ul.tabs.contabs li{font-size:14px;list-style-type:none;margin:0 -2px 0 0;padding:0;display:inline-block;*display:inline;position:relative;top:0;left:0;*top:1px;zoom:1}
+ul.tabs.contabs li a{text-decoration:none;color:rgba(255,255,255,0.5);display:inline-block;padding:9px 15px;position:relative;top:0;left:0;line-height:100%;border-bottom:0;font-size:.9em;zoom:1}
+ul.tabs.contabs li.current a{position:relative;left:0;box-shadow:none;color:#000;border-left:4px dotted #000}
+.tab-content{clear:both;display:block}
 
 .scroller {
 	width: 100%;

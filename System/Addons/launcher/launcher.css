@@ -58,7 +58,39 @@ ul.tabs li.current a{
 .navmenu > tab > ul > a > li > div > img{margin:auto;width:24px;height:24px}
 .navmenu > tab > ul > a > li > p{font-weight:bold;-webkit-font-smoothing:antialiased;width:100%;margin:0;padding:0;height:auto;float:none;align-items:center;display:flex}
 
-launcher{position:fixed;top:23px;width:100%;height:calc(100% - 63px);overflow:auto}.alphabetic{display:inline-block;border:5px dotted;width:40px;height:40px;padding-top:5px;margin-top:10px;float:left;font-size:24px;text-align:center;position:relative;clear:both;margin-left:10px}.alphabetic:hover{background:rgba(0,0,0,0.5)}.alphabetic:active{background:#000;color:#fff}launcher icon{display:inline-block;width:78px;height:93px;padding-top:5px;float:left;text-align:center;position:relative}launcher icon:hover{background:rgba(51, 51, 51, 0.5);box-shadow:inset 0 0 0 1px #555}launcher icon:active{background:#222}launcher icon img{width:48px;height:48px;/*-webkit-filter:drop-shadow(12px 12px 25px rgba(0,0,0,0.5));*/}icon span{margin-top:8px;display:block;font-size:12px;text-shadow:#000 1px 1px 2px;color:#fff}icon>div>img{width:25px;height:25px;position:absolute}#tab-apps1 icon{-webkit-user-drag:element}#tab-games1 icon{-webkit-user-drag:element}
+launcher{position:fixed;top:23px;width:100%;height:calc(100% - 63px);overflow:auto}
+.alphabetic{
+    display: inline-block;
+    border: 5px solid;
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    padding-top: 5px;
+    margin-top: 10px;
+    float: left;
+    font-size: 24px;
+    text-align: center;
+    position: relative;
+    clear: both;
+    margin-left: 10px;
+}
+.alphabetic:hover{
+    background: #fff;
+    color: #000;
+    border-color: #fff;
+}
+.alphabetic:active{
+    background: rgba(255, 255, 255, 0.5);
+}
+
+launcher icon{display:inline-block;width:78px;height:93px;padding-top:5px;float:left;text-align:center;position:relative}
+launcher icon:hover{background:rgba(51, 51, 51, 0.5);box-shadow:inset 0 0 0 1px #555}
+launcher icon:active{background:#222}
+launcher icon img{width:48px;height:48px;/*-webkit-filter:drop-shadow(12px 12px 25px rgba(0,0,0,0.5));*/}
+icon span{margin-top:8px;display:block;font-size:12px;text-shadow:#000 1px 1px 2px;color:#fff}
+icon>div>img{width:25px;height:25px;position:absolute}
+#tab-apps1 icon{-webkit-user-drag:element}
+#tab-games1 icon{-webkit-user-drag:element}
 
 .bar icon{width:60px;height:40px;margin-right:2px;padding-top:3px;float:left;text-align:center}.bar icon img{width:32px;height:32px}.bar > div icon.openned{background:rgba(51, 51, 51, 0.5);border-left:1px dotted #333;border-right:1px dotted #333}.bar > div > icon.current{border-left:1px dotted #333;border-right:1px dotted #333}
 
