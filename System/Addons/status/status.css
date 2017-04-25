@@ -59,7 +59,22 @@ body > header{height:22px;z-index:3;box-shadow: inset 0 -8px 27px -4px #333}
 
 #clock{font-size:12px;color:#fff}.abtndata{font-size:10px;color:#fff;position:relative;top:-1px}.alertgeneral{font-size:11px;color:#da4a37;display:none}.citytxt{display:none}.wheatertxt{display:none}
 
-.working-apps{float:left}#system-apps{display:inline-block;float:right}.working-apps div{width:24px;height:22px;margin-right:6px;border-left:1px dotted #333;border-right:1px dotted #333;float:left;background-image:url(more.png)}.working-apps div:hover{background:rgba(51,51,51,0.5);background-image:url(more.png)}.working-apps div:active{-webkit-filter:opacity(0.5)}.working-apps icon.mini{width:18px;height:18px;position:relative;top:2px;margin-right:5px}.working-apps icon.mini img{width:18px;height:18px}
+.working-apps{float:left}
+#system-apps{display:inline-block;float:right}
+.working-apps div {
+    margin: 2px 6px 0 0;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #00BCD4;
+    border-radius: 50%;
+    padding: 3px 3px 0px 3px;
+    float: left;
+    font-size: 12px;
+    color: #fff;
+}
+.working-apps div:hover{background:rgba(51,51,51,0.5)}
+.working-apps div:active{-webkit-filter:opacity(0.5)}
+.working-apps icon.mini{width:18px;height:18px;position:relative;top:2px;margin-right:5px}
+.working-apps icon.mini img{width:18px;height:18px}
 
 #usermenu {
     right: 0;
