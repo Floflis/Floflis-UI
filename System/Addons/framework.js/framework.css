@@ -33,20 +33,3 @@ ul.tabs.contabs li.current a{position:relative;left:0;box-shadow:none;color:#000
 	top: 102px;
 	overflow: auto;
 }
-
-button {
-    cursor: inherit;
-    background: black;
-    color: #fff;
-    border: 1px dotted #fff;
-    outline: none;
-}
-button:hover {
-    -webkit-filter: opacity(0.5);
-}
-button:active {
-    background: #fff;
-    color: #000;
-    border: 1px dotted #000;
-    -webkit-filter: opacity(1);
-}
