@@ -51,11 +51,3 @@ body = document.createElement('audio');
 			}
     	}
 });
-
-$(document).ready(function () {
-$("li.navi-item").hover(function() {
-  $(this).find("img").attr("src", $(this).find("img").attr("src").replace("#black", "#white"));
-}, function() {
-  $(this).find("img").attr("src", $(this).find("img").attr("src").replace("#white", "#black"));
-});
-});

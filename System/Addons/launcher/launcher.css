@@ -34,14 +34,14 @@ ul.tabs li a{
     bottom: -18px;
     border: 1px solid #fff;
     border-bottom: none;
-    color: #fff;
-    background: rgba(0, 0, 0, 0.5);
+    color: rgba(63, 81, 181, 0.88);
+    background: rgba(255, 255, 255, 0.88);
     transition: all 0.2s linear;
 }
 ul.tabs li a:hover{background: rgba(255, 255, 255, 0.5); padding: 7px 10px 2px 10px; height: 20px; bottom: -14px}
 ul.tabs li.current a{
-    background: #fff;
-    color: #1382DA;
+    background: #3F51B5;
+    color: #fff;
     border-top: 1px solid rgba(0, 0, 0, 0.9);
     border-left: 1px solid rgba(0, 0, 0, 0.9);
     border-right: 1px solid rgba(0, 0, 0, 0.9);
@@ -55,7 +55,7 @@ ul.tabs li.current a{
 .navmenu > tab > ul > a > li{border-bottom: 1px solid rgba(255, 255, 255, 0.5);position:relative;-webkit-user-drag:element;width:100%;display:flex}
 .navmenu > tab > ul > a > li:hover{background: rgba(255, 255, 255, 0.4); color: #000;}
 .navmenu > tab > ul > a > li > div{min-width:64px;height:40px;text-align:center;display:flex}
-.navmenu > tab > ul > a > li > div > img{margin:auto;width:24px;height:24px}
+.navmenu > tab > ul > a > li > div > .material-icons{margin:auto;font-size:24px}
 .navmenu > tab > ul > a > li > p{font-weight:bold;-webkit-font-smoothing:antialiased;width:100%;margin:0;padding:0;height:auto;float:none;align-items:center;display:flex}
 
 launcher{position:fixed;top:23px;width:100%;height:calc(100% - 63px);overflow:auto}
@@ -103,13 +103,10 @@ launcher.tiles{padding:50px}tile.medium{width:140px;height:140px;background:#393
 
 .bar{width: 100%;height:40px;background:rgba(0, 0, 0, 0.5);box-shadow:0 0 15px 1px #000;position:fixed;left:0;bottom:0;margin:0;z-index:3}.app-preview{width:202px;height:175px;background:#fff;border:1px dotted #333;position:absolute;bottom:54px;left:178px;padding:0 10px 10px 10px;visibility:hidden}.app-preview:hover{box-shadow:0px 0px 25px 5px #000}.app-preview img{width:24px;height:24px;margin-top:4px}.app-preview span{color:#5890FF;position:relative;bottom:6px;left:4px}.app-preview div{width:16px;height:16px;background:#708fc5;border:1px dotted #333;float:right;margin-top:6px;margin-left:8px}.window-button_close{background:#da4a37!important}.bar > div icon.openned:hover + .app-preview, .app-preview:hover{visibility:visible}
 
-.virtualbutton { float: right; position: relative; right: 10px; margin-left: 10px; margin-right: 10px; font-size: 32px; color: #fff; filter: drop-shadow(0px 0px 2px rgba(0,0,0,0.5)) }
+.virtualbutton { float: right; position: relative; right: 10px; margin-left: 10px; margin-right: 10px; font-size: 40px; color: #fff; filter: drop-shadow(0px 0px 2px rgba(0,0,0,0.5)) }
 .virtualbutton:hover{-webkit-filter:opacity(0.5)}
 .virtualbutton:active{-webkit-filter:opacity(0.2)}
 .virtualbutton.img { margin-top: 3px }
-
-.tab-notifications{background:url(img/notifications.png)}
-.tab-actions{background:url(img/actions.png)}
 
 .scroller{height:calc(100% - 129px);top:89px}
 

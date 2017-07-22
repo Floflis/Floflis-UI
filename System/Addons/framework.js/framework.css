@@ -50,5 +50,3 @@ button:active {
     border: 1px dotted #000;
     -webkit-filter: opacity(1);
 }
-
-.tabicon{width:12px;height:12px;display:inline-block}ul.tabs li.current a div{background-position-x:12px}
