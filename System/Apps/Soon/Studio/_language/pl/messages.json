@@ -1,0 +1,2488 @@
+{
+   "1006787209796778126": {
+      "message": "Mój Dysk"
+   },
+   "1017907757187630742": {
+      "message": "Moje czcionki"
+   },
+   "1029072043275376320": {
+      "message": "Nie znaleziono żadnych kalendarzy."
+   },
+   "1030781695901615026": {
+      "message": "Na końcu"
+   },
+   "103870949919613488": {
+      "message": "Notatka zarchiwizowana"
+   },
+   "1039394921418415681": {
+      "message": "Zaloguj się"
+   },
+   "1083918249169198626": {
+      "message": "Skróty klawiszowe są wyłączone."
+   },
+   "1090919586152138659": {
+      "message": "Licencjonowane"
+   },
+   "1101371910696766077": {
+      "message": "Utwórz kopię"
+   },
+   "1107413433574576014": {
+      "message": "Tytuł jest za długi. Wyróżniony tekst nie zostanie zapisany."
+   },
+   "1127320433256851404": {
+      "message": "Odtwarzacz wideo"
+   },
+   "1162642135048988280": {
+      "message": "Zmień nazwę dokumentu"
+   },
+   "1166244120191806795": {
+      "message": "Prześlij opinię"
+   },
+   "1179891706526242218": {
+      "message": "Następny"
+   },
+   "1185164838496022543": {
+      "message": "Kliknij tutaj, aby ponownie wczytać stronę."
+   },
+   "1185644932132585290": {
+      "message": "Pozostało znaków: $1​"
+   },
+   "1213005208968286932": {
+      "message": "Oznaczona jako rozstrzygnięta"
+   },
+   "1263557413037343589": {
+      "message": "Porządkuj zdjęcia"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1311350045083871503": {
+      "message": "Anuluj"
+   },
+   "1311729747516144362": {
+      "message": "Czerwone"
+   },
+   "1315844696796851207": {
+      "message": "Bezszeryfowe"
+   },
+   "1319037146426591038": {
+      "message": "lub"
+   },
+   "132822872080714863": {
+      "message": "OK"
+   },
+   "133192954417440569": {
+      "message": "Nie znaleziono żadnych wyników."
+   },
+   "1349697396109290623": {
+      "message": "Wyświetlam $1​ w wyższej rozdzielczości"
+   },
+   "1376126796144976437": {
+      "message": "Wszystkie czcionki"
+   },
+   "139942704574044780": {
+      "message": "Akceptuj"
+   },
+   "141491180325662484": {
+      "message": "Dysk Google pozwala przechowywać wszystkie pliki w jednym miejscu, dzięki czemu są dostępne z dowolnego miejsca i urządzenia. Po dodaniu zdjęć do Dysku Google możesz od razu udostępnić je swoim kręgom."
+   },
+   "1418114637490664392": {
+      "message": "Archiwum zdjęć magazynu LIFE"
+   },
+   "1419896259743862406": {
+      "message": "Otwórz za pomocą"
+   },
+   "1440171352837969028": {
+      "message": "Obraz/dźwięk"
+   },
+   "1441487391064925653": {
+      "message": "Wyświetl wszystkie skróty w Centrum pomocy"
+   },
+   "1446829548948002072": {
+      "message": "przecinek"
+   },
+   "1454684154234137497": {
+      "message": "Pause"
+   },
+   "1459765068821943106": {
+      "message": "{VIEWER_GENDER,select, female{Tutaj wklej URL filmu z YouTube:}male{Tutaj wklej URL filmu z YouTube:}other{Tutaj wklej URL filmu z YouTube:}}"
+   },
+   "1463079206290378085": {
+      "message": "Zdjęcia z orkuta"
+   },
+   "1463389029497634261": {
+      "message": "Zmniejsz głośność"
+   },
+   "1475179211173444554": {
+      "message": "Każda osoba w domenie mająca link"
+   },
+   "1492360016907725281": {
+      "message": "{VIEWER_GENDER,select, female{Tutaj wklej URL filmu:}male{Tutaj wklej URL filmu:}other{Tutaj wklej URL filmu:}}"
+   },
+   "1493251742569121894": {
+      "message": "Notatka jest za długa. Wyróżniony tekst nie zostanie zapisany."
+   },
+   "1493384967280942491": {
+      "message": "Różowe"
+   },
+   "1499433769420882987": {
+      "message": "Wyświetlam $1​"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1521707405717823409": {
+      "message": "Fioletowe"
+   },
+   "153439508598626384": {
+      "message": "Twoje zdjęcia"
+   },
+   "1536051766421561160": {
+      "message": "znak równości"
+   },
+   "156992719062713230": {
+      "message": "Szary"
+   },
+   "1586968957182554447": {
+      "message": "Wyłącz"
+   },
+   "1588268697057804046": {
+      "message": "$1​ godz. temu"
+   },
+   "1603139897109307706": {
+      "message": "Błąd, spróbuj ponownie"
+   },
+   "1604359562654146902": {
+      "message": "Zdjęcie"
+   },
+   "1633370388224271051": {
+      "message": "Nie znaleziono żadnych osób."
+   },
+   "1633798963327779260": {
+      "message": "Jutro"
+   },
+   "1654222450095043962": {
+      "message": "Audio"
+   },
+   "1656911987308166143": {
+      "message": "Usuń"
+   },
+   "1665821947855814052": {
+      "message": "Rozmiar"
+   },
+   "1692901784886701962": {
+      "message": "Notatka jest za długa."
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700522311470719738": {
+      "message": "Przypomnij mi"
+   },
+   "1701312243672511585": {
+      "message": "Przenieś tekst do nowej notatki &raquo;"
+   },
+   "1709410429018687341": {
+      "message": "Rano ($1​)"
+   },
+   "1715552550526864429": {
+      "message": "Szukaj blogów"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1739900012825270238": {
+      "message": "Idź do poprzedniego elementu"
+   },
+   "1756171223417807431": {
+      "message": "Upewnij się, że obraz jest dostępny publicznie. Jeśli jest chroniony hasłem lub znajduje się w sieci wewnętrznej, nie uda nam się go odczytać."
+   },
+   "1759957963056319953": {
+      "message": "Powrót z: $1​"
+   },
+   "1783719421893050637": {
+      "message": "Rozmiar"
+   },
+   "178927681797742562": {
+      "message": "Zaloguj się"
+   },
+   "1791115075948268631": {
+      "message": "Otwórz pomoc ze skrótami klawiszowymi"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1816851800848432562": {
+      "message": "Usuń"
+   },
+   "1818306025747564729": {
+      "message": "Kliknij link"
+   },
+   "1823222042913714987": {
+      "message": "Podaj hasło"
+   },
+   "1823854753950594157": {
+      "message": "Nie przenoś"
+   },
+   "1830157062072535681": {
+      "message": "Wyświetlam $1​"
+   },
+   "185012928288875755": {
+      "message": "Brak elementów odpowiadających kryteriom."
+   },
+   "1856444915090632305": {
+      "message": "Dokument jest zaszyfrowany. Podaj hasło."
+   },
+   "1866863108233180413": {
+      "message": "Foldery"
+   },
+   "187077078156858455": {
+      "message": "Notatka głosowa"
+   },
+   "189303170370862360": {
+      "message": "$1​ z $2​ elementów"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901351411358749070": {
+      "message": "Udostępnione dla mnie"
+   },
+   "1913425963149828429": {
+      "message": "Rozpakuj to archiwum na Dysku."
+   },
+   "1918176455405610789": {
+      "message": "Gotowe"
+   },
+   "1920189655549476211": {
+      "message": "nieznana długość"
+   },
+   "1929603188252533075": {
+      "message": "Nie udało się usunąć filmu. Spróbuj ponownie."
+   },
+   "1951810091681076784": {
+      "message": "{COUNT_1,plural, =1{Znaleziono 1 notatkę}few{Znaleziono {COUNT_2} notatki}many{Znaleziono {COUNT_2} notatek}other{Znaleziono {COUNT_2} notatki}}"
+   },
+   "1956794332842050061": {
+      "message": "Następna strona"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1968405748623909021": {
+      "message": "Wypróbuj jedną z tych aplikacji, by otworzyć lub edytować element"
+   },
+   "1974063091619095703": {
+      "message": "Osoby"
+   },
+   "1988244842147989817": {
+      "message": "Notatki w koszu są usuwane po 7 dniach."
+   },
+   "1993674829873313178": {
+      "message": "Masz problemy z przesyłaniem? W tej chwili trwają prace konserwacyjne, ale niedługo wszystko powinno wrócić do normy."
+   },
+   "2003845117979929469": {
+      "message": "Szczegóły"
+   },
+   "2048322072989992494": {
+      "message": "Jeszcze nikt nie udostępnił Ci żadnych plików."
+   },
+   "2055836117545582610": {
+      "message": "Ustawienia listy"
+   },
+   "2059084517358086391": {
+      "message": "Zamknij pasek wyszukiwania"
+   },
+   "2061440050632248160": {
+      "message": "Archiwizuj"
+   },
+   "2068023589621557589": {
+      "message": "Czcionka TrueType"
+   },
+   "2073035325657060696": {
+      "message": "Podgląd jest niedostępny."
+   },
+   "2073322475696388995": {
+      "message": "Przeskocz do przodu"
+   },
+   "207810168108507460": {
+      "message": "$1​ godzinę temu"
+   },
+   "2109272338124379867": {
+      "message": "Ostatnia modyfikacja"
+   },
+   "2116013171202209313": {
+      "message": "Wybierz"
+   },
+   "2122256657192674586": {
+      "message": "Szukaj filmów"
+   },
+   "2125135092719715773": {
+      "message": "Prześlij"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "213665695896111861": {
+      "message": "Notatki"
+   },
+   "2138593281154109183": {
+      "message": "Archiwum"
+   },
+   "2147952938331523160": {
+      "message": "Zmień nazwę..."
+   },
+   "2154372123324862271": {
+      "message": "ukośnik"
+   },
+   "2154940358270068005": {
+      "message": "Usunięte notatki możesz przechowywać trochę dłużej"
+   },
+   "2184278444368405837": {
+      "message": "Elementy: $1​"
+   },
+   "2187239650627580457": {
+      "message": "Prześlij"
+   },
+   "2198096971937872560": {
+      "message": "Przypomnienie:"
+   },
+   "220168959069469607": {
+      "message": "Więcej działań"
+   },
+   "221715292685577880": {
+      "message": "Tak"
+   },
+   "2220005860896049129": {
+      "message": "Znajdowanie dokumentu w oryginalnym źródle trwało zbyt długo."
+   },
+   "2228413078211839077": {
+      "message": "Chwilowo nie możemy wygenerować widoku tego dokumentu."
+   },
+   "2235097878790803849": {
+      "message": "Żegnajcie załączniki. Witaj Dysku Google."
+   },
+   "2257303402199718039": {
+      "message": "Nie udało się znaleźć dokumentu w oryginalnym źródle. Sprawdź, czy on jeszcze istnieje."
+   },
+   "2274436793504233543": {
+      "message": "Anuluj"
+   },
+   "2278224983638451454": {
+      "message": "Pobierz teraz"
+   },
+   "2280650195464600721": {
+      "message": "Nawigacja"
+   },
+   "2285069188138705005": {
+      "message": "Połączone aplikacje"
+   },
+   "2289534534793293486": {
+      "message": "Przywróć z archiwum"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Zwiększ głośność"
+   },
+   "230180475614658119": {
+      "message": "Gotowe"
+   },
+   "2304293593067358316": {
+      "message": "Obiekty clip art"
+   },
+   "2310145944356900158": {
+      "message": "Zaznaczone"
+   },
+   "2311880726221661199": {
+      "message": "Wczytuję wyższe rozdzielczości"
+   },
+   "2329167963662998826": {
+      "message": "Google Keep chce korzystać z informacji o lokalizacji, by pokazywać w przypomnieniach dokładniejsze propozycje miejsc."
+   },
+   "234046557601727809": {
+      "message": "Brak obrazów i filmów."
+   },
+   "2349912757088764940": {
+      "message": "Widoczne dla:"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2370463380397641604": {
+      "message": "Popularne skróty klawiszowe"
+   },
+   "2370656573843123707": {
+      "message": "nawias kwadratowy zamykający"
+   },
+   "2393487423640708285": {
+      "message": "Ten URL jest nieprawidłowy. Upewnij się, że zaczyna się od http:// lub https://."
+   },
+   "2405795704816921421": {
+      "message": "Plik $1​"
+   },
+   "2412314804333167252": {
+      "message": "Ten arkusz kalkulacyjny jest za duży. Kliknij, by go $3​pobrać$1​ lub $4​edytować w Arkuszach Google$1​."
+   },
+   "2418104318933043113": {
+      "message": "Wyszukiwarka grafiki Google"
+   },
+   "2433429041384246549": {
+      "message": "Wycisz"
+   },
+   "2449254824382583885": {
+      "message": "Wydziel okienko"
+   },
+   "2452522051596946166": {
+      "message": "Ups! Podczas wyświetlania podglądu elementu $1​ wystąpił problem. Ponawianie próby."
+   },
+   "2454642351139428112": {
+      "message": "Cofnij"
+   },
+   "2466251465475184755": {
+      "message": "Opróżnić kosz? Wszystkie znajdujące się w nim notatki zostaną trwale usunięte."
+   },
+   "2475181823688399272": {
+      "message": "Następna"
+   },
+   "2484568559152875936": {
+      "message": "Brak albumów ze zdjęciami."
+   },
+   "2504232652631703202": {
+      "message": "Połączono"
+   },
+   "251025074207413762": {
+      "message": "Dodaj opis"
+   },
+   "2510929871271209216": {
+      "message": "Ten arkusz kalkulacyjny jest za duży. Kliknij $2​tutaj$1​, by go pobrać."
+   },
+   "2513437337377210144": {
+      "message": "End"
+   },
+   "2524021436052870191": {
+      "message": "Nie można przesłać tego pliku. Można przesyłać tylko pliki $1​ mniejsze niż $2​ MB."
+   },
+   "2532280782491328445": {
+      "message": "Znajdź poprzedni"
+   },
+   "2538080331309772448": {
+      "message": "Sortuj: $1​"
+   },
+   "2538462904124380434": {
+      "message": "Notatka została przeniesiona do kosza"
+   },
+   "2546225293834487484": {
+      "message": "Notatka"
+   },
+   "2555961950726197809": {
+      "message": "Otwarto przeglądarkę."
+   },
+   "2558480112329900136": {
+      "message": "Szare"
+   },
+   "257317112834806705": {
+      "message": "Przełącz między widokami listy i siatki"
+   },
+   "2579679351920691492": {
+      "message": "Przeskocz do tyłu"
+   },
+   "2587566920590457715": {
+      "message": "Maps Engine Lite"
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609750184896485102": {
+      "message": "Filmy z telefonu"
+   },
+   "2615188670181508661": {
+      "message": "Ostatnio nic nie wybierałeś."
+   },
+   "2623861453769098676": {
+      "message": "Podczas wyświetlania podglądu tego dokumentu wystąpił problem."
+   },
+   "2628268670001557269": {
+      "message": "Limit miejsca"
+   },
+   "2643241712502664984": {
+      "message": "Twoje filmy w YouTube"
+   },
+   "2661850177130037208": {
+      "message": "Otwórz element"
+   },
+   "2681830832355823748": {
+      "message": "Wyszukaj wszystkie skróty"
+   },
+   "2687303256387847763": {
+      "message": "Popularne"
+   },
+   "2702485557996900362": {
+      "message": "Rozwiąż konflikt zmian"
+   },
+   "2705842902318123127": {
+      "message": "Przejdź do następnej/poprzedniej notatki lub listy"
+   },
+   "272948685355798518": {
+      "message": "Wybrałeś nieprawidłowy typ pliku."
+   },
+   "2731144323070245943": {
+      "message": "Ustawienia listy"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2750830436677712001": {
+      "message": "{VIEWER_GENDER,select, female{Nie udało się utworzyć folderu {FOLDER_NAME}.}male{Nie udało się utworzyć folderu {FOLDER_NAME}.}other{Nie udało się utworzyć folderu {FOLDER_NAME}.}}"
+   },
+   "2752123004911547510": {
+      "message": "Zyskujące popularność"
+   },
+   "2758125083752925237": {
+      "message": "(Właściciel)"
+   },
+   "277430914014962533": {
+      "message": "Ups! Podczas wyświetlania podglądu elementu $1​ wystąpił problem."
+   },
+   "2774713922589657910": {
+      "message": "Każda osoba w domenie"
+   },
+   "2786560864906393383": {
+      "message": "Zdjęcia z telefonu"
+   },
+   "2789687492331041935": {
+      "message": "Wybierz godzinę"
+   },
+   "2790446494460492805": {
+      "message": "Uruchomiono zadanie rozpakowywania. Wiadomości z archiwum pojawią się na Twoim koncie pocztowym pod etykietą „Import: $1​”."
+   },
+   "2793841261389879255": {
+      "message": "Poprzednia strona"
+   },
+   "2801153442808430222": {
+      "message": "Mój Dysk"
+   },
+   "2817277146396981386": {
+      "message": "PM"
+   },
+   "2818020101821669029": {
+      "message": "Utworzony"
+   },
+   "2818135503416309545": {
+      "message": "Nagraj film"
+   },
+   "2827039933590757722": {
+      "message": "Pliki skrótów Windows"
+   },
+   "2829226075651806940": {
+      "message": "Powiększ"
+   },
+   "2860188519781080944": {
+      "message": "Pomarańczowe"
+   },
+   "2861568351294148466": {
+      "message": "Skrypty"
+   },
+   "2864281852037732729": {
+      "message": "Mniej"
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Wstrzymaj"
+   },
+   "2878874627361086801": {
+      "message": "podgląd"
+   },
+   "2879276552944958066": {
+      "message": "Wróć do folderu $1​."
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2902747751281161248": {
+      "message": "Zastosuj do nowych list"
+   },
+   "2905147317995482841": {
+      "message": "Odświeżyliśmy wygląd Dysku, by wszystko wyglądało ładniej, a przeglądanie plików było jeszcze łatwiejsze. Mamy nadzieję, że zmiany Ci się spodobają."
+   },
+   "2917498437550635075": {
+      "message": "Ikona"
+   },
+   "2964778642459027786": {
+      "message": "Brak notatek w koszu"
+   },
+   "2974598228601710262": {
+      "message": "Dodaj"
+   },
+   "2979466412944870220": {
+      "message": "Ładuję podgląd..."
+   },
+   "2982511431742033448": {
+      "message": "Brak prezentacji."
+   },
+   "298817883481775869": {
+      "message": "Wczytuję..."
+   },
+   "3000689173481666334": {
+      "message": "Edytuj krąg"
+   },
+   "3029395493413607486": {
+      "message": "Nie udało się załadować odtwarzacza filmów. Spróbuj odświeżyć stronę.$1​Jeśli to nie pomoże, $3​odwiedź Centrum pomocy$2​."
+   },
+   "3043961722025425136": {
+      "message": "Opis"
+   },
+   "306516303501625305": {
+      "message": "Uwierzytelnianie nie powiodło się."
+   },
+   "3073005748126521632": {
+      "message": "Przypomniano: $1​"
+   },
+   "3074184819310272351": {
+      "message": "Przesłane zdjęcia"
+   },
+   "3084372889071691504": {
+      "message": "{VIEWER_GENDER,select, female{Tutaj wklej URL:}male{Tutaj wklej URL:}other{Tutaj wklej URL:}}"
+   },
+   "3095645856215493958": {
+      "message": "Znajdź drukowany tekst na zdjęciach"
+   },
+   "31018542656161389": {
+      "message": "Dopasuj"
+   },
+   "3109321241584918345": {
+      "message": "Podłącz więcej aplikacji..."
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "za $1​ godz."
+   },
+   "3189854932778515441": {
+      "message": "Notatka w archiwum"
+   },
+   "3207670492626476064": {
+      "message": "Tabele"
+   },
+   "3211163842850942567": {
+      "message": "Powiększ"
+   },
+   "3222929029344613957": {
+      "message": "Podczas otwierania tego pliku wystąpił błąd. Spróbuj ponownie."
+   },
+   "3233388241926683100": {
+      "message": "Przeszukaj notatki"
+   },
+   "3243829462528324248": {
+      "message": "Brązowe"
+   },
+   "3250489229749307913": {
+      "message": "Publikacja elektroniczna"
+   },
+   "3256928852560591255": {
+      "message": "Nie można edytować w koszu"
+   },
+   "3261131345401321392": {
+      "message": "Może komentować"
+   },
+   "3265524298292280681": {
+      "message": "Esc"
+   },
+   "3267563602179728277": {
+      "message": "Delete"
+   },
+   "3272496516667407797": {
+      "message": "Podczas wczytywania szczegółów wystąpił problem."
+   },
+   "3275029321588462173": {
+      "message": "Brak"
+   },
+   "3278237562147211998": {
+      "message": "Zdjęcia licencjonowane"
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3306487262690341751": {
+      "message": "Data i godzina"
+   },
+   "3312545971976531405": {
+      "message": "Wiadomość"
+   },
+   "3319087486907616296": {
+      "message": "Prześlij ten element"
+   },
+   "3328129883064940351": {
+      "message": "Czcionki"
+   },
+   "3335409796971631780": {
+      "message": "Rozpakowuję na Dysku."
+   },
+   "3343451103608774400": {
+      "message": "Poznaj $3​nowe Moje mapy$2​.$1​Lepsze narzędzia do map."
+   },
+   "3354260708176476985": {
+      "message": "Wczytuję…"
+   },
+   "3357778055650785985": {
+      "message": "Pozycja jest za długa. Wyróżniony tekst nie zostanie zapisany."
+   },
+   "3364679383274077479": {
+      "message": "Dostępna aktualizacja aplikacji"
+   },
+   "3368639944474272225": {
+      "message": "Nie można pobrać dokumentu do wyświetlenia lub nie masz uprawnień do jego wyświetlania."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Otwórz"
+   },
+   "3408219901032480508": {
+      "message": "$2​; $1​"
+   },
+   "3409257542937182842": {
+      "message": "Próbuję jeszcze raz..."
+   },
+   "3409483962000136213": {
+      "message": "Odtwórz/wstrzymaj"
+   },
+   "3418767079436101103": {
+      "message": "Podczas wczytywania tej strony wystąpił problem."
+   },
+   "3421685394169412932": {
+      "message": "Każda wprowadzana zmiana jest automatycznie zapisywana"
+   },
+   "3422389100099960864": {
+      "message": "Brak obrazów."
+   },
+   "3428726060007577698": {
+      "message": "Lista jest zbyt długa."
+   },
+   "3430885603500576146": {
+      "message": "Wybieraj tylko takie obrazy, na których użycie masz licencję."
+   },
+   "3440534675925634227": {
+      "message": "W oknie przeglądarki Chrome przejdź do chrome://settings i sprawdź, czy jesteś zalogowany. Następnie ponownie kliknij przycisk Zaloguj się."
+   },
+   "3446158485617778228": {
+      "message": "Cofnij"
+   },
+   "3448234415275521882": {
+      "message": "Informacje ogólne"
+   },
+   "3448684788258660606": {
+      "message": "Twoje zdjęcia"
+   },
+   "3450585781337676327": {
+      "message": "Wczytuję..."
+   },
+   "3457279184692206825": {
+      "message": "Zdjęcia będą widoczne dla każdego (dostępne publicznie w internecie)."
+   },
+   "3468441711253011521": {
+      "message": "Arkusze Google"
+   },
+   "3473620774713000513": {
+      "message": "Rozstrzygnięta"
+   },
+   "3483438888494819423": {
+      "message": "Co nowego w Google Keep"
+   },
+   "3511274344439521198": {
+      "message": "Czynności"
+   },
+   "3518073392823563581": {
+      "message": "Skróty klawiszowe"
+   },
+   "3531603810713611778": {
+      "message": "Limit rozmiaru plików został przekroczony. Odznacz co najmniej jeden plik."
+   },
+   "3543475399174940144": {
+      "message": "+$1​"
+   },
+   "3547194749488601916": {
+      "message": "Aktualizuję..."
+   },
+   "354828103903104581": {
+      "message": "Zaznaczone elementy"
+   },
+   "3561658662634401836": {
+      "message": "Tytuł"
+   },
+   "357172711168973843": {
+      "message": "Dodane ostatnio notatki i zmiany nie zostały zapisane. Zrób własną kopię treści, a następnie załaduj ponownie stronę."
+   },
+   "3586705906700410505": {
+      "message": "Rysunek liniowy"
+   },
+   "3587798318180902863": {
+      "message": "{NUM_SELECTED,plural, =1{ wybrany »}few{ wybrane »}many{ wybranych »}other{ wybranego »}}"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3602920441714068008": {
+      "message": "Przypomniano $1​ o $2​"
+   },
+   "3608606849109645545": {
+      "message": "Wpisz nazwę nowego dokumentu:"
+   },
+   "361202495024972887": {
+      "message": "Prześlij filmy"
+   },
+   "361630518611593946": {
+      "message": "Ukryj pola wyboru"
+   },
+   "3625886392901506764": {
+      "message": "lub"
+   },
+   "3643146117250542609": {
+      "message": "Brak plików PDF."
+   },
+   "3645728163953189422": {
+      "message": "Nie można pobrać dokumentu do wyświetlenia, ponieważ jest on za duży."
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "lewy ukośnik"
+   },
+   "3659554681396757189": {
+      "message": "Otwarty przeze mnie"
+   },
+   "3663571259791438207": {
+      "message": "Zgłoś nadużycie"
+   },
+   "3664842788764635265": {
+      "message": "Brak"
+   },
+   "3666123569747918021": {
+      "message": "W tym dokumencie są niezapisane zmiany. Czy chcesz opuścić stronę i je odrzucić?"
+   },
+   "3673346558112798837": {
+      "message": "Bez tła"
+   },
+   "3674811252904549204": {
+      "message": "Zdjęcia na okładkę"
+   },
+   "3678477908297567934": {
+      "message": "podkreślenie"
+   },
+   "3681747688524363195": {
+      "message": "Na początku"
+   },
+   "3690515530505404607": {
+      "message": "Podczas odtwarzania tego filmu wystąpił problem."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Brak elementów}=1{1 element}few{# elementy}many{# elementów}other{# items}}"
+   },
+   "3712215972250917265": {
+      "message": "Komentarze"
+   },
+   "3717138719704492547": {
+      "message": "Sprawdź, czy adres został wpisany poprawnie."
+   },
+   "374088101949877889": {
+      "message": "Zamknij"
+   },
+   "3745308627628779133": {
+      "message": "Nowy folder"
+   },
+   "3748461364828242354": {
+      "message": "Wybierz kolor"
+   },
+   "3770795578481676514": {
+      "message": "Żółty"
+   },
+   "3771958676925493302": {
+      "message": "Usuń filtr: $1​"
+   },
+   "3779945546806941187": {
+      "message": "Monochromatyczne"
+   },
+   "3793086499925031123": {
+      "message": "Otwórz pasek wyszukiwania/znajdź poprzedni"
+   },
+   "37992665410817181": {
+      "message": "Otwarta ponownie"
+   },
+   "3801617971018550169": {
+      "message": "Wczoraj"
+   },
+   "3808213429720572062": {
+      "message": "Przywróć"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3842411126100113634": {
+      "message": "PgUp"
+   },
+   "3844047145949375230": {
+      "message": "Dokumenty"
+   },
+   "3858324058837632381": {
+      "message": "Podczas odtwarzania tego pliku dźwiękowego wystąpił problem."
+   },
+   "3864575916269080329": {
+      "message": "Wyszukiwanie na obrazach"
+   },
+   "3866373087987934712": {
+      "message": "Nie udało się przesłać: $1​"
+   },
+   "3869166581651870488": {
+      "message": "Zakończ edycję"
+   },
+   "3873215756962047275": {
+      "message": "ARCHIWUM"
+   },
+   "3873467440437675460": {
+      "message": "Nie udało nam się znaleźć wybranych przez Ciebie czcionek."
+   },
+   "3897281533382850749": {
+      "message": "Wyłącz wyciszenie"
+   },
+   "3936153839186254186": {
+      "message": "Pokaż: $1​"
+   },
+   "3955760658925284765": {
+      "message": "Ponów próbę"
+   },
+   "3974064131130689245": {
+      "message": "Widok siatki"
+   },
+   "3977699855735576796": {
+      "message": "Podczas wczytywania kolejnych stron wystąpił problem."
+   },
+   "3988418762222300024": {
+      "message": "kropka"
+   },
+   "3989552504822984034": {
+      "message": "Rysunek Google"
+   },
+   "4005725939358875643": {
+      "message": "Czynność została cofnięta."
+   },
+   "4014287326684608407": {
+      "message": "Morski"
+   },
+   "4048275292053012394": {
+      "message": "Kontakty"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4067915791853673774": {
+      "message": "{VIEWER_GENDER,select, female{Zamknij}male{Zamknij}other{Zamknij}}"
+   },
+   "4078179869358383373": {
+      "message": "Nie znaleziono żadnych wyników."
+   },
+   "4087667435414545203": {
+      "message": "Nie jesteś już zalogowany. Załaduj ponownie, by wprowadzić zmiany."
+   },
+   "4093134637041332383": {
+      "message": "WIĘCEJ INFORMACJI"
+   },
+   "4097007735221462946": {
+      "message": "Rysunki"
+   },
+   "4097921967754832323": {
+      "message": "łącznik"
+   },
+   "4100504115801514799": {
+      "message": "Notatka została przywrócona"
+   },
+   "4119294114251628099": {
+      "message": "Nie można pobrać obrazu z podanego adresu. Być może jest to prywatny URL, do którego nasze serwery nie mają dostępu. Spróbuj użyć innego URL-a."
+   },
+   "4134385041569168669": {
+      "message": "Wczytuję..."
+   },
+   "4148564423510181521": {
+      "message": "Wyczyść wyszukiwanie"
+   },
+   "4152315289461886": {
+      "message": "Sterowanie dokumentem"
+   },
+   "4168280976997555951": {
+      "message": "Brak dokumentów."
+   },
+   "4174786386751618325": {
+      "message": "Notatka zdjęciowa"
+   },
+   "4182427157920112948": {
+      "message": "tylda"
+   },
+   "4200426647595470259": {
+      "message": "Rozpocznij odtwarzanie pliku audio"
+   },
+   "4200911267543705377": {
+      "message": "Wpisz powyżej czego szukasz, aby znaleźć blogi za pomocą Wyszukiwarki blogów Google."
+   },
+   "4205329094859140439": {
+      "message": "AM"
+   },
+   "4211182812451835307": {
+      "message": "Może edytować"
+   },
+   "4211806608204126222": {
+      "message": "$2​Warunki usługi$1​"
+   },
+   "4214190403999219403": {
+      "message": "Powiększ"
+   },
+   "4230101516585408149": {
+      "message": "Utwórz nową notatkę"
+   },
+   "4253741616909644861": {
+      "message": "Wyszukaj terminy"
+   },
+   "4280747719095153198": {
+      "message": "Zakończony wątek komentarza"
+   },
+   "4286663890332754386": {
+      "message": "Przesyłanie nie udało się."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4314643310615423802": {
+      "message": "Zostałeś wylogowany."
+   },
+   "4318861667254318892": {
+      "message": "Film Google Video"
+   },
+   "4319229296464464147": {
+      "message": "Data dodania"
+   },
+   "4320831042030778": {
+      "message": "Anuluj"
+   },
+   "4332252081504252077": {
+      "message": "Ups!"
+   },
+   "4338991104991831337": {
+      "message": "Obrazy"
+   },
+   "4339705658383891586": {
+      "message": "Kolorowe"
+   },
+   "4343825450663233452": {
+      "message": "Może wyświetlać"
+   },
+   "4343836986248234462": {
+      "message": "Element listy"
+   },
+   "435214284915110062": {
+      "message": "Otwórz pasek wyszukiwania"
+   },
+   "4372755508519489521": {
+      "message": "Widok siatki"
+   },
+   "4391715930031906467": {
+      "message": "Znajdź następny"
+   },
+   "4395845663892873002": {
+      "message": "Home"
+   },
+   "4422985761498356257": {
+      "message": "Otwórz za pomocą"
+   },
+   "4430062722430863019": {
+      "message": "Usunąć trwale notatkę?"
+   },
+   "4439812492856303238": {
+      "message": "Podczas przetwarzania wybranych elementów wystąpił nieoczekiwany błąd. Spróbuj ponownie później."
+   },
+   "4444571967705751871": {
+      "message": "Kosz"
+   },
+   "4466605492523079635": {
+      "message": "Zapisz"
+   },
+   "4468872996560163913": {
+      "message": "Opróżnij kosz"
+   },
+   "4473912481270012588": {
+      "message": "Zapisano na Dysku – przenieś do:"
+   },
+   "45228242181482134": {
+      "message": "Odtwórz"
+   },
+   "4536519876526589338": {
+      "message": "Awatar $1​."
+   },
+   "4552045407215325033": {
+      "message": "Nie można załadować wpisanego powyżej URL-a filmu. Upewnij się, że jest on poprawny i pochodzi z obsługiwanej witryny."
+   },
+   "4564682305303579317": {
+      "message": "Kontynuuj"
+   },
+   "456498742882714639": {
+      "message": "Przenieś do:"
+   },
+   "4588500131398315347": {
+      "message": "Utwórz krąg"
+   },
+   "4604402426271704651": {
+      "message": "Bez zdjęcia"
+   },
+   "4620034373159179678": {
+      "message": "Strona $1​ z $2​"
+   },
+   "4630690108252818511": {
+      "message": "Nie znaleziono żadnych zdjęć."
+   },
+   "468283184702431827": {
+      "message": "Rozpoczęto operację"
+   },
+   "4695897771458936174": {
+      "message": "Udostępniaj zdjęcia z Dysku Google w Google+"
+   },
+   "4740100782728373253": {
+      "message": "Zapisz na Dysku"
+   },
+   "4748046231232264180": {
+      "message": "Formularze Google"
+   },
+   "4767722428137216885": {
+      "message": "Anuluj"
+   },
+   "477328789314249432": {
+      "message": "Przeszukaj notatki"
+   },
+   "4775368111547931093": {
+      "message": "Brak opisu"
+   },
+   "4781742940361705258": {
+      "message": "Zamknij"
+   },
+   "4783695823456312682": {
+      "message": "Przenieś na koniec"
+   },
+   "47844150329705564": {
+      "message": "Wyniki wyszukiwania dla zapytania „$1​”"
+   },
+   "4798897505978458661": {
+      "message": "Nie znaleziono żadnych filmów."
+   },
+   "4805047680716507619": {
+      "message": " – Przenieś do:"
+   },
+   "4806763987633034948": {
+      "message": "Podpis PKCS7"
+   },
+   "4833214200453019325": {
+      "message": "$1​ z $2​"
+   },
+   "4846720038197420778": {
+      "message": "Podłącz więcej aplikacji"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Notatka w koszu"
+   },
+   "4888104357342241891": {
+      "message": "Przypomnienia"
+   },
+   "4889853674709731963": {
+      "message": "Wszystkie notatki zapisane offline"
+   },
+   "4901386320110714275": {
+      "message": "Hasło jest nieprawidłowe. Spróbuj ponownie."
+   },
+   "490372259452655427": {
+      "message": "Dokument nie jest jeszcze dostępny do wyświetlania."
+   },
+   "4906669330059413958": {
+      "message": "Prześlij hasło"
+   },
+   "4908614808966678155": {
+      "message": "Brak wyników wyszukiwania dla zapytania „$1​”"
+   },
+   "4926020998477695737": {
+      "message": "Otwórz folder $1​"
+   },
+   "4943176738805484221": {
+      "message": "edytuj"
+   },
+   "4956678140555659175": {
+      "message": "Backspace"
+   },
+   "4957674814179289955": {
+      "message": "Przejdź do następnego/poprzedniego elementu listy"
+   },
+   "4963784280521435720": {
+      "message": "Zapisuję..."
+   },
+   "4969219890884320840": {
+      "message": "Aktualizuj"
+   },
+   "4983125135476400111": {
+      "message": "Wyrzuć notatkę/listę do kosza"
+   },
+   "4988132901627446385": {
+      "message": "Panel szczegółów został rozwinięty."
+   },
+   "4998757387516632837": {
+      "message": "Wyświetlone wyniki można ponownie wykorzystać oraz zmodyfikować."
+   },
+   "5006225450559627366": {
+      "message": "i jeszcze $1​"
+   },
+   "501475221876543407": {
+      "message": "Tutaj pojawią się Twoje notatki"
+   },
+   "5023525794410110078": {
+      "message": "Dodaj tekst do zdjęcia"
+   },
+   "5026241297254150381": {
+      "message": "Dodaj notatkę"
+   },
+   "5046371569383796818": {
+      "message": "Zachowaj"
+   },
+   "5055418092354683641": {
+      "message": "Szeryfowe"
+   },
+   "5095987896933771566": {
+      "message": "Wydrukuj dokument"
+   },
+   "5096751700090310607": {
+      "message": "Brak zdjęć."
+   },
+   "509815948423424872": {
+      "message": "Nawigacja"
+   },
+   "5099245668405591445": {
+      "message": "Szukaj"
+   },
+   "512429649443191386": {
+      "message": "$2​Pomoc$1​"
+   },
+   "5124522868502261563": {
+      "message": "Arkusze kalkulacyjne"
+   },
+   "5130903421326358933": {
+      "message": "Podczas zapisywania załącznika na Dysku Google wystąpił problem."
+   },
+   "5149937870346466591": {
+      "message": "Widok listy"
+   },
+   "5169187962228219813": {
+      "message": "Zdjęcia z magazynu Life"
+   },
+   "5180454621500142444": {
+      "message": "Przywróć"
+   },
+   "5180989337128758117": {
+      "message": "nawias kwadratowy otwierający"
+   },
+   "5184692850089055965": {
+      "message": "Wyciągnij tekst z obrazu"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Pasek na karcie panelu szczegółów. Przełączaj się między kartami, używając przycisków strzałek w prawo lub w lewo."
+   },
+   "5204391636475413312": {
+      "message": "Zapisz"
+   },
+   "5213411023807957844": {
+      "message": "Szukaj w Google Keep"
+   },
+   "5213974294317036409": {
+      "message": "{numPages,plural, =0{}=1{1 strona}few{# strony}many{# stron}other{# strony}}"
+   },
+   "5226470917948786938": {
+      "message": "Alfabetycznie"
+   },
+   "5238003680997310998": {
+      "message": "Więcej"
+   },
+   "5238371081785912565": {
+      "message": "Otwórz w: $1​"
+   },
+   "5275493935807628890": {
+      "message": "Nie możemy znaleźć obrazu pod tym adresem URL."
+   },
+   "5281121179861637423": {
+      "message": "Aby otworzyć $1​, musisz podać hasło. Wpisz je"
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5291153964865714504": {
+      "message": "Brak pasujących notatek"
+   },
+   "5299648222246616124": {
+      "message": "lewy apostrof"
+   },
+   "5304869088141363028": {
+      "message": "Polecane zdjęcia"
+   },
+   "5316658541831864803": {
+      "message": "Wyświetlanie dokumentów tego typu nie jest obsługiwane."
+   },
+   "5319313176242717957": {
+      "message": "Przetwarzam obrazy..."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "534228323125524312": {
+      "message": "Pomniejsz"
+   },
+   "5353129315502554762": {
+      "message": "Arkusz stylów"
+   },
+   "5372143986724491245": {
+      "message": "$1​ dzień temu"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5399553230649155346": {
+      "message": "za $1​ godzinę"
+   },
+   "5403830377590414208": {
+      "message": "Białe"
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5438481737351808090": {
+      "message": "Popołudnie ($1​)"
+   },
+   "544377415081282702": {
+      "message": "Przepraszamy."
+   },
+   "5447119197363232006": {
+      "message": "Pokaż na Dysku"
+   },
+   "5465323999933375616": {
+      "message": "Został osiągnięty limit przepustowości dotyczący przeglądania i pobierania plików innych niż pliki w formacie Dokumentów Google."
+   },
+   "5472312735475866917": {
+      "message": "Komentarz: $1​."
+   },
+   "547865385964196102": {
+      "message": "$1​ min temu"
+   },
+   "5482872484546230111": {
+      "message": "Szukaj książek"
+   },
+   "5494181290179470995": {
+      "message": "Usuń"
+   },
+   "5500117709595533163": {
+      "message": "Wpisz powyżej czego szukasz, aby znaleźć pasujące e-booki za pomocą Książek Google."
+   },
+   "5514516347328112388": {
+      "message": "Możesz też spróbować pobrać oryginalny dokument, klikając $2​tutaj$1​."
+   },
+   "5529532831767466284": {
+      "message": "{VIEWER_GENDER,select, female{{DEGREES}° {MINUTES}' {SECONDS}\"}male{{DEGREES}° {MINUTES}' {SECONDS}\"}other{{DEGREES}° {MINUTES}' {SECONDS}\"}}"
+   },
+   "5555182241047709329": {
+      "message": "Wybierz lokalizację"
+   },
+   "5555599189512365009": {
+      "message": "OK"
+   },
+   "5571842632470308750": {
+      "message": "Dowolny typ"
+   },
+   "5588597116382648727": {
+      "message": "Uruchamiam zadanie rozpakowywania."
+   },
+   "5598649706113950710": {
+      "message": "Edytor"
+   },
+   "5609727719971819773": {
+      "message": "{VIEWER_GENDER,select, female{Wstecz}male{Wstecz}other{Wstecz}}"
+   },
+   "5627470193961862490": {
+      "message": "Tutaj pojawią się notatki z nadchodzącymi przypomnieniami"
+   },
+   "5631086126416409232": {
+      "message": "Niebieski"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5660422479531064559": {
+      "message": "Brak formularzy."
+   },
+   "5675154446465700699": {
+      "message": "Pliki PDF"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Usunąć zaznaczone elementy?"
+   },
+   "5714240424645614611": {
+      "message": "Android Package"
+   },
+   "5728640851616538925": {
+      "message": "Zielony"
+   },
+   "5744491383087191878": {
+      "message": "Podany powyżej URL obrazu jest nieprawidłowy lub nie można go wczytać."
+   },
+   "5747728324987383020": {
+      "message": "Twarz"
+   },
+   "5783875011049188612": {
+      "message": "Tekst został wyciągnięty z obrazu"
+   },
+   "5785010887521443923": {
+      "message": "Usuń"
+   },
+   "5834678297024555032": {
+      "message": "Zezwól"
+   },
+   "5840330517914556080": {
+      "message": "Pomniejsz"
+   },
+   "5842536098490298653": {
+      "message": "Nie znaleziono żadnych czcionek."
+   },
+   "5865680764501413616": {
+      "message": "Nie rozpoznaję tekstu."
+   },
+   "5871966496153339793": {
+      "message": "Wyświetlanie miniatury filmu $1​"
+   },
+   "5875004331736681428": {
+      "message": "Rozpakowuję do konta pocztowego."
+   },
+   "587666071025645113": {
+      "message": "Szukaj"
+   },
+   "5877526626743756786": {
+      "message": "Prześlij opinię"
+   },
+   "5889725440363483648": {
+      "message": "Każda osoba w grupie"
+   },
+   "5911012384539794869": {
+      "message": "Nie udało się uruchomić zadania rozpakowywania."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5949528478488617689": {
+      "message": "Uprawnienie do pobierania"
+   },
+   "5950887255133612666": {
+      "message": "Nierozpoczęte."
+   },
+   "5969696744752069015": {
+      "message": "Podgląd niedostępny."
+   },
+   "5971400924847413790": {
+      "message": "Możesz też wyświetlić go w formacie $2​HTML$1​ (automatyczne przekierowanie)."
+   },
+   "5972111804366033138": {
+      "message": "Pobierz"
+   },
+   "5975031149676029214": {
+      "message": "Wszyscy"
+   },
+   "5976369213680241300": {
+      "message": "Szukaj zdjęć"
+   },
+   "5980081664136280513": {
+      "message": "Zielone"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "6009962986062136164": {
+      "message": "Wczytuję $1​."
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6043068172993241858": {
+      "message": "Nikogo nie ma w tym kręgu."
+   },
+   "604883455412617728": {
+      "message": "Brak kontaktów pasujących do zapytania."
+   },
+   "6051386830221821025": {
+      "message": "Loguję się..."
+   },
+   "6064654062949366878": {
+      "message": "Odtwórz"
+   },
+   "6070475007374165567": {
+      "message": "Zapisuję..."
+   },
+   "6083586461434260179": {
+      "message": "Nowy sposób przeglądania plików"
+   },
+   "6087078248621415351": {
+      "message": "Modyfikacja: $1​"
+   },
+   "6091926883608250483": {
+      "message": "Więcej"
+   },
+   "6105571474005679446": {
+      "message": "Wystąpił problem z podglądem."
+   },
+   "6113237889871930608": {
+      "message": "Pusta notatka"
+   },
+   "6118623991445349480": {
+      "message": "Strona $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Lista aplikacji"
+   },
+   "6149175749937815029": {
+      "message": "Zobacz wszystkie elementy"
+   },
+   "6160805346274626656": {
+      "message": "Usuń na zawsze"
+   },
+   "616807262818311711": {
+      "message": "Typ"
+   },
+   "6175043905327075444": {
+      "message": "Poprzednio wybrane"
+   },
+   "6177107655089301674": {
+      "message": "Pobierz aplikację Google Keep na Androida"
+   },
+   "6185886893933834031": {
+      "message": "Zachowaj wybraną"
+   },
+   "6186290899408627510": {
+      "message": "Enter"
+   },
+   "6189891414154673003": {
+      "message": "Moje mapy"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Każdy"
+   },
+   "623118860067088424": {
+      "message": "Filmy"
+   },
+   "6231401379881217113": {
+      "message": "Insert"
+   },
+   "6252259197986158120": {
+      "message": "Wczoraj"
+   },
+   "6253076263700695984": {
+      "message": "Błąd uwierzytelniania. Wczytaj ponownie."
+   },
+   "6255475144867830247": {
+      "message": "Wybierz z innych kart nawigacji."
+   },
+   "6267063643272327592": {
+      "message": "Spróbuj jeszcze raz później."
+   },
+   "6290270819062517523": {
+      "message": "Zbyt wiele zaznaczonych elementów. Odznacz co najmniej jeden."
+   },
+   "6305748545202493254": {
+      "message": "Pokaż/ukryj okienko szczegółów"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6331677437567501421": {
+      "message": "Podczas modyfikowania uprawnień do pobierania wystąpił problem."
+   },
+   "6333496730738019575": {
+      "message": "Wczytuję..."
+   },
+   "634900089121611600": {
+      "message": "Brak filmów."
+   },
+   "6362170008350775214": {
+      "message": "Przypomnienie przy $1​"
+   },
+   "6375395544374251820": {
+      "message": "Podczas wczytywania kolejnych stron wystąpił problem. Ponawianie próby..."
+   },
+   "6376739025584042564": {
+      "message": "Przytnij zdjęcie"
+   },
+   "6386587519843563719": {
+      "message": "Plik binarny"
+   },
+   "6416495701611778255": {
+      "message": "Sugerowane aplikacje innych firm"
+   },
+   "6419411265907669340": {
+      "message": "Dzisiaj"
+   },
+   "6436479735235889890": {
+      "message": "Przypomnienie $1​ o $2​"
+   },
+   "6450508807204492448": {
+      "message": "Ikona $1​"
+   },
+   "6457802200418354862": {
+      "message": "Przeglądający mogą pobierać"
+   },
+   "6459405233858728718": {
+      "message": "Prezentacje Google"
+   },
+   "6464761738227651511": {
+      "message": "$1​ minutę temu"
+   },
+   "6466736813846482957": {
+      "message": "Poprzednia"
+   },
+   "6479216014938929613": {
+      "message": "Noc ($1​)"
+   },
+   "6482358947077977110": {
+      "message": "Zdjęcia z wyszukiwarki Google"
+   },
+   "6487403767449360463": {
+      "message": "Załadować ponownie Google Keep?"
+   },
+   "6488225756782357866": {
+      "message": "Wyróżniony obraz został znaleziony przez wyszukiwarkę grafiki Google na stronie:"
+   },
+   "6510131849363684615": {
+      "message": "Jutro"
+   },
+   "6516256764288947999": {
+      "message": "Oznacz osoby tagami"
+   },
+   "6522917155620379865": {
+      "message": "Pobierz"
+   },
+   "6524849072392100692": {
+      "message": "Folder Dysku Google"
+   },
+   "6551588617715293696": {
+      "message": "Opcje sortowania"
+   },
+   "6570921376519753466": {
+      "message": "Tytułowe"
+   },
+   "6571686604846453345": {
+      "message": "Podczas dodawania elementu do Dysku wystąpił problem."
+   },
+   "6582286158693833652": {
+      "message": "Więcej informacji"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6602430002978098812": {
+      "message": "W stylu pisma odręcznego"
+   },
+   "6614046405230762587": {
+      "message": "Nie znaleziono żadnych kontaktów."
+   },
+   "6622304228074863427": {
+      "message": "Aplikacja"
+   },
+   "6624754161346656119": {
+      "message": "Awatar $1​."
+   },
+   "6644861766016503644": {
+      "message": "Wymagane hasło"
+   },
+   "6650600936729710500": {
+      "message": "Odpowiedzi."
+   },
+   "666311703374681171": {
+      "message": "Obrazy i filmy"
+   },
+   "6666820082708870349": {
+      "message": "Usuń"
+   },
+   "6707173584987026005": {
+      "message": "Dzisiaj"
+   },
+   "6709984792949009238": {
+      "message": "Ostatnio otwarte przeze mnie"
+   },
+   "6726462693927865256": {
+      "message": "Szczegóły"
+   },
+   "6726879257388338969": {
+      "message": "Drukuj"
+   },
+   "6726925393892510846": {
+      "message": "Wystąpił błąd. Spróbuj jeszcze raz."
+   },
+   "6741759391888465238": {
+      "message": "Zapisywanie na Dysku – przenieś do:"
+   },
+   "6744457949320515234": {
+      "message": "Usunięto pustą notatkę"
+   },
+   "6757218172402086688": {
+      "message": "Przeszukaj notatki..."
+   },
+   "6780628488957834429": {
+      "message": "Pomarańczowy"
+   },
+   "6784073265197389491": {
+      "message": "Więcej informacji"
+   },
+   "681598652078493281": {
+      "message": "Więcej informacji"
+   },
+   "6818286476757207074": {
+      "message": "Wybieraj tylko takie obrazy, na których użycie masz licencję."
+   },
+   "682070933835616121": {
+      "message": "Brak tabel."
+   },
+   "6822338149422461362": {
+      "message": "Dysk Google"
+   },
+   "6827821461670731013": {
+      "message": "Pokaż pola wyboru"
+   },
+   "6828581947433060251": {
+      "message": "Podczas zmiany nazwy elementu wystąpił problem."
+   },
+   "6833760103261954639": {
+      "message": "Podczas wczytywania tej strony wystąpił problem. Ponawianie próby..."
+   },
+   "6841020391100928352": {
+      "message": "Limit rozmiaru plików został przekroczony."
+   },
+   "6851307437837490686": {
+      "message": "Uniemożliwiaj przeglądającym pobieranie"
+   },
+   "6856672816797218730": {
+      "message": "Załącz"
+   },
+   "6891563484025164308": {
+      "message": "Poprzedni"
+   },
+   "6893687445500687349": {
+      "message": "Witryny"
+   },
+   "6898823203505321799": {
+      "message": "Szczegóły"
+   },
+   "6904351530369058983": {
+      "message": "Właściciel"
+   },
+   "6905021988981026920": {
+      "message": "Wyszukiwarka filmów"
+   },
+   "6922953828399110511": {
+      "message": "Zamknij przeglądarkę"
+   },
+   "6929958461954697067": {
+      "message": "Zdjęcia z Tobą"
+   },
+   "6939782595426687411": {
+      "message": "Dodaję..."
+   },
+   "6940998537415516791": {
+      "message": "o"
+   },
+   "695253297035211081": {
+      "message": "Opróżnij kosz"
+   },
+   "6967244066810487978": {
+      "message": "KOSZ"
+   },
+   "6970167488058122005": {
+      "message": "nieznany autor"
+   },
+   "6976414863987386971": {
+      "message": "Formularze"
+   },
+   "7001938470263404128": {
+      "message": "Prześlij"
+   },
+   "7002768663714031226": {
+      "message": "Aktualizuj"
+   },
+   "7004919150329996187": {
+      "message": "Nie znaleziono osób w tym kręgu pasujących do zapytania."
+   },
+   "7054631817922169541": {
+      "message": "W Google Keep są niezapisane zmiany. Czy chcesz opuścić stronę i je odrzucić?"
+   },
+   "7059437903473652416": {
+      "message": "Odtwórz w YouTube film $1​"
+   },
+   "7080196430479494775": {
+      "message": "Ponów próbę"
+   },
+   "7084324152376766809": {
+      "message": "$1​ dni temu"
+   },
+   "7084991134824194740": {
+      "message": "Przypomnij mi"
+   },
+   "7092062731478679314": {
+      "message": "Nie znaleziono żadnych kręgów."
+   },
+   "7117183622067702162": {
+      "message": "Używając Dysku Google, już nigdy nie będziesz musiał wysyłać kolejnego załącznika e-mailem. Wystarczy, że udostępnisz link do dowolnego pliku przechowywanego na Dysku Google. Dzięki temu, każdy będzie mieć dostęp do tego samego pliku w tej samej wersji – automatycznie."
+   },
+   "713754035716193665": {
+      "message": "Utwórz listę"
+   },
+   "7146242673022399081": {
+      "message": "Tekst"
+   },
+   "7148992630785407972": {
+      "message": "Plik jest chroniony hasłem i nie można wyświetlić jego podglądu."
+   },
+   "7151987668860086450": {
+      "message": "Wyszukiwarka Google"
+   },
+   "7153847618034547771": {
+      "message": "Włącz"
+   },
+   "7161134329606048317": {
+      "message": "Zamknij"
+   },
+   "7164532930742017984": {
+      "message": "Każdy użytkownik mający link"
+   },
+   "7174189954350964804": {
+      "message": "Ponów próbę"
+   },
+   "7177591028189992523": {
+      "message": "Przenieś"
+   },
+   "7188754206068648188": {
+      "message": "Dane rozdzielane przecinkami"
+   },
+   "7225837680381806920": {
+      "message": "Wieczór ($1​)"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7236199858216720905": {
+      "message": "Mapy"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7259352906118493156": {
+      "message": "Brak witryn."
+   },
+   "7282548567245878869": {
+      "message": "Element usunięty"
+   },
+   "7295712436136900176": {
+      "message": "Załaduj ponownie"
+   },
+   "7310311230493556740": {
+      "message": "URL"
+   },
+   "7339696241980105410": {
+      "message": "Wybrany film już nie istnieje. Właściciel mógł go usunąć."
+   },
+   "7342923890755029722": {
+      "message": "Zamknij"
+   },
+   "734478884582426793": {
+      "message": "Plik skompresowany"
+   },
+   "7357017164339332230": {
+      "message": "Te zdjęcia można też oglądać i udostępniać w darmowej usłudze Google do przechowywania zdjęć – $2​Picasa Web Albums$1​."
+   },
+   "736105042796745909": {
+      "message": "{VIEWER_GENDER,select, female{Utwórz folder}male{Utwórz folder}other{Utwórz folder}}"
+   },
+   "7362061801920948830": {
+      "message": "Prześlij więcej"
+   },
+   "7364571366369083618": {
+      "message": "Film"
+   },
+   "7377239345926788722": {
+      "message": "Czynności"
+   },
+   "7380785991026002613": {
+      "message": "Wyświetlone wyniki można ponownie wykorzystać."
+   },
+   "7382688299146249119": {
+      "message": "Pobierz element"
+   },
+   "7383706174467122149": {
+      "message": "Notatka została usunięta"
+   },
+   "7388342865555961406": {
+      "message": "za $1​ dzień"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "740507516967994591": {
+      "message": "Otwórz"
+   },
+   "7422452809590461532": {
+      "message": "Czerwony"
+   },
+   "7426603384368095928": {
+      "message": "Wczytaj stronę jeszcze raz, aby zalogować się ponownie i kontynuować pracę."
+   },
+   "7429084719905985261": {
+      "message": "Objective-C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (edytowano $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Zapisuję na Dysku"
+   },
+   "7451573821837395189": {
+      "message": "Element został dodany do $2​Twojego Dysku$1​."
+   },
+   "7468322419516352788": {
+      "message": "Podczas aktualizowania opisu wystąpił problem."
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7492710087472140422": {
+      "message": "Więcej informacji"
+   },
+   "7493919863870655172": {
+      "message": "Kamera internetowa"
+   },
+   "7500786109708143683": {
+      "message": "Dźwięk został usunięty"
+   },
+   "7501027876827009022": {
+      "message": "Wyświetlone wyniki można wykorzystać w celach komercyjnych."
+   },
+   "7521272923988336579": {
+      "message": "Bądź na bieżąco – załaduj ponownie Google Keep."
+   },
+   "7532552995569296274": {
+      "message": "Wyczyść wyszukiwanie"
+   },
+   "7546994163355383999": {
+      "message": "Wszystkie notatki zapisane"
+   },
+   "7559208209275370228": {
+      "message": "Ostatnio edytowane przeze mnie"
+   },
+   "7565383798249439151": {
+      "message": "za $1​ dni"
+   },
+   "7565870443143407759": {
+      "message": "Znajdź w dokumencie"
+   },
+   "7586291841734385643": {
+      "message": "Wydziel okienko"
+   },
+   "7598582624136632660": {
+      "message": "Otwórz pasek wyszukiwania/znajdź następny"
+   },
+   "7602870977118971161": {
+      "message": "Wczytaj ponownie"
+   },
+   "7610654194202731772": {
+      "message": "Usuń"
+   },
+   "761925792744044896": {
+      "message": "Ustaw jako zdjęcie profilowe"
+   },
+   "7630723924002267143": {
+      "message": "Skróty klawiszowe są włączone."
+   },
+   "7640546114686970497": {
+      "message": "Nie można dodać więcej elementów"
+   },
+   "7669846901402551021": {
+      "message": "Dzisiaj"
+   },
+   "7691521283331762131": {
+      "message": "Tutaj pojawią się zarchiwizowane notatki"
+   },
+   "772000107335590599": {
+      "message": "za $1​ min"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7745005220197261896": {
+      "message": "Wyszukiwarka książek"
+   },
+   "7759846028901235026": {
+      "message": "Notatka przywrócona z archiwum"
+   },
+   "776065748745885880": {
+      "message": "Spacja"
+   },
+   "7770982082843341533": {
+      "message": "Brak elementów w tym folderze."
+   },
+   "779472474101127362": {
+      "message": "Zrób zdjęcie"
+   },
+   "7800318069267901681": {
+      "message": "Zmodyfikowany"
+   },
+   "7805487598105530487": {
+      "message": "W treści"
+   },
+   "7814778057875152792": {
+      "message": "Podczas przenoszenia załącznika do wybranego folderu na Dysku Google wystąpił problem."
+   },
+   "7820417126206702946": {
+      "message": "Wyświetlone wyniki są dostępne do użytku prywatnego lub komercyjnego tylko na Dysku Google. Nie można ich niezależnie redystrybuować ani sprzedawać."
+   },
+   "7822364282298323175": {
+      "message": "Lista została usunięta"
+   },
+   "7830513726270865588": {
+      "message": "Kalendarz"
+   },
+   "7845751753397906805": {
+      "message": "Znaleziono sprzeczne zmiany"
+   },
+   "7852396628465259068": {
+      "message": "Zdjęcie profilowe"
+   },
+   "7859526172011446452": {
+      "message": "Zakończ przesyłanie"
+   },
+   "78870906674150830": {
+      "message": "$3​$1​$2​"
+   },
+   "7895643887742936844": {
+      "message": "średnik"
+   },
+   "7899833760457194273": {
+      "message": "Wyszukiwarka grafiki"
+   },
+   "7899913952063063825": {
+      "message": "Obraz został usunięty"
+   },
+   "7906726367011430855": {
+      "message": "Połącz"
+   },
+   "7910518224461588465": {
+      "message": "Żółte"
+   },
+   "7953603850004320936": {
+      "message": "Podgląd niedostępny."
+   },
+   "7957306528733096600": {
+      "message": "Zakończono operację"
+   },
+   "7960528690514646841": {
+      "message": "{moreCount,plural, =0{unused plural form}=1{+ 1 osoba}few{+ {moreCount} osoby}many{+ {moreCount} osób}other{+ {moreCount} osoby}}"
+   },
+   "7973635145070803181": {
+      "message": "Prześlij zdjęcia"
+   },
+   "7987180255015869513": {
+      "message": "Albo wklej tutaj adres internetowy:"
+   },
+   "8011497727123874703": {
+      "message": "Przycisk folderu $1​"
+   },
+   "8016231262233952856": {
+      "message": "Morskie"
+   },
+   "8019402848412685977": {
+      "message": "Nazwa została zmieniona z „$2​” na „$1​”."
+   },
+   "8023466614826324314": {
+      "message": "Zdjęcia będą udostępniane wielu osobom."
+   },
+   "8043514121228710092": {
+      "message": "Dodaj obraz"
+   },
+   "8044700199531805239": {
+      "message": "Aplikacja $3​$1​$2​ została połączona."
+   },
+   "8069384932934428393": {
+      "message": "za $1​ minutę"
+   },
+   "8081927474846706026": {
+      "message": "Brak rysunków."
+   },
+   "8090743714060857028": {
+      "message": "Przeglądający nie mogą pobierać"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 bajtów}=1{1 bajt}few{# bajty}many{# bajtów}other{# bytes}}"
+   },
+   "8099047958506869131": {
+      "message": "{VIEWER_GENDER,select, female{Nowy folder}male{Nowy folder}other{Nowy folder}}"
+   },
+   "8100558294600077150": {
+      "message": "Wyszukiwarka blogów"
+   },
+   "8105635255693472607": {
+      "message": "Dodaj nowe elementy listy"
+   },
+   "8106780183458743723": {
+      "message": "Albumy zdjęć"
+   },
+   "8112699352770418817": {
+      "message": "Nie znaleziono żadnych książek."
+   },
+   "8132410616064087953": {
+      "message": "Film jest za długi (może mieć maksymalnie $1​ s)."
+   },
+   "8135145577663029437": {
+      "message": "Zachowaj obie"
+   },
+   "8146560259680897627": {
+      "message": "Anuluj"
+   },
+   "8158191101452862916": {
+      "message": "Wstaw obrazy"
+   },
+   "8159493406018222636": {
+      "message": "Prześlij opinię"
+   },
+   "8172945196588870035": {
+      "message": "Wydarzenia"
+   },
+   "8174654098152723289": {
+      "message": "Edytuj opis"
+   },
+   "8178754379486173416": {
+      "message": "{VIEWER_GENDER,select, female{Zaznaczyłaś bardzo mało elementów. Zaznacz więcej.}male{Zaznaczyłeś bardzo mało elementów. Zaznacz więcej.}other{Zaznaczono bardzo mało elementów. Zaznacz więcej.}}"
+   },
+   "8192378456655629049": {
+      "message": "Przetwarzam film..."
+   },
+   "8193991135666622583": {
+      "message": "keep"
+   },
+   "821942580510564685": {
+      "message": "Aby wyświetlić ten dokument, podaj hasło do niego."
+   },
+   "8239237134193392595": {
+      "message": "Powiadomienia oparte na lokalizacji są wyświetlane tylko na urządzeniach mobilnych."
+   },
+   "8267458240960831780": {
+      "message": "Uwierzytelniam..."
+   },
+   "8281141013543828574": {
+      "message": "Obraz nieskompresowany"
+   },
+   "8281678863271800533": {
+      "message": "Filtr obrazów"
+   },
+   "8283103456188558313": {
+      "message": "Prezentacje"
+   },
+   "8290434443655418968": {
+      "message": "{filesCount,plural, =0{unused plural form}=1{Wybranego pliku [{file}] nie można przesłać.}few{Wybranych plików [{files}] nie można przesłać.}many{Wybranych plików [{files}] nie można przesłać.}other{Selected files [{files}] are not supported for upload.}}"
+   },
+   "8304474373444239435": {
+      "message": "Odpowiedź: $1​."
+   },
+   "8322416564157128458": {
+      "message": "Udostępnianie"
+   },
+   "8324195080917648153": {
+      "message": "Film się tu nie zmieści. Powiększ trochę okno przeglądarki."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342684858400436871": {
+      "message": "Tab"
+   },
+   "8379952094517631162": {
+      "message": "Nie"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412684147928483084": {
+      "message": "Czarne"
+   },
+   "8435544675017330861": {
+      "message": "Brak elementów pasujących do zapytania."
+   },
+   "8436817383042650304": {
+      "message": "Caps Lock"
+   },
+   "8451184312655705174": {
+      "message": "Jeśli URL jest prawidłowy, zostanie tutaj wyświetlony podgląd. Wyświetlenie dużych obrazów może zająć trochę czasu."
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8506198918368329269": {
+      "message": "Wyświetlone wyniki można wykorzystać w celach komercyjnych oraz modyfikować."
+   },
+   "8571315158566081191": {
+      "message": "Brak arkuszy kalkulacyjnych."
+   },
+   "8580600056399054303": {
+      "message": "Wskaż miejsce na nowe lub zaznaczone elementy"
+   },
+   "8595175575778060149": {
+      "message": "Więcej"
+   },
+   "8596257056433048992": {
+      "message": "Witamy w"
+   },
+   "8616342546716995946": {
+      "message": "OK"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8638281560898810401": {
+      "message": "{MINUTES,plural, =0{0 minut }=1{1 minuta }few{# minuty }many{# minut }other{# minutes }}{SECONDS,plural, =0{0 sekund.}=1{1 sekunda.}few{# sekundy.}many{# sekund.}other{# seconds.}}"
+   },
+   "863955692838281739": {
+      "message": "Zamknij"
+   },
+   "8643398764569428530": {
+      "message": "Zezwolić Google Keep na wyświetlanie powiadomień?"
+   },
+   "8652566647088230560": {
+      "message": "Testy wewnętrzne – poufne"
+   },
+   "8660016472468563221": {
+      "message": "dwukropek"
+   },
+   "8663507590720636709": {
+      "message": "$1​ i jeszcze $2​"
+   },
+   "8666643061920113075": {
+      "message": "{VIEWER_GENDER,select, female{Tutaj wklej URL obrazu:}male{Tutaj wklej URL obrazu:}other{Tutaj wklej URL obrazu:}}"
+   },
+   "8674222789100049233": {
+      "message": "Zamknij"
+   },
+   "86815590954366945": {
+      "message": "Lista zarchiwizowanych treści"
+   },
+   "8709611758728645225": {
+      "message": "PgDn"
+   },
+   "8711002053494037632": {
+      "message": "Usunięto zaznaczenie wszystkich elementów"
+   },
+   "8748281640412284111": {
+      "message": "Zdjęcia licencjonowane"
+   },
+   "8759520888087120926": {
+      "message": "Brak skryptów."
+   },
+   "8775097441636640256": {
+      "message": "$2​ – $1​"
+   },
+   "8780212274435014958": {
+      "message": "Kręgi"
+   },
+   "8781837301864053001": {
+      "message": "Tekst sformatowany"
+   },
+   "8792038552136453044": {
+      "message": "Ups. Coś poszło nie tak"
+   },
+   "8793166064242077041": {
+      "message": "Podczas wyświetlania tego obrazu wystąpił problem."
+   },
+   "8813101408630252335": {
+      "message": "$1​ s"
+   },
+   "8820281478062782578": {
+      "message": "Szukaj"
+   },
+   "8822326207328431952": {
+      "message": "Przesyłanie obrazów jest niedostępne"
+   },
+   "8840223453482998505": {
+      "message": "Wybrany folder: $1​"
+   },
+   "8845176264121061589": {
+      "message": "Odznacz wszystkie elementy"
+   },
+   "8850238112725591771": {
+      "message": "skrót $1​"
+   },
+   "8852550049823214385": {
+      "message": ", to funkcja"
+   },
+   "8883744193208363722": {
+      "message": "Jest dostępna aktualizacja aplikacji."
+   },
+   "8884900765322249670": {
+      "message": "Widok listy"
+   },
+   "8889019648958415451": {
+      "message": "Nieznany plik"
+   },
+   "8911996820409711834": {
+      "message": "Przenieś tekst do nowej pozycji na liście &raquo;"
+   },
+   "8916237870980173557": {
+      "message": "Łączę..."
+   },
+   "8917554093651202032": {
+      "message": "Odtwórz $1​"
+   },
+   "8919660666733306860": {
+      "message": "Obraz"
+   },
+   "8930959387403789939": {
+      "message": "Przypomnienie"
+   },
+   "8943760679396635042": {
+      "message": "Wyświetlam $1​."
+   },
+   "8953555255469284376": {
+      "message": "Upuść obrazy tutaj"
+   },
+   "8979615310931291676": {
+      "message": "Ostatnia zmiana $1​"
+   },
+   "8986044948621891903": {
+      "message": "Wpisz zapytanie w polu powyżej, aby przeszukać internet za pomocą Wyszukiwarki Google."
+   },
+   "901615442107785480": {
+      "message": "Zarchiwizuj notatkę/listę"
+   },
+   "9024023699330078373": {
+      "message": "Otwarcie tego elementu spowoduje dodanie go do Dysku"
+   },
+   "9028041601596584772": {
+      "message": "Lokalizacja"
+   },
+   "9058308423774656474": {
+      "message": "Edytor tekstu Hangul"
+   },
+   "9083935734710258396": {
+      "message": "Odrzuć"
+   },
+   "9094248058931620597": {
+      "message": "Panel szczegółów został zwinięty."
+   },
+   "9114674068220302553": {
+      "message": "Jako załącznik"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9130962320402467249": {
+      "message": "Zdjęcia licencjonowane"
+   },
+   "9146716987301178362": {
+      "message": "Wystąpił błąd. Wczytaj ponownie."
+   },
+   "9165877886714239857": {
+      "message": "Nie można wyciągnąć tekstu z obrazu. Spróbuj ponownie później."
+   },
+   "916773043895242978": {
+      "message": "Wpisany wyżej URL zdjęcia jest nieprawidłowy lub nie można go wczytać. Wpisz prawidłowy URL."
+   },
+   "9173629944963872598": {
+      "message": "Nie znaleziono żadnych wydarzeń."
+   },
+   "9182500445937900938": {
+      "message": "Zamknij"
+   },
+   "9195941533351099011": {
+      "message": "Przesyłanie $1​ z $2​"
+   },
+   "9197837492705576727": {
+      "message": "Idź do następnego elementu"
+   },
+   "919969969251998566": {
+      "message": "Rozpakuj to archiwum do swojego konta pocztowego."
+   },
+   "9203542510134660095": {
+      "message": "Zadanie rozpakowywania zostało rozpoczęte. Zawartość archiwum pojawi się na Dysku w folderze „$1​”."
+   },
+   "940276535015195877": {
+      "message": "Brak folderów."
+   },
+   "943493480163896757": {
+      "message": "{resultCount,plural, =1{# pasująca notatka}few{# pasujące notatki}many{# pasujących notatek}other{# matching notes}}"
+   },
+   "951963820437151566": {
+      "message": "Witryny Google"
+   },
+   "95809842507987016": {
+      "message": "Usuń"
+   },
+   "963611681085757795": {
+      "message": "Wyświetlenie dokumentu jest w tej chwili niemożliwe."
+   },
+   "96556988207614774": {
+      "message": "Kalendarze"
+   },
+   "974042541427403929": {
+      "message": "Niebieskie"
+   },
+   "980395722421409371": {
+      "message": "Nie znaleziono żadnych map."
+   },
+   "982187142411651629": {
+      "message": "Zamknij"
+   },
+   "985197728509875956": {
+      "message": "Pliki modeli chemicznych"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "998727788921602971": {
+      "message": "Filmy"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Szybko zapisuj wszystko, co przyjdzie Ci do głowy, i otrzymuj powiadomienia w odpowiednim miejscu i czasie."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Google Keep – notatki i listy"
+   }
+}
