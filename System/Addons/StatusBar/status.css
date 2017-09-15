@@ -2,6 +2,7 @@
 .tophotspot:hover + #header, #header:hover{visibility:visible}
 
 body > header{height:22px;z-index:3;box-shadow: inset 0 -8px 27px -4px #333}
+body > header:active{cursor:url(../../Resources/cursors/grab.png),auto}
 
 #statusbar{z-index:4;float:right;position:relative}
 
