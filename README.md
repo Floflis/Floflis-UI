@@ -7,21 +7,15 @@
 ----------
 # Description #
 
-Describe WS.js is like describing the sensation of sex. But I can explain in a human-understandable way! Imagine a world when the BIOS we know and OS are merged. Then we have the DCRS. Imagine the OS we know running in a environment and only doing settings for our work ecosystem while DCRS do the advanced settings. Then we have WS.js running on DCRS. For final user the sensation is that DCRS is the BIOS and WS.js the operating system (OS). But technically DCRS is the OS and WS.js the work system (WS)!
+Screens is a Linux/HTML5-based modern, easy, customizable, powerfull and open-source operating system.
+It have a UI based in Electron wich controls the system.
+Electron Apps, Cordova Apps, Screens Apps (HTML5) and Progressive Web Apps support in plans.
 
-WS is a achronym for Work System. This is a new concept, when operating system (DCRS) do the advanced settings and WS the basic ambient for work. DCRS for settings, WS.js for your work!
-
-WS.js is HTML5-based modern, generic, open-source and the world's first work system. Runs on [DCRS - Device Checker/Runtime System](https://github.com/Software-js/DCRS "Click here to know more how DCRS works and get started how insert DCRS in your mainboard/device.").
-
-This is an template for who want get started to make your own work system for DCRS. This isn't hard for who have knowledge only in HTML/CSS/Javascript languages.
+You can test Screens, share it or contribute. This isn't hard for who have knowledge only in HTML/CSS/Javascript languages. Also if you isn't good in programmation, here is a good news: Screens' UI (Electron) source-code is a Construct 2 project, so you can program using a event sheet!
 
 # Understanting more #
 
 You can read the SPECS.md, and too you can read the FEATURES.md file, all included in the project.
-
-# Get started to make your own WS #
-
-For get started to making your own work system for DCRS, you need to read the GET_STARTED.md file included in the project.
 
 # Contributing #
 
@@ -35,7 +29,7 @@ You can donate any of Bitcoins value to:
 
 Pull requests, comments and open issues are too very welcome.
 
-**PS: don't change WS.js' addons, apps and/or games inside this project, please contribute directly with their separate repositories. See the used projects bellow:**
+**PS: don't change Screens' addons, apps and/or games inside this project, please contribute directly with their separate repositories. See the used projects bellow:**
 
 # Addons #
 
