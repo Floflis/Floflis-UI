@@ -53,6 +53,6 @@ If you like this project, you can give me a cup of coffee with PayPal :)
 
 Or if you want to finance Screens development, you can donate any of Bitcoins value to:
 
-<a href="bitcoin:1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU">1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU</a>
+[1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU](bitcoin:1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU)
 
 <img width="250px" src="http://i.imgur.com/uDVyDTj.png"/>
