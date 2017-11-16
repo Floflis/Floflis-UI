@@ -21,12 +21,6 @@ You can read the SPECS.md, and too you can read the FEATURES.md file, all includ
 
 You can see the source code for submit your modifications, or read SPECS.md/FEATURES.md to submit your ideas/work on new codes. Too, you can edit other .md files if you think that have need.
 
-You can donate any of Bitcoins value to:
-
-<a href="bitcoin:1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU">1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU</a>
-
-<img width="250px" src="http://i.imgur.com/uDVyDTj.png"/>
-
 Pull requests, comments and open issues are too very welcome.
 
 **PS: don't change Screens' addons, apps and/or games inside this project, please contribute directly with their separate repositories. See the used projects bellow:**
@@ -52,3 +46,13 @@ Tasks: [clearwater](https://github.com/lbarman/clearwater)
 [Ultimate Tic Tac Toe](https://github.com/kennycason/ultimate_tictactoe)
 
 [2048](https://github.com/gabrielecirulli/2048)
+
+# Donation #
+
+If you like this project, you can give me a cup of coffee with PayPal :)
+
+Or if you want to finance Screens development, you can donate any of Bitcoins value to:
+
+<a href="bitcoin:1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU">1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU</a>
+
+<img width="250px" src="http://i.imgur.com/uDVyDTj.png"/>
