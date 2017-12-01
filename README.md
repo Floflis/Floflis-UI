@@ -7,7 +7,7 @@
 ----------
 # Description #
 
-Screens is a Linux/HTML5-based modern, easy, customizable, powerfull and open-source operating system.
+Screens is a Linux/HTML5-based modern, easy, rewardable, beautifull, customizable, powerfull and open-source operating system.
 It have a UI based in Electron wich controls the system.
 Electron Apps, Cordova Apps, Screens Apps (HTML5) and Progressive Web Apps support in plans.
 
@@ -35,13 +35,11 @@ Notifications: [notifyjs](https://github.com/notifyjs/notifyjs) (Floating notifi
 
 Updates: [node-github](https://github.com/mikedeboer/node-github) (search and parse updates)
 
-Battery System: [battery.js](https://github.com/miguelmota/battery)
-
-# Apps #
+# Default Apps #
 
 Tasks: [clearwater](https://github.com/lbarman/clearwater)
 
-# Games #
+# Default Games #
 
 [Ultimate Tic Tac Toe](https://github.com/kennycason/ultimate_tictactoe)
 
