@@ -11,7 +11,18 @@ Screens is a Linux/HTML5-based modern, easy, rewardable, beautifull, customizabl
 It have a UI based in Electron wich controls the system.
 Electron Apps, Cordova Apps, Screens Apps (HTML5) and Progressive Web Apps support in plans.
 
+Screens is thinked to run as a app in your OS, as a service in your browser, as a Linux distro, as a Android ROM or any other platform/device.
+
 You can test Screens, share it or contribute. This isn't hard for who have knowledge only in HTML/CSS/Javascript languages. Also if you isn't good in programmation, here is a good news: Screens' UI (Electron) source-code is a Construct 2 project, so you can program using a event sheet!
+
+## Screenshots ##
+<img src='https://i.imgur.com/MYtahl0.png' />
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
 
 # Understanting more #
 
