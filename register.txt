@@ -1,0 +1,5 @@
+This file shows the Namecoin's transaction ID containing the hash of previous commit. It is for registering/copyright purposes.
+Namecoin transaction ID with previous commit hash: 
+Address/Name/Domain: neurus.bit
+Owner: Plasmmer
+Namecoin transaction ID with Ownership proof: 

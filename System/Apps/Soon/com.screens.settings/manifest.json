@@ -1,0 +1,62 @@
+{
+   "name": "__MSG_appName__",
+   "description": "__MSG_appDesc__",
+   "version": "1.0.0",
+   "developer": {
+    "name": "Plasmmer",
+    "url": "http://www.plasmmer.com/apps"
+  },
+   "shop_id": "anynumber",
+   "manifest_version": 1,
+   "default_language": "en",
+   "app": {
+      "background": {
+         "scripts": [ "nobgfunctionyet.js" ]
+      }
+   },
+   "icons": {
+      "launcher": "icon.svg",
+      "navbar": "icon.svg"
+   },
+   "tiles": {
+      "small": "icon_128.png",
+      "medium": "icon_16.png"
+      "larger": "icon_128.png",
+      "big": "icon_128.png"
+      "poster": "icon_128.png"
+   },
+   "colors": {
+      "bar": "#fff",
+      "bar_text": "#5890FF",
+      "menu": "#fff",
+      "tabs": "#5890FF"
+   },
+   "menu_tabs": {
+      "Teste1": {
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ]
+      }
+      "Teste2": {
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ]
+      }
+      "Teste3": {
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ],
+         "Link": [ "linkicon.svg", "internal_file_clicker" ]
+      }
+   },
+   "oauth2": {
+      "client_id": "192748556389-u13aelnnjsmn5df1voa2d3oimlbd8led.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/memento", "https://www.googleapis.com/auth/client_channel" ]
+   },
+   "permissions": [ "identity", "https://*.googleapis.com/", "https://keep.google.com/media/", "https://*.googleusercontent.com/", "https://*.client-channel.google.com/client-channel", "https://clients4.google.com/client-channel/client", "geolocation", "notifications" ],
+}

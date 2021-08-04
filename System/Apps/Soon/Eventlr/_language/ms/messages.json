@@ -1,0 +1,2485 @@
+{
+   "1006787209796778126": {
+      "message": "Drive Saya"
+   },
+   "1017907757187630742": {
+      "message": "Fon saya"
+   },
+   "1029072043275376320": {
+      "message": "Tiada kalendar ditemui."
+   },
+   "1030781695901615026": {
+      "message": "Bawah"
+   },
+   "103870949919613488": {
+      "message": "Nota diarkibkan"
+   },
+   "1039394921418415681": {
+      "message": "Log masuk"
+   },
+   "1083918249169198626": {
+      "message": "Pintasan papan kekunci dilumpuhkan."
+   },
+   "1090919586152138659": {
+      "message": "Stok"
+   },
+   "1101371910696766077": {
+      "message": "Buat salinan"
+   },
+   "1107413433574576014": {
+      "message": "Tajuk terlalu besar. Teks yang diserlahkan tidak akan disimpan."
+   },
+   "1127320433256851404": {
+      "message": "Pemain video"
+   },
+   "1162642135048988280": {
+      "message": "Namakan semula dokumen"
+   },
+   "1166244120191806795": {
+      "message": "Berikan Maklum Balas"
+   },
+   "1179891706526242218": {
+      "message": "Seterusnya"
+   },
+   "1185164838496022543": {
+      "message": "Sila klik di sini untuk memuatkan semula halaman."
+   },
+   "1185644932132585290": {
+      "message": "$1​ aksara yang tinggal"
+   },
+   "1213005208968286932": {
+      "message": "Ditandakan sebagai selesai"
+   },
+   "1263557413037343589": {
+      "message": "Susun foto"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1311350045083871503": {
+      "message": "Batal"
+   },
+   "1311729747516144362": {
+      "message": "Merah"
+   },
+   "1315844696796851207": {
+      "message": "Sans Serif"
+   },
+   "1319037146426591038": {
+      "message": "atau"
+   },
+   "132822872080714863": {
+      "message": "OK"
+   },
+   "133192954417440569": {
+      "message": "Tiada hasil ditemui."
+   },
+   "1349697396109290623": {
+      "message": "Memaparkan $1​ dalam peleraian yang lebih tinggi"
+   },
+   "1376126796144976437": {
+      "message": "Semua fon"
+   },
+   "139942704574044780": {
+      "message": "Terima"
+   },
+   "141491180325662484": {
+      "message": "Google Drive ialah satu ruang untuk menyimpan semua fail anda supaya anda dapat mengaksesnya dari mana-mana lokasi menggunakan sebarang peranti. Apabila anda mempunyai foto dalam Google Drive, anda boleh mengongsinya serta-merta dengan kalangan anda di sini."
+   },
+   "1418114637490664392": {
+      "message": "Arkib Foto LIFE"
+   },
+   "1419896259743862406": {
+      "message": "Buka dengan"
+   },
+   "1440171352837969028": {
+      "message": "Video/Audio"
+   },
+   "1441487391064925653": {
+      "message": "Lihat semua pintasan di Pusat Bantuan"
+   },
+   "1446829548948002072": {
+      "message": "koma"
+   },
+   "1454684154234137497": {
+      "message": "pause"
+   },
+   "1459765068821943106": {
+      "message": "{VIEWER_GENDER,select, female{Tampalkan URL YouTube di sini:}male{Tampalkan URL YouTube di sini:}other{Tampalkan URL YouTube di sini:}}"
+   },
+   "1463079206290378085": {
+      "message": "Foto Orkut"
+   },
+   "1463389029497634261": {
+      "message": "Kurangkan kelantangan"
+   },
+   "1475179211173444554": {
+      "message": "Sesiapa sahaja dalam domain yang mempunyai pautan"
+   },
+   "1492360016907725281": {
+      "message": "{VIEWER_GENDER,select, female{Tampalkan URL video di sini:}male{Tampalkan URL video di sini:}other{Tampalkan URL video di sini:}}"
+   },
+   "1493251742569121894": {
+      "message": "Nota terlalu besar. Teks yang diserlahkan tidak akan disimpan."
+   },
+   "1493384967280942491": {
+      "message": "Merah jambu"
+   },
+   "1499433769420882987": {
+      "message": "Memaparkan $1​"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1521707405717823409": {
+      "message": "Ungu"
+   },
+   "153439508598626384": {
+      "message": "Foto anda"
+   },
+   "1536051766421561160": {
+      "message": "sama dengan"
+   },
+   "156992719062713230": {
+      "message": "Kelabu"
+   },
+   "1586968957182554447": {
+      "message": "Lumpuhkan"
+   },
+   "1588268697057804046": {
+      "message": "$1​ jam yang lalu"
+   },
+   "1603139897109307706": {
+      "message": "Ralat, sila cuba lagi"
+   },
+   "1604359562654146902": {
+      "message": "Foto"
+   },
+   "1633370388224271051": {
+      "message": "Tiada orang ditemui."
+   },
+   "1633798963327779260": {
+      "message": "Esok"
+   },
+   "1654222450095043962": {
+      "message": "Audio"
+   },
+   "1656911987308166143": {
+      "message": "Padam"
+   },
+   "1665821947855814052": {
+      "message": "Saiz"
+   },
+   "1692901784886701962": {
+      "message": "Nota terlalu besar."
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700522311470719738": {
+      "message": "Ingatkan saya"
+   },
+   "1701312243672511585": {
+      "message": "Pindahkan teks ke nota baharu &raquo;"
+   },
+   "1709410429018687341": {
+      "message": "Pagi ($1​)"
+   },
+   "1715552550526864429": {
+      "message": "Cari blog"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1739900012825270238": {
+      "message": "Pergi ke item sebelumnya"
+   },
+   "1756171223417807431": {
+      "message": "Pastikan imej disiarkan secara terbuka. Sekiranya imej anda dilindungi kata laluan atau berada pada rangkaian dalaman, kami tidak dapat membacanya."
+   },
+   "1759957963056319953": {
+      "message": "Kembali dari $1​"
+   },
+   "1783719421893050637": {
+      "message": "Dimensi"
+   },
+   "178927681797742562": {
+      "message": "Rakam Masuk"
+   },
+   "1791115075948268631": {
+      "message": "Buka bantuan pintasan papan kekunci"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1816851800848432562": {
+      "message": "Alih keluar"
+   },
+   "1818306025747564729": {
+      "message": "Pergi ke pautan"
+   },
+   "1823222042913714987": {
+      "message": "Serah kata laluan"
+   },
+   "1823854753950594157": {
+      "message": "Kekal di tempatnya"
+   },
+   "1830157062072535681": {
+      "message": "Memaparkan $1​"
+   },
+   "185012928288875755": {
+      "message": "Tiada item yang sepadan dengan kriteria anda."
+   },
+   "1856444915090632305": {
+      "message": "Dokumen ini disulitkan. Sila masukkan kata laluan."
+   },
+   "1866863108233180413": {
+      "message": "Folder"
+   },
+   "187077078156858455": {
+      "message": "Nota audio"
+   },
+   "189303170370862360": {
+      "message": "$1​ daripada $2​ item"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901351411358749070": {
+      "message": "Dikongsi dengan saya"
+   },
+   "1913425963149828429": {
+      "message": "Keluarkan arkib ini dan masukkan ke dalam Drive."
+   },
+   "1918176455405610789": {
+      "message": "Selesai"
+   },
+   "1920189655549476211": {
+      "message": "panjang tidak diketahui"
+   },
+   "1929603188252533075": {
+      "message": "Video anda tidak dapat dipadamkan. Sila cuba lagi."
+   },
+   "1951810091681076784": {
+      "message": "{COUNT_1,plural, =1{1 nota yang sepadan}other{{COUNT_2} nota yang sepadan}}"
+   },
+   "1956794332842050061": {
+      "message": "Halaman seterusnya"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1968405748623909021": {
+      "message": "Cuba salah satu apl di bawah untuk membuka atau mengedit item ini"
+   },
+   "1974063091619095703": {
+      "message": "Orang"
+   },
+   "1988244842147989817": {
+      "message": "Nota dalam Sampah dipadamkan selepas 7 hari."
+   },
+   "1993674829873313178": {
+      "message": "Masalah muat naik? Kami sedang menjalankan penyelenggaraan tetapi semuanya akan kembali normal tidak lama lagi."
+   },
+   "2003845117979929469": {
+      "message": "Butiran"
+   },
+   "2048322072989992494": {
+      "message": "Belum ada sesiapa yang berkongsi fail dengan anda!"
+   },
+   "2055836117545582610": {
+      "message": "Tetapan senarai"
+   },
+   "2059084517358086391": {
+      "message": "Tutup bar carian"
+   },
+   "2061440050632248160": {
+      "message": "Arkib"
+   },
+   "2068023589621557589": {
+      "message": "Fon JenisBenar"
+   },
+   "2073035325657060696": {
+      "message": "Tiada pratonton tersedia."
+   },
+   "2073322475696388995": {
+      "message": "Langkau ke hadapan"
+   },
+   "207810168108507460": {
+      "message": "$1​ jam yang lalu"
+   },
+   "2109272338124379867": {
+      "message": "Terakhir diubah suai"
+   },
+   "2116013171202209313": {
+      "message": "Pilih"
+   },
+   "2122256657192674586": {
+      "message": "Cari video"
+   },
+   "2125135092719715773": {
+      "message": "Muat naik"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "213665695896111861": {
+      "message": "Nota"
+   },
+   "2138593281154109183": {
+      "message": "Arkib"
+   },
+   "2147952938331523160": {
+      "message": "Namakan semula…"
+   },
+   "2154372123324862271": {
+      "message": "tanda condong"
+   },
+   "2154940358270068005": {
+      "message": "Simpan nota yang dipadamkan lebih lama sedikit"
+   },
+   "2184278444368405837": {
+      "message": "$1​ item"
+   },
+   "2187239650627580457": {
+      "message": "Serahkan"
+   },
+   "2198096971937872560": {
+      "message": "Peringatan:"
+   },
+   "220168959069469607": {
+      "message": "Lagi tindakan"
+   },
+   "221715292685577880": {
+      "message": "Ya"
+   },
+   "2220005860896049129": {
+      "message": "Harap maaf, kami mengambil masa yang terlalu lama untuk mencari dokumen itu di sumber asalnya."
+   },
+   "2228413078211839077": {
+      "message": "Maaf, kami sedang menghadapi masalah sementara untuk menghasilkan paparan dokumen."
+   },
+   "2235097878790803849": {
+      "message": "Selamat tinggal lampiran. Helo Google Drive."
+   },
+   "2257303402199718039": {
+      "message": "Harap maaf, kami tidak menemui dokumen itu di sumber asalnya. Sila sahkan bahawa dokumen itu masih wujud."
+   },
+   "2274436793504233543": {
+      "message": "Batal"
+   },
+   "2278224983638451454": {
+      "message": "Dapatkannya sekarang"
+   },
+   "2280650195464600721": {
+      "message": "Navigasi"
+   },
+   "2285069188138705005": {
+      "message": "Apl yang disambungkan"
+   },
+   "2289534534793293486": {
+      "message": "Nyaharkib"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Tambahkan kelantangan"
+   },
+   "230180475614658119": {
+      "message": "Selesai"
+   },
+   "2304293593067358316": {
+      "message": "Lukisan klip"
+   },
+   "2310145944356900158": {
+      "message": "Ditanda"
+   },
+   "2311880726221661199": {
+      "message": "Memuatkan peleraian yang lebih tinggi"
+   },
+   "2329167963662998826": {
+      "message": "Google Keep ingin menggunakan lokasi anda untuk memperbaik cadangan tempat untuk peringatan lokasi."
+   },
+   "234046557601727809": {
+      "message": "Tiada imej atau video."
+   },
+   "2349912757088764940": {
+      "message": "Kelihatan kepada:"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2370463380397641604": {
+      "message": "Pintasan papan kekunci yang popular"
+   },
+   "2370656573843123707": {
+      "message": "tanda kurung kanan"
+   },
+   "2393487423640708285": {
+      "message": "URL tidak sah. Pastikan URL bermula dengan http:// atau https://."
+   },
+   "2405795704816921421": {
+      "message": "Fail $1​"
+   },
+   "2412314804333167252": {
+      "message": "Hamparan ini terlalu besar. Klik untuk $3​muat turun$1​ atau $4​edit dalam Helaian Google$1​."
+   },
+   "2418104318933043113": {
+      "message": "Carian Imej Google"
+   },
+   "2433429041384246549": {
+      "message": "Redam"
+   },
+   "2449254824382583885": {
+      "message": "Pop keluar"
+   },
+   "2452522051596946166": {
+      "message": "Op! Terdapat masalah pratonton $1​. Mencuba semula."
+   },
+   "2454642351139428112": {
+      "message": "Buat Asal"
+   },
+   "2466251465475184755": {
+      "message": "Kosongkan Sampah? Semua nota dalam Sampah akan dipadamkan secara kekal."
+   },
+   "2475181823688399272": {
+      "message": "Seterusnya"
+   },
+   "2484568559152875936": {
+      "message": "Tiada album foto."
+   },
+   "2504232652631703202": {
+      "message": "Disambungkan"
+   },
+   "251025074207413762": {
+      "message": "Tambah huraian"
+   },
+   "2510929871271209216": {
+      "message": "Hamparan ini terlalu besar. Klik $2​di sini$1​ untuk memuat turun."
+   },
+   "2513437337377210144": {
+      "message": "end"
+   },
+   "2524021436052870191": {
+      "message": "Tidak dapat memuat naik fail ini. Hanya fail $1​ yang bersaiz kurang daripada $2​MB akan berfungsi."
+   },
+   "2532280782491328445": {
+      "message": "Cari sebelumnya"
+   },
+   "2538080331309772448": {
+      "message": "Isih: $1​"
+   },
+   "2538462904124380434": {
+      "message": "Nota dialihkan ke Sampah"
+   },
+   "2546225293834487484": {
+      "message": "Nota"
+   },
+   "2558480112329900136": {
+      "message": "Kelabu"
+   },
+   "257317112834806705": {
+      "message": "Togol antara paparan senarai dan paparan grid"
+   },
+   "2579679351920691492": {
+      "message": "Langkau ke belakang"
+   },
+   "2587566920590457715": {
+      "message": "Maps Engine Lite"
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609750184896485102": {
+      "message": "Video dari telefon"
+   },
+   "2615188670181508661": {
+      "message": "Anda tidak memilih apa-apa baru-baru ini!"
+   },
+   "2623861453769098676": {
+      "message": "Terdapat masalah pratonton dokumen ini."
+   },
+   "2628268670001557269": {
+      "message": "Kuota"
+   },
+   "2643241712502664984": {
+      "message": "Video YouTube anda"
+   },
+   "2661850177130037208": {
+      "message": "Buka item"
+   },
+   "2681830832355823748": {
+      "message": "Cari dalam semua pintasan"
+   },
+   "2687303256387847763": {
+      "message": "Kepopularan"
+   },
+   "2702485557996900362": {
+      "message": "Betulkan edit yang bercanggah"
+   },
+   "2705842902318123127": {
+      "message": "Navigasi ke nota/senarai seterusnya/sebelumnya"
+   },
+   "272948685355798518": {
+      "message": "Jenis fail tidak sah dipilih."
+   },
+   "2731144323070245943": {
+      "message": "Tetapan senarai"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2750830436677712001": {
+      "message": "{VIEWER_GENDER,select, female{ gagal mewujudkan {FOLDER_NAME}.}male{ gagal mewujudkan {FOLDER_NAME}.}other{ gagal mewujudkan {FOLDER_NAME}.}}"
+   },
+   "2752123004911547510": {
+      "message": "Arah Aliran"
+   },
+   "2758125083752925237": {
+      "message": "(Pemilik)"
+   },
+   "277430914014962533": {
+      "message": "Op! Terdapat masalah pratonton $1​."
+   },
+   "2774713922589657910": {
+      "message": "Sesiapa sahaja dalam domain"
+   },
+   "2786560864906393383": {
+      "message": "Foto dari telefon"
+   },
+   "2789687492331041935": {
+      "message": "Pilih masa"
+   },
+   "2790446494460492805": {
+      "message": "Tugas mengeluarkan telah bermula. Mesej arkib akan dipaparkan dalam akaun mel anda di bawah label \"Import: $1​\"."
+   },
+   "2793841261389879255": {
+      "message": "Halaman sebelumnya"
+   },
+   "2801153442808430222": {
+      "message": "Drive Saya"
+   },
+   "2817277146396981386": {
+      "message": "p/m"
+   },
+   "2818020101821669029": {
+      "message": "Dibuat"
+   },
+   "2818135503416309545": {
+      "message": "Rakam video"
+   },
+   "2827039933590757722": {
+      "message": "Pintasan Windows"
+   },
+   "2829226075651806940": {
+      "message": "Zum masuk"
+   },
+   "2860188519781080944": {
+      "message": "Oren"
+   },
+   "2861568351294148466": {
+      "message": "Skrip"
+   },
+   "2864281852037732729": {
+      "message": "Kurang"
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Jeda"
+   },
+   "2878874627361086801": {
+      "message": "pratonton"
+   },
+   "2879276552944958066": {
+      "message": "Kembali ke Folder $1​."
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2902747751281161248": {
+      "message": "Gunakan pada senarai baharu"
+   },
+   "2905147317995482841": {
+      "message": "Kami telah mengemas kini pengalaman paparan untuk semua fail dalam Google Drive. Kini lebih cantik dan mudah untuk digunakan! Kami harap anda menyukai rupa baharu ini."
+   },
+   "2917498437550635075": {
+      "message": "Ikon"
+   },
+   "2964778642459027786": {
+      "message": "Tiada nota dalam Sampah"
+   },
+   "2974598228601710262": {
+      "message": "Tambah"
+   },
+   "2979466412944870220": {
+      "message": "Memuatkan pratonton…"
+   },
+   "2982511431742033448": {
+      "message": "Tiada pembentangan."
+   },
+   "298817883481775869": {
+      "message": "Memuatkan..."
+   },
+   "3000689173481666334": {
+      "message": "Edit kalangan anda"
+   },
+   "3029395493413607486": {
+      "message": "Tidak dapat memuatkan pemain video. Cuba muatkan semula halaman.$1​Jika masalah berterusan, $3​rujuk pusat bantuan$2​."
+   },
+   "3043961722025425136": {
+      "message": "Huraian"
+   },
+   "306516303501625305": {
+      "message": "Pengesahan gagal."
+   },
+   "3073005748126521632": {
+      "message": "Diingatkan di $1​"
+   },
+   "3074184819310272351": {
+      "message": "Foto yang dimuat naik"
+   },
+   "3084372889071691504": {
+      "message": "{VIEWER_GENDER,select, female{Tampalkan URL di sini:}male{Tampalkan URL di sini:}other{Tampalkan URL di sini:}}"
+   },
+   "3095645856215493958": {
+      "message": "Cari teks yang dicetak dalam foto"
+   },
+   "31018542656161389": {
+      "message": "Zum hingga muat"
+   },
+   "3109321241584918345": {
+      "message": "Sambungkan apl lagi…"
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "dalam masa $1​ jam"
+   },
+   "3189854932778515441": {
+      "message": "Nota dalam Arkib"
+   },
+   "3207670492626476064": {
+      "message": "Jadual"
+   },
+   "3211163842850942567": {
+      "message": "Zum masuk"
+   },
+   "3222929029344613957": {
+      "message": "Maaf, berlaku ralat semasa membuka fail ini. Sila cuba lagi."
+   },
+   "3233388241926683100": {
+      "message": "Cari nota"
+   },
+   "3243829462528324248": {
+      "message": "Coklat"
+   },
+   "3250489229749307913": {
+      "message": "Penerbitan Elektronik"
+   },
+   "3256928852560591255": {
+      "message": "Tidak dapat mengedit dalam Sampah"
+   },
+   "3261131345401321392": {
+      "message": "Boleh Ulas"
+   },
+   "3265524298292280681": {
+      "message": "esc"
+   },
+   "3267563602179728277": {
+      "message": "delete"
+   },
+   "3272496516667407797": {
+      "message": "Terdapat masalah memuatkan butiran."
+   },
+   "3275029321588462173": {
+      "message": "Tiada"
+   },
+   "3278237562147211998": {
+      "message": "Foto stok"
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3306487262690341751": {
+      "message": "Tarikh & masa"
+   },
+   "3312545971976531405": {
+      "message": "Mesej"
+   },
+   "3319087486907616296": {
+      "message": "Hantar item ini"
+   },
+   "3328129883064940351": {
+      "message": "Fon"
+   },
+   "3335409796971631780": {
+      "message": "Mengeluarkan ke Drive."
+   },
+   "3343451103608774400": {
+      "message": "Memperkenalkan $3​Peta Saya yang baharu.$2​$1​Alat yang lebih cekap untuk pemetaan."
+   },
+   "3354260708176476985": {
+      "message": "Memuatkan&hellip;"
+   },
+   "3357778055650785985": {
+      "message": "Item terlalu besar. Teks yang diserlahkan tidak akan disimpan."
+   },
+   "3364679383274077479": {
+      "message": "Kemas kini apl tersedia"
+   },
+   "3368639944474272225": {
+      "message": "Maaf, kami tidak boleh mengambil dokumen untuk dilihat atau anda tiada kebenaran untuk melihat dokumen tersebut."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Buka"
+   },
+   "3408219901032480508": {
+      "message": "$2​; $1​"
+   },
+   "3409257542937182842": {
+      "message": "Mencuba semula..."
+   },
+   "3409483962000136213": {
+      "message": "Main/Jeda"
+   },
+   "3418767079436101103": {
+      "message": "Terdapat masalah memuatkan halaman ini."
+   },
+   "3421685394169412932": {
+      "message": "Setiap perubahan yang anda buat disimpan secara automatik"
+   },
+   "3422389100099960864": {
+      "message": "Tiada imej."
+   },
+   "3428726060007577698": {
+      "message": "Senarai terlalu besar."
+   },
+   "3430885603500576146": {
+      "message": "Pilih hanya imej yang anda telah sahkan bahawa anda mempunyai lesen untuk menggunakannya."
+   },
+   "3440534675925634227": {
+      "message": "Dalam tetingkap penyemak imbas Chrome, pergi ke chrome://settings dan pastikan anda dilog masuk. Kemudian klik Log Masuk semula."
+   },
+   "3446158485617778228": {
+      "message": "Buat asal"
+   },
+   "3448234415275521882": {
+      "message": "Maklumat Umum"
+   },
+   "3448684788258660606": {
+      "message": "Foto anda"
+   },
+   "3450585781337676327": {
+      "message": "Memuatkan…"
+   },
+   "3457279184692206825": {
+      "message": "Foto akan kelihatan kepada sesiapa sahaja (terbuka di web)."
+   },
+   "3468441711253011521": {
+      "message": "Helaian Google"
+   },
+   "3473620774713000513": {
+      "message": "Selesai"
+   },
+   "3483438888494819423": {
+      "message": "Perkara baharu di Google Keep"
+   },
+   "3511274344439521198": {
+      "message": "Tindakan"
+   },
+   "3518073392823563581": {
+      "message": "Pintasan papan kekunci"
+   },
+   "3531603810713611778": {
+      "message": "Melebihi saiz fail maksimum. Sila nyahpilih satu atau lebih."
+   },
+   "3543475399174940144": {
+      "message": "+$1​"
+   },
+   "3547194749488601916": {
+      "message": "Mengemas kini..."
+   },
+   "354828103903104581": {
+      "message": "Item yang ditandakan"
+   },
+   "3561658662634401836": {
+      "message": "Tajuk"
+   },
+   "357172711168973843": {
+      "message": "Sebarang nota yang ditambahkan atau perubahan baru-baru ini tidak disimpan. Buat salinan kandungan anda sendiri, kemudian muatkan semula."
+   },
+   "3586705906700410505": {
+      "message": "Lukisan garis"
+   },
+   "3587798318180902863": {
+      "message": "{NUM_SELECTED,plural, =1{ dipilih »}other{ dipilih »}}"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3602920441714068008": {
+      "message": "Diingatkan pada $1​ pukul $2​"
+   },
+   "3608606849109645545": {
+      "message": "Masukkan nama dokumen baharu:"
+   },
+   "361202495024972887": {
+      "message": "Muat naik video"
+   },
+   "361630518611593946": {
+      "message": "Sembunyikan kotak pilihan"
+   },
+   "3625886392901506764": {
+      "message": "atau"
+   },
+   "3643146117250542609": {
+      "message": "Tiada PDF."
+   },
+   "3645728163953189422": {
+      "message": "Maaf, kami tidak dapat mengambil dokumen itu untuk dilihat kerana terlalu besar."
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "tanda condong ke belakang"
+   },
+   "3659554681396757189": {
+      "message": "Yang saya buka"
+   },
+   "3663571259791438207": {
+      "message": "Laporkan penyalahgunaan"
+   },
+   "3664842788764635265": {
+      "message": "Tiada"
+   },
+   "3666123569747918021": {
+      "message": "Dokumen ini mempunyai perubahan yang belum disimpan. Adakah anda mahu meninggalkan halaman ini dan membuang perubahan anda?"
+   },
+   "3673346558112798837": {
+      "message": "Tiada latar belakang"
+   },
+   "3674811252904549204": {
+      "message": "Foto muka depan"
+   },
+   "3678477908297567934": {
+      "message": "garis bawah"
+   },
+   "3681747688524363195": {
+      "message": "Atas"
+   },
+   "3690515530505404607": {
+      "message": "Terdapat masalah memainkan video ini."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Tiada item}=1{1 item}other{# item}}"
+   },
+   "3712215972250917265": {
+      "message": "Ulasan"
+   },
+   "3717138719704492547": {
+      "message": "Sila semak alamat untuk mengesan kesilapan menaip."
+   },
+   "374088101949877889": {
+      "message": "Tutup"
+   },
+   "3745308627628779133": {
+      "message": "Folder Baharu"
+   },
+   "3748461364828242354": {
+      "message": "Pilih warna"
+   },
+   "3770795578481676514": {
+      "message": "Kuning"
+   },
+   "3771958676925493302": {
+      "message": "Alih keluar penapis: $1​"
+   },
+   "3779945546806941187": {
+      "message": "Monokrom"
+   },
+   "3793086499925031123": {
+      "message": "Buka bar carian / cari yang sebelumnya"
+   },
+   "37992665410817181": {
+      "message": "Dibuka semula"
+   },
+   "3801617971018550169": {
+      "message": "Semalam"
+   },
+   "3808213429720572062": {
+      "message": "Pulihkan"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3842411126100113634": {
+      "message": "pg-up"
+   },
+   "3844047145949375230": {
+      "message": "Dokumen"
+   },
+   "3858324058837632381": {
+      "message": "Terdapat masalah memainkan fail audio ini."
+   },
+   "3864575916269080329": {
+      "message": "Imej yang boleh dicari"
+   },
+   "3866373087987934712": {
+      "message": "Muat naik gagal: $1​"
+   },
+   "3869166581651870488": {
+      "message": "Selesai mengedit"
+   },
+   "3873215756962047275": {
+      "message": "ARKIB"
+   },
+   "3873467440437675460": {
+      "message": "Harap maaf! Kami tidak menemui fon yang telah anda pilih sebelum ini."
+   },
+   "3897281533382850749": {
+      "message": "Nyahredam"
+   },
+   "3936153839186254186": {
+      "message": "Tunjukkan: $1​"
+   },
+   "3955760658925284765": {
+      "message": "Cuba semula"
+   },
+   "3974064131130689245": {
+      "message": "Paparan grid"
+   },
+   "3977699855735576796": {
+      "message": "Terdapat masalah memuatkan lagi halaman."
+   },
+   "3988418762222300024": {
+      "message": "noktah"
+   },
+   "3989552504822984034": {
+      "message": "Lukisan Google"
+   },
+   "4005725939358875643": {
+      "message": "Tindakan dibuat asal."
+   },
+   "4014287326684608407": {
+      "message": "Hijau kebiruan"
+   },
+   "4048275292053012394": {
+      "message": "Kenalan"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4067915791853673774": {
+      "message": "{VIEWER_GENDER,select, female{Tutup}male{Tutup}other{Tutup}}"
+   },
+   "4078179869358383373": {
+      "message": "Tiada hasil ditemui."
+   },
+   "4087667435414545203": {
+      "message": "Tidak dilog masuk lagi. Untuk membuat perubahan, muat semula."
+   },
+   "4093134637041332383": {
+      "message": "KETAHUI LEBIH LANJUT"
+   },
+   "4097007735221462946": {
+      "message": "Lukisan"
+   },
+   "4097921967754832323": {
+      "message": "tanda sempang"
+   },
+   "4100504115801514799": {
+      "message": "Nota dipulihkan"
+   },
+   "4119294114251628099": {
+      "message": "URL imej yang anda nyatakan gagal didapatkan semula. URL ini mungkin URL tertutup yang tidak dapat diakses oleh pelayan kami. Sila cuba URL lain."
+   },
+   "4134385041569168669": {
+      "message": "Memuatkan..."
+   },
+   "4148564423510181521": {
+      "message": "Kosongkan carian"
+   },
+   "4152315289461886": {
+      "message": "Kawalan dokumen"
+   },
+   "4168280976997555951": {
+      "message": "Tiada dokumen."
+   },
+   "4174786386751618325": {
+      "message": "Nota foto"
+   },
+   "4182427157920112948": {
+      "message": "tilde"
+   },
+   "4200426647595470259": {
+      "message": "Mula mainkan fail audio"
+   },
+   "4200911267543705377": {
+      "message": "Taip carian anda dalam kotak di atas untuk mencari hasil blog menggunakan Carian Blog Google."
+   },
+   "4205329094859140439": {
+      "message": "pg"
+   },
+   "4211182812451835307": {
+      "message": "Boleh Edit"
+   },
+   "4211806608204126222": {
+      "message": "$2​Syarat Perkhidmatan$1​"
+   },
+   "4214190403999219403": {
+      "message": "Zum"
+   },
+   "4230101516585408149": {
+      "message": "Karang nota baharu"
+   },
+   "4253741616909644861": {
+      "message": "Istilah carian"
+   },
+   "4280747719095153198": {
+      "message": "Ulasan Yang Sudah Selesai"
+   },
+   "4286663890332754386": {
+      "message": "Gagal memuat naik."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4314643310615423802": {
+      "message": "Anda telah dilog keluar."
+   },
+   "4318861667254318892": {
+      "message": "Video Google"
+   },
+   "4319229296464464147": {
+      "message": "Tarikh ditambahkan"
+   },
+   "4320831042030778": {
+      "message": "Batal"
+   },
+   "4332252081504252077": {
+      "message": "Op!"
+   },
+   "4338991104991831337": {
+      "message": "Imej"
+   },
+   "4339705658383891586": {
+      "message": "Warna penuh"
+   },
+   "4343825450663233452": {
+      "message": "Boleh Lihat"
+   },
+   "4343836986248234462": {
+      "message": "Item senarai"
+   },
+   "435214284915110062": {
+      "message": "Buka bar carian"
+   },
+   "4372755508519489521": {
+      "message": "Paparan Grid"
+   },
+   "4391715930031906467": {
+      "message": "Cari seterusnya"
+   },
+   "4395845663892873002": {
+      "message": "home"
+   },
+   "4422985761498356257": {
+      "message": "Buka dengan"
+   },
+   "4430062722430863019": {
+      "message": "Padam nota secara kekal?"
+   },
+   "4439812492856303238": {
+      "message": "Maaf! Berlaku ralat tidak dijangka semasa memproses pilihan anda. Sila cuba sebentar lagi."
+   },
+   "4444571967705751871": {
+      "message": "Sampah"
+   },
+   "4466605492523079635": {
+      "message": "Simpan"
+   },
+   "4468872996560163913": {
+      "message": "Kosongkan Sampah sekarang"
+   },
+   "4473912481270012588": {
+      "message": "Disimpan ke Drive - Alihkan ke:"
+   },
+   "45228242181482134": {
+      "message": "Main"
+   },
+   "4536519876526589338": {
+      "message": "Avatar $1​."
+   },
+   "4552045407215325033": {
+      "message": "URL video yang anda masukkan di atas tidak dapat dimuatkan. Sila pastikan URL betul dan berasal dari tapak yang disokong."
+   },
+   "4564682305303579317": {
+      "message": "Teruskan"
+   },
+   "456498742882714639": {
+      "message": "Alihkan ke:"
+   },
+   "4588500131398315347": {
+      "message": "Buat kalangan"
+   },
+   "4604402426271704651": {
+      "message": "Tiada foto"
+   },
+   "4620034373159179678": {
+      "message": "Halaman $1​ daripada $2​"
+   },
+   "4630690108252818511": {
+      "message": "Tiada imej ditemui."
+   },
+   "468283184702431827": {
+      "message": "Kemajuan Bermula"
+   },
+   "4695897771458936174": {
+      "message": "Kongsi foto dari Google Drive di Google+"
+   },
+   "4740100782728373253": {
+      "message": "Simpan ke Drive"
+   },
+   "4748046231232264180": {
+      "message": "Borang Google"
+   },
+   "4767722428137216885": {
+      "message": "Batal"
+   },
+   "477328789314249432": {
+      "message": "Cari nota"
+   },
+   "4775368111547931093": {
+      "message": "Tiada huraian"
+   },
+   "4781742940361705258": {
+      "message": "Ketepikan"
+   },
+   "4783695823456312682": {
+      "message": "Beralih ke paling bawah"
+   },
+   "47844150329705564": {
+      "message": "Hasil carian untuk \"$1​\""
+   },
+   "4798897505978458661": {
+      "message": "Tiada video ditemui."
+   },
+   "4805047680716507619": {
+      "message": " - Alihkan ke:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7 Signature"
+   },
+   "4833214200453019325": {
+      "message": "$1​ daripada $2​"
+   },
+   "4846720038197420778": {
+      "message": "Sambungkan apl lagi"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Nota dalam Sampah"
+   },
+   "4888104357342241891": {
+      "message": "Peringatan"
+   },
+   "4889853674709731963": {
+      "message": "Semua nota disimpan di luar talian"
+   },
+   "4901386320110714275": {
+      "message": "Kata laluan salah. Sila cuba lagi."
+   },
+   "490372259452655427": {
+      "message": "Maaf, dokumen belum lagi tersedia untuk dilihat."
+   },
+   "4906669330059413958": {
+      "message": "Serah kata laluan"
+   },
+   "4908614808966678155": {
+      "message": "Tiada hasil carian untuk \"$1​\""
+   },
+   "4926020998477695737": {
+      "message": "Beralih ke folder $1​"
+   },
+   "4943176738805484221": {
+      "message": "edit"
+   },
+   "4956678140555659175": {
+      "message": "backspace"
+   },
+   "4957674814179289955": {
+      "message": "Navigasi ke item senarai yang seterusnya/sebelumnya"
+   },
+   "4963784280521435720": {
+      "message": "Menyimpan..."
+   },
+   "4969219890884320840": {
+      "message": "Kemas kini"
+   },
+   "4983125135476400111": {
+      "message": "Buang nota/senarai"
+   },
+   "4988132901627446385": {
+      "message": "Panel butiran dikembangkan."
+   },
+   "4998757387516632837": {
+      "message": "Hasil yang ditunjukkan dilabelkan untuk kegunaan semula dengan pengubahsuaian."
+   },
+   "5006225450559627366": {
+      "message": "+$1​ lagi"
+   },
+   "501475221876543407": {
+      "message": "Nota yang anda tambahkan dipaparkan di sini"
+   },
+   "5023525794410110078": {
+      "message": "Tambahkan teks pada foto"
+   },
+   "5026241297254150381": {
+      "message": "Tambahkan nota"
+   },
+   "5046371569383796818": {
+      "message": "Simpan"
+   },
+   "5055418092354683641": {
+      "message": "Serif"
+   },
+   "5095987896933771566": {
+      "message": "Cetak dokumen"
+   },
+   "5096751700090310607": {
+      "message": "Tiada foto."
+   },
+   "509815948423424872": {
+      "message": "Navigasi"
+   },
+   "5099245668405591445": {
+      "message": "Cari"
+   },
+   "512429649443191386": {
+      "message": "$2​Bantuan$1​"
+   },
+   "5124522868502261563": {
+      "message": "Hamparan"
+   },
+   "5130903421326358933": {
+      "message": "Berlaku masalah semasa menyimpan lampiran pada Google Drive."
+   },
+   "5149937870346466591": {
+      "message": "Paparan senarai"
+   },
+   "5169187962228219813": {
+      "message": "Imej kehidupan"
+   },
+   "5180454621500142444": {
+      "message": "Pulihkan"
+   },
+   "5180989337128758117": {
+      "message": "tanda kurung kiri"
+   },
+   "5184692850089055965": {
+      "message": "Ambil teks imej"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Bar tab panel butiran. Tekan kekunci anak panah kiri dan kanan untuk beralih antara tab."
+   },
+   "5204391636475413312": {
+      "message": "Simpan"
+   },
+   "5213411023807957844": {
+      "message": "Cari dalam Google Keep"
+   },
+   "5213974294317036409": {
+      "message": "{numPages,plural, =0{}=1{1 halaman}other{# halaman}}"
+   },
+   "5226470917948786938": {
+      "message": "Mengikut abjad"
+   },
+   "5238003680997310998": {
+      "message": "Lagi"
+   },
+   "5238371081785912565": {
+      "message": "Buka dengan $1​"
+   },
+   "5275493935807628890": {
+      "message": "Kami tidak menemui imej tersebut di URL itu."
+   },
+   "5281121179861637423": {
+      "message": "Kata laluan diperlukan untuk mengakses $1​. Sila masukkan kata laluan"
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5291153964865714504": {
+      "message": "Tiada nota yang sepadan"
+   },
+   "5299648222246616124": {
+      "message": "koma atas terbalik"
+   },
+   "5304869088141363028": {
+      "message": "Tampilan foto"
+   },
+   "5316658541831864803": {
+      "message": "Maaf, jenis dokumen ini tidak disokong untuk dilihat."
+   },
+   "5319313176242717957": {
+      "message": "Memproses imej..."
+   },
+   "5336801339221383042": {
+      "message": "Javascript"
+   },
+   "534228323125524312": {
+      "message": "Zum keluar"
+   },
+   "5353129315502554762": {
+      "message": "Helaian Gaya"
+   },
+   "5372143986724491245": {
+      "message": "$1​ hari yang lalu"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5399553230649155346": {
+      "message": "dalam masa $1​ jam"
+   },
+   "5403830377590414208": {
+      "message": "Putih"
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5438481737351808090": {
+      "message": "Tengah hari ($1​)"
+   },
+   "544377415081282702": {
+      "message": "Harap maaf."
+   },
+   "5447119197363232006": {
+      "message": "Tunjukkan dalam Drive"
+   },
+   "5465323999933375616": {
+      "message": "Anda telah mencapai had lebar jalur untuk melihat atau memuat turun fail yang bukan dalam format Dokumen Google."
+   },
+   "5472312735475866917": {
+      "message": "Ulasan oleh $1​."
+   },
+   "547865385964196102": {
+      "message": "$1​ minit yang lalu"
+   },
+   "5482872484546230111": {
+      "message": "Cari buku"
+   },
+   "5494181290179470995": {
+      "message": "Padamkan"
+   },
+   "5500117709595533163": {
+      "message": "Taip carian anda dalam kotak di atas untuk mendapatkan hasil eBuku menggunakan Google Books."
+   },
+   "5514516347328112388": {
+      "message": "Anda boleh cuba memuat turun dokumen asal dengan mengklik $2​di sini$1​ juga."
+   },
+   "5529532831767466284": {
+      "message": "{VIEWER_GENDER,select, female{{DEGREES}° {MINUTES}' {SECONDS}\"}male{{DEGREES}° {MINUTES}' {SECONDS}\"}other{{DEGREES}° {MINUTES}' {SECONDS}\"}}"
+   },
+   "5555182241047709329": {
+      "message": "Pilih lokasi"
+   },
+   "5555599189512365009": {
+      "message": "FAHAM"
+   },
+   "5571842632470308750": {
+      "message": "Sebarang jenis"
+   },
+   "5588597116382648727": {
+      "message": "Memulakan tugas mengeluarkan."
+   },
+   "5598649706113950710": {
+      "message": "Editor"
+   },
+   "5609727719971819773": {
+      "message": "{VIEWER_GENDER,select, female{Kembali}male{Kembali}other{Kembali}}"
+   },
+   "5627470193961862490": {
+      "message": "Nota dengan peringatan akan datang dipaparkan di sini"
+   },
+   "5631086126416409232": {
+      "message": "Biru"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5660422479531064559": {
+      "message": "Tiada borang."
+   },
+   "5675154446465700699": {
+      "message": "PDF"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Padamkan item yang ditandai?"
+   },
+   "5714240424645614611": {
+      "message": "Pakej Android"
+   },
+   "5728640851616538925": {
+      "message": "Hijau"
+   },
+   "5744491383087191878": {
+      "message": "URL imej yang telah anda masukkan di atas adalah salah atau tidak dapat dimuatkan."
+   },
+   "5747728324987383020": {
+      "message": "Muka"
+   },
+   "5783875011049188612": {
+      "message": "Teks imej diambil"
+   },
+   "5785010887521443923": {
+      "message": "Alih keluar"
+   },
+   "5834678297024555032": {
+      "message": "Benarkan"
+   },
+   "5840330517914556080": {
+      "message": "Zum keluar"
+   },
+   "5842536098490298653": {
+      "message": "Tiada fon ditemui."
+   },
+   "5865680764501413616": {
+      "message": "Tidak dapat mengecam teks."
+   },
+   "5871966496153339793": {
+      "message": "Memaparkan lakaran kecil video $1​"
+   },
+   "5875004331736681428": {
+      "message": "Mengeluarkan ke akaun mel anda."
+   },
+   "587666071025645113": {
+      "message": "Cari"
+   },
+   "5877526626743756786": {
+      "message": "Maklum balas"
+   },
+   "5889725440363483648": {
+      "message": "Sesiapa sahaja dalam kumpulan"
+   },
+   "5911012384539794869": {
+      "message": "Gagal memulakan tugas mengeluarkan."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5949528478488617689": {
+      "message": "Keizinan Muat Turun"
+   },
+   "5950887255133612666": {
+      "message": "Belum bermula."
+   },
+   "5969696744752069015": {
+      "message": "Pratonton tidak tersedia."
+   },
+   "5971400924847413790": {
+      "message": "Atau, anda boleh melihat $2​HTML biasa$1​ (mengubah hala secara automatik)."
+   },
+   "5972111804366033138": {
+      "message": "Muat turun"
+   },
+   "5975031149676029214": {
+      "message": "Semua orang"
+   },
+   "5976369213680241300": {
+      "message": "Cari imej"
+   },
+   "5980081664136280513": {
+      "message": "Hijau"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "6009962986062136164": {
+      "message": "Memuatkan $1​."
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6043068172993241858": {
+      "message": "Tiada sesiapa dalam kalangan ini."
+   },
+   "604883455412617728": {
+      "message": "Tiada kenalan yang sepadan dengan carian anda."
+   },
+   "6051386830221821025": {
+      "message": "Melog masuk ..."
+   },
+   "6064654062949366878": {
+      "message": "Play"
+   },
+   "6070475007374165567": {
+      "message": "Menyimpan..."
+   },
+   "6083586461434260179": {
+      "message": "Pengalaman paparan baharu"
+   },
+   "6087078248621415351": {
+      "message": "Diubah suai $1​"
+   },
+   "6091926883608250483": {
+      "message": "Lagi"
+   },
+   "6105571474005679446": {
+      "message": "Terdapat masalah dengan pratonton."
+   },
+   "6113237889871930608": {
+      "message": "Nota kosong"
+   },
+   "6118623991445349480": {
+      "message": "Halaman $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Senarai apl"
+   },
+   "6149175749937815029": {
+      "message": "Lihat semua item"
+   },
+   "6160805346274626656": {
+      "message": "Padam secara kekal"
+   },
+   "616807262818311711": {
+      "message": "Jenis"
+   },
+   "6175043905327075444": {
+      "message": "Dipilih sebelum ini"
+   },
+   "6177107655089301674": {
+      "message": "Muat turun apl Google Keep untuk Android"
+   },
+   "6185886893933834031": {
+      "message": "Simpan yang dipilih"
+   },
+   "6186290899408627510": {
+      "message": "enter"
+   },
+   "6189891414154673003": {
+      "message": "Peta Saya"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Sesiapa sahaja"
+   },
+   "623118860067088424": {
+      "message": "Video"
+   },
+   "6231401379881217113": {
+      "message": "insert"
+   },
+   "6252259197986158120": {
+      "message": "Semalam"
+   },
+   "6253076263700695984": {
+      "message": "Ralat pengesahan. Sila muatkan semula."
+   },
+   "6255475144867830247": {
+      "message": "Pilih daripada tab navigasi yang lain."
+   },
+   "6267063643272327592": {
+      "message": "Sila cuba sebentar lagi."
+   },
+   "6290270819062517523": {
+      "message": "Terlalu banyak item dipilih. Sila nyahpilih satu atau lebih."
+   },
+   "6305748545202493254": {
+      "message": "Tunjukkan/Sembunyikan anak tetingkap butiran"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6331677437567501421": {
+      "message": "Berlaku masalah semasa mengemas kini keizinan muat turun."
+   },
+   "6333496730738019575": {
+      "message": "Memuatkan..."
+   },
+   "634900089121611600": {
+      "message": "Tiada video."
+   },
+   "6362170008350775214": {
+      "message": "Peringatan di $1​"
+   },
+   "6375395544374251820": {
+      "message": "Terdapat masalah memuatkan lagi halaman. Mencuba semula…"
+   },
+   "6376739025584042564": {
+      "message": "Pangkasan foto"
+   },
+   "6386587519843563719": {
+      "message": "Fail Perduaan"
+   },
+   "6416495701611778255": {
+      "message": "Apl pihak ketiga yang dicadangkan"
+   },
+   "6419411265907669340": {
+      "message": "Hari ini"
+   },
+   "6436479735235889890": {
+      "message": "Peringatan pada $2​, $1​"
+   },
+   "6450508807204492448": {
+      "message": "Ikon $1​"
+   },
+   "6457802200418354862": {
+      "message": "Penonton boleh memuat turun"
+   },
+   "6459405233858728718": {
+      "message": "Slaid Google"
+   },
+   "6464761738227651511": {
+      "message": "$1​ minit yang lalu"
+   },
+   "6466736813846482957": {
+      "message": "Sebelumnya"
+   },
+   "6479216014938929613": {
+      "message": "Malam ($1​)"
+   },
+   "6482358947077977110": {
+      "message": "Imej carian Google"
+   },
+   "6487403767449360463": {
+      "message": "Muat semula Keep?"
+   },
+   "6488225756782357866": {
+      "message": "Imej yang anda serlahkan ditemui oleh Carian Imej Google pada halaman ini:"
+   },
+   "6510131849363684615": {
+      "message": "Esok"
+   },
+   "6516256764288947999": {
+      "message": "Tandakan nama orang"
+   },
+   "6522917155620379865": {
+      "message": "Muat Turun"
+   },
+   "6524849072392100692": {
+      "message": "Folder Google Drive"
+   },
+   "6551588617715293696": {
+      "message": "Pilihan isihan"
+   },
+   "6570921376519753466": {
+      "message": "Paparan"
+   },
+   "6571686604846453345": {
+      "message": "Berlaku masalah semasa menambahkan item ini pada Drive."
+   },
+   "6582286158693833652": {
+      "message": "Ketahui lebih lanjut"
+   },
+   "6588176324871799870": {
+      "message": "Skrip Google Apps"
+   },
+   "6602430002978098812": {
+      "message": "Tulisan tangan"
+   },
+   "6614046405230762587": {
+      "message": "Tiada kenalan ditemui."
+   },
+   "6622304228074863427": {
+      "message": "Aplikasi"
+   },
+   "6624754161346656119": {
+      "message": "Avatar $1​."
+   },
+   "6644861766016503644": {
+      "message": "Kata Laluan Diperlukan"
+   },
+   "6650600936729710500": {
+      "message": "Balasan."
+   },
+   "666311703374681171": {
+      "message": "Imej dan video"
+   },
+   "6666820082708870349": {
+      "message": "Alih keluar"
+   },
+   "6707173584987026005": {
+      "message": "Hari ini"
+   },
+   "6709984792949009238": {
+      "message": "Yang terakhir saya buka"
+   },
+   "6726462693927865256": {
+      "message": "Butiran"
+   },
+   "6726879257388338969": {
+      "message": "Cetak"
+   },
+   "6726925393892510846": {
+      "message": "Berlaku ralat. Sila cuba lagi."
+   },
+   "6741759391888465238": {
+      "message": "Menyimpan ke Drive - Alihkan ke:"
+   },
+   "6744457949320515234": {
+      "message": "Nota kosong dibuang"
+   },
+   "6757218172402086688": {
+      "message": "Cari Nota..."
+   },
+   "6780628488957834429": {
+      "message": "Oren"
+   },
+   "6784073265197389491": {
+      "message": "Ketahui lebih lanjut"
+   },
+   "681598652078493281": {
+      "message": "Ketahui lanjut"
+   },
+   "6818286476757207074": {
+      "message": "Pilih hanya imej yang anda telah sahkan bahawa anda mempunyai lesen untuk menggunakannya."
+   },
+   "682070933835616121": {
+      "message": "Tiada jadual."
+   },
+   "6822338149422461362": {
+      "message": "Google Drive"
+   },
+   "6827821461670731013": {
+      "message": "Tunjukkan kotak pilihan"
+   },
+   "6828581947433060251": {
+      "message": "Berlaku masalah semasa menamai semula item."
+   },
+   "6833760103261954639": {
+      "message": "Terdapat masalah memuatkan halaman ini. Mencuba semula…"
+   },
+   "6841020391100928352": {
+      "message": "Melebihi saiz fail maksimum."
+   },
+   "6851307437837490686": {
+      "message": "Halang penonton daripada memuat turun"
+   },
+   "6856672816797218730": {
+      "message": "Lampir"
+   },
+   "6891563484025164308": {
+      "message": "Sebelumnya"
+   },
+   "6893687445500687349": {
+      "message": "Tapak"
+   },
+   "6898823203505321799": {
+      "message": "Butiran"
+   },
+   "6904351530369058983": {
+      "message": "Pemilik"
+   },
+   "6905021988981026920": {
+      "message": "Carian video"
+   },
+   "6922953828399110511": {
+      "message": "Tutup pemapar"
+   },
+   "6929958461954697067": {
+      "message": "Foto anda"
+   },
+   "6939782595426687411": {
+      "message": "Menambah..."
+   },
+   "6940998537415516791": {
+      "message": "pada"
+   },
+   "695253297035211081": {
+      "message": "Kosongkan Sampah"
+   },
+   "6967244066810487978": {
+      "message": "SAMPAH"
+   },
+   "6970167488058122005": {
+      "message": "pengarang tidak diketahui"
+   },
+   "6976414863987386971": {
+      "message": "Borang"
+   },
+   "7001938470263404128": {
+      "message": "Muat naik"
+   },
+   "7002768663714031226": {
+      "message": "Kemas kini"
+   },
+   "7004919150329996187": {
+      "message": "Tiada orang yang sepadan ditemui dalam kalangan ini."
+   },
+   "7054631817922169541": {
+      "message": "Google Keep mempunyai perubahan yang belum disimpan. Adakah anda mahu meninggalkan halaman ini dan membuang perubahan anda?"
+   },
+   "7059437903473652416": {
+      "message": "Mainkan video YouTube $1​"
+   },
+   "7080196430479494775": {
+      "message": "Cuba semula"
+   },
+   "7084324152376766809": {
+      "message": "$1​ hari yang lalu"
+   },
+   "7084991134824194740": {
+      "message": "Ingatkan saya"
+   },
+   "7092062731478679314": {
+      "message": "Tiada kalangan ditemui."
+   },
+   "7117183622067702162": {
+      "message": "Dengan Google Drive, anda tidak perlu menghantar lampiran e-mel lagi. Kongsi sahaja pautan ke sebarang fail yang anda simpan di Google Drive. Melalui cara itu, setiap orang mendapat akses kepada fail yang sama, versi yang sama - secara automatik."
+   },
+   "713754035716193665": {
+      "message": "Senarai baharu"
+   },
+   "7146242673022399081": {
+      "message": "Teks"
+   },
+   "7148992630785407972": {
+      "message": "Fail ini dilindungi kata laluan dan tidak boleh dipratonton."
+   },
+   "7151987668860086450": {
+      "message": "Carian Web"
+   },
+   "7153847618034547771": {
+      "message": "Dayakan"
+   },
+   "7161134329606048317": {
+      "message": "Tutup"
+   },
+   "7164532930742017984": {
+      "message": "Sesiapa sahaja dengan pautan"
+   },
+   "7174189954350964804": {
+      "message": "Cuba semula"
+   },
+   "7177591028189992523": {
+      "message": "Alih"
+   },
+   "7188754206068648188": {
+      "message": "Data Dipisahkan Koma"
+   },
+   "7225837680381806920": {
+      "message": "Petang ($1​)"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7236199858216720905": {
+      "message": "Peta"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7259352906118493156": {
+      "message": "Tiada tapak."
+   },
+   "7282548567245878869": {
+      "message": "Item dipadamkan"
+   },
+   "7295712436136900176": {
+      "message": "Muatkan semula"
+   },
+   "7310311230493556740": {
+      "message": "URL"
+   },
+   "7339696241980105410": {
+      "message": "Video yang anda pilih tidak wujud lagi. Pemiliknya mungkin telah mengalih keluar video itu."
+   },
+   "7342923890755029722": {
+      "message": "Tutup"
+   },
+   "734478884582426793": {
+      "message": "Arkib Termampat"
+   },
+   "7357017164339332230": {
+      "message": "Imej ini turut tersedia untuk dilihat dan dikongsi dalam $2​Album Web Picasa$1​, sebuah perkhidmatan pengehosan foto percuma daripada Google."
+   },
+   "736105042796745909": {
+      "message": "{VIEWER_GENDER,select, female{Buat folder}male{Buat folder}other{Buat folder}}"
+   },
+   "7362061801920948830": {
+      "message": "Muat Naik Lagi"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7377239345926788722": {
+      "message": "Tindakan"
+   },
+   "7380785991026002613": {
+      "message": "Hasil yang ditunjukkan dilabelkan untuk kegunaan semula."
+   },
+   "7382688299146249119": {
+      "message": "Muat turun item"
+   },
+   "7383706174467122149": {
+      "message": "Nota dipadamkan"
+   },
+   "7388342865555961406": {
+      "message": "dalam masa $1​ hari"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "740507516967994591": {
+      "message": "Buka"
+   },
+   "7422452809590461532": {
+      "message": "Merah"
+   },
+   "7426603384368095928": {
+      "message": "Sila muatkan semula halaman untuk melog masuk sekali lagi dan meneruskan kerja."
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (diedit $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Menyimpan ke Drive"
+   },
+   "7451573821837395189": {
+      "message": "Item telah ditambahkan pada $2​Drive anda$1​."
+   },
+   "7468322419516352788": {
+      "message": "Berlaku masalah semasa mengemas kini keterangan."
+   },
+   "7488945223835574498": {
+      "message": "Postscript"
+   },
+   "7492710087472140422": {
+      "message": "Ketahui lagi"
+   },
+   "7493919863870655172": {
+      "message": "Kamera web"
+   },
+   "7500786109708143683": {
+      "message": "Audio dipadamkan"
+   },
+   "7501027876827009022": {
+      "message": "Hasil yang ditunjukkan dilabelkan komersial untuk kegunaan semula."
+   },
+   "7521272923988336579": {
+      "message": "Kekal menerima maklumat terkini dengan memuat semula Keep sekarang."
+   },
+   "7532552995569296274": {
+      "message": "Kosongkan Carian"
+   },
+   "7546994163355383999": {
+      "message": "Semua nota disimpan"
+   },
+   "7559208209275370228": {
+      "message": "Yang terakhir saya edit"
+   },
+   "7565383798249439151": {
+      "message": "dalam masa $1​ hari"
+   },
+   "7565870443143407759": {
+      "message": "Cari dalam dokumen"
+   },
+   "7586291841734385643": {
+      "message": "Pop keluar"
+   },
+   "7598582624136632660": {
+      "message": "Buka bar carian / cari yang seterusnya"
+   },
+   "7602870977118971161": {
+      "message": "Muatkan semula"
+   },
+   "7610654194202731772": {
+      "message": "Padam"
+   },
+   "761925792744044896": {
+      "message": "Jadikan foto profil"
+   },
+   "7630723924002267143": {
+      "message": "Pintasan papan kekunci didayakan."
+   },
+   "7640546114686970497": {
+      "message": "Tidak boleh menambah lagi item"
+   },
+   "7669846901402551021": {
+      "message": "Hari Ini"
+   },
+   "7691521283331762131": {
+      "message": "Nota diarkibkan anda dipaparkan di sini"
+   },
+   "772000107335590599": {
+      "message": "dalam masa $1​ minit"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7745005220197261896": {
+      "message": "Carian buku"
+   },
+   "7759846028901235026": {
+      "message": "Nota tidak diarkibkan"
+   },
+   "776065748745885880": {
+      "message": "ruang"
+   },
+   "7770982082843341533": {
+      "message": "Tiada item dalam folder ini."
+   },
+   "779472474101127362": {
+      "message": "Ambil gambar"
+   },
+   "7800318069267901681": {
+      "message": "Diubah suai"
+   },
+   "7805487598105530487": {
+      "message": "Sebaris"
+   },
+   "7814778057875152792": {
+      "message": "Berlaku masalah semasa mengalihkan lampiran ke folder pilihan di Google Drive."
+   },
+   "7820417126206702946": {
+      "message": "Hasil yang ditunjukkan tersedia untuk kegunaan peribadi atau komersial dalam Google Drive sahaja dan tidak boleh diedarkan semula atau dijual secara bebas."
+   },
+   "7822364282298323175": {
+      "message": "Senarai dipadamkan"
+   },
+   "7830513726270865588": {
+      "message": "Kalendar"
+   },
+   "7845751753397906805": {
+      "message": "Edit bercanggah ditemui"
+   },
+   "7852396628465259068": {
+      "message": "Foto profil"
+   },
+   "7859526172011446452": {
+      "message": "Berhenti menghantar"
+   },
+   "78870906674150830": {
+      "message": "$3​$1​$2​"
+   },
+   "7895643887742936844": {
+      "message": "koma bertitik"
+   },
+   "7899833760457194273": {
+      "message": "Carian imej"
+   },
+   "7899913952063063825": {
+      "message": "Imej dipadamkan"
+   },
+   "7906726367011430855": {
+      "message": "Sambungka"
+   },
+   "7910518224461588465": {
+      "message": "Kuning"
+   },
+   "7953603850004320936": {
+      "message": "Pratonton tidak tersedia."
+   },
+   "7957306528733096600": {
+      "message": "Kemajuan Selesai"
+   },
+   "7960528690514646841": {
+      "message": "{moreCount,plural, =0{unused plural form}=1{+ 1 lagi}other{+ {moreCount} lagi}}"
+   },
+   "7973635145070803181": {
+      "message": "Muat naik foto"
+   },
+   "7987180255015869513": {
+      "message": "Atau tampalkan alamat web di sini:"
+   },
+   "8011497727123874703": {
+      "message": "Butang Folder $1​"
+   },
+   "8016231262233952856": {
+      "message": "Hijau kebiruan"
+   },
+   "8019402848412685977": {
+      "message": "\"$2​\" dinamakan semula kepada \"$1​\"."
+   },
+   "8023466614826324314": {
+      "message": "Foto akan dikongsi dengan khalayak ramai."
+   },
+   "8043514121228710092": {
+      "message": "Tambahkan imej"
+   },
+   "8044700199531805239": {
+      "message": "$3​$1​$2​ sudah disambungkan."
+   },
+   "8069384932934428393": {
+      "message": "dalam masa $1​ minit"
+   },
+   "8081927474846706026": {
+      "message": "Tiada lukisan."
+   },
+   "8090743714060857028": {
+      "message": "Penonton tidak boleh memuat turun"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 bait}=1{1 bait}other{# bait}}"
+   },
+   "8099047958506869131": {
+      "message": "{VIEWER_GENDER,select, female{Folder Baharu}male{Folder Baharu}other{Folder Baharu}}"
+   },
+   "8100558294600077150": {
+      "message": "Carian blog"
+   },
+   "8105635255693472607": {
+      "message": "Tambahkan item senarai baharu"
+   },
+   "8106780183458743723": {
+      "message": "Album foto"
+   },
+   "8112699352770418817": {
+      "message": "Tiada buku ditemui."
+   },
+   "8132410616064087953": {
+      "message": "Video terlalu panjang (tempoh maksimum ialah $1​ saat)."
+   },
+   "8135145577663029437": {
+      "message": "Simpan kedua-duanya"
+   },
+   "8146560259680897627": {
+      "message": "Batal"
+   },
+   "8158191101452862916": {
+      "message": "Masukkan imej"
+   },
+   "8159493406018222636": {
+      "message": "Hantar maklum balas"
+   },
+   "8172945196588870035": {
+      "message": "Acara"
+   },
+   "8174654098152723289": {
+      "message": "Edit Keterangan"
+   },
+   "8178754379486173416": {
+      "message": "{VIEWER_GENDER,select, female{Item yang dipilih sangat sedikit. Sila pilih lagi.}male{Item yang dipilih sangat sedikit. Sila pilih lagi.}other{Item yang dipilih sangat sedikit. Sila pilih lagi.}}"
+   },
+   "8192378456655629049": {
+      "message": "Memproses video…"
+   },
+   "8193991135666622583": {
+      "message": "keep"
+   },
+   "821942580510564685": {
+      "message": "Sila masukkan kata laluan untuk melihat dokumen ini"
+   },
+   "8239237134193392595": {
+      "message": "Pemberitahuan peringatan lokasi hanya terpapar pada peranti mudah alih."
+   },
+   "8267458240960831780": {
+      "message": "Mengesahkan..."
+   },
+   "8281141013543828574": {
+      "message": "Imej Kasar"
+   },
+   "8281678863271800533": {
+      "message": "Penapis imej"
+   },
+   "8283103456188558313": {
+      "message": "Pembentangan"
+   },
+   "8290434443655418968": {
+      "message": "{filesCount,plural, =0{unused plural form}=1{Fail [{file}] yang dipilih tidak disokong untuk dimuat naik.}other{Fail [{files}] yang dipilih tidak disokong untuk dimuat naik.}}"
+   },
+   "8304474373444239435": {
+      "message": "Balasan oleh $1​."
+   },
+   "8322416564157128458": {
+      "message": "Perkongsian"
+   },
+   "8324195080917648153": {
+      "message": "Video tidak muat di sini. Sila besarkan sedikit tetingkap penyemak imbas anda."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342684858400436871": {
+      "message": "tab"
+   },
+   "8379952094517631162": {
+      "message": "Tidak"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412684147928483084": {
+      "message": "Hitam"
+   },
+   "8435544675017330861": {
+      "message": "Tiada item yang sepadan dengan carian anda."
+   },
+   "8436817383042650304": {
+      "message": "caps-lock"
+   },
+   "8451184312655705174": {
+      "message": "Jika URL anda betul, anda dapat melihat pratonton di sini. Imej yang besar mungkin mengambil masa beberapa minit untuk muncul."
+   },
+   "8467894483369467251": {
+      "message": "Denyar"
+   },
+   "8506198918368329269": {
+      "message": "Hasil yang ditunjukkan dilabelkan untuk kegunaan semula komersial dengan pengubahsuaian."
+   },
+   "8571315158566081191": {
+      "message": "Tiada hamparan."
+   },
+   "8580600056399054303": {
+      "message": "Tetapkan tempat untuk item baharu atau yang ditandakan"
+   },
+   "8595175575778060149": {
+      "message": "Lagi"
+   },
+   "8596257056433048992": {
+      "message": "Selamat datang ke"
+   },
+   "8616342546716995946": {
+      "message": "Faham"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8638281560898810401": {
+      "message": "{MINUTES,plural, =0{0 minit }=1{1 minit }other{# minit }}{SECONDS,plural, =0{0 saat.}=1{1 saat.}other{# saat.}}"
+   },
+   "863955692838281739": {
+      "message": "Tutup"
+   },
+   "8643398764569428530": {
+      "message": "Benarkan Google Keep memaparkan pemberitahuan?"
+   },
+   "8652566647088230560": {
+      "message": "Sulit Uji Cuba Sendiri"
+   },
+   "8660016472468563221": {
+      "message": "tanda titik bertindih"
+   },
+   "8663507590720636709": {
+      "message": "$1​ +$2​ lagi"
+   },
+   "8666643061920113075": {
+      "message": "{VIEWER_GENDER,select, female{Tampalkan URL imej di sini:}male{Tampalkan URL imej di sini:}other{Tampalkan URL imej di sini:}}"
+   },
+   "8674222789100049233": {
+      "message": "Tutup"
+   },
+   "86815590954366945": {
+      "message": "Senarai kandungan arkib"
+   },
+   "8709611758728645225": {
+      "message": "pg-down"
+   },
+   "8711002053494037632": {
+      "message": "Semua item dinyahtandakan"
+   },
+   "8748281640412284111": {
+      "message": "Imej stok"
+   },
+   "8759520888087120926": {
+      "message": "Tiada skrip."
+   },
+   "8775097441636640256": {
+      "message": "$2​ - $1​"
+   },
+   "8780212274435014958": {
+      "message": "Kalangan"
+   },
+   "8781837301864053001": {
+      "message": "Teks Beraneka"
+   },
+   "8792038552136453044": {
+      "message": "Op! Berlaku masalah."
+   },
+   "8793166064242077041": {
+      "message": "Terdapat masalah memaparkan imej ini."
+   },
+   "8813101408630252335": {
+      "message": "$1​ saat"
+   },
+   "8820281478062782578": {
+      "message": "Cari"
+   },
+   "8822326207328431952": {
+      "message": "Muat naik imej tidak tersedia"
+   },
+   "8840223453482998505": {
+      "message": "Folder yang dipilih $1​"
+   },
+   "8845176264121061589": {
+      "message": "Nyahtanda semua item"
+   },
+   "8850238112725591771": {
+      "message": "pintasan $1​"
+   },
+   "8852550049823214385": {
+      "message": "kemudian"
+   },
+   "8883744193208363722": {
+      "message": "Kemas kini apl tersedia."
+   },
+   "8884900765322249670": {
+      "message": "Paparan Senarai"
+   },
+   "8889019648958415451": {
+      "message": "Fail Tidak Diketahui"
+   },
+   "8911996820409711834": {
+      "message": "Pindahkan teks ke item senarai baharu &raquo;"
+   },
+   "8916237870980173557": {
+      "message": "Menyambung..."
+   },
+   "8917554093651202032": {
+      "message": "Main $1​"
+   },
+   "8919660666733306860": {
+      "message": "Imej"
+   },
+   "8930959387403789939": {
+      "message": "Peringatan"
+   },
+   "8943760679396635042": {
+      "message": "Memaparkan $1​."
+   },
+   "8953555255469284376": {
+      "message": "Letakkan imej di sini"
+   },
+   "8979615310931291676": {
+      "message": "Diedit $1​"
+   },
+   "8986044948621891903": {
+      "message": "Taip carian anda dalam kotak di atas untuk mencari hasil web menggunakan Carian Web Google."
+   },
+   "901615442107785480": {
+      "message": "Arkibkan nota/senarai"
+   },
+   "9024023699330078373": {
+      "message": "Item ini akan ditambahkan pada Drive anda apabila dibuka"
+   },
+   "9028041601596584772": {
+      "message": "Lokasi"
+   },
+   "9058308423774656474": {
+      "message": "Hangul Word Processor"
+   },
+   "9083935734710258396": {
+      "message": "Tolak"
+   },
+   "9094248058931620597": {
+      "message": "Panel butiran diruntuhkan."
+   },
+   "9114674068220302553": {
+      "message": "Sebagai lampiran"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9130962320402467249": {
+      "message": "Foto stok"
+   },
+   "9146716987301178362": {
+      "message": "Berlaku ralat. Sila muatkan semula."
+   },
+   "9165877886714239857": {
+      "message": "Tidak dapat mengambil teks imej. Sila cuba lagi."
+   },
+   "916773043895242978": {
+      "message": "URL imej yang telah anda masukkan di bawah adalah salah atau tidak dapat dimuatkan. Sila masukkan URL imej yang betul."
+   },
+   "9173629944963872598": {
+      "message": "Tiada acara ditemui."
+   },
+   "9182500445937900938": {
+      "message": "Tutup"
+   },
+   "9195941533351099011": {
+      "message": "Memuat naik $1​ daripada $2​"
+   },
+   "9197837492705576727": {
+      "message": "Pergi ke item seterusnya"
+   },
+   "919969969251998566": {
+      "message": "Keluarkan arkib ini ke dalam akaun mel anda."
+   },
+   "9203542510134660095": {
+      "message": "Tugas mengeluarkan bermula. Kandungan arkib akan dipaparkan dalam Drive di bawah folder \"$1​\"."
+   },
+   "940276535015195877": {
+      "message": "Tiada folder."
+   },
+   "943493480163896757": {
+      "message": "{resultCount,plural, =1{# nota yang sepadan}other{# nota yang sepadan}}"
+   },
+   "951963820437151566": {
+      "message": "Tapak Google"
+   },
+   "95809842507987016": {
+      "message": "Padamkan"
+   },
+   "963611681085757795": {
+      "message": "Maaf, kami tidak dapat menjanakan paparan dokumen pada masa ini."
+   },
+   "96556988207614774": {
+      "message": "Kalendar"
+   },
+   "974042541427403929": {
+      "message": "Biru"
+   },
+   "980395722421409371": {
+      "message": "Tiada peta ditemui."
+   },
+   "982187142411651629": {
+      "message": "Ketepikan"
+   },
+   "985197728509875956": {
+      "message": "Model Kimia"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "998727788921602971": {
+      "message": "Video"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Segera catatkan apa yang terlintas dek fikiran anda. Anda akan diingatkan pada masa atau di tempat yang tepat."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Google Keep - nota dan senarai"
+   }
+}

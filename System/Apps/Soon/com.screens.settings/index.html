@@ -1,0 +1,66 @@
+<html><head>
+<script type="text/javascript">
+window.onload = function() {
+    if (parent) {
+        var oHead = document.getElementsByTagName("head")[0];
+        var arrStyleSheets = parent.document.getElementsByTagName("style");
+        for (var i = 0; i < arrStyleSheets.length; i++)
+            oHead.appendChild(arrStyleSheets[i].cloneNode(true));
+    }
+}
+</script>
+<style>  body{background:#fff;margin:0}.ball {
+    width: 100px;
+    height: 100px;
+    background: #FFD700;
+    border: 1px solid #454545;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.ball {
+    width: 150px;
+    height: 150px;
+    background: #FFD700;
+    border: 1px solid #454545;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+    display:inline-block;
+    box-sizing:border-box
+}
+.ball img {
+    margin-top: 20px;
+}
+.ball h1 {
+    font-size: 22px;
+    -webkit-margin-before: 5px;
+    -webkit-margin-after: 5px;
+    text-align: center;
+}
+.ball span {
+    text-align: center;
+    font-size: 14px;
+}
+header {
+    width: 100%;
+    height: 50px;
+    background: #FFD700;
+    color: #454545;
+}
+header span {
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 12px;
+}
+</style>
+</head><body>
+
+
+<header><span>Home</span></header><div class="ball"><img width="50px" src="file:///C:/Users/World.wd/Desktop/WS.js/System/Addons/launcher/icon.svg">
+<h1>System</h1>
+<span>Display, notifications, apps, power..</span></div><div class="ball"><img width="50px" src="file:///C:/Users/World.wd/Desktop/WS.js/System/Apps/Devices/pc.svg#badge">
+<h1>Devices</h1>
+<span>Bluetooth, printers, mouse..</span></div><div class="ball"><img width="50px" src="file:///C:/Users/World.wd/Desktop/WS.js/img/Navmenu/themes.svg#black">
+<h1>Personalization</h1>
+<span>Background, lockscreen, colors, icons, themes..</span></div></body></html>

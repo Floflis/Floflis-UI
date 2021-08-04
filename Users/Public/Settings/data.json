@@ -1,0 +1,37 @@
+﻿{
+   "flipswitchs": {
+      "test": "on",
+      "test2": "off",
+      "test3": "on"
+   },
+   "central": {
+      "standbytime": "5min",
+      "test": "test",
+      "test": "test",
+      "test": "test",
+      "test": "test",
+      "test": "test",
+      "test": "test",
+      "test": "test",
+      "test": "test",
+      "test": "test",
+      "test": "test",
+      "test": "test"
+   },
+   "region": {
+      "language": "en_US",
+      "test": "test",
+      "test": "test",
+      "test": "test",
+      "test": "test"
+   },
+   "dashboard": {
+      "dashboard_system": "icons",
+      "test": "test",
+      "test": "test",
+      "test": "test",
+      "test": "test"
+   },
+      "dashboard_system": "icons"
+      "tiles_order": "Device, App_Shop, Facebook, Peeper, Gallery, Twitter, Tumblr, Writer, Slides, Tables, Music, Camera, Browser, Studio, Sharer, Color_Picker, Eyes, Health, Remote_Control, Communicator, Notes, File_Explorer, Pinned_Site, Sound_Recorder",
+}

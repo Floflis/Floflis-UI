@@ -1,0 +1,2485 @@
+{
+   "1006787209796778126": {
+      "message": "Mans disks"
+   },
+   "1017907757187630742": {
+      "message": "Mani fonti"
+   },
+   "1029072043275376320": {
+      "message": "Nav atrasts neviens kalendārs."
+   },
+   "1030781695901615026": {
+      "message": "Apakšdaļā"
+   },
+   "103870949919613488": {
+      "message": "Piezīme arhivēta"
+   },
+   "1039394921418415681": {
+      "message": "Pierakstīties"
+   },
+   "1083918249169198626": {
+      "message": "Īsinājumtaustiņi ir atspējoti."
+   },
+   "1090919586152138659": {
+      "message": "Krājums"
+   },
+   "1101371910696766077": {
+      "message": "Izveidot kopiju"
+   },
+   "1107413433574576014": {
+      "message": "Nosaukums ir pārāk garš. Iezīmētais teksts netiks saglabāts."
+   },
+   "1127320433256851404": {
+      "message": "Videoklipu atskaņotājs"
+   },
+   "1162642135048988280": {
+      "message": "Dokumenta pārdēvēšana"
+   },
+   "1166244120191806795": {
+      "message": "Sniegt atsauksmes"
+   },
+   "1179891706526242218": {
+      "message": "Nākamais"
+   },
+   "1185164838496022543": {
+      "message": "Lūdzu, noklikšķiniet šeit, lai atkārtoti ielādētu lapu."
+   },
+   "1185644932132585290": {
+      "message": "Atlikušas $1​ rakstzīmes"
+   },
+   "1213005208968286932": {
+      "message": "Atzīmēta kā pabeigta"
+   },
+   "1263557413037343589": {
+      "message": "Fotoattēlu kārtošana"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1311350045083871503": {
+      "message": "Atcelt"
+   },
+   "1311729747516144362": {
+      "message": "Sarkans"
+   },
+   "1315844696796851207": {
+      "message": "Bezserifa"
+   },
+   "1319037146426591038": {
+      "message": "vai"
+   },
+   "132822872080714863": {
+      "message": "Labi"
+   },
+   "133192954417440569": {
+      "message": "Nav atrasts neviens rezultāts."
+   },
+   "1349697396109290623": {
+      "message": "Fails $1​ tiek rādīts augstākā izšķirtspējā."
+   },
+   "1376126796144976437": {
+      "message": "Visi fonti"
+   },
+   "139942704574044780": {
+      "message": "Piekrist"
+   },
+   "141491180325662484": {
+      "message": "Izmantojot Google disku, varat glabāt visus savus failus vienuviet un piekļūt tiem, atrodoties jebkurā vietā un no jebkuras ierīces. Ievietojot Google diskā fotoattēlus, varat tos uzreiz kopīgot ar saviem lokiem."
+   },
+   "1418114637490664392": {
+      "message": "LIFE fotoattēlu arhīvs"
+   },
+   "1419896259743862406": {
+      "message": "Atvērt ar:"
+   },
+   "1440171352837969028": {
+      "message": "Video/audio"
+   },
+   "1441487391064925653": {
+      "message": "Skatīt visus īsinājumtaustiņus palīdzības centrā"
+   },
+   "1446829548948002072": {
+      "message": "komats"
+   },
+   "1454684154234137497": {
+      "message": "pauzēšanas taustiņš"
+   },
+   "1459765068821943106": {
+      "message": "{VIEWER_GENDER,select, female{Ielīmējiet YouTube URL šeit:}male{Ielīmējiet YouTube URL šeit:}other{Ielīmējiet YouTube URL šeit:}}"
+   },
+   "1463079206290378085": {
+      "message": "Orkut fotoattēli"
+   },
+   "1463389029497634261": {
+      "message": "Samazināt skaļumu"
+   },
+   "1475179211173444554": {
+      "message": "Ikviens domēna lietotājs, kam ir saite"
+   },
+   "1492360016907725281": {
+      "message": "{VIEWER_GENDER,select, female{Ielīmējiet videoklipa URL šeit:}male{Ielīmējiet videoklipa URL šeit:}other{Ielīmējiet videoklipa URL šeit:}}"
+   },
+   "1493251742569121894": {
+      "message": "Piezīme ir pārāk gara. Iezīmētais teksts netiks saglabāts."
+   },
+   "1493384967280942491": {
+      "message": "Rozā"
+   },
+   "1499433769420882987": {
+      "message": "Tiek attēlots vienums $1​."
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1521707405717823409": {
+      "message": "Violets"
+   },
+   "153439508598626384": {
+      "message": "Jūsu fotoattēli"
+   },
+   "1536051766421561160": {
+      "message": "vienādības zīme"
+   },
+   "156992719062713230": {
+      "message": "Pelēka"
+   },
+   "1586968957182554447": {
+      "message": "Atspējot"
+   },
+   "1588268697057804046": {
+      "message": "pirms $1​ stundām"
+   },
+   "1603139897109307706": {
+      "message": "Kļūda! Lūdzu, mēģiniet vēlreiz."
+   },
+   "1604359562654146902": {
+      "message": "Fotoattēls"
+   },
+   "1633370388224271051": {
+      "message": "Nav atrasta neviena persona."
+   },
+   "1633798963327779260": {
+      "message": "Rīt"
+   },
+   "1654222450095043962": {
+      "message": "Audio"
+   },
+   "1656911987308166143": {
+      "message": "Dzēst"
+   },
+   "1665821947855814052": {
+      "message": "Lielums"
+   },
+   "1692901784886701962": {
+      "message": "Piezīme ir pārāk liela."
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1700522311470719738": {
+      "message": "Atgādināt man"
+   },
+   "1701312243672511585": {
+      "message": "Pārvietot tekstu uz jaunu piezīmi &raquo;"
+   },
+   "1709410429018687341": {
+      "message": "No rīta ($1​)"
+   },
+   "1715552550526864429": {
+      "message": "Meklēt emuāros"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1739900012825270238": {
+      "message": "Pāriet pie iepriekšējā vienuma"
+   },
+   "1756171223417807431": {
+      "message": "Attēlam ir jābūt publiski pieejamam. Ja attēls ir aizsargāts ar paroli vai atrodas iekšējā tīklā, mēs nevarēsim to nolasīt."
+   },
+   "1759957963056319953": {
+      "message": "Atgriezties no: $1​"
+   },
+   "1783719421893050637": {
+      "message": "Izmēri"
+   },
+   "178927681797742562": {
+      "message": "Pierakstīties"
+   },
+   "1791115075948268631": {
+      "message": "Atvērt īsinājumtaustiņu palīdzības informāciju"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1816851800848432562": {
+      "message": "Noņemt"
+   },
+   "1818306025747564729": {
+      "message": "Atvērt saiti"
+   },
+   "1823222042913714987": {
+      "message": "Iesniegt paroli"
+   },
+   "1823854753950594157": {
+      "message": "Saglabāt pašreizējā vietā"
+   },
+   "1830157062072535681": {
+      "message": "Tiek attēlots vienums $1​."
+   },
+   "185012928288875755": {
+      "message": "Nav atrasti kritērijiem atbilstoši vienumi."
+   },
+   "1856444915090632305": {
+      "message": "Dokuments ir šifrēts. Lūdzu, ievadiet paroli."
+   },
+   "1866863108233180413": {
+      "message": "Mapes"
+   },
+   "187077078156858455": {
+      "message": "Audio piezīme"
+   },
+   "189303170370862360": {
+      "message": "$1​. no $2​ vienumiem"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901351411358749070": {
+      "message": "Koplietots ar mani"
+   },
+   "1913425963149828429": {
+      "message": "Izvilkt šo arhīvu Diskā."
+   },
+   "1918176455405610789": {
+      "message": "Gatavs"
+   },
+   "1920189655549476211": {
+      "message": "nezināms ilgums"
+   },
+   "1929603188252533075": {
+      "message": "Videoklipu nevarēja izdzēst. Lūdzu, mēģiniet vēlreiz."
+   },
+   "1951810091681076784": {
+      "message": "{COUNT_1,plural, =1{1 atbilstoša piezīme}zero{{COUNT_2} atbilstošu piezīmju}one{{COUNT_2} atbilstoša piezīme}other{{COUNT_2} atbilstošas piezīmes}}"
+   },
+   "1956794332842050061": {
+      "message": "Nākamā lapa"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1968405748623909021": {
+      "message": "Izmēģiniet kādu no tālāk norādītajām lietotnēm, lai atvērtu vai rediģētu šo vienumu"
+   },
+   "1974063091619095703": {
+      "message": "Personas"
+   },
+   "1988244842147989817": {
+      "message": "Atkritnē ievietotās piezīmes tiek dzēstas pēc 7 dienām."
+   },
+   "1993674829873313178": {
+      "message": "Vai radušās problēmas ar augšupielādi? Mēs pašlaik veicam apkopi, bet tuvākajā laikā viss atkal darbosies."
+   },
+   "2003845117979929469": {
+      "message": "Detalizēta informācija"
+   },
+   "2048322072989992494": {
+      "message": "Neviens vēl nav kopīgojis ar jums failus."
+   },
+   "2055836117545582610": {
+      "message": "Saraksta iestatījumi"
+   },
+   "2059084517358086391": {
+      "message": "Aizvērt atrašanas joslu"
+   },
+   "2061440050632248160": {
+      "message": "Arhivēt"
+   },
+   "2068023589621557589": {
+      "message": "TrueType fonts"
+   },
+   "2073035325657060696": {
+      "message": "Priekšskatījums nav pieejams."
+   },
+   "2073322475696388995": {
+      "message": "Pāriet uz priekšu"
+   },
+   "207810168108507460": {
+      "message": "pirms $1​ stundas"
+   },
+   "2109272338124379867": {
+      "message": "Pēdējoreiz mainīts"
+   },
+   "2116013171202209313": {
+      "message": "Atlasīt"
+   },
+   "2122256657192674586": {
+      "message": "Meklēt videoklipus"
+   },
+   "2125135092719715773": {
+      "message": "Augšupielāde"
+   },
+   "212796670323571824": {
+      "message": "Labi"
+   },
+   "213665695896111861": {
+      "message": "Piezīmes"
+   },
+   "2138593281154109183": {
+      "message": "Arhivēt"
+   },
+   "2147952938331523160": {
+      "message": "Pārdēvēt…"
+   },
+   "2154372123324862271": {
+      "message": "slīpsvītra"
+   },
+   "2154940358270068005": {
+      "message": "Saglabājiet izdzēstās piezīmes vēl nedaudz ilgāk"
+   },
+   "2184278444368405837": {
+      "message": "$1​ vienumi"
+   },
+   "2187239650627580457": {
+      "message": "Iesniegt"
+   },
+   "2198096971937872560": {
+      "message": "Atgādinājums:"
+   },
+   "220168959069469607": {
+      "message": "Citas darbības"
+   },
+   "221715292685577880": {
+      "message": "Jā"
+   },
+   "2220005860896049129": {
+      "message": "Diemžēl dokumenta atrašanai sākotnējā avotā bija nepieciešams pārāk daudz laika."
+   },
+   "2228413078211839077": {
+      "message": "Diemžēl pašlaik neizdodas izveidot dokumenta skatījumu īslaicīgas problēmas dēļ."
+   },
+   "2235097878790803849": {
+      "message": "Aizmirstiet par pielikumiem! Sāciet lietot Google disku!"
+   },
+   "2257303402199718039": {
+      "message": "Diemžēl sākotnējā avotā dokumentu nevarēja atrast. Pārbaudiet, vai dokuments joprojām pastāv."
+   },
+   "2274436793504233543": {
+      "message": "Atcelt"
+   },
+   "2278224983638451454": {
+      "message": "Iegūt tūlīt"
+   },
+   "2280650195464600721": {
+      "message": "Navigācija"
+   },
+   "2285069188138705005": {
+      "message": "Pievienotās lietotnes"
+   },
+   "2289534534793293486": {
+      "message": "Atcelt arhivēšanu"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Palielināt skaļumu"
+   },
+   "230180475614658119": {
+      "message": "Gatavs"
+   },
+   "2304293593067358316": {
+      "message": "Klipkopa"
+   },
+   "2310145944356900158": {
+      "message": "Atzīmētie"
+   },
+   "2311880726221661199": {
+      "message": "Notiek augstāku izšķirtspēju ielāde"
+   },
+   "2329167963662998826": {
+      "message": "Lietotnē Google Keep ir nepieciešams izmantot jūsu atrašanās vietas datus, lai uzlabotu vietu ieteikumus atgādinājumiem par atrašanās vietu."
+   },
+   "234046557601727809": {
+      "message": "Nav attēlu vai videoklipu."
+   },
+   "2349912757088764940": {
+      "message": "Redzami šīm personām:"
+   },
+   "2359614137862708172": {
+      "message": "pārslēgšanas taustiņš"
+   },
+   "2370463380397641604": {
+      "message": "Populāri īsinājumtaustiņi"
+   },
+   "2370656573843123707": {
+      "message": "labā iekava"
+   },
+   "2393487423640708285": {
+      "message": "URL nav derīgs. Tam ir jāsākas ar “http://” vai “https://."
+   },
+   "2405795704816921421": {
+      "message": "Fails “$1​”"
+   },
+   "2412314804333167252": {
+      "message": "Šī izklājlapa ir pārāk liela. Noklikšķiniet, lai to $3​lejupielādētu$1​ vai $4​rediģētu Google izklājlapās$1​."
+   },
+   "2418104318933043113": {
+      "message": "Google attēlu meklēšana"
+   },
+   "2433429041384246549": {
+      "message": "Izslēgt skaņu"
+   },
+   "2449254824382583885": {
+      "message": "Palielināt"
+   },
+   "2452522051596946166": {
+      "message": "Ak, vai! Neizdevās parādīt vienuma $1​ priekšskatījumu. Notiek atkārtots mēģinājums."
+   },
+   "2454642351139428112": {
+      "message": "Atsaukt"
+   },
+   "2466251465475184755": {
+      "message": "Vai iztukšot atkritni? Visas atkritnē esošās piezīmes tiks neatgriezeniski dzēstas."
+   },
+   "2475181823688399272": {
+      "message": "Tālāk"
+   },
+   "2484568559152875936": {
+      "message": "Nav fotoalbumu."
+   },
+   "2504232652631703202": {
+      "message": "Pievienota"
+   },
+   "251025074207413762": {
+      "message": "Pievienojiet aprakstu."
+   },
+   "2510929871271209216": {
+      "message": "Šī izklājlapa ir pārāk liela. Noklikšķiniet $2​šeit$1​, lai to lejupielādētu."
+   },
+   "2513437337377210144": {
+      "message": "beigvietas taustiņš"
+   },
+   "2524021436052870191": {
+      "message": "Nevar augšupielādēt šo failu. Var augšupielādēt tikai $1​ failus, kas nav lielāki par $2​ MB."
+   },
+   "2532280782491328445": {
+      "message": "Atrast iepriekšējo"
+   },
+   "2538080331309772448": {
+      "message": "Kārtot: $1​"
+   },
+   "2538462904124380434": {
+      "message": "Piezīme ir pārvietota uz atkritni."
+   },
+   "2546225293834487484": {
+      "message": "Piezīme"
+   },
+   "2558480112329900136": {
+      "message": "Pelēks"
+   },
+   "257317112834806705": {
+      "message": "Pārslēgt saraksta un režģa skatījumu"
+   },
+   "2579679351920691492": {
+      "message": "Pāriet atpakaļ"
+   },
+   "2587566920590457715": {
+      "message": "Maps Engine Lite"
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609750184896485102": {
+      "message": "Videoklipi no tālruņa"
+   },
+   "2615188670181508661": {
+      "message": "Pēdējā laikā neesat neko izvēlējies."
+   },
+   "2623861453769098676": {
+      "message": "Neizdevās parādīt šī dokumenta priekšskatījumu."
+   },
+   "2628268670001557269": {
+      "message": "Kvota"
+   },
+   "2643241712502664984": {
+      "message": "Jūsu YouTube videoklipi"
+   },
+   "2661850177130037208": {
+      "message": "Atvērt vienumu"
+   },
+   "2681830832355823748": {
+      "message": "Meklēt visus īsinājumtaustiņus"
+   },
+   "2687303256387847763": {
+      "message": "Popularitāte"
+   },
+   "2702485557996900362": {
+      "message": "Novērst konfliktējošus labojumus"
+   },
+   "2705842902318123127": {
+      "message": "Pāriet uz nākamo/iepriekšējo piezīmi/sarakstu"
+   },
+   "272948685355798518": {
+      "message": "Ir atlasīts nederīgs faila veids."
+   },
+   "2731144323070245943": {
+      "message": "Saraksta iestatījumi"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2750830436677712001": {
+      "message": "{VIEWER_GENDER,select, female{Neizdevās izveidot mapi {FOLDER_NAME}.}male{Neizdevās izveidot mapi {FOLDER_NAME}.}other{Neizdevās izveidot mapi {FOLDER_NAME}.}}"
+   },
+   "2752123004911547510": {
+      "message": "Tendences"
+   },
+   "2758125083752925237": {
+      "message": "(īpašnieks)"
+   },
+   "277430914014962533": {
+      "message": "Ak, vai! Neizdevās parādīt vienuma $1​ priekšskatījumu."
+   },
+   "2774713922589657910": {
+      "message": "Ikviens domēna lietotājs"
+   },
+   "2786560864906393383": {
+      "message": "Fotoattēli no tālruņa"
+   },
+   "2789687492331041935": {
+      "message": "Izvēlēties laiku"
+   },
+   "2790446494460492805": {
+      "message": "Tika sākta izvilkšana. Arhīva ziņojumi būs redzami jūsu pasta kontā ar iezīmi “Importēšana: $1​”."
+   },
+   "2793841261389879255": {
+      "message": "Iepriekšējā lapa"
+   },
+   "2801153442808430222": {
+      "message": "Mans disks"
+   },
+   "2817277146396981386": {
+      "message": "pēcpusdienā"
+   },
+   "2818020101821669029": {
+      "message": "Izveidots"
+   },
+   "2818135503416309545": {
+      "message": "Videoklipa ierakstīšana"
+   },
+   "2827039933590757722": {
+      "message": "Windows Shortcut"
+   },
+   "2829226075651806940": {
+      "message": "Tuvināt"
+   },
+   "2860188519781080944": {
+      "message": "Oranžs"
+   },
+   "2861568351294148466": {
+      "message": "Skripti"
+   },
+   "2864281852037732729": {
+      "message": "Mazāk"
+   },
+   "2873089307546162154": {
+      "message": "Labi"
+   },
+   "2877285560485318801": {
+      "message": "Pauze"
+   },
+   "2878874627361086801": {
+      "message": "priekšskatījums"
+   },
+   "2879276552944958066": {
+      "message": "Atgriezties mapē $1​."
+   },
+   "289798573180023043": {
+      "message": "Labi"
+   },
+   "2902747751281161248": {
+      "message": "Lietot jauniem sarakstiem"
+   },
+   "2905147317995482841": {
+      "message": "Google diskā visiem failiem ir atjaunināta skatīšanas funkcionalitāte. Tagad Disks ir pievilcīgāks un ērtāk izmantojams! Ceram, ka jums patiks jaunais izskats!"
+   },
+   "2917498437550635075": {
+      "message": "Ikona"
+   },
+   "2964778642459027786": {
+      "message": "Miskastē nav nevienas piezīmes."
+   },
+   "2974598228601710262": {
+      "message": "Pievienot"
+   },
+   "2979466412944870220": {
+      "message": "Notiek priekšskatījuma ielāde..."
+   },
+   "2982511431742033448": {
+      "message": "Nav prezentāciju."
+   },
+   "298817883481775869": {
+      "message": "Notiek ielāde..."
+   },
+   "3000689173481666334": {
+      "message": "Loka rediģēšana"
+   },
+   "3029395493413607486": {
+      "message": "Nevarēja ielādēt video atskaņotāju. Mēģiniet atkārtoti ielādēt lapu.$1​Ja problēma joprojām pastāv, $3​apmeklējiet palīdzības centru$2​."
+   },
+   "3043961722025425136": {
+      "message": "Apraksts"
+   },
+   "306516303501625305": {
+      "message": "Autentifikācija neizdevās."
+   },
+   "3073005748126521632": {
+      "message": "Atgādinājums šajā vietā: $1​"
+   },
+   "3074184819310272351": {
+      "message": "Augšupielādētie fotoattēli"
+   },
+   "3084372889071691504": {
+      "message": "{VIEWER_GENDER,select, female{Ielīmējiet URL šeit:}male{Ielīmējiet URL šeit:}other{Ielīmējiet URL šeit:}}"
+   },
+   "3095645856215493958": {
+      "message": "Atrodiet izdrukāto tekstu un fotoattēlus"
+   },
+   "31018542656161389": {
+      "message": "Tālummainīt, lai ietilpinātu"
+   },
+   "3109321241584918345": {
+      "message": "Pievienot citas lietotnes..."
+   },
+   "3121560585545725724": {
+      "message": "$1​, plkst. $2​"
+   },
+   "3140236589681731084": {
+      "message": "pēc $1​ stundām"
+   },
+   "3189854932778515441": {
+      "message": "Piezīme ir ievietota arhīvā."
+   },
+   "3207670492626476064": {
+      "message": "Tabulas"
+   },
+   "3211163842850942567": {
+      "message": "Tuvināt"
+   },
+   "3222929029344613957": {
+      "message": "Diemžēl, atverot šo failu, radās kļūda. Lūdzu, mēģiniet vēlreiz."
+   },
+   "3233388241926683100": {
+      "message": "Meklēt piezīmes"
+   },
+   "3243829462528324248": {
+      "message": "Brūns"
+   },
+   "3250489229749307913": {
+      "message": "Elektroniskā publikācija"
+   },
+   "3256928852560591255": {
+      "message": "Atkritnē nevar veikt rediģēšanu."
+   },
+   "3261131345401321392": {
+      "message": "Var komentēt"
+   },
+   "3265524298292280681": {
+      "message": "atsoļa taustiņš"
+   },
+   "3267563602179728277": {
+      "message": "dzēšanas taustiņš"
+   },
+   "3272496516667407797": {
+      "message": "Neizdevās ielādēt detalizētu informāciju."
+   },
+   "3275029321588462173": {
+      "message": "Nav"
+   },
+   "3278237562147211998": {
+      "message": "Attēli no fotobankām"
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3306487262690341751": {
+      "message": "Datums un laiks"
+   },
+   "3312545971976531405": {
+      "message": "Message"
+   },
+   "3319087486907616296": {
+      "message": "Apraidīt šo vienumu"
+   },
+   "3328129883064940351": {
+      "message": "Fonti"
+   },
+   "3335409796971631780": {
+      "message": "Notiek izvilkšana Diskā."
+   },
+   "3343451103608774400": {
+      "message": "Iepazīstinām ar jauno funkciju $3​Manas kartes$2​!$1​Ērtāki rīki karšu veidošanai."
+   },
+   "3354260708176476985": {
+      "message": "Notiek ielāde&hellip;"
+   },
+   "3357778055650785985": {
+      "message": "Vienumā ir pārāk daudz rakstzīmju. Iezīmētais teksts netiks saglabāts."
+   },
+   "3364679383274077479": {
+      "message": "Ir pieejams lietotnes atjauninājums."
+   },
+   "3368639944474272225": {
+      "message": "Diemžēl nevarēja izgūt dokumentu, lai to skatītu, vai arī jums nav atļaujas skatīt šo dokumentu."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Atvērt"
+   },
+   "3408219901032480508": {
+      "message": "$2​, $1​"
+   },
+   "3409257542937182842": {
+      "message": "Notiek atkārtots mēģinājums..."
+   },
+   "3409483962000136213": {
+      "message": "Atskaņot/pārtraukt"
+   },
+   "3418767079436101103": {
+      "message": "Neizdevās ielādēt šo lapu."
+   },
+   "3421685394169412932": {
+      "message": "Visas veiktās izmaiņas tiek automātiski saglabātas."
+   },
+   "3422389100099960864": {
+      "message": "Nav attēlu."
+   },
+   "3428726060007577698": {
+      "message": "Saraksts ir pārāk liels."
+   },
+   "3430885603500576146": {
+      "message": "Atlasiet tikai tos attēlus, kuriem esat saņēmis izmantošanas atļauju."
+   },
+   "3440534675925634227": {
+      "message": "Pārlūkprogrammas Chrome logā atveriet adresi chrome://settings un pārliecinieties, ka esat pierakstījies. Pēc tam atkārtoti noklikšķiniet uz Pierakstīties."
+   },
+   "3446158485617778228": {
+      "message": "Atsaukt"
+   },
+   "3448234415275521882": {
+      "message": "Vispārīga informācija"
+   },
+   "3448684788258660606": {
+      "message": "Jūsu fotoattēli"
+   },
+   "3450585781337676327": {
+      "message": "Notiek ielāde..."
+   },
+   "3457279184692206825": {
+      "message": "Ikviens varēs skatīt fotoattēlus (publiski tīmeklī)."
+   },
+   "3468441711253011521": {
+      "message": "Google izklājlapas"
+   },
+   "3473620774713000513": {
+      "message": "Pabeigta"
+   },
+   "3483438888494819423": {
+      "message": "Jaunumi lietotnē Google Keep"
+   },
+   "3511274344439521198": {
+      "message": "Darbības"
+   },
+   "3518073392823563581": {
+      "message": "Īsinājumtaustiņi"
+   },
+   "3531603810713611778": {
+      "message": "Ir pārsniegts faila lieluma ierobežojums. Lūdzu, noņemiet viena vai vairāku vienumu atlasi."
+   },
+   "3543475399174940144": {
+      "message": "vēl $1​"
+   },
+   "3547194749488601916": {
+      "message": "Notiek atjaunināšana..."
+   },
+   "354828103903104581": {
+      "message": "Pārbaudītie vienumi"
+   },
+   "3561658662634401836": {
+      "message": "Nosaukums"
+   },
+   "357172711168973843": {
+      "message": "Nesen pievienotās piezīmes vai izmaiņas netika saglabātas. Izveidojiet satura kopiju un atkārtoti ielādējiet lapu."
+   },
+   "3586705906700410505": {
+      "message": "Zīmējums"
+   },
+   "3587798318180902863": {
+      "message": "{NUM_SELECTED,plural, =1{ atlasīts »}zero{ atlasītu »}one{ atlasīts »}other{ atlasīti »}}"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3602920441714068008": {
+      "message": "Atgādinājums šādā datumā: $1​, plkst. $2​"
+   },
+   "3608606849109645545": {
+      "message": "Ievadiet jaunu dokumenta nosaukumu:"
+   },
+   "361202495024972887": {
+      "message": "Videoklipu augšupielāde"
+   },
+   "361630518611593946": {
+      "message": "Slēpt izvēles rūtiņas"
+   },
+   "3625886392901506764": {
+      "message": "vai"
+   },
+   "3643146117250542609": {
+      "message": "Nav PDF failu."
+   },
+   "3645728163953189422": {
+      "message": "Diemžēl nevarēja izgūt dokumentu skatīšanai, jo tas ir pārāk liels."
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "atpakaļvērstā slīpsvītra"
+   },
+   "3659554681396757189": {
+      "message": "Manis atvērts"
+   },
+   "3663571259791438207": {
+      "message": "Ziņot par pārkāpumu"
+   },
+   "3664842788764635265": {
+      "message": "Nav"
+   },
+   "3666123569747918021": {
+      "message": "Šajā dokumentā ir nesaglabātas izmaiņas. Vai vēlaties doties prom no šīs lapas un atmest izmaiņas?"
+   },
+   "3673346558112798837": {
+      "message": "Nav fona"
+   },
+   "3674811252904549204": {
+      "message": "Vāka fotoattēli"
+   },
+   "3678477908297567934": {
+      "message": "pasvītra"
+   },
+   "3681747688524363195": {
+      "message": "Augšdaļā"
+   },
+   "3690515530505404607": {
+      "message": "Neizdevās demonstrēt šo videoklipu."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Nav vienumu}=1{Viens vienums}zero{# vienumu}one{# vienums}other{# vienumi}}"
+   },
+   "3712215972250917265": {
+      "message": "Komentāri"
+   },
+   "3717138719704492547": {
+      "message": "Lūdzu, pārbaudiet, vai ievadītajā adresē nav drukas kļūdu."
+   },
+   "374088101949877889": {
+      "message": "Aizvērt"
+   },
+   "3745308627628779133": {
+      "message": "Jauna mape"
+   },
+   "3748461364828242354": {
+      "message": "Atlasīt krāsu"
+   },
+   "3770795578481676514": {
+      "message": "Dzeltena"
+   },
+   "3771958676925493302": {
+      "message": "Noņemt filtru: $1​"
+   },
+   "3779945546806941187": {
+      "message": "Vienkrāsains"
+   },
+   "3793086499925031123": {
+      "message": "Atvērt meklēšanas joslu/atrast iepriekšējo vienumu"
+   },
+   "37992665410817181": {
+      "message": "Atvērta atkārtoti"
+   },
+   "3801617971018550169": {
+      "message": "Vakar"
+   },
+   "3808213429720572062": {
+      "message": "Atjaunot"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3842411126100113634": {
+      "message": "augšupšķiršanas taustiņš"
+   },
+   "3844047145949375230": {
+      "message": "Dokumenti"
+   },
+   "3858324058837632381": {
+      "message": "Neizdevās atskaņot šo audio failu."
+   },
+   "3864575916269080329": {
+      "message": "Meklējami attēli"
+   },
+   "3866373087987934712": {
+      "message": "Augšupielāde neizdevās: $1​"
+   },
+   "3869166581651870488": {
+      "message": "Pabeigt rediģēšanu"
+   },
+   "3873215756962047275": {
+      "message": "ARHĪVS"
+   },
+   "3873467440437675460": {
+      "message": "Diemžēl neizdevās atrast iepriekš atlasītos fontus."
+   },
+   "3897281533382850749": {
+      "message": "Ieslēgt skaņu"
+   },
+   "3936153839186254186": {
+      "message": "Rādīt: $1​"
+   },
+   "3955760658925284765": {
+      "message": "Mēģiniet vēlreiz"
+   },
+   "3974064131130689245": {
+      "message": "Režģa skats"
+   },
+   "3977699855735576796": {
+      "message": "Neizdevās ielādēt citas lapas."
+   },
+   "3988418762222300024": {
+      "message": "punkts"
+   },
+   "3989552504822984034": {
+      "message": "Google zīmējums"
+   },
+   "4005725939358875643": {
+      "message": "Darbība ir atsaukta."
+   },
+   "4014287326684608407": {
+      "message": "Zilganzaļa"
+   },
+   "4048275292053012394": {
+      "message": "Kontaktpersonas"
+   },
+   "4059387791040010947": {
+      "message": "meta taustiņš"
+   },
+   "4067915791853673774": {
+      "message": "{VIEWER_GENDER,select, female{Aizvērt}male{Aizvērt}other{Aizvērt}}"
+   },
+   "4078179869358383373": {
+      "message": "Nav atrasts neviens rezultāts."
+   },
+   "4087667435414545203": {
+      "message": "Jūs vairs neesat pierakstījies. Lai veiktu izmaiņas, atkārtoti ielādējiet lapu."
+   },
+   "4093134637041332383": {
+      "message": "UZZINIET VAIRĀK"
+   },
+   "4097007735221462946": {
+      "message": "Zīmējumi"
+   },
+   "4097921967754832323": {
+      "message": "defise"
+   },
+   "4100504115801514799": {
+      "message": "Piezīme atjaunota"
+   },
+   "4119294114251628099": {
+      "message": "Nevarēja izgūt norādīto attēla URL. Iespējams, tas ir privāts URL, kuram mūsu serveri nevar piekļūt. Lūdzu, izmēģiniet citu URL."
+   },
+   "4134385041569168669": {
+      "message": "Notiek ielāde..."
+   },
+   "4148564423510181521": {
+      "message": "Notīrīt meklēšanu"
+   },
+   "4152315289461886": {
+      "message": "Dokumentu īsinājumtaustiņi"
+   },
+   "4168280976997555951": {
+      "message": "Nav dokumentu."
+   },
+   "4174786386751618325": {
+      "message": "Fotoattēla piezīme"
+   },
+   "4182427157920112948": {
+      "message": "tilde"
+   },
+   "4200426647595470259": {
+      "message": "Sākt audio faila atskaņošanu"
+   },
+   "4200911267543705377": {
+      "message": "Lai atrastu emuāru rezultātus, izmantojot Google meklēšanu emuāros, ierakstiet meklēšanas vaicājumu iepriekš redzamajā lodziņā."
+   },
+   "4205329094859140439": {
+      "message": "priekšpusdienā"
+   },
+   "4211182812451835307": {
+      "message": "Var rediģēt"
+   },
+   "4211806608204126222": {
+      "message": "$2​Pakalpojumu sniegšanas noteikumi$1​"
+   },
+   "4214190403999219403": {
+      "message": "Tālummainīt"
+   },
+   "4230101516585408149": {
+      "message": "Rakstīt jaunu piezīmi"
+   },
+   "4253741616909644861": {
+      "message": "Meklēšanas vienumi"
+   },
+   "4280747719095153198": {
+      "message": "Atrisināts komentārs"
+   },
+   "4286663890332754386": {
+      "message": "Augšupielāde neizdevās."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4314643310615423802": {
+      "message": "Jūs tikāt izrakstīts."
+   },
+   "4318861667254318892": {
+      "message": "Google video"
+   },
+   "4319229296464464147": {
+      "message": "Pievienošanas datums"
+   },
+   "4320831042030778": {
+      "message": "Atcelt"
+   },
+   "4332252081504252077": {
+      "message": "Ak, vai!"
+   },
+   "4338991104991831337": {
+      "message": "Attēli"
+   },
+   "4339705658383891586": {
+      "message": "Pilnkrāsu"
+   },
+   "4343825450663233452": {
+      "message": "Var skatīt"
+   },
+   "4343836986248234462": {
+      "message": "Saraksta vienums"
+   },
+   "435214284915110062": {
+      "message": "Atvērt meklēšanas joslu"
+   },
+   "4372755508519489521": {
+      "message": "Režģa skatījums"
+   },
+   "4391715930031906467": {
+      "message": "Atrast nākamo"
+   },
+   "4395845663892873002": {
+      "message": "sākumvietas taustiņš"
+   },
+   "4422985761498356257": {
+      "message": "Atvērt ar:"
+   },
+   "4430062722430863019": {
+      "message": "Vai neatgriezeniski dzēst piezīmi?"
+   },
+   "4439812492856303238": {
+      "message": "Diemžēl, apstrādājot jūsu atlasi, radās neparedzēta kļūda. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "4444571967705751871": {
+      "message": "Atkritne"
+   },
+   "4466605492523079635": {
+      "message": "Saglabāt"
+   },
+   "4468872996560163913": {
+      "message": "Iztukšot atkritni tūlīt"
+   },
+   "4473912481270012588": {
+      "message": "Saglabāts Diskā. Pārvietot uz:"
+   },
+   "45228242181482134": {
+      "message": "Atskaņot"
+   },
+   "4536519876526589338": {
+      "message": "$1​: iemiesojums."
+   },
+   "4552045407215325033": {
+      "message": "Iepriekš ievadīto videoklipa URL nevar ielādēt. Pārliecinieties, vai URL ir pareizs un vai tas atrodas atbalstītā vietnē."
+   },
+   "4564682305303579317": {
+      "message": "Turpināt"
+   },
+   "456498742882714639": {
+      "message": "Pārvietot uz:"
+   },
+   "4588500131398315347": {
+      "message": "Loka izveide"
+   },
+   "4604402426271704651": {
+      "message": "Bez fotoattēla"
+   },
+   "4620034373159179678": {
+      "message": "$1​. lapa no $2​"
+   },
+   "4630690108252818511": {
+      "message": "Nav atrasts neviens attēls."
+   },
+   "468283184702431827": {
+      "message": "Process sākts"
+   },
+   "4695897771458936174": {
+      "message": "Kopīgojiet Google diskā esošos fotoattēlus pakalpojumā Google+"
+   },
+   "4740100782728373253": {
+      "message": "Saglabāt Diskā"
+   },
+   "4748046231232264180": {
+      "message": "Google formas"
+   },
+   "4767722428137216885": {
+      "message": "Atcelt"
+   },
+   "477328789314249432": {
+      "message": "Meklēt piezīmes"
+   },
+   "4775368111547931093": {
+      "message": "Nav apraksta"
+   },
+   "4781742940361705258": {
+      "message": "Nerādīt"
+   },
+   "4783695823456312682": {
+      "message": "Pārvietot apakšdaļā"
+   },
+   "47844150329705564": {
+      "message": "Vaicājuma “$1​” meklēšanas rezultāti"
+   },
+   "4798897505978458661": {
+      "message": "Nav atrasts neviens videoklips."
+   },
+   "4805047680716507619": {
+      "message": " - Pārvietot uz:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7 paraksts"
+   },
+   "4833214200453019325": {
+      "message": "$1​. no $2​"
+   },
+   "4846720038197420778": {
+      "message": "Pievienot citas lietotnes"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Piezīme ir ievietota miskastē."
+   },
+   "4888104357342241891": {
+      "message": "Atgādinājumi"
+   },
+   "4889853674709731963": {
+      "message": "Visas piezīmes ir saglabātas bezsaistē."
+   },
+   "4901386320110714275": {
+      "message": "Parole nav pareiza. Lūdzu, mēģiniet vēlreiz."
+   },
+   "490372259452655427": {
+      "message": "Diemžēl dokuments vēl nav pieejams skatīšanai."
+   },
+   "4906669330059413958": {
+      "message": "Iesniegt paroli"
+   },
+   "4908614808966678155": {
+      "message": "Vaicājumam “$1​” nav meklēšanas rezultātu."
+   },
+   "4926020998477695737": {
+      "message": "Pāriet uz mapi $1​"
+   },
+   "4943176738805484221": {
+      "message": "Rediģēt"
+   },
+   "4956678140555659175": {
+      "message": "atpakaļatkāpes taustiņš"
+   },
+   "4957674814179289955": {
+      "message": "Pāriet uz nākamo/iepriekšējo saraksta vienumu"
+   },
+   "4963784280521435720": {
+      "message": "Notiek saglabāšana..."
+   },
+   "4969219890884320840": {
+      "message": "Atjaunināt"
+   },
+   "4983125135476400111": {
+      "message": "Ievietot miskastē piezīmi/sarakstu"
+   },
+   "4988132901627446385": {
+      "message": "Detalizētas informācijas panelis izvērsts."
+   },
+   "4998757387516632837": {
+      "message": "Parādītie rezultāti ir atzīmēti kā atkārtoti izmantojami, ja tie tiek pārveidoti."
+   },
+   "5006225450559627366": {
+      "message": "Vēl $1​"
+   },
+   "501475221876543407": {
+      "message": "Šeit tiek rādītas pievienotās piezīmes."
+   },
+   "5023525794410110078": {
+      "message": "Teksta pievienošana fotoattēlam"
+   },
+   "5026241297254150381": {
+      "message": "Pievienot piezīmi"
+   },
+   "5046371569383796818": {
+      "message": "Paturēt"
+   },
+   "5055418092354683641": {
+      "message": "Serifa"
+   },
+   "5095987896933771566": {
+      "message": "Drukāt dokumentu"
+   },
+   "5096751700090310607": {
+      "message": "Nav fotoattēlu."
+   },
+   "509815948423424872": {
+      "message": "Navigācija"
+   },
+   "5099245668405591445": {
+      "message": "Meklēt"
+   },
+   "512429649443191386": {
+      "message": "$2​Palīdzība$1​"
+   },
+   "5124522868502261563": {
+      "message": "Izklājlapas"
+   },
+   "5130903421326358933": {
+      "message": "Saglabājot pielikumu Google diskā, radās problēma."
+   },
+   "5149937870346466591": {
+      "message": "Saraksta skats"
+   },
+   "5169187962228219813": {
+      "message": "Life attēli"
+   },
+   "5180454621500142444": {
+      "message": "Atjaunot"
+   },
+   "5180989337128758117": {
+      "message": "kreisā iekava"
+   },
+   "5184692850089055965": {
+      "message": "Izgūt attēla tekstu"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Informācijas paneļa ciļņu josla. Nospiediet kreiso un labo bulttaustiņu, lai pārslēgtu cilnes."
+   },
+   "5204391636475413312": {
+      "message": "Saglabāt"
+   },
+   "5213411023807957844": {
+      "message": "Meklējiet lietotnē Google Keep."
+   },
+   "5213974294317036409": {
+      "message": "{numPages,plural, =0{}=1{1 lapa}zero{# pages}one{# lapa}other{# lapas}}"
+   },
+   "5226470917948786938": {
+      "message": "Alfabētiski"
+   },
+   "5238003680997310998": {
+      "message": "Vairāk"
+   },
+   "5238371081785912565": {
+      "message": "Atvērt lietotnē $1​"
+   },
+   "5275493935807628890": {
+      "message": "Norādītajā URL nevaram atrast attēlu."
+   },
+   "5281121179861637423": {
+      "message": "Lai piekļūtu failam $1​, ir nepieciešama parole. Lūdzu, ievadiet paroli."
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5291153964865714504": {
+      "message": "Nav atbilstošu piezīmju."
+   },
+   "5299648222246616124": {
+      "message": "gravis"
+   },
+   "5304869088141363028": {
+      "message": "Piedāvātie fotoattēli"
+   },
+   "5316658541831864803": {
+      "message": "Diemžēl šāda veida dokumenta skatīšana netiek atbalstīta."
+   },
+   "5319313176242717957": {
+      "message": "Notiek attēlu apstrāde..."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "534228323125524312": {
+      "message": "Tālināt"
+   },
+   "5353129315502554762": {
+      "message": "Stilu lapa"
+   },
+   "5372143986724491245": {
+      "message": "pirms $1​ dienas"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5399553230649155346": {
+      "message": "pēc $1​ stundas"
+   },
+   "5403830377590414208": {
+      "message": "Balts"
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "5438481737351808090": {
+      "message": "Pēcpusdienā ($1​)"
+   },
+   "544377415081282702": {
+      "message": "Atvainojiet!"
+   },
+   "5447119197363232006": {
+      "message": "Rādīt Diskā"
+   },
+   "5465323999933375616": {
+      "message": "Jūs esat sasniedzis joslas platuma ierobežojumu to failu skatīšanai vai lejupielādei, kuri nav Google dokumentu formātā."
+   },
+   "5472312735475866917": {
+      "message": "Lietotāja $1​ komentārs."
+   },
+   "547865385964196102": {
+      "message": "pirms $1​ minūtēm"
+   },
+   "5482872484546230111": {
+      "message": "Meklēt grāmatas"
+   },
+   "5494181290179470995": {
+      "message": "Dzēst"
+   },
+   "5500117709595533163": {
+      "message": "Lai atrastu e-grāmatu pakalpojumā Google grāmatas, ierakstiet meklēšanas vaicājumu iepriekš redzamajā lodziņā."
+   },
+   "5514516347328112388": {
+      "message": "Varat arī lejupielādēt sākotnējo dokumentu, noklikšķinot $2​šeit$1​."
+   },
+   "5529532831767466284": {
+      "message": "{VIEWER_GENDER,select, female{{DEGREES}° {MINUTES} m {SECONDS} s}male{{DEGREES}° {MINUTES} m {SECONDS} s}other{{DEGREES}° {MINUTES} m {SECONDS} s}}"
+   },
+   "5555182241047709329": {
+      "message": "Izvēlieties atrašanās vietu"
+   },
+   "5555599189512365009": {
+      "message": "SAPRATU"
+   },
+   "5571842632470308750": {
+      "message": "Jebkura tipa"
+   },
+   "5588597116382648727": {
+      "message": "Tiek sākts izvilkšanas uzdevums."
+   },
+   "5598649706113950710": {
+      "message": "Redaktors"
+   },
+   "5609727719971819773": {
+      "message": "{VIEWER_GENDER,select, female{Atpakaļ}male{Atpakaļ}other{Atpakaļ}}"
+   },
+   "5627470193961862490": {
+      "message": "Šeit tiek rādītas piezīmes ar gaidāmiem atgādinājumiem."
+   },
+   "5631086126416409232": {
+      "message": "Zila"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "5660422479531064559": {
+      "message": "Nav veidlapu."
+   },
+   "5675154446465700699": {
+      "message": "PDF faili"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Vai dzēst atzīmētos vienumus?"
+   },
+   "5714240424645614611": {
+      "message": "Android pakotne"
+   },
+   "5728640851616538925": {
+      "message": "Zaļa"
+   },
+   "5744491383087191878": {
+      "message": "Ievadītais attēla URL nav pareizs vai to nevar ielādēt."
+   },
+   "5747728324987383020": {
+      "message": "Seja"
+   },
+   "5783875011049188612": {
+      "message": "Attēla teksts ir izgūts."
+   },
+   "5785010887521443923": {
+      "message": "Noņemt"
+   },
+   "5834678297024555032": {
+      "message": "Atļaut"
+   },
+   "5840330517914556080": {
+      "message": "Tālināt"
+   },
+   "5842536098490298653": {
+      "message": "Nav atrasts neviens fonts."
+   },
+   "5865680764501413616": {
+      "message": "Tekstu nevar atpazīt."
+   },
+   "5871966496153339793": {
+      "message": "Tiek attēlots videoklipa “$1​” sīktēls."
+   },
+   "5875004331736681428": {
+      "message": "Notiek izvilkšana jūsu pasta kontā"
+   },
+   "587666071025645113": {
+      "message": "Meklēt"
+   },
+   "5877526626743756786": {
+      "message": "Atsauksmes"
+   },
+   "5889725440363483648": {
+      "message": "Ikviens grupas dalībnieks"
+   },
+   "5911012384539794869": {
+      "message": "Neizdevās sākt izvilkšanas uzdevumu."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5949528478488617689": {
+      "message": "Lejupielādes atļauja"
+   },
+   "5950887255133612666": {
+      "message": "Nav sākts."
+   },
+   "5969696744752069015": {
+      "message": "Priekšskatījums nav pieejams."
+   },
+   "5971400924847413790": {
+      "message": "Varat arī skatīt $2​vienkāršu HTML tekstu$1​ (automātiskā novirzīšana)."
+   },
+   "5972111804366033138": {
+      "message": "Lejupielādēt"
+   },
+   "5975031149676029214": {
+      "message": "Ikviens"
+   },
+   "5976369213680241300": {
+      "message": "Meklēt attēlus"
+   },
+   "5980081664136280513": {
+      "message": "Zaļš"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion tabulas"
+   },
+   "6009962986062136164": {
+      "message": "Tiek ielādēts vienums $1​."
+   },
+   "60305871484579258": {
+      "message": "alternēšanas taustiņš"
+   },
+   "6043068172993241858": {
+      "message": "Šajā lokā nav neviena lietotāja."
+   },
+   "604883455412617728": {
+      "message": "Neviena kontaktpersona neatbilda meklēšanas kritērijiem."
+   },
+   "6051386830221821025": {
+      "message": "Pierakstīšanās..."
+   },
+   "6064654062949366878": {
+      "message": "Atskaņot"
+   },
+   "6070475007374165567": {
+      "message": "Notiek saglabāšana..."
+   },
+   "6083586461434260179": {
+      "message": "Jauna skatīšanas funkcionalitāte"
+   },
+   "6087078248621415351": {
+      "message": "Pārveidots: $1​"
+   },
+   "6091926883608250483": {
+      "message": "Vairāk"
+   },
+   "6105571474005679446": {
+      "message": "Neizdevās parādīt priekšskatījumu."
+   },
+   "6113237889871930608": {
+      "message": "Tukša piezīme"
+   },
+   "6118623991445349480": {
+      "message": "$1​. lapa"
+   },
+   "6122643025527543706": {
+      "message": "vadīšanas taustiņš"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Lietotņu saraksts"
+   },
+   "6149175749937815029": {
+      "message": "Skatīt visus vienumus"
+   },
+   "6160805346274626656": {
+      "message": "Neatgriezeniski dzēst"
+   },
+   "616807262818311711": {
+      "message": "Veids"
+   },
+   "6175043905327075444": {
+      "message": "Iepriekš atlasītie"
+   },
+   "6177107655089301674": {
+      "message": "Lejupielādējiet lietotni Google Keep operētājsistēmai Android."
+   },
+   "6185886893933834031": {
+      "message": "Saglabāt izvēlēto"
+   },
+   "6186290899408627510": {
+      "message": "ievadīšanas taustiņš"
+   },
+   "6189891414154673003": {
+      "message": "Manas kartes"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Ikviens"
+   },
+   "623118860067088424": {
+      "message": "Videoklipi"
+   },
+   "6231401379881217113": {
+      "message": "iespraušanas taustiņš"
+   },
+   "6252259197986158120": {
+      "message": "Vakar"
+   },
+   "6253076263700695984": {
+      "message": "Autentifikācijas kļūda. Lūdzu, atkārtoti ielādējiet lapu."
+   },
+   "6255475144867830247": {
+      "message": "Izvēlieties no citām navigācijas cilnēm."
+   },
+   "6267063643272327592": {
+      "message": "Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "6290270819062517523": {
+      "message": "Atlasīts pārāk daudz vienumu. Lūdzu, noņemiet atlasi vienam vai vairākiem vienumiem."
+   },
+   "6305748545202493254": {
+      "message": "Rādīt/slēpt informācijas sadaļu"
+   },
+   "6324768448533022780": {
+      "message": "$2​. gada $1​"
+   },
+   "6331677437567501421": {
+      "message": "Atjauninot lejupielādes atļauju, radās problēma."
+   },
+   "6333496730738019575": {
+      "message": "Notiek ielāde..."
+   },
+   "634900089121611600": {
+      "message": "Nav videoklipu."
+   },
+   "6362170008350775214": {
+      "message": "Atgādinājums šeit: $1​"
+   },
+   "6375395544374251820": {
+      "message": "Neizdevās ielādēt citas lapas. Notiek atkārtots mēģinājums..."
+   },
+   "6376739025584042564": {
+      "message": "Fotoattēlu apgriešana"
+   },
+   "6386587519843563719": {
+      "message": "Binārais fails"
+   },
+   "6416495701611778255": {
+      "message": "Ieteiktās trešo pušu lietotnes"
+   },
+   "6419411265907669340": {
+      "message": "Šodien"
+   },
+   "6436479735235889890": {
+      "message": "Atgādinājums šādā laikā: $1​, plkst. $2​"
+   },
+   "6450508807204492448": {
+      "message": "$1​ ikona"
+   },
+   "6457802200418354862": {
+      "message": "Skatītāji var lejupielādēt"
+   },
+   "6459405233858728718": {
+      "message": "Google prezentācijas"
+   },
+   "6464761738227651511": {
+      "message": "pirms $1​ minūtes"
+   },
+   "6466736813846482957": {
+      "message": "Atpakaļ"
+   },
+   "6479216014938929613": {
+      "message": "Naktī ($1​)"
+   },
+   "6482358947077977110": {
+      "message": "Google meklēšanas attēli"
+   },
+   "6487403767449360463": {
+      "message": "Vai atkārtoti ielādēt lietotni Keep?"
+   },
+   "6488225756782357866": {
+      "message": "Atzīmētais attēls tika atrasts šajā Google attēlu meklēšanas lapā:"
+   },
+   "6510131849363684615": {
+      "message": "Rīt"
+   },
+   "6516256764288947999": {
+      "message": "Personu atzīmēšana"
+   },
+   "6522917155620379865": {
+      "message": "Lejupielādēt"
+   },
+   "6524849072392100692": {
+      "message": "Google diska mape"
+   },
+   "6551588617715293696": {
+      "message": "Kārtošanas opcijas"
+   },
+   "6570921376519753466": {
+      "message": "Virsraksti"
+   },
+   "6571686604846453345": {
+      "message": "Pievienojot šo vienumu Diskam, radās problēma."
+   },
+   "6582286158693833652": {
+      "message": "Uzzināt vairāk"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "6602430002978098812": {
+      "message": "Rokraksts"
+   },
+   "6614046405230762587": {
+      "message": "Nav atrasta neviena kontaktpersona."
+   },
+   "6622304228074863427": {
+      "message": "Lietojumprogramma"
+   },
+   "6624754161346656119": {
+      "message": "$1​: iemiesojums."
+   },
+   "6644861766016503644": {
+      "message": "Nepieciešama parole"
+   },
+   "6650600936729710500": {
+      "message": "Atbildes."
+   },
+   "666311703374681171": {
+      "message": "Attēli un videoklipi"
+   },
+   "6666820082708870349": {
+      "message": "Noņemt"
+   },
+   "6707173584987026005": {
+      "message": "Šodien"
+   },
+   "6709984792949009238": {
+      "message": "Pēdējoreiz atvēru"
+   },
+   "6726462693927865256": {
+      "message": "Detalizēta informācija"
+   },
+   "6726879257388338969": {
+      "message": "Drukāt"
+   },
+   "6726925393892510846": {
+      "message": "Radās kļūda. Lūdzu, mēģiniet vēlreiz."
+   },
+   "6741759391888465238": {
+      "message": "Notiek saglabāšana Diskā. Pārvietot uz:"
+   },
+   "6744457949320515234": {
+      "message": "Atmesta tukša piezīme"
+   },
+   "6757218172402086688": {
+      "message": "Meklēt piezīmes..."
+   },
+   "6780628488957834429": {
+      "message": "Oranža"
+   },
+   "6784073265197389491": {
+      "message": "Uzziniet vairāk"
+   },
+   "681598652078493281": {
+      "message": "Uzziniet vairāk"
+   },
+   "6818286476757207074": {
+      "message": "Atlasiet tikai tos attēlus, kuriem esat saņēmis izmantošanas atļauju."
+   },
+   "682070933835616121": {
+      "message": "Nav tabulu."
+   },
+   "6822338149422461362": {
+      "message": "Google disks"
+   },
+   "6827821461670731013": {
+      "message": "Rādīt izvēles rūtiņas"
+   },
+   "6828581947433060251": {
+      "message": "Pārdēvējot vienumu, radās problēma."
+   },
+   "6833760103261954639": {
+      "message": "Neizdevās ielādēt šo lapu. Notiek atkārtots mēģinājums..."
+   },
+   "6841020391100928352": {
+      "message": "Ir pārsniegts faila lieluma ierobežojums."
+   },
+   "6851307437837490686": {
+      "message": "Neļaut skatītājiem lejupielādēt"
+   },
+   "6856672816797218730": {
+      "message": "Pievienot"
+   },
+   "6891563484025164308": {
+      "message": "Iepriekšējais"
+   },
+   "6893687445500687349": {
+      "message": "Vietnes"
+   },
+   "6898823203505321799": {
+      "message": "Detalizēta informācija"
+   },
+   "6904351530369058983": {
+      "message": "Īpašnieks"
+   },
+   "6905021988981026920": {
+      "message": "Videoklipu meklēšana"
+   },
+   "6922953828399110511": {
+      "message": "Aizvērt skatīšanās līdzekli"
+   },
+   "6929958461954697067": {
+      "message": "Fotoattēli ar jums"
+   },
+   "6939782595426687411": {
+      "message": "Notiek pievienošana..."
+   },
+   "6940998537415516791": {
+      "message": ", plkst."
+   },
+   "695253297035211081": {
+      "message": "Iztukšot atkritni"
+   },
+   "6967244066810487978": {
+      "message": "IEVIETOTAS MISKASTĒ"
+   },
+   "6970167488058122005": {
+      "message": "nezināms autors"
+   },
+   "6976414863987386971": {
+      "message": "Veidlapas"
+   },
+   "7001938470263404128": {
+      "message": "Augšupielādēt"
+   },
+   "7002768663714031226": {
+      "message": "Atjaunināt"
+   },
+   "7004919150329996187": {
+      "message": "Šajā lokā nav atrasta neviena atbilstoša persona."
+   },
+   "7054631817922169541": {
+      "message": "Lietotnē Google Keep ir nesaglabātas izmaiņas. Vai vēlaties doties prom no šīs lapas un atmest izmaiņas?"
+   },
+   "7059437903473652416": {
+      "message": "Atskaņot YouTube videoklipu “$1​”"
+   },
+   "7080196430479494775": {
+      "message": "Mēģināt vēlreiz"
+   },
+   "7084324152376766809": {
+      "message": "pirms $1​ dienām"
+   },
+   "7084991134824194740": {
+      "message": "Atgādināt man"
+   },
+   "7092062731478679314": {
+      "message": "Nav atrasts neviens loks."
+   },
+   "7117183622067702162": {
+      "message": "Izmantojot Google disku, jums vairs nekad nebūs jāsūta e-pasta pielikumi. Tā vietā kopīgojiet saiti uz jebkuru Google diskā saglabātu failu. Tādējādi visas iesaistītās personas varēs automātiski piekļūt vienai un tai pašai faila versijai."
+   },
+   "713754035716193665": {
+      "message": "Jauns saraksts"
+   },
+   "7146242673022399081": {
+      "message": "Teksts"
+   },
+   "7148992630785407972": {
+      "message": "Šo failu nevar priekšskatīt, jo tas ir aizsargāts ar paroli."
+   },
+   "7151987668860086450": {
+      "message": "Meklēšana tīmeklī"
+   },
+   "7153847618034547771": {
+      "message": "Iespējot"
+   },
+   "7161134329606048317": {
+      "message": "Aizvērt"
+   },
+   "7164532930742017984": {
+      "message": "Ikviens, kam ir saite"
+   },
+   "7174189954350964804": {
+      "message": "Mēģināt vēlreiz"
+   },
+   "7177591028189992523": {
+      "message": "Pārvietot"
+   },
+   "7188754206068648188": {
+      "message": "Komatatdalīti dati"
+   },
+   "7225837680381806920": {
+      "message": "Vakarā ($1​)"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7236199858216720905": {
+      "message": "Maps"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7259352906118493156": {
+      "message": "Nav vietņu."
+   },
+   "7282548567245878869": {
+      "message": "Vienums ir dzēsts."
+   },
+   "7295712436136900176": {
+      "message": "Atkārtoti ielādēt"
+   },
+   "7310311230493556740": {
+      "message": "URL"
+   },
+   "7339696241980105410": {
+      "message": "Atlasītais videoklips vairs nepastāv. Iespējams, īpašnieks to ir noņēmis."
+   },
+   "7342923890755029722": {
+      "message": "Aizvērt"
+   },
+   "734478884582426793": {
+      "message": "Saspiestais arhīvs"
+   },
+   "7357017164339332230": {
+      "message": "Šie attēli ir pieejami arī apskatei un kopīgošanai Google bezmaksas fotoattēlu mitināšanas pakalpojumā $2​Picasa tīmekļa albumi$1​."
+   },
+   "736105042796745909": {
+      "message": "{VIEWER_GENDER,select, female{Izveidot mapi}male{Izveidot mapi}other{Izveidot mapi}}"
+   },
+   "7362061801920948830": {
+      "message": "Augšupielādēt citus failus"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7377239345926788722": {
+      "message": "Darbības"
+   },
+   "7380785991026002613": {
+      "message": "Parādītie rezultāti ir atzīmēti kā atkārtoti izmantojami."
+   },
+   "7382688299146249119": {
+      "message": "Lejupielādēt vienumu"
+   },
+   "7383706174467122149": {
+      "message": "Piezīme dzēsta"
+   },
+   "7388342865555961406": {
+      "message": "pēc $1​ dienas"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "740507516967994591": {
+      "message": "Atvērt"
+   },
+   "7422452809590461532": {
+      "message": "Sarkana"
+   },
+   "7426603384368095928": {
+      "message": "Lai pierakstītos vēlreiz un turpinātu darbu, lūdzu, atkārtoti ielādējiet lapu."
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (rediģēts: $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Notiek saglabāšana Diskā"
+   },
+   "7451573821837395189": {
+      "message": "Vienums tika pievienots $2​jūsu Diskam$1​."
+   },
+   "7468322419516352788": {
+      "message": "Atjauninot aprakstu, radās problēma."
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7492710087472140422": {
+      "message": "Uzziniet vairāk"
+   },
+   "7493919863870655172": {
+      "message": "Tīmekļa kamera"
+   },
+   "7500786109708143683": {
+      "message": "Audio ir izdzēsts."
+   },
+   "7501027876827009022": {
+      "message": "Parādītie rezultāti ir atzīmēti kā atkārtoti izmantojami komerciālos nolūkos."
+   },
+   "7521272923988336579": {
+      "message": "Atkārtoti ielādējiet lietotni Keep, lai saņemtu jaunāko informāciju."
+   },
+   "7532552995569296274": {
+      "message": "Notīrīt meklēšanas rezultātus"
+   },
+   "7546994163355383999": {
+      "message": "Visas piezīmes ir saglabātas"
+   },
+   "7559208209275370228": {
+      "message": "Pēdējoreiz rediģēju"
+   },
+   "7565383798249439151": {
+      "message": "pēc $1​ dienām"
+   },
+   "7565870443143407759": {
+      "message": "Meklēt dokumentā"
+   },
+   "7586291841734385643": {
+      "message": "Atvērt jaunā cilnē"
+   },
+   "7598582624136632660": {
+      "message": "Atvērt meklēšanas joslu/atrast nākamo vienumu"
+   },
+   "7602870977118971161": {
+      "message": "Ielādēt atkārtoti"
+   },
+   "7610654194202731772": {
+      "message": "Dzēst"
+   },
+   "761925792744044896": {
+      "message": "Iestatīt kā profila fotoattēlu"
+   },
+   "7630723924002267143": {
+      "message": "Īsinājumtaustiņi ir iespējoti."
+   },
+   "7640546114686970497": {
+      "message": "Nevar pievienot vairāk vienumu."
+   },
+   "7669846901402551021": {
+      "message": "Šodien"
+   },
+   "7691521283331762131": {
+      "message": "Šeit tiek rādītas jūsu arhivētās piezīmes."
+   },
+   "772000107335590599": {
+      "message": "pēc $1​ minūtēm"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "7745005220197261896": {
+      "message": "Grāmatu meklēšana"
+   },
+   "7759846028901235026": {
+      "message": "Piezīmes arhivēšana atcelta"
+   },
+   "776065748745885880": {
+      "message": "atstarpes taustiņš"
+   },
+   "7770982082843341533": {
+      "message": "Šajā mapē nav neviena vienuma."
+   },
+   "779472474101127362": {
+      "message": "Momentuzņēmuma veikšana"
+   },
+   "7800318069267901681": {
+      "message": "Pēdējās izmaiņas"
+   },
+   "7805487598105530487": {
+      "message": "Iekļaut"
+   },
+   "7814778057875152792": {
+      "message": "Pārvietojot pielikumu uz atlasīto mapi Google diskā, radās problēma."
+   },
+   "7820417126206702946": {
+      "message": "Parādītie rezultāti ir pieejami tikai personīgai vai komerciālai lietošanai Google diskā, un tos nevar atsevišķi tālākizplatīt vai pārdot."
+   },
+   "7822364282298323175": {
+      "message": "Saraksts ir izdzēsts."
+   },
+   "7830513726270865588": {
+      "message": "Kalendārs"
+   },
+   "7845751753397906805": {
+      "message": "Atrasti konfliktējoši labojumi"
+   },
+   "7852396628465259068": {
+      "message": "Profila fotoattēls"
+   },
+   "7859526172011446452": {
+      "message": "Pārtraukt apraidi"
+   },
+   "78870906674150830": {
+      "message": "$3​$1​$2​"
+   },
+   "7895643887742936844": {
+      "message": "semikols"
+   },
+   "7899833760457194273": {
+      "message": "Attēlu meklēšana"
+   },
+   "7899913952063063825": {
+      "message": "Attēls ir izdzēsts."
+   },
+   "7906726367011430855": {
+      "message": "Pievienot"
+   },
+   "7910518224461588465": {
+      "message": "Dzeltens"
+   },
+   "7953603850004320936": {
+      "message": "Priekšskatījums nav pieejams."
+   },
+   "7957306528733096600": {
+      "message": "Process pabeigts"
+   },
+   "7960528690514646841": {
+      "message": "{moreCount,plural, =0{unused plural form}=1{un vēl 1 pers.}zero{+ {moreCount} more}one{un vēl {moreCount} pers.}other{un vēl {moreCount} pers.}}"
+   },
+   "7973635145070803181": {
+      "message": "Fotoattēlu augšupielāde"
+   },
+   "7987180255015869513": {
+      "message": "Varat arī ielīmēt tīmekļa adresi šeit:"
+   },
+   "8011497727123874703": {
+      "message": "Mapes “$1​” poga"
+   },
+   "8016231262233952856": {
+      "message": "Zilganzaļš"
+   },
+   "8019402848412685977": {
+      "message": "Vienums “$2​” ir pārdēvēts par “$1​”."
+   },
+   "8023466614826324314": {
+      "message": "Fotoattēli tiks kopīgoti ar plašu auditoriju."
+   },
+   "8043514121228710092": {
+      "message": "Pievienot attēlu"
+   },
+   "8044700199531805239": {
+      "message": "$3​$1​$2​ ir pievienota."
+   },
+   "8069384932934428393": {
+      "message": "pēc $1​ minūtes"
+   },
+   "8081927474846706026": {
+      "message": "Nav zīmējumu."
+   },
+   "8090743714060857028": {
+      "message": "Skatītāji nevar lejupielādēt"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 baitu}=1{1 baits}zero{# baitu}one{# baits}other{# baiti}}"
+   },
+   "8099047958506869131": {
+      "message": "{VIEWER_GENDER,select, female{Jauna mape}male{Jauna mape}other{Jauna mape}}"
+   },
+   "8100558294600077150": {
+      "message": "Meklēšana emuāros"
+   },
+   "8105635255693472607": {
+      "message": "Jaunu saraksta vienumu pievienošana"
+   },
+   "8106780183458743723": {
+      "message": "Fotoalbumi"
+   },
+   "8112699352770418817": {
+      "message": "Nav atrasta neviena grāmata."
+   },
+   "8132410616064087953": {
+      "message": "Videoklips ir pārāk ilgs (maksimālais pieļaujamais ilgums ir $1​ s)."
+   },
+   "8135145577663029437": {
+      "message": "Saglabāt abas versijas"
+   },
+   "8146560259680897627": {
+      "message": "Atcelt"
+   },
+   "8158191101452862916": {
+      "message": "Ievietot attēlus"
+   },
+   "8159493406018222636": {
+      "message": "Sūtīt atsauksmes"
+   },
+   "8172945196588870035": {
+      "message": "Pasākumi"
+   },
+   "8174654098152723289": {
+      "message": "Rediģēt aprakstu"
+   },
+   "8178754379486173416": {
+      "message": "{VIEWER_GENDER,select, female{Atlasīts pārāk maz vienumu. Lūdzu, atlasiet vairāk vienumu.}male{Atlasīts pārāk maz vienumu. Lūdzu, atlasiet vairāk vienumu.}other{Atlasīts pārāk maz vienumu. Lūdzu, atlasiet vairāk vienumu.}}"
+   },
+   "8192378456655629049": {
+      "message": "Notiek videoklipa apstrāde..."
+   },
+   "8193991135666622583": {
+      "message": "Keep"
+   },
+   "821942580510564685": {
+      "message": "Lai skatītu šo dokumentu, lūdzu, ievadiet tā paroli."
+   },
+   "8239237134193392595": {
+      "message": "Paziņojumi par atrašanās vietu atgādinājumiem tiek rādīti tikai mobilajās ierīcēs."
+   },
+   "8267458240960831780": {
+      "message": "Notiek autentificēšana..."
+   },
+   "8281141013543828574": {
+      "message": "RAW attēls"
+   },
+   "8281678863271800533": {
+      "message": "Attēlu filtrs"
+   },
+   "8283103456188558313": {
+      "message": "Prezentācijas"
+   },
+   "8290434443655418968": {
+      "message": "{filesCount,plural, =0{unused plural form}=1{Atlasītā faila [{file}] augšupielāde netiek atbalstīta.}zero{Atlasīto failu [{files}] augšupielāde netiek atbalstīta.}one{Atlasīto failu [{files}] augšupielāde netiek atbalstīta.}other{Atlasīto failu [{files}] augšupielāde netiek atbalstīta.}}"
+   },
+   "8304474373444239435": {
+      "message": "Lietotāja $1​ atbilde."
+   },
+   "8322416564157128458": {
+      "message": "Kopīgošana"
+   },
+   "8324195080917648153": {
+      "message": "Videoklips neietilpst šajā logā. Lūdzu, palieliniet pārlūkprogrammas logu."
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342684858400436871": {
+      "message": "tabulēšanas taustiņš"
+   },
+   "8379952094517631162": {
+      "message": "Nē"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412684147928483084": {
+      "message": "Melns"
+   },
+   "8435544675017330861": {
+      "message": "Neviens vienums neatbilda meklēšanas kritērijiem."
+   },
+   "8436817383042650304": {
+      "message": "burtslēga taustiņš"
+   },
+   "8451184312655705174": {
+      "message": "Ja URL ir pareizs, šeit būs redzams priekšskatījums. Lai parādītu lielus attēlus, var būt nepieciešamas vairākas minūtes."
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8506198918368329269": {
+      "message": "Parādītie rezultāti ir atzīmēti kā atkārtoti izmantojami komerciālos nolūkos, ja tie tiek pārveidoti."
+   },
+   "8571315158566081191": {
+      "message": "Nav izklājlapu."
+   },
+   "8580600056399054303": {
+      "message": "Norādiet, kur saglabāt jaunos vai atzīmētos vienumus"
+   },
+   "8595175575778060149": {
+      "message": "Vairāk"
+   },
+   "8596257056433048992": {
+      "message": "Laipni lūdzam"
+   },
+   "8616342546716995946": {
+      "message": "Sapratu!"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8638281560898810401": {
+      "message": "{MINUTES,plural, =0{0 minūšu }=1{1 minūte }zero{# minūšu }one{# minūte }other{# minūtes }}{SECONDS,plural, =0{0 sekunžu}=1{1 sekunde}zero{# sekunžu}one{# sekunde}other{# sekundes}}"
+   },
+   "863955692838281739": {
+      "message": "Aizvērt"
+   },
+   "8643398764569428530": {
+      "message": "Vai atļaut lietotnei Google Keep rādīt paziņojumus?"
+   },
+   "8652566647088230560": {
+      "message": "Izstrādes programmatūra — konfidenciāli"
+   },
+   "8660016472468563221": {
+      "message": "kols"
+   },
+   "8663507590720636709": {
+      "message": "$1​ un vēl $2​"
+   },
+   "8666643061920113075": {
+      "message": "{VIEWER_GENDER,select, female{Ielīmējiet attēla URL šeit:}male{Ielīmējiet attēla URL šeit:}other{Ielīmējiet attēla URL šeit:}}"
+   },
+   "8674222789100049233": {
+      "message": "Aizvērt"
+   },
+   "86815590954366945": {
+      "message": "Arhivētā satura saraksts"
+   },
+   "8709611758728645225": {
+      "message": "lejupšķiršanas taustiņš"
+   },
+   "8711002053494037632": {
+      "message": "Atzīmes noņemtas visiem vienumiem"
+   },
+   "8748281640412284111": {
+      "message": "Krājuma attēli"
+   },
+   "8759520888087120926": {
+      "message": "Nav skriptu."
+   },
+   "8775097441636640256": {
+      "message": "$2​ — $1​"
+   },
+   "8780212274435014958": {
+      "message": "Loki"
+   },
+   "8781837301864053001": {
+      "message": "Bagātināts teksts"
+   },
+   "8792038552136453044": {
+      "message": "Diemžēl radās problēma."
+   },
+   "8793166064242077041": {
+      "message": "Neizdevās parādīt šo attēlu."
+   },
+   "8813101408630252335": {
+      "message": "$1​ s"
+   },
+   "8820281478062782578": {
+      "message": "Meklēt"
+   },
+   "8822326207328431952": {
+      "message": "Attēlu augšupielāde nav pieejama."
+   },
+   "8840223453482998505": {
+      "message": "Atlasītā mape: $1​"
+   },
+   "8845176264121061589": {
+      "message": "Noņemt atzīmes visiem vienumiem"
+   },
+   "8850238112725591771": {
+      "message": "īsceļš $1​"
+   },
+   "8852550049823214385": {
+      "message": "un pēc tam"
+   },
+   "8883744193208363722": {
+      "message": "Ir pieejams lietotnes atjauninājums."
+   },
+   "8884900765322249670": {
+      "message": "Saraksta skatījums"
+   },
+   "8889019648958415451": {
+      "message": "Nezināms fails"
+   },
+   "8911996820409711834": {
+      "message": "Pārvietot tekstu uz jaunu saraksta vienumu &raquo;"
+   },
+   "8916237870980173557": {
+      "message": "Notiek savienojuma izveide..."
+   },
+   "8917554093651202032": {
+      "message": "Atskaņot videoklipu “$1​”"
+   },
+   "8919660666733306860": {
+      "message": "Attēls"
+   },
+   "8930959387403789939": {
+      "message": "Atgādinājums"
+   },
+   "8943760679396635042": {
+      "message": "Tiek attēlots vienums $1​."
+   },
+   "8953555255469284376": {
+      "message": "Nometiet attēlus šeit"
+   },
+   "8979615310931291676": {
+      "message": "Rediģēts: $1​"
+   },
+   "8986044948621891903": {
+      "message": "Lai atrastu tīmekļa rezultātus, izmantojot Google meklēšanu tīmeklī, ierakstiet meklēšanas vaicājumu iepriekš redzamajā lodziņā."
+   },
+   "901615442107785480": {
+      "message": "Arhivēt piezīmi/sarakstu"
+   },
+   "9024023699330078373": {
+      "message": "Atverot šo vienumu, tas tiks pievienots jūsu Diskam."
+   },
+   "9028041601596584772": {
+      "message": "Atrašanās vieta"
+   },
+   "9058308423774656474": {
+      "message": "Tekstapstrādes programma Hangul"
+   },
+   "9083935734710258396": {
+      "message": "Neatļaut"
+   },
+   "9094248058931620597": {
+      "message": "Detalizētas informācijas panelis sakļauts."
+   },
+   "9114674068220302553": {
+      "message": "Kā pielikumu"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9130962320402467249": {
+      "message": "Fotobanka"
+   },
+   "9146716987301178362": {
+      "message": "Radās kļūda. Lūdzu, atkārtoti ielādējiet lapu."
+   },
+   "9165877886714239857": {
+      "message": "Nevar izgūt attēla tekstu. Vēlāk mēģiniet vēlreiz."
+   },
+   "916773043895242978": {
+      "message": "Iepriekš ievadītais attēla URL nav pareizs, vai arī to nevar ielādēt. Lūdzu, ievadiet pareizu attēla URL."
+   },
+   "9173629944963872598": {
+      "message": "Nav atrasts neviens pasākums."
+   },
+   "9182500445937900938": {
+      "message": "Aizvērt"
+   },
+   "9195941533351099011": {
+      "message": "Tiek augšupielādēti $1​ faili no $2​"
+   },
+   "9197837492705576727": {
+      "message": "Pāriet pie nākamā vienuma"
+   },
+   "919969969251998566": {
+      "message": "Izvilkt šo arhīvu jūsu pasta kontā"
+   },
+   "9203542510134660095": {
+      "message": "Izvilkšanas uzdevums ir sākts. Arhīva saturs Diskā būs redzams mapē “$1​”."
+   },
+   "940276535015195877": {
+      "message": "Nav mapju."
+   },
+   "943493480163896757": {
+      "message": "{resultCount,plural, =1{# atbilstoša piezīme}zero{# atbilstošu piezīmju}one{# atbilstoša piezīme}other{# atbilstošas piezīmes}}"
+   },
+   "951963820437151566": {
+      "message": "Google vietnes"
+   },
+   "95809842507987016": {
+      "message": "Dzēst"
+   },
+   "963611681085757795": {
+      "message": "Diemžēl pašlaik nevar izveidot dokumenta skatījumu."
+   },
+   "96556988207614774": {
+      "message": "Kalendāri"
+   },
+   "974042541427403929": {
+      "message": "Zils"
+   },
+   "980395722421409371": {
+      "message": "Nav atrasta neviena karte."
+   },
+   "982187142411651629": {
+      "message": "Noraidīt"
+   },
+   "985197728509875956": {
+      "message": "Ķīmijas modelis"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "998727788921602971": {
+      "message": "Videoklipi"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Ātri pierakstiet idejas un saņemiet atgādinājumus īstajā vietā un laikā."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Google Keep — piezīmes un saraksti"
+   }
+}
