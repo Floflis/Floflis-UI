@@ -1,3 +1,30 @@
-/media/daniell/B/git/BitBucket/screens
+- fix Angular and other CSS issues (copy git and revert to commit 0a8b12b055c8087f2e63ebe0f000e683fd4cdb64 or 1533af9ce48bd92268d2f1877c0a7c6b6895f1b5)
+
+- Use Framework/CommonDesign and use blur effect if supported
+- add Framework/CommonDesign's Material
+- show dialogs
+
+- add Adventus
+- first app: Clock
+- When drawing an app window, check if: Electron or Web using FrameworkJS r3. If Electron use Webview, if Web use iFrame
+- new app: Settings (will later merge with Floflis Central)
+- Settings: change background from URL (iFrame <> Host communication)
+
+- Draggable statusbar (credit Altaica)
+
+- Floflis App API: Notifications (write in Floflis API, and it translates into Screens/Web/Electron/Cordova/Windows/Firefox OS/KaiOS
+will also use/interact https://github.com/Floflis/AppPlayer-Electron, Floflis Packager and Floflis/FMWK's Electron+Cordova hybrid experiment
+
+- "Return" virtual button fires event in app (Cordova) using iFrame <> Host communication
+
+- Move to Construct 2 source
+- LocalStorage for background settings
+
+- Implement WFS with https://github.com/jvilk/BrowserFS https://github.com/Floflis/WFS/issues/4
+
+- "Pinned" tab before "Apps" and "Games" tabs
 
 
+- support widgets in Pinned tab
+
+- Merge Internet Cat and Internet Boat, can change branding in settings (also changes icon). It also checks if Electron and Web so it changes Webview/iFrame and its default search engine
