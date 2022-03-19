@@ -1,0 +1,29 @@
+  File: ./.file-timestamps
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 824h/2084d	Inode: 949186      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-03-18 22:32:05.625017600 -0300
+Modify: 2022-03-18 22:32:05.625017600 -0300
+Change: 2022-03-18 22:32:05.625017600 -0300
+ Birth: -  File: ./index.html
+  Size: 1832      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 4031662     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-03-05 14:08:14.662320600 -0300
+Modify: 2021-03-13 01:52:47.283005000 -0300
+Change: 2021-12-09 01:07:29.932596600 -0300
+ Birth: -  File: ./manifest.json
+  Size: 2252      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 4031661     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-03-05 14:08:14.704529600 -0300
+Modify: 2021-03-13 01:49:45.796074000 -0300
+Change: 2021-12-09 01:07:29.930946800 -0300
+ Birth: -  File: ./recursive_files_timestamp.sh
+  Size: 1284      	Blocks: 8          IO Block: 4096   regular file
+Device: 824h/2084d	Inode: 924609      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/ daniell)   Gid: ( 1000/ daniell)
+Access: 2022-03-18 22:32:01.114915500 -0300
+Modify: 2022-02-21 16:19:46.119392000 -0300
+Change: 2022-03-18 22:31:41.451960600 -0300
+ Birth: -

@@ -1,4 +1,14 @@
 <html><head>
+<script type="text/javascript">
+window.onload = function() {
+    if (parent) {
+        var oHead = document.getElementsByTagName("head")[0];
+        var arrStyleSheets = parent.document.getElementsByTagName("style");
+        for (var i = 0; i < arrStyleSheets.length; i++)
+            oHead.appendChild(arrStyleSheets[i].cloneNode(true));
+    }
+}
+</script>
 <style>  body{background:#fff;margin:0}.ball {
     width: 100px;
     height: 100px;
@@ -47,9 +57,9 @@ header span {
 </head><body>
 
 
-<header><img width="40px" src="icon.svg"><span>Home</span></header><div class="ball"><img width="50px" src="icon_item.svg">
+<header><span>Home</span></header><div class="ball"><img width="50px" src="file:///C:/Users/World.wd/Desktop/WS.js/System/Addons/launcher/icon.svg">
 <h1>System</h1>
-<span>Display, notifications, apps, power..</span></div><div class="ball"><img width="50px" src="/media/daniell/B/git/Floflis/HTML5/Floflis-UI/System/Apps/Soon/Devices/pc.svg#badge">
+<span>Display, notifications, apps, power..</span></div><div class="ball"><img width="50px" src="file:///C:/Users/World.wd/Desktop/WS.js/System/Apps/Devices/pc.svg#badge">
 <h1>Devices</h1>
 <span>Bluetooth, printers, mouse..</span></div><div class="ball"><img width="50px" src="file:///C:/Users/World.wd/Desktop/WS.js/img/Navmenu/themes.svg#black">
 <h1>Personalization</h1>
