@@ -56,12 +56,6 @@ Tasks: [clearwater](https://github.com/lbarman/clearwater)
 
 [2048](https://github.com/gabrielecirulli/2048)
 
-# Donation #
+## ✨️ Contributors
 
-If you like this project, you can give me a cup of coffee with PayPal :)
-
-Or if you want to finance Screens development, you can donate any of Bitcoins value to:
-
-[1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU](bitcoin:1WSJSJq4VeTa6tyEF2MgPE2eeQJCCrZtU)
-
-<img width="250px" src="http://i.imgur.com/uDVyDTj.png"/>
+[![Contributors](https://contrib.rocks/image?repo=Floflis/Floflis-UI)](https://github.com/Floflis/Floflis-UI/graphs/contributors)
